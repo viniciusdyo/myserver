@@ -1,0 +1,80 @@
+Lieutenant Yaeger: Ranger
+Ensign Voss: Farms
+Ensign Jennifer: Food
+Ensign Ikehu: Ocean related
+Ensign Cillian: Drinks
+
+NPC: √
+Dialogue: √
+Quest:
+Yaeger
+Greeting the player during the morning/breakfast: Hey there! Beautiful day, right <name_char>?
+Greeting the player during the evening/dinner: Stars out, look at 'em sparkle <name_char>!
+Greeting the player and asking about exploration: Hey, <name_char>! I'm trekking out and looking for x supplies for everyone back here. Need me to go lookin' for anything? It will cost you, though. (X Upfront, X Total).
+Greeting the player when going to explore: Makin' sure I've got everythin' on me before I head out!
+What to say after the job is given: Gotcha, I'll get it done by today.
+What to say after the job is canceled: Hmm, I see. Here's some of your money back.
+Why is the coalition here? (random): I'll be honest for you, probably because some of the crew wanted to step onto solid land for once, eh?
+Why is the coalition here? (to help): Who are we made for if not to help!
+What to say when the NPC returns: Wooh! Didn't see ya there, <name_char>! Just got back from the mainland and I coulda sworn I saw one of those damned cats swimmin' after me. 
+Job completed: Here's the stuff you wanted. Gonna go spend the money you gave me now-
+
+NPC: √
+Dialogue: √
+Quest: 
+Voss
+Greeting the player during the morning/breakfast: G'day! Island's feeling more lively everyday, eh?
+Greeting the player during the evening/dinner: Nights like these reminds me of grilling with my mates, good times...
+Greeting the player and asking about exploration: You want me to venture out and find you a load a stuff? Sure thing, nothing better to do! I do want some compensation though.
+Greeting the player when going to explore: Let's hope nothing's too aggro out there. See you in the big smoke! 
+What to say after the job is given: Always nice to not have to wait around here. I'm in!
+What to say after the job is canceled: Bugger. Let me know if you change your mind, mate. 
+Why is the coalition here? (random): I'm guessing a furphy would be that the ship got stuck on some rock and that we had to dock. Nothing against the place though. 
+Why is the coalition here? (to help): Ah, we're here to help people out! Nothin' more noble than that, eh?
+What to say when the NPC returns: And I'm back! My back is killing me. Got anything I could chug?
+Job completed: Cheers, <name_char>, have a good one!
+
+NPC: √
+Dialogue: √
+Quest: 
+Jennifer
+Greeting the player during the morning/breakfast: I'm about to pass out because of this heat. How're you holding up <name_char>?
+Greeting the player during the evening/dinner: I haven't been here long, but I can already tell I prefer the nighttime. Right <name_char>?
+Greeting the player and asking about exploration: Anything you need in particular, <name_char>? Going out to look for some stuff.
+Greeting the player when going to explore: I'm about to head out. See you in a bit, <name_char>.
+What to say after the job is given: Nice, I'll handle it for you.
+What to say after the job is canceled: Dang, I was hoping I'd keep the money. Here's some of it back though.
+Why is the coalition here? (random): The ship was attacked by a giant squid...You can't disprove that. Either way, we're only here for the meantime. 
+Why is the coalition here? (to help): Some folks came onto the radio and shot us a distress signal.
+What to say when the NPC returns: Give me a second, <name_char> I'm all sweaty and I'm positive that there's sand in my hat. 
+Job completed: Nice. You oughta pay me more next time for how well I did it this time~
+
+NPC: √
+Dialogue: 
+Quest: 
+Ikehu
+Greeting the player during the morning/breakfast: Heya, what's up <name_char>?
+Greeting the player during the evening/dinner: Evenin' <name_char>. Anything you wanna talk about?
+Greeting the player and asking about exploration: Hey there- you want me to head out and find some stuff for you? Sure thing! I will say, I will charge for that, just a bit though.
+Greeting the player when going to explore: I'll be gone for a bit looking for your supplies. See you soon, <name_char>!
+What to say after the job is given: Can't wait to get to it! Thanks for the offer.
+What to say after the job is canceled: Awwh. I hope you'll get back to me on it, though!
+Why is the coalition here? (random): I'm sure it ties into helping others. But I'm not sure how exactly it happened. 
+Why is the coalition here? (to help): We're here to help! I'm sure of it. 
+What to say when the NPC returns: I'm back! Anything change while I was gone? Apocalypse you say? Ah, it'll be fine.
+Job completed: Thanks for the job, <name_char>! I hope you recommend me to your friends~
+
+NPC: √
+Dialogue: 
+Quest: 
+Cillian
+Greeting the player during the morning/breakfast: How're you doin' <name_char>? Me myself, I'm planning on staring <b> directly </b> into the sun today. It'll make me stronger than ever.
+Greeting the player during the evening/dinner: Look at those wusses raving on and on about the stars. The sun is the biggest one of em all and yet they ain't like the daytime!
+Greeting the player and asking about exploration: I see something in your eyes <name_char>, you want me to get you something (X) from out there, yeah? Well, I'll do it, but for a price.
+Greeting the player when going to explore: Time to go, don't worry, I didn't forget about you. 
+What to say after the job is given: You picked the right person for this, I'll get it done.
+What to say after the job is canceled: Shame, Don't hesitate to come back and throw more of your money at me, <name_char>. For now, you can take this small bit back.
+Why is the coalition here? (random): I told the admiral to stop by this island because I needed a bathroom break.
+Why is the coalition here? (to help): I think it's because someone fell and wanted some help getting back up, but that may be the short story. 
+What to say when the NPC returns: And I'm back. Did you miss me? 
+Job completed: More money for me! It's been a pleasure helping ya out. Don't hesitate to come back and give me more next time, yeah?

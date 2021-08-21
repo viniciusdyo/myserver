@@ -1,0 +1,59 @@
+GUID 2fdb52b2c4a846d0b5c18039b75fe639
+Type Vendor
+ID 30025
+
+Disable_Sorting
+
+Buying 8
+// Eaglefire
+Buying_0_ID 4
+Buying_0_Cost 100
+// Military Magazine
+Buying_1_ID 6
+Buying_1_Cost 40
+// M1911
+Buying_2_ID 97
+Buying_2_Cost 50
+// M1911 Magazine
+Buying_3_ID 98
+Buying_3_Cost 20
+// Timberwolf (Should be impossible)
+Buying_4_ID 18
+Buying_4_Cost 250
+// Timberwolf Magazine
+Buying_5_ID 20
+Buying_5_Cost 100
+// Cobra
+Buying_6_ID 99
+Buying_6_Cost 75
+// Cobra_Magazine
+Buying_7_ID 100
+Buying_7_Cost 30
+
+Selling 8
+// Eaglefire
+Selling_0_ID 4
+Selling_0_Cost 100
+// Military Magazine
+Selling_1_ID 6
+Selling_1_Cost 40
+// M1911
+Selling_2_ID 97
+Selling_2_Cost 50
+// M1911 Magazine
+Selling_3_ID 98
+Selling_3_Cost 20
+// Timberwolf (Should be impossible)
+Selling_4_ID 18
+Selling_4_Cost 250
+// Timberwolf Magazine
+Selling_5_ID 20
+Selling_5_Cost 100
+// Cobra
+Selling_6_ID 99
+Selling_6_Cost 75
+// Cobra_Magazine
+Selling_7_ID 100
+Selling_7_Cost 30
+
+Currency 5150ca8f765d4a68bfe54912146da410

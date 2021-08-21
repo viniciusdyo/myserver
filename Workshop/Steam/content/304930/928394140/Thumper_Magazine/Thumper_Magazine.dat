@@ -1,0 +1,24 @@
+GUID 9b5ae27253d04a38979d087ea0724617
+Type Magazine
+Rarity Epic
+ID 51402
+
+Size_X 1
+Size_Y 1
+Size_Z 0.21
+
+Amount 1
+
+Calibers 1
+Caliber_0 51401
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 73
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 72
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 69
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 32

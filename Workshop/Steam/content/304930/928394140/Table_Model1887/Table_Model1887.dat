@@ -1,0 +1,20 @@
+GUID 67704e3f15e6410aa0295d7b46eac00e
+Type Spawn
+ID 51201
+Roots 5
+Root_0_Spawn_ID 240
+Root_0_Weight 30
+Root_1_Spawn_ID 572
+Root_1_Weight 28
+Root_2_Spawn_ID 381
+Root_2_Weight 8
+Root_3_Spawn_ID 683
+Root_3_Weight 25
+Root_4_Spawn_ID 2007
+Root_4_Weight 1
+
+Tables 2
+Table_0_Asset_ID 51201
+Table_0_Weight 1
+Table_1_Asset_ID 113
+Table_1_Weight 1

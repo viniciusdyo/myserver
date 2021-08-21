@@ -1,0 +1,5 @@
+Name <color=#b8b188>Concord: </color>Heaven's Eye
+Description Atlas wants to use his telescope, but doesn't have the necessary parts to do so. You need to retrieve the tools to fix it for him. There should be telescope parts at the unmarked camp site in the south.
+
+Condition_0 Find Parts {0}/1
+Condition_1 Repair Telescope {0}/1

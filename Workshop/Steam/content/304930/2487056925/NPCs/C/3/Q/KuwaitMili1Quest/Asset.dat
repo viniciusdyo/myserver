@@ -1,0 +1,31 @@
+GUID 00fc2e346ee149dcae2d67a83ce57098
+Type Quest
+ID 29102
+
+Conditions 2
+Condition_0_Type Item
+Condition_0_ID 5009
+Condition_0_Amount 1
+Condition_0_Reset
+Condition_1_Type Item
+Condition_1_ID 5010
+Condition_1_Amount 36
+Condition_1_Value True
+Condition_1_Logic Equal
+Condition_1_Reset
+
+Rewards 5
+Reward_0_Type Experience
+Reward_0_Value 100
+Reward_1_Type Reputation
+Reward_1_Value 10
+Reward_2_Type Item
+Reward_2_ID 5241
+Reward_2_Amount 2
+Reward_3_Type Item
+Reward_3_ID 5058 
+Reward_3_Amount 1
+Reward_4_Type Flag_Short
+Reward_4_ID 27000
+Reward_4_Value 2
+Reward_4_Modification Increment

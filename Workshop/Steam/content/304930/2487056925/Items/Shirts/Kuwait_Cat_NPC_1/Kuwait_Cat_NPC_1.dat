@@ -1,0 +1,19 @@
+GUID 8bc95166839d4c978d7ec0524c7aa999
+Type Shirt
+Useable Clothing
+ID 5335
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Unobtainable
+Unsaveable
+
+Beard_Visible False
+Hair_Visible False
+
+Asset_Bundle_Version 2

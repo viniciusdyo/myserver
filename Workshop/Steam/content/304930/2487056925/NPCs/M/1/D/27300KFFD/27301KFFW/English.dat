@@ -1,0 +1,9 @@
+Message_0_Page_0 Hello! I was told you should go meet <color=legendary>Issac</color> first. He's in that building on the big rock!
+Message_1_Page_0 Aloha <name_char>!
+
+Response_0 Will do.
+// Post talked to Issac
+Response_1 Who are you?
+Response_2 May I buy food?
+Response_3 Do you have any borrowed tools?
+Response_4 Goodbye.

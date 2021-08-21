@@ -1,0 +1,17 @@
+GUID 812f7c0bc05d4b12baa81018bbcf1129
+Type Spawn
+ID 2081
+
+Tables 6
+Table_0_Asset_ID 3015
+Table_0_Weight 50
+Table_1_Asset_ID 3016
+Table_1_Weight 50
+Table_2_Asset_ID 3020
+Table_2_Weight 50
+Table_3_Asset_ID 3017
+Table_3_Weight 10
+Table_4_Asset_ID 3018
+Table_4_Weight 10
+Table_5_Asset_ID 3021
+Table_5_Weight 10

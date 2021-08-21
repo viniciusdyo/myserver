@@ -1,0 +1,60 @@
+GUID e052d5dc40974727a702512e95efbb83
+Type Melee
+Rarity Uncommon
+Useable Melee
+Slot Secondary
+ID 5081
+
+Size_X 2
+Size_Y 3
+Size_Z 0.6
+Size2_Z 0.5
+	
+Range 2.25
+Strong 0.375
+Strength 1.5
+Stamina 20
+
+Player_Damage 45
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 45
+Zombie_Leg_Multiplier 0.5
+Zombie_Arm_Multiplier 0.5
+Zombie_Spine_Multiplier 0.9
+Zombie_Skull_Multiplier 1.5
+
+Animal_Damage 45
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 25
+Structure_Damage 20
+Vehicle_Damage 40
+Resource_Damage 40
+Object_Damage 35
+
+Durability 0.2
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5081
+Blueprint_1_Product 67
+Blueprint_1_Products 2
+Blueprint_1_Build 27
+
+Shared_Skin_Lookup_ID 136
+
+AttackAudioClip Sounds/MeleeAttack_01.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Melee/Sledgehammer

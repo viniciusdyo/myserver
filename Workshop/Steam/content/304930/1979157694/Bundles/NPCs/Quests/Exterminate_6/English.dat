@@ -1,0 +1,4 @@
+Name <color=rare>Cull Paris</color>
+Description Paris is a location of major importance, and culling the horde will make the eventual reclamation easier.
+
+Condition_0 Kill zombies {0}/80

@@ -1,0 +1,86 @@
+GUID 6f941c10d2db4e15a47c7c0891c3cb07
+Type Dialogue
+ID 4221
+
+Messages 3
+
+// Not met Colonel
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 4013
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+
+// Colonel Aid Reward Ready
+Message_1_Pages 1
+Message_1_Conditions 6
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 4014
+Message_1_Condition_0_Value 4
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_Logic Equal
+Message_1_Condition_1_ID 4042
+Message_1_Condition_1_Status Completed
+Message_1_Condition_2_Type Quest
+Message_1_Condition_2_Logic Equal
+Message_1_Condition_2_ID 4131
+Message_1_Condition_2_Status Completed
+Message_1_Condition_3_Type Quest
+Message_1_Condition_3_Logic Equal
+Message_1_Condition_3_ID 4144
+Message_1_Condition_3_Status Completed
+Message_1_Condition_4_Type Quest
+Message_1_Condition_4_Logic Equal
+Message_1_Condition_4_ID 4156
+Message_1_Condition_4_Status Completed
+Message_1_Condition_5_Type Flag_Bool
+Message_1_Condition_5_ID 4093
+Message_1_Condition_5_Value False
+Message_1_Condition_5_Logic Equal
+Message_1_Condition_5_Allow_Unset
+
+// Welcome
+Message_2_Pages 1
+
+
+Responses 5
+
+// Not met Colonel
+Response_0_Messages 1
+Response_0_Message_0 0
+
+// Quest Accept
+Response_1_Dialogue 4228
+Response_1_Quest 4227
+Response_1_Conditions 2
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 4227
+Response_1_Condition_0_Status None
+Response_1_Condition_1_Type Flag_Bool
+Response_1_Condition_1_Logic Equal
+Response_1_Condition_1_ID 4226
+Response_1_Condition_1_Value True
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 4227
+Response_1_Reward_0_Status Active
+
+// Quest Turn In
+Response_2_Dialogue 4229
+Response_2_Quest 4227
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 4227
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Reset
+
+// Questions
+Response_3_Dialogue 4222
+

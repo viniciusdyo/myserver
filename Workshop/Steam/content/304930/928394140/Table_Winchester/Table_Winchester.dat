@@ -1,0 +1,16 @@
+GUID 90f6ad04beba475a8efd28761adb50fc
+Type Spawn
+ID 51501
+Roots 3
+Root_0_Spawn_ID 180
+Root_0_Weight 45
+Root_1_Spawn_ID 446
+Root_1_Weight 44
+Root_2_Spawn_ID 2007
+Root_2_Weight 2
+
+Tables 2
+Table_0_Asset_ID 51501
+Table_0_Weight 10
+Table_1_Asset_ID 51502
+Table_1_Weight 20

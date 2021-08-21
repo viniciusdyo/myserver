@@ -1,0 +1,5 @@
+Name <color=#b8b188>Concord: </color><color=legendary>Establishing a Connection</color>
+Description With the radio parts fixed and ready to be used, they need a suitable place. The Radio tower in the south west is suitable, but according to Amira, a man wearing an ushanka seems to have run away with the components needed for it to the west. You'll need to get the components from this man first.
+
+Condition_0 Acquire Special Components
+Condition_1 Activate Radio Link

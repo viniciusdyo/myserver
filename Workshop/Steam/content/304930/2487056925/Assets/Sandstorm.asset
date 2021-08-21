@@ -1,0 +1,80 @@
+"Metadata"
+{
+	"GUID" "655f1ef7a7924d18a30c0e4c4b3ebeb0"
+	"Type" "SDG.Unturned.WeatherAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Fade_In_Duration" "30.0"
+	"Fade_Out_Duration" "15.0"
+	"Water_Per_Second" "-0.05"
+	"Ambient_Audio_Clip" "Effects/Volumes/Kuwait_Deadzone_Ambience_1/Effect.mp3"
+	"Override_Fog" "true"
+	"Override_Atmospheric_Fog" "true"
+	"Shadow_Strength_Multiplier" "-1"
+	"Cloud_Blend_Exponent" "1"
+	"Dawn"
+	{
+		"Fog_Color"
+		{
+			"R" "122"
+			"G" "90"
+			"B" "42"
+		}
+		"Fog_Density" "1.0"
+	}
+	"Midday"
+	{
+		"Fog_Color"
+		{
+			"R" "168"
+			"G" "123"
+			"B" "57"
+		}
+		"Fog_Density" "1.0"
+	}
+	"Dusk"
+	{
+		"Fog_Color"
+		{
+			"R" "173"
+			"G" "138"
+			"B" "84"
+		}
+		"Fog_Density" "1.0"
+	}
+	"Midnight"
+	{
+		"Fog_Color"
+		{
+			"R" "96"
+			"G" "77"
+			"B" "48"
+		}
+		"Fog_Density" "1.0"
+	}
+	"Effects"
+	[
+		{
+			"Prefab" "Effects/Volumes/Kuwait_Dust_0/Effect.prefab"
+			"Emission_Exponent" "10"
+			"Pitch" "0"
+			"Translate_With_View" "true"
+			"Rotate_Yaw_With_Wind" "true"
+		}
+		{
+			"Prefab" "Effects/Volumes/Kuwait_Dust_1/Effect.prefab"
+			"Emission_Exponent" "10"
+			"Pitch" "-10"
+			"Translate_With_View" "true"
+			"Rotate_Yaw_With_Wind" "true"
+		}
+		{
+			"Prefab" "Effects/Volumes/Kuwait_Dust_2/Effect.prefab"
+			"Emission_Exponent" "10"
+			"Pitch" "-25"
+			"Translate_With_View" "true"
+			"Rotate_Yaw_With_Wind" "true"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+GUID ee98088c495a44569bb5b6544fcb6987
+Type Dialogue
+ID 4187
+
+Messages 1
+Message_0_Pages 3
+
+Responses 2
+
+// I'm ready
+Response_0_Dialogue 4191
+Response_0_Quest 4189
+Response_0_Rewards 2
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 4189
+Response_0_Reward_0_Status Active
+Response_0_Reward_1_Type Flag_Short
+Response_0_Reward_1_ID 4190
+Response_0_Reward_1_Value 0
+Response_0_Reward_1_Modification Assign
+
+// Later
+Response_1_Dialogue 4183

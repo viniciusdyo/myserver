@@ -1,0 +1,4 @@
+Name <color=Mythical>Radioactive in Flamanville Power</color>
+Description A huge mutant has been spotted in Flamanville Power. Take it out.
+
+Condition_0 Defeat {0}/{1} <color=mythical>Radioactive Boss</color>

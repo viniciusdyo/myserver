@@ -1,0 +1,17 @@
+GUID f2c5843e85fd4918a614c7fe9a390b44
+Type Supply
+Rarity Rare
+ID 5503
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 5502
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Product 5503
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

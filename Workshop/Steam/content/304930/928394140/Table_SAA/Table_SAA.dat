@@ -1,0 +1,16 @@
+GUID 4d9a390df96d43338749de3d4751d439
+Type Spawn
+ID 51148
+Roots 3
+Root_0_Spawn_ID 180
+Root_0_Weight 50
+Root_1_Spawn_ID 446
+Root_1_Weight 50
+Root_2_Spawn_ID 2007
+Root_2_Weight 2
+
+Tables 2
+Table_0_Asset_ID 51148
+Table_0_Weight 10
+Table_1_Asset_ID 51149
+Table_1_Weight 20

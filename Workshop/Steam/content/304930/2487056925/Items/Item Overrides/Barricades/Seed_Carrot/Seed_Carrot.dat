@@ -1,0 +1,30 @@
+GUID b6eb3241c06349b29adc5c36d0619733
+Type Farm
+Useable Barricade
+Build Farm
+ID 5262
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Health 1
+Range 4
+Radius 0.25
+Offset 0.375
+
+Growth 10800
+Grow 5210
+
+Explosion 43
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 5210
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Seed_Carrot
+PlacementAudioClip Sounds/FoliagePlacement.mp3

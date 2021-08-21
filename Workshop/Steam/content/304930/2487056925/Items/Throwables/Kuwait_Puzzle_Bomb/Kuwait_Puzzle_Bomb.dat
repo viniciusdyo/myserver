@@ -1,0 +1,41 @@
+GUID 908ef339078345d6a3ed0ee676884a0a
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 5104
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 25
+Structure_Damage 25
+Vehicle_Damage 35
+Resource_Damage 50
+Object_Damage 75
+
+Range 8
+Explosion 34
+Fuse_Length 1.25
+
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5507
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5405
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 73
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Products 1
+Blueprint_0_Product_0_ID 5104
+Blueprint_0_Product_0_Amount 2
+Blueprint_0_Build 27
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Map Kuwait

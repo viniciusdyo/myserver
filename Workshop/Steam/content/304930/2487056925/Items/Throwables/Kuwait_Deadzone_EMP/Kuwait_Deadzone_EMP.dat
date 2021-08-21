@@ -1,0 +1,37 @@
+GUID 8b1037432b384a9998dde4d704a01a1d
+Type Throwable
+Rarity Epic
+Useable Throwable
+ID 5109
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Player_Damage 25
+Zombie_Damage 55
+Animal_Damage 25
+Barricade_Damage 1500
+Structure_Damage 1500
+Vehicle_Damage 150
+Resource_Damage 1500
+Object_Damage 1500
+
+Range 10
+Explosion 5273
+
+Explosive
+Sticky
+Fuse_Length 4
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5106
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5548
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 5547
+Blueprint_0_Supply_2_Amount 3
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

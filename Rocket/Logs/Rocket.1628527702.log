@@ -1,0 +1,834 @@
+[08/09/2021 07:35:34] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[08/09/2021 07:35:34] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[08/09/2021 07:35:34] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[08/09/2021 07:35:34] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[08/09/2021 07:35:34] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[08/09/2021 07:35:34] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[08/09/2021 07:35:34] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[08/09/2021 07:35:34] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[08/09/2021 07:35:34] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[08/09/2021 07:35:34] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[08/09/2021 07:35:34] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[08/09/2021 07:35:34] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[08/09/2021 07:35:34] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[08/09/2021 07:35:34] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[08/09/2021 07:35:34] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[08/09/2021 07:35:34] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[08/09/2021 07:35:34] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[08/09/2021 07:35:34] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[08/09/2021 07:35:34] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[08/09/2021 07:35:34] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[08/09/2021 07:35:34] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[08/09/2021 07:35:34] [Info] Loading MaxPlayer from /home/steam/unturned/Servers/myserver/Rocket/Plugins/MaxPlayer.dll
+[08/09/2021 07:35:34] [Info] Loading WebsiteCommand from /home/steam/unturned/Servers/myserver/Rocket/Plugins/WebsiteCommand.dll
+[08/09/2021 07:35:35] [Info] Loading uEssentials from /home/steam/unturned/Servers/myserver/Rocket/Plugins/uEssentials.dll
+[08/09/2021 07:35:35] [Info] 
+[loading] MaxPlayer
+[08/09/2021 07:35:35] [Info] [registered] /checkmaxplayers (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/checkmaxplayers)
+[08/09/2021 07:35:35] [Info] [registered] /checkmp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/checkmp)
+[08/09/2021 07:35:35] [Info] [registered] /mps (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/mps)
+[08/09/2021 07:35:35] [Info] [registered] /setmaxplayers (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/setmaxplayers)
+[08/09/2021 07:35:35] [Info] [registered] /setmp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/setmp)
+[08/09/2021 07:35:35] [Info] [registered] /mp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/mp)
+[08/09/2021 07:35:35] [Info] MaxPlayer >> MaxplayerModifier has been loaded!
+[08/09/2021 07:35:35] [Info] MaxPlayer >> MaxplayerModifier 1.0.7
+[08/09/2021 07:35:35] [Info] MaxPlayer >> Made by Tortellio
+[08/09/2021 07:35:35] [Info] 
+[loading] WebsiteCommand
+[08/09/2021 07:35:35] [Info] WebsiteCommand >> WebsiteCommand has loaded!
+[08/09/2021 07:35:35] [Info] [registered] /discord (WebsiteCommand.RocketWebsiteCommand/Discord)
+[08/09/2021 07:35:35] [Info] 
+[loading] uEssentials
+[08/09/2021 07:35:35] [Info] This server will automatically save every 1800 seconds
+[08/09/2021 07:35:35] [Info] Steam servers ready!
+[08/09/2021 07:35:35] [Info] Workshop install folder: /home/steam/unturned/Servers/myserver/Workshop/Steam
+[08/09/2021 07:35:35] [Info] 11 workshop item(s) requested
+[08/09/2021 07:35:35] [Info] Submitting workshop query for 11 item(s)...
+[08/09/2021 07:35:35] [Info] Workshop query yielded 11 result(s)
+[08/09/2021 07:35:36] [Info] This server's allowed IP for Workshop downloads: 152.67.60.193
+[08/09/2021 07:35:36] [Info] 928394140 'Oldie Firearm Pack' queued for download
+[08/09/2021 07:35:36] [Info] 2306374088 'MilitaryMkll' queued for download
+[08/09/2021 07:35:36] [Info] 2528363491 'Wind Vehicles' queued for download
+[08/09/2021 07:35:36] [Info] 2435496165 'Vanilla Vehicles 2: Military Transport' queued for download
+[08/09/2021 07:35:36] [Info] 2451595662 'Vanilla Vehicles 2: Air Transport' queued for download
+[08/09/2021 07:35:36] [Info] 1979157694 'France Bundles' queued for download
+[08/09/2021 07:35:36] [Info] 2487056925 'Kuwait Assets (Always Updated)' queued for download
+[08/09/2021 07:35:36] [Info] 2175483644 'Metal Upgrades v5 Edited' queued for download
+[08/09/2021 07:35:36] [Info] 1441131424 '[METAL] Building Assets by roll4charm' queued for download
+[08/09/2021 07:35:36] [Info] 1418436222 'More Stacking Mod(Unofficial More Farming Mod Addon)' queued for download
+[08/09/2021 07:35:36] [Info] 1418436222 'More Stacking Mod(Unofficial More Farming Mod Addon)' has 1 children
+[08/09/2021 07:35:36] [Info] 	1232252658
+[08/09/2021 07:35:36] [Info] 939083944 'GoldGaming's Locker Pack' queued for download
+[08/09/2021 07:35:36] [Info] Submitting workshop query for 1 item(s)...
+[08/09/2021 07:35:36] [Info] Workshop query yielded 1 result(s)
+[08/09/2021 07:35:36] [Info] This server's allowed IP for Workshop downloads: 152.67.60.193
+[08/09/2021 07:35:36] [Info] 1232252658 'More Farming Mod' queued for download
+[08/09/2021 07:35:36] [Info] 12 workshop item(s) to download...
+[08/09/2021 07:36:03] [Info] Workshop item found in cache: 928394140
+[08/09/2021 07:36:03] [Info] Installing workshop item: 928394140
+[08/09/2021 07:36:03] [Info] Installed workshop item: 928394140
+[08/09/2021 07:36:03] [Info] Workshop item found in cache: 2306374088
+[08/09/2021 07:36:03] [Info] Installing workshop item: 2306374088
+[08/09/2021 07:36:03] [Info] Installed workshop item: 2306374088
+[08/09/2021 07:36:03] [Info] Workshop item found in cache: 2528363491
+[08/09/2021 07:36:03] [Info] Installing workshop item: 2528363491
+[08/09/2021 07:36:03] [Info] Installed workshop item: 2528363491
+[08/09/2021 07:36:03] [Info] Workshop item found in cache: 2435496165
+[08/09/2021 07:36:03] [Info] Installing workshop item: 2435496165
+[08/09/2021 07:36:03] [Info] Installed workshop item: 2435496165
+[08/09/2021 07:36:03] [Info] Workshop item found in cache: 2451595662
+[08/09/2021 07:36:03] [Info] Installing workshop item: 2451595662
+[08/09/2021 07:36:03] [Info] Installed workshop item: 2451595662
+[08/09/2021 07:36:03] [Info] Workshop item found in cache: 1979157694
+[08/09/2021 07:36:03] [Info] Installing workshop item: 1979157694
+[08/09/2021 07:36:03] [Info] Installed workshop item: 1979157694
+[08/09/2021 07:36:03] [Info] Workshop item found in cache: 2487056925
+[08/09/2021 07:36:03] [Info] Installing workshop item: 2487056925
+[08/09/2021 07:36:03] [Info] Installed workshop item: 2487056925
+[08/09/2021 07:36:03] [Info] Workshop item found in cache: 2175483644
+[08/09/2021 07:36:03] [Info] Installing workshop item: 2175483644
+[08/09/2021 07:36:03] [Info] Installed workshop item: 2175483644
+[08/09/2021 07:36:03] [Info] Workshop item found in cache: 1441131424
+[08/09/2021 07:36:03] [Info] Installing workshop item: 1441131424
+[08/09/2021 07:36:03] [Info] Installed workshop item: 1441131424
+[08/09/2021 07:36:03] [Info] Workshop item found in cache: 1418436222
+[08/09/2021 07:36:03] [Info] Installing workshop item: 1418436222
+[08/09/2021 07:36:03] [Warning] Workshop version of 'More Stacking Mod(Unofficial More Farming Mod Addon)' has not yet been updated from Unity 5.5 to 2017.4 or 2018.4.
+[08/09/2021 07:36:03] [Info] Installed workshop item: 1418436222
+[08/09/2021 07:36:03] [Info] Workshop item found in cache: 939083944
+[08/09/2021 07:36:03] [Info] Installing workshop item: 939083944
+[08/09/2021 07:36:03] [Info] Installed workshop item: 939083944
+[08/09/2021 07:36:04] [Info] Workshop item found in cache: 1232252658
+[08/09/2021 07:36:04] [Info] Installing workshop item: 1232252658
+[08/09/2021 07:36:04] [Info] Installed workshop item: 1232252658
+[08/09/2021 07:36:04] [Info] Loading level: 8%
+[08/09/2021 07:36:06] [Info] Loading level: 16%
+[08/09/2021 07:36:08] [Info] Loading level: 25%
+[08/09/2021 07:36:08] [Info] Loading level: 33%
+[08/09/2021 07:36:08] [Info] Loading level: 41%
+[08/09/2021 07:36:08] [Info] Loading level: 50%
+[08/09/2021 07:36:08] [Info] Loading level: 58%
+[08/09/2021 07:36:08] [Info] Loading level: 66%
+[08/09/2021 07:36:08] [Info] Loading level: 75%
+[08/09/2021 07:36:08] [Info] Loading level: 83%
+[08/09/2021 07:36:08] [Info] Loading level: 91%
+[08/09/2021 07:36:08] [Info] Loading level: 100%
+[08/09/2021 07:37:48] [Info] Connecting: PlayerID: 76561198942031373 Name: Eu kimetsu no teu rayba Character: Eu kimetsu no teu rayba
+[08/09/2021 07:38:08] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp moscow"
+[08/09/2021 07:40:34] [Info] Connecting: PlayerID: 76561198258953283 Name: BOT Ardo Character: Maiklitoris
+[08/09/2021 07:41:57] [Info] Connecting: PlayerID: 76561198350724813 Name: Manaos de Uva Character: Manaos de Uva
+[08/09/2021 07:42:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/home"
+[08/09/2021 07:42:09] [Info] Eu kimetsu no teu rayba moved x:-802.1875 y:192.868(+143.3813) z:1908.383 in the last second (0.1000061)
+[08/09/2021 07:43:01] [Info] Manaos de Uva [Manaos de Uva] was mauled by a zombie!
+[08/09/2021 07:43:12] [Info] [World] Manaos de Uva [Manaos de Uva]: "manitoo"
+[08/09/2021 07:43:16] [Info] [World] Maiklitoris [BOT Ardo]: "wtf mano"
+[08/09/2021 07:43:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ta melhor ?"
+[08/09/2021 07:43:29] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kit"
+[08/09/2021 07:43:31] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kits"
+[08/09/2021 07:43:34] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kir inicial"
+[08/09/2021 07:43:34] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vanish"
+[08/09/2021 07:43:39] [Info] Eu kimetsu no teu rayba enabled Vanishmode
+[08/09/2021 07:43:39] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp mai"
+[08/09/2021 07:43:39] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kits inicial"
+[08/09/2021 07:43:47] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kit inicial"
+[08/09/2021 07:43:48] [Info] [World] Maiklitoris [BOT Ardo]: "o zombie se trasnformou en um fantasma jajajdajsd"
+[08/09/2021 07:43:55] [Info] [World] Manaos de Uva [Manaos de Uva]: "jjajajaja"
+[08/09/2021 07:44:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkkk"
+[08/09/2021 07:44:09] [Info] [World] Maiklitoris [BOT Ardo]: "isso e normal?"
+[08/09/2021 07:44:10] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tem um de fogo tambem"
+[08/09/2021 07:44:15] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "e um de acido"
+[08/09/2021 07:44:27] [Info] [World] Manaos de Uva [Manaos de Uva]: "mano vc tein linterna de mais?"
+[08/09/2021 07:44:41] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "aparece no mapa"
+[08/09/2021 07:45:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou dormir"
+[08/09/2021 07:45:14] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "bom jogo"
+[08/09/2021 07:45:18] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "boa noite"
+[08/09/2021 07:45:19] [Info] [World] Manaos de Uva [Manaos de Uva]: "grax mano"
+[08/09/2021 07:45:32] [Info] [World] Maiklitoris [BOT Ardo]: "adeus manito"
+[08/09/2021 07:45:38] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "<3"
+[08/09/2021 07:45:57] [Info] [World] Maiklitoris [BOT Ardo]: "/kits"
+[08/09/2021 07:45:57] [Info] Player finished session: 76561198942031373
+[08/09/2021 08:05:35] [Info] Disconnecting: PlayerID: 76561198942031373 Name: Eu kimetsu no teu rayba Character: Eu kimetsu no teu rayba
+[08/09/2021 08:05:35] [Info] Saving server
+[08/09/2021 08:05:51] [Info] Maiklitoris [BOT Ardo] was mauled by a zombie!
+[08/09/2021 08:13:20] [Info] Manaos de Uva [Manaos de Uva] was dissolved by a zombie!
+[08/09/2021 08:14:22] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kit inicial"
+[08/09/2021 08:19:35] [Info] Manaos de Uva [Manaos de Uva] was blown up by a vehicle!
+[08/09/2021 08:19:48] [Info] Manaos de Uva [Manaos de Uva] killed themself.
+[08/09/2021 08:20:06] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kit inicial"
+[08/09/2021 08:21:44] [Info] Manaos de Uva [Manaos de Uva] was mauled by a zombie!
+[08/09/2021 08:21:53] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kit inicial"
+[08/09/2021 08:27:47] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kit inicial"
+[08/09/2021 08:30:35] [Info] Maiklitoris [BOT Ardo] was mauled by a zombie!
+[08/09/2021 08:31:24] [Info] Maiklitoris [BOT Ardo] killed themself.
+[08/09/2021 08:32:20] [Info] [World] Maiklitoris [BOT Ardo]: "/kit inicial"
+[08/09/2021 08:33:52] [Info] Maiklitoris moved x:125.6328 y:44.77344(+18.03764) z:-1039.336 in the last second (1.150986)
+[08/09/2021 08:35:35] [Info] Saving server
+[08/09/2021 08:41:33] [Info] Manaos de Uva [Manaos de Uva] was mauled by a zombie!
+[08/09/2021 08:41:56] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kit inicial"
+[08/09/2021 08:46:42] [Info] Manaos de Uva [Manaos de Uva] was mauled by a zombie!
+[08/09/2021 08:47:18] [Info] Player finished session: 76561198350724813
+[08/09/2021 08:47:19] [Info] Disconnecting: PlayerID: 76561198350724813 Name: Manaos de Uva Character: Manaos de Uva
+[08/09/2021 08:47:19] [Info] Player finished session: 76561198258953283
+[08/09/2021 09:05:35] [Info] Disconnecting: PlayerID: 76561198258953283 Name: BOT Ardo Character: Maiklitoris
+[08/09/2021 09:05:35] [Info] Saving server
+[08/09/2021 09:35:35] [Info] Saving server
+[08/09/2021 10:05:35] [Info] Saving server
+[08/09/2021 10:35:35] [Info] Saving server
+[08/09/2021 11:05:35] [Info] Saving server
+[08/09/2021 11:35:35] [Info] Saving server
+[08/09/2021 11:54:01] [Info] Connecting: PlayerID: 76561198257391455 Name: ! Woizy Character: Woizy
+[08/09/2021 11:54:23] [Info] Connecting: PlayerID: 76561198885962940 Name: DarknesS Character: SanreaL
+[08/09/2021 11:54:31] [Info] [World] Woizy [! Woizy]: "/tpa sanreal"
+[08/09/2021 11:54:40] [Info] [World] Woizy [! Woizy]: "/kits"
+[08/09/2021 11:54:46] [Info] [World] Woizy [! Woizy]: "/kit Inicial"
+[08/09/2021 11:55:09] [Info] [World] Woizy [! Woizy]: "/tpa cancel"
+[08/09/2021 11:55:46] [Info] SanreaL [DarknesS] was shot in the head by Woizy [! Woizy]!
+[08/09/2021 11:56:15] [Info] [World] SanreaL [DarknesS]: "/tpa woizy"
+[08/09/2021 11:56:27] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 11:56:35] [Info] [World] Woizy [! Woizy]: "/kits"
+[08/09/2021 11:56:45] [Info] [World] SanreaL [DarknesS]: "/tpa woizy"
+[08/09/2021 11:56:50] [Info] Kicking because ping (878) exceeds limit (750): PlayerID: 76561198885962940 Name: DarknesS Character: SanreaL
+[08/09/2021 11:57:06] [Info] Disconnecting: PlayerID: 76561198885962940 Name: DarknesS Character: SanreaL
+[08/09/2021 11:57:06] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 11:57:14] [Info] Woizy [! Woizy] killed themself.
+[08/09/2021 11:58:13] [Info] Connecting: PlayerID: 76561198885962940 Name: DarknesS Character: SanreaL
+[08/09/2021 11:58:22] [Info] [World] SanreaL [DarknesS]: "/kit  Inical"
+[08/09/2021 11:58:27] [Info] [World] SanreaL [DarknesS]: "/tpa woizy"
+[08/09/2021 11:58:32] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 11:58:43] [Info] [World] SanreaL [DarknesS]: "/kit  Inical"
+[08/09/2021 11:58:49] [Info] [World] SanreaL [DarknesS]: "/kit  Inical"
+[08/09/2021 11:58:52] [Info] [World] Woizy [! Woizy]: "/kits"
+[08/09/2021 11:58:59] [Info] [World] Woizy [! Woizy]: "/kit ınicial"
+[08/09/2021 11:59:07] [Info] [World] Woizy [! Woizy]: "/kit Inicial"
+[08/09/2021 11:59:29] [Info] [World] SanreaL [DarknesS]: "/kit Inicial"
+[08/09/2021 11:59:41] [Info] [World] Woizy [! Woizy]: "/kit İnicial"
+[08/09/2021 11:59:45] [Info] [World] Woizy [! Woizy]: "/kits"
+[08/09/2021 11:59:52] [Info] [World] Woizy [! Woizy]: "/kit Inicial"
+[08/09/2021 12:01:48] [Info] Connecting: PlayerID: 76561199126806132 Name: Çukomuko Character: cukomuko34
+[08/09/2021 12:02:23] [Info] [World] cukomuko34 [Çukomuko]: "/tp woizy"
+[08/09/2021 12:03:05] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:03:15] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:04:04] [Info] [World] cukomuko34 [Çukomuko]: "/tpaWoizy"
+[08/09/2021 12:04:17] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:04:25] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:04:55] [Info] [World] cukomuko34 [Çukomuko]: "/kit Inicial"
+[08/09/2021 12:05:14] [Info] SanreaL [DarknesS] bled to death!
+[08/09/2021 12:05:24] [Info] [World] SanreaL [DarknesS]: "/tpa woizy"
+[08/09/2021 12:05:35] [Info] Saving server
+[08/09/2021 12:05:48] [Info] [World] SanreaL [DarknesS]: "/tpa woizy"
+[08/09/2021 12:05:53] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:05:58] [Info] [World] SanreaL [DarknesS]: "/tpa woizy"
+[08/09/2021 12:06:13] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:06:37] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:06:43] [Info] [World] SanreaL [DarknesS]: "/tpa woizy"
+[08/09/2021 12:06:52] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:07:29] [Info] [World] SanreaL [DarknesS]: "/tpa woizy"
+[08/09/2021 12:07:36] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:07:41] [Info] SanreaL moved x:-1145.492 y:46.47571(+19.47411) z:-1458.5 in the last second (0.08418655)
+[08/09/2021 12:08:46] [Info] Woizy [! Woizy] bled to death!
+[08/09/2021 12:08:58] [Info] [World] Woizy [! Woizy]: "/tpa DarknesS"
+[08/09/2021 12:09:05] [Info] [World] Woizy [! Woizy]: "tpa accept"
+[08/09/2021 12:09:16] [Info] [World] SanreaL [DarknesS]: "/tpa accept"
+[08/09/2021 12:09:48] [Info] [World] Woizy [! Woizy]: "/tpa DarknesS"
+[08/09/2021 12:09:49] [Info] [World] SanreaL [DarknesS]: "/tpa accept"
+[08/09/2021 12:09:54] [Info] Woizy moved x:-1146.156 y:46.47571(+20.75027) z:-1463.227 in the last second (0.08771133)
+[08/09/2021 12:10:02] [Info] [World] Woizy [! Woizy]: "/kit Inicial"
+[08/09/2021 12:12:35] [Info] cukomuko34 [Çukomuko] bled to death!
+[08/09/2021 12:13:04] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woiazy"
+[08/09/2021 12:13:19] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:14:02] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:14:08] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:14:29] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:14:32] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:14:35] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:14:45] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:14:52] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:14:52] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:15:04] [Info] [World] cukomuko34 [Çukomuko]: "/kit Inicial"
+[08/09/2021 12:15:35] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:15:36] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:18:20] [Info] cukomuko34 [Çukomuko] bled to death!
+[08/09/2021 12:18:42] [Info] [World] cukomuko34 [Çukomuko]: "/kit Inicial"
+[08/09/2021 12:18:49] [Info] [World] cukomuko34 [Çukomuko]: "/kit Inicial"
+[08/09/2021 12:19:14] [Info] [World] cukomuko34 [Çukomuko]: "/kit Inicial"
+[08/09/2021 12:19:58] [Info] [World] cukomuko34 [Çukomuko]: "/kit Inicial"
+[08/09/2021 12:20:09] [Info] [World] cukomuko34 [Çukomuko]: "/kit Inicial"
+[08/09/2021 12:23:01] [Info] [World] Woizy [! Woizy]: "/tpa cukomuko"
+[08/09/2021 12:23:18] [Info] [World] cukomuko34 [Çukomuko]: "/kit Inicial"
+[08/09/2021 12:24:46] [Info] Woizy moved x:-976.5391 y:69.58508(+25.1199) z:-140.7344 in the last second (0.5572205)
+[08/09/2021 12:24:50] [Info] SanreaL moved x:-971.2115 y:69.11665(+24.65146) z:-138.8734 in the last second (0.09999847)
+[08/09/2021 12:26:05] [Info] SanreaL [DarknesS] bled to death!
+[08/09/2021 12:26:14] [Info] [World] SanreaL [DarknesS]: "/tpa woizy"
+[08/09/2021 12:26:25] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:26:47] [Info] [World] SanreaL [DarknesS]: "/tpa woizy"
+[08/09/2021 12:26:51] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:26:55] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:27:01] [Info] SanreaL moved x:-947.8516 y:69.28967(+42.8012) z:-56.22656 in the last second (0.09999847)
+[08/09/2021 12:27:09] [Info] Connecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/09/2021 12:27:33] [Info] [World] Woizy [! Woizy]: "/tpa cukomuko"
+[08/09/2021 12:27:41] [Info] [World] cukomuko34 [Çukomuko]: "/kit Inicial"
+[08/09/2021 12:27:53] [Info] [World] cukomuko34 [Çukomuko]: "/kit Inicial"
+[08/09/2021 12:28:00] [Info] [World] cukomuko34 [Çukomuko]: "/tpa accept"
+[08/09/2021 12:28:12] [Info] [World] Woizy [! Woizy]: "/tpa cukomuko34"
+[08/09/2021 12:28:21] [Info] [World] cukomuko34 [Çukomuko]: "/tpa accept"
+[08/09/2021 12:28:42] [Info] [World] Woizy [! Woizy]: "/tpa cukomuko34"
+[08/09/2021 12:28:49] [Info] [World] cukomuko34 [Çukomuko]: "/tpa accept"
+[08/09/2021 12:29:55] [Info] [World] Woizy [! Woizy]: "/tpa DarknesS"
+[08/09/2021 12:30:14] [Info] [World] SanreaL [DarknesS]: "/tpa accept"
+[08/09/2021 12:30:29] [Info] [World] SanreaL [DarknesS]: "/tpa accept"
+[08/09/2021 12:30:43] [Info] [World] Woizy [! Woizy]: "/tpa DarknesS"
+[08/09/2021 12:30:48] [Info] [World] SanreaL [DarknesS]: "/tpa accept"
+[08/09/2021 12:30:53] [Info] Woizy moved x:-959.0859 y:70.6875(+44.38174) z:-68.53906 in the last second (0.2748871)
+[08/09/2021 12:33:01] [Info] cukomuko34 [Çukomuko] was shot in the torso by Zed [Frost]!
+[08/09/2021 12:33:21] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:33:27] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:33:33] [Info] cukomuko34 moved x:-954.6953 y:70.28906(+47.01355) z:-86.05469 in the last second (0.2732468)
+[08/09/2021 12:33:43] [Info] [World] Woizy [! Woizy]: "bro dont shoot"
+[08/09/2021 12:33:47] [Info] cukomuko34 [Çukomuko] bled to death!
+[08/09/2021 12:33:47] [Info] [World] Woizy [! Woizy]: "or kick"
+[08/09/2021 12:34:12] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:34:16] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:34:22] [Info] cukomuko34 moved x:-954.2344 y:69.28968(+41.27067) z:-85.07813 in the last second (0.1000061)
+[08/09/2021 12:34:28] [Info] [World] cukomuko34 [Çukomuko]: "/kit Inicial"
+[08/09/2021 12:35:35] [Info] Saving server
+[08/09/2021 12:37:50] [Info] cukomuko34 [Çukomuko] bled to death!
+[08/09/2021 12:38:10] [Info] [World] Woizy [! Woizy]: "/kits"
+[08/09/2021 12:38:17] [Info] [World] Woizy [! Woizy]: "/kiy Inicial"
+[08/09/2021 12:38:18] [Info] [World] cukomuko34 [Çukomuko]: "/tpa Woizy"
+[08/09/2021 12:38:23] [Info] [World] Woizy [! Woizy]: "/tpa accept"
+[08/09/2021 12:38:29] [Info] cukomuko34 moved x:-615.1172 y:57.97656(+31.84566) z:989.3594 in the last second (0.2754364)
+[08/09/2021 12:43:43] [Info] Woizy [! Woizy] was mauled by a zombie!
+[08/09/2021 12:43:47] [Info] cukomuko34 [Çukomuko] bled to death!
+[08/09/2021 12:43:48] [Info] SanreaL [DarknesS] was mauled by a zombie!
+[08/09/2021 12:43:59] [Info] Player finished session: 76561199126806132
+[08/09/2021 12:44:08] [Info] Disconnecting: PlayerID: 76561199126806132 Name: Çukomuko Character: cukomuko34
+[08/09/2021 12:44:08] [Info] Player finished session: 76561198257391455
+[08/09/2021 12:44:08] [Info] Disconnecting: PlayerID: 76561198257391455 Name: ! Woizy Character: Woizy
+[08/09/2021 12:44:08] [Info] Player finished session: 76561198885962940
+[08/09/2021 12:49:15] [Info] Disconnecting: PlayerID: 76561198885962940 Name: DarknesS Character: SanreaL
+[08/09/2021 12:49:15] [Info] Player finished session: 76561199029785900
+[08/09/2021 12:51:34] [Info] Disconnecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/09/2021 12:51:34] [Info] Connecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/09/2021 13:02:15] [Info] Connecting: PlayerID: 76561198451194153 Name: Corvo Character: Corvo
+[08/09/2021 13:05:35] [Info] Saving server
+[08/09/2021 13:06:51] [Info] Zed [Frost] was mauled by a zombie!
+[08/09/2021 13:09:33] [Info] [World] Corvo [Corvo]: "/kits"
+[08/09/2021 13:09:41] [Info] [World] Corvo [Corvo]: "/kit base"
+[08/09/2021 13:12:38] [Info] Connecting: PlayerID: 76561198445186391 Name: Reaper Character: Reaper
+[08/09/2021 13:13:57] [Info] [World] Reaper [Reaper]: "/kits"
+[08/09/2021 13:14:01] [Info] [World] Reaper [Reaper]: "/kit inicial"
+[08/09/2021 13:15:02] [Info] Player finished session: 76561199029785900
+[08/09/2021 13:15:10] [Info] Disconnecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/09/2021 13:15:10] [Info] [World] Reaper [Reaper]: "yoo"
+[08/09/2021 13:17:34] [Info] [World] Reaper [Reaper]: "/buy"
+[08/09/2021 13:18:11] [Info] Player finished session: 76561198445186391
+[08/09/2021 13:30:27] [Info] Disconnecting: PlayerID: 76561198445186391 Name: Reaper Character: Reaper
+[08/09/2021 13:30:27] [Info] Connecting: PlayerID: 76561198066514317 Name: Zikinha Character: Zikinha
+[08/09/2021 13:31:17] [Info] [World] Zikinha [Zikinha]: "salve"
+[08/09/2021 13:31:50] [Info] Connecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/09/2021 13:32:39] [Info] [World] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 13:33:49] [Info] [World] Corvo [Corvo]: "salve"
+[08/09/2021 13:34:07] [Info] Zikinha [Zikinha] was mauled by a zombie!
+[08/09/2021 13:34:19] [Info] [World] Zikinha [Zikinha]: "/kit inicialCop"
+[08/09/2021 13:34:26] [Info] [World] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 13:34:39] [Info] [World] Zikinha [Zikinha]: "os zumbis tao mais hards mais to top de mais o serve ja em"
+[08/09/2021 13:34:45] [Info] [World] Zikinha [Zikinha]: "mlk manja mt"
+[08/09/2021 13:35:10] [Info] [World] Zikinha [Zikinha]: "gostei dos zumbis assim mais hards kkkkk"
+[08/09/2021 13:35:20] [Info] [World] Zed [Frost]: "ta"
+[08/09/2021 13:35:22] [Info] [World] Zed [Frost]: "kkkkkkkkk"
+[08/09/2021 13:35:35] [Info] Saving server
+[08/09/2021 13:36:40] [Info] Connecting: PlayerID: 76561198451655671 Name: swt_c4t Character: Finn
+[08/09/2021 13:37:15] [Info] [World] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 13:37:19] [Info] [World] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 13:37:36] [Info] [World] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 13:37:40] [Info] [World] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 13:38:05] [Info] Zed moved x:-1955.805 y:155.4609(+106.3222) z:629.3203 in the last second (0.7476807)
+[08/09/2021 13:38:11] [Info] [World] Zed [Frost]: "/home"
+[08/09/2021 13:39:34] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 13:39:37] [Info] [World] Finn [swt_c4t]: "/kits"
+[08/09/2021 13:39:38] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 13:39:38] [Info] Zed [Frost] was mauled by a zombie!
+[08/09/2021 13:39:42] [Info] [World] Zed [Frost]: "/HOME"
+[08/09/2021 13:39:43] [Info] [World] Finn [swt_c4t]: "/kit vip"
+[08/09/2021 13:39:46] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 13:39:53] [Info] [World] Finn [swt_c4t]: "/kit inicial"
+[08/09/2021 13:40:27] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 13:40:28] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 13:40:34] [Info] Finn moved x:-1819.992 y:189.9054(+144.2567) z:1875.203 in the last second (0.0793457)
+[08/09/2021 13:40:44] [Info] Zed [Frost] was mauled by a zombie!
+[08/09/2021 13:40:55] [Info] [World] Zed [Frost]: "/HOME"
+[08/09/2021 13:41:22] [Info] Zed [Frost] was mauled by a zombie!
+[08/09/2021 13:41:29] [Info] [World] Zed [Frost]: "/HOME"
+[08/09/2021 13:42:07] [Info] Zed [Frost] was mauled by a zombie!
+[08/09/2021 13:42:21] [Info] [World] Zed [Frost]: "/HOME"
+[08/09/2021 13:44:01] [Info] [World] Zed [Frost]: "/HOME"
+[08/09/2021 13:50:59] [Info] Finn [swt_c4t] was mauled by a zombie!
+[08/09/2021 13:51:06] [Info] [World] Finn [swt_c4t]: "/TPA CORVO"
+[08/09/2021 13:51:09] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 13:51:14] [Info] Finn moved x:-1833.836 y:194.1554(+168.1927) z:1868.016 in the last second (0.07936096)
+[08/09/2021 13:51:25] [Info] Connecting: PlayerID: 76561198840962036 Name: ronaldcouto33 Character: ronaldcouto33
+[08/09/2021 13:52:10] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/kit inicial"
+[08/09/2021 13:52:19] [Info] Zed moved x:-1956.758 y:155.1511(+106.1731) z:633.8984 in the last second (0.1000519)
+[08/09/2021 13:52:36] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/09/2021 13:52:43] [Info] [World] Zikinha [Zikinha]: "/accept"
+[08/09/2021 13:52:44] [Info] [World] Zed [Frost]: "/HOME"
+[08/09/2021 13:52:47] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/09/2021 13:52:56] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/09/2021 13:52:57] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/09/2021 13:53:23] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/09/2021 13:53:25] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/09/2021 13:55:01] [Info] [World] Zed [Frost]: "/KITS"
+[08/09/2021 13:55:11] [Info] [World] Zed [Frost]: "/KIT INI"
+[08/09/2021 13:55:24] [Info] [World] Zed [Frost]: "/KIT INICIAL"
+[08/09/2021 13:58:25] [Info] Zikinha [Zikinha] was chopped in the head by ronaldcouto33 [ronaldcouto33]!
+[08/09/2021 13:58:34] [Info] [World] Zikinha [Zikinha]: "/tpa ronaldcouto33"
+[08/09/2021 13:58:40] [Info] [World] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 13:58:42] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/09/2021 13:58:48] [Info] Zikinha moved x:-1285.398 y:118.0447(+92.09172) z:1433.82 in the last second (0.09999847)
+[08/09/2021 13:59:05] [Info] Zed moved x:-332.0313 y:68.97656(+19.78994) z:475.0078 in the last second (0.7679443)
+[08/09/2021 14:00:33] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:00:36] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 14:00:42] [Info] Finn moved x:-1818.399 y:193.35(+75.14508) z:1874.883 in the last second (0.09999084)
+[08/09/2021 14:01:49] [Info] Zed moved x:-1943.211 y:152.9688(+86.91566) z:614.7188 in the last second (0.7456665)
+[08/09/2021 14:02:42] [Info] [World] Zed [Frost]: "/HOME"
+[08/09/2021 14:03:14] [Info] [World] Finn [swt_c4t]: "/kits"
+[08/09/2021 14:05:35] [Info] Saving server
+[08/09/2021 14:09:01] [Info] [World] Finn [swt_c4t]: "/kit inicial"
+[08/09/2021 14:10:54] [Info] Finn [swt_c4t] was shot in the arm by Zikinha [Zikinha]!
+[08/09/2021 14:11:09] [Info] [World] Finn [swt_c4t]: "/tpa zik"
+[08/09/2021 14:11:31] [Info] [Area] Zikinha [Zikinha]: "kkkkkk nem"
+[08/09/2021 14:11:42] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:12:55] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/suicida"
+[08/09/2021 14:13:00] [Info] ronaldcouto33 [ronaldcouto33] killed themself.
+[08/09/2021 14:13:13] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/kit inicial"
+[08/09/2021 14:13:34] [Info] Connecting: PlayerID: 76561199197596199 Name: jefinhodaxt660 Character: jefinhodaxt660
+[08/09/2021 14:14:03] [Info] [Area] Zikinha [Zikinha]: "/tpa ronaldcouto33"
+[08/09/2021 14:14:08] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/09/2021 14:14:54] [Info] Zed moved x:-1962.43 y:155.7031(+123.8972) z:633.1719 in the last second (0.74646)
+[08/09/2021 14:15:04] [Info] [World] Finn [swt_c4t]: "/kit inicial"
+[08/09/2021 14:15:21] [Info] [World] Zed [Frost]: "/HOME"
+[08/09/2021 14:15:38] [Info] jefinhodaxt660 [jefinhodaxt660] was shot in the head by Finn [swt_c4t]!
+[08/09/2021 14:16:30] [Info] jefinhodaxt660 [jefinhodaxt660] was mauled by a zombie!
+[08/09/2021 14:20:15] [Info] jefinhodaxt660 [jefinhodaxt660] bled to death!
+[08/09/2021 14:21:01] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:21:02] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 14:21:07] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:22:04] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:22:25] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 14:22:32] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:22:34] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:22:35] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 14:22:53] [Info] Zed moved x:-1951.543 y:154.4094(+105.4314) z:626.3555 in the last second (0.1040802)
+[08/09/2021 14:23:20] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:23:22] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 14:23:28] [Info] Finn moved x:-1830.036 y:193.35(+114.6489) z:1873.83 in the last second (0.09999084)
+[08/09/2021 14:25:36] [Info] Zikinha moved x:1957.026 y:129.9561(+87.72855) z:-1523.611 in the last second (0.1019897)
+[08/09/2021 14:25:40] [Info] ronaldcouto33 moved x:1960.922 y:130.0329(+87.86783) z:-1521.477 in the last second (0.1019897)
+[08/09/2021 14:26:24] [Info] jefinhodaxt660 [jefinhodaxt660] was mauled by a zombie!
+[08/09/2021 14:26:26] [Info] [World] Zed [Frost]: "/TPA"
+[08/09/2021 14:26:56] [Info] Player finished session: 76561199029785900
+[08/09/2021 14:27:51] [Info] Disconnecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/09/2021 14:27:51] [Info] Connecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/09/2021 14:29:10] [Info] Connecting: PlayerID: 76561198279136923 Name: Hanck Character: |TŁX| ßΔŤмΔη  
+[08/09/2021 14:29:30] [Info] Connecting: PlayerID: 76561198883712380 Name: GelinBR Character: GelinBR
+[08/09/2021 14:29:34] [Info] [World] |TŁX| ßΔŤмΔη   [Hanck]: "/p"
+[08/09/2021 14:29:47] [Info] [World] GelinBR [GelinBR]: "/tpa corvo"
+[08/09/2021 14:29:49] [Info] [World] |TŁX| ßΔŤмΔη   [Hanck]: "/kits"
+[08/09/2021 14:29:52] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 14:29:52] [Info] [World] |TŁX| ßΔŤмΔη   [Hanck]: "/kit inicial"
+[08/09/2021 14:29:57] [Info] GelinBR moved x:-1831.352 y:194.3438(+166.9736) z:1870.031 in the last second (0.2676544)
+[08/09/2021 14:31:07] [Info] jefinhodaxt660 [jefinhodaxt660] was mauled by a zombie!
+[08/09/2021 14:32:13] [Info] [World] Zed [Frost]: "/HOME"
+[08/09/2021 14:32:21] [Info] [World] Zed [Frost]: "/HOME"
+[08/09/2021 14:33:27] [Info] jefinhodaxt660 [jefinhodaxt660] was mauled by a zombie!
+[08/09/2021 14:34:28] [Info] [World] GelinBR [GelinBR]: "/kits"
+[08/09/2021 14:34:32] [Info] [World] GelinBR [GelinBR]: "/kit inicial"
+[08/09/2021 14:35:09] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:35:11] [Info] [World] GelinBR [GelinBR]: "/tpa finn"
+[08/09/2021 14:35:13] [Info] Zed moved x:-1951.379 y:154.9904(+58.13459) z:633.1508 in the last second (0.1031189)
+[08/09/2021 14:35:15] [Info] [World] Corvo [Corvo]: "/tpa"
+[08/09/2021 14:35:18] [Info] [World] Zed [Frost]: "/home"
+[08/09/2021 14:35:18] [Info] jefinhodaxt660 [jefinhodaxt660] was mauled by a zombie!
+[08/09/2021 14:35:25] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:35:35] [Info] Saving server
+[08/09/2021 14:35:50] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:35:55] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 14:36:21] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/09/2021 14:36:22] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 14:36:26] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 14:36:32] [Info] Finn moved x:-1830.766 y:193.967(+75.92234) z:1870.594 in the last second (0.717041)
+[08/09/2021 14:37:13] [Info] jefinhodaxt660 [jefinhodaxt660] was shot in the head by |TŁX| ßΔŤмΔη   [Hanck]!
+[08/09/2021 14:37:31] [Info] [World] Finn [swt_c4t]: "/tpa gelin"
+[08/09/2021 14:37:37] [Info] [World] GelinBR [GelinBR]: "/tpa accept"
+[08/09/2021 14:37:37] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/09/2021 14:38:17] [Info] [World] |TŁX| ßΔŤмΔη   [Hanck]: "/tpa zed"
+[08/09/2021 14:38:23] [Info] [World] Zed [Frost]: "/tpa a"
+[08/09/2021 14:38:28] [Info] |TŁX| ßΔŤмΔη   moved x:-1799.508 y:105.7578(+36.84116) z:862.4063 in the last second (1.156006)
+[08/09/2021 14:38:39] [Info] jefinhodaxt660 [jefinhodaxt660] bled to death!
+[08/09/2021 14:38:56] [Info] [Area] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 14:39:22] [Info] jefinhodaxt660 [jefinhodaxt660] was mauled by a zombie!
+[08/09/2021 14:40:53] [Info] jefinhodaxt660 [jefinhodaxt660] was mauled by a zombie!
+[08/09/2021 14:41:52] [Info] jefinhodaxt660 [jefinhodaxt660] was mauled by a zombie!
+[08/09/2021 14:42:02] [Info] |TŁX| ßΔŤмΔη   moved x:-1951.828 y:155.1462(+58.04032) z:639.5233 in the last second (0.1032104)
+[08/09/2021 14:42:03] [Info] Zed moved x:-1945.766 y:155(+57.89414) z:635.3125 in the last second (0.7457275)
+[08/09/2021 14:42:48] [Info] Connecting: PlayerID: 76561199125194235 Name: vulgo abr Character: abr do comando vermelho
+[08/09/2021 14:43:02] [Info] [World] abr do comando vermelho [vulgo abr]: "/kits"
+[08/09/2021 14:43:06] [Info] [World] abr do comando vermelho [vulgo abr]: "/kit inicial"
+[08/09/2021 14:43:33] [Info] [World] Corvo [Corvo]: "/kits"
+[08/09/2021 14:43:35] [Info] [World] Corvo [Corvo]: "/kit discord"
+[08/09/2021 14:43:41] [Info] [World] Corvo [Corvo]: "/kit inicial"
+[08/09/2021 14:44:22] [Info] Player finished session: 76561198451655671
+[08/09/2021 14:45:04] [Info] Disconnecting: PlayerID: 76561198451655671 Name: swt_c4t Character: Finn
+[08/09/2021 14:45:04] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "SERVE TA DAHORA"
+[08/09/2021 14:45:54] [Info] abr do comando vermelho [vulgo abr] was mauled by a zombie!
+[08/09/2021 14:45:57] [Info] Player finished session: 76561199125194235
+[08/09/2021 14:50:42] [Info] Disconnecting: PlayerID: 76561199125194235 Name: vulgo abr Character: abr do comando vermelho
+[08/09/2021 14:50:42] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198066514317:
+[08/09/2021 14:52:14] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 14:52:14] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 14:52:14] [Info] Zed [Frost] was infected to death!
+[08/09/2021 14:52:21] [Info] [World] Zed [Frost]: "/TPA HA"
+[08/09/2021 14:52:30] [Info] [World] Corvo [Corvo]: "esqueceu de trocar o filtro?"
+[08/09/2021 14:52:42] [Info] [World] Zed [Frost]: "//TPA HAN"
+[08/09/2021 14:52:58] [Info] [World] Zed [Frost]: "/TPA HANC"
+[08/09/2021 14:53:00] [Info] [World] |TŁX| ßΔŤмΔη   [Hanck]: "/tpa a"
+[08/09/2021 14:53:06] [Info] Zed moved x:-1944.828 y:153.6865(+125.1971) z:647.5938 in the last second (0.1043243)
+[08/09/2021 14:53:36] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198883712380:
+[08/09/2021 14:54:01] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 14:54:01] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 14:54:01] [Info] Player finished session: 76561198279136923
+[08/09/2021 14:55:19] [Info] Disconnecting: PlayerID: 76561198279136923 Name: Hanck Character: |TŁX| ßΔŤмΔη  
+[08/09/2021 14:55:19] [Info] Corvo moved x:1219.391 y:76.12959(+25.83904) z:708.7421 in the last second (0.1029816)
+[08/09/2021 14:56:42] [Info] Zikinha [Zikinha] was infected to death!
+[08/09/2021 14:56:54] [Info] [Area] Zikinha [Zikinha]: "/tpa ronaldcouto33"
+[08/09/2021 14:57:02] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/09/2021 14:57:08] [Info] Zikinha moved x:1295.375 y:54.7804(+26.93426) z:-948.3281 in the last second (0.08658218)
+[08/09/2021 14:57:59] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198066514317:
+[08/09/2021 14:59:51] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 14:59:51] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 14:59:51] [Info] jefinhodaxt660 [jefinhodaxt660] was mauled by a zombie!
+[08/09/2021 15:01:30] [Info] jefinhodaxt660 [jefinhodaxt660] bled to death!
+[08/09/2021 15:04:32] [Info] Connecting: PlayerID: 76561199193391966 Name: imkartzz Character: imkartzz
+[08/09/2021 15:05:02] [Info] Kicking for inactivity: PlayerID: 76561199193391966 Name: imkartzz Character: imkartzz
+[08/09/2021 15:05:35] [Info] Disconnecting: PlayerID: 76561199193391966 Name: imkartzz Character: imkartzz
+[08/09/2021 15:05:35] [Info] Saving server
+[08/09/2021 15:06:10] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198840962036:
+[08/09/2021 15:06:21] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:06:21] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:06:21] [Info] ronaldcouto33 [ronaldcouto33] killed themself.
+[08/09/2021 15:06:28] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha]"
+[08/09/2021 15:06:36] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/09/2021 15:06:36] [Info] [World] Corvo [Corvo]: "/home"
+[08/09/2021 15:06:41] [Info] Corvo moved x:-1837.367 y:190.007(+141.2757) z:1872.859 in the last second (0.545166)
+[08/09/2021 15:07:44] [Info] [World] GelinBR [GelinBR]: "/tpa corvo"
+[08/09/2021 15:07:45] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 15:07:51] [Info] GelinBR moved x:-1825.742 y:193.35(+75.02873) z:1869.727 in the last second (0.09999084)
+[08/09/2021 15:07:58] [Info] Corvo [Corvo] killed themself.
+[08/09/2021 15:08:07] [Info] [World] Corvo [Corvo]: "/tpa gelinbr"
+[08/09/2021 15:08:17] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/09/2021 15:08:23] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/09/2021 15:08:31] [Info] [World] GelinBR [GelinBR]: "/tpa accept"
+[08/09/2021 15:08:35] [Info] [World] Corvo [Corvo]: "/tpa gelinbr"
+[08/09/2021 15:08:36] [Info] [World] GelinBR [GelinBR]: "/tpa accept"
+[08/09/2021 15:08:40] [Info] [World] Corvo [Corvo]: "/home"
+[08/09/2021 15:08:57] [Info] [World] Corvo [Corvo]: "/tpa gelinbr"
+[08/09/2021 15:09:19] [Info] [World] Corvo [Corvo]: "/tpa gelinbr"
+[08/09/2021 15:09:22] [Info] [World] GelinBR [GelinBR]: "/tpa accept"
+[08/09/2021 15:09:27] [Info] Corvo moved x:-1831.094 y:194.1554(+148.4901) z:1869.531 in the last second (0.08282471)
+[08/09/2021 15:09:33] [Info] GelinBR [GelinBR] killed themself.
+[08/09/2021 15:09:37] [Info] [World] GelinBR [GelinBR]: "/tpa corvo"
+[08/09/2021 15:09:57] [Info] [World] GelinBR [GelinBR]: "/tpa corvo"
+[08/09/2021 15:10:01] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 15:10:07] [Info] GelinBR moved x:-1827.977 y:189.1(+162.2796) z:1864.758 in the last second (0.09999084)
+[08/09/2021 15:11:26] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198451194153:
+[08/09/2021 15:11:36] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:11:36] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:11:36] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198451194153:
+[08/09/2021 15:11:37] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:11:37] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:11:37] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198451194153:
+[08/09/2021 15:11:37] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:11:46] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:11:46] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198066514317:
+[08/09/2021 15:11:51] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:11:51] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:11:51] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198451194153:
+[08/09/2021 15:12:08] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:12:08] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:12:08] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198451194153:
+[08/09/2021 15:12:08] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:12:32] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:12:32] [Info] [World] Corvo [Corvo]: "só o meu crafting q ta bugado?"
+[08/09/2021 15:12:37] [Info] [Area] Zikinha [Zikinha]: "nao"
+[08/09/2021 15:12:49] [Info] [Area] Zikinha [Zikinha]: "todos estao mais ele ainda esta arrumando o serve"
+[08/09/2021 15:13:12] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "eu morri e perdi 50 chemicals sumirao"
+[08/09/2021 15:13:25] [Info] [World] Zed [Frost]: "/HOME"
+[08/09/2021 15:13:45] [Info] [World] Zed [Frost]: "SIM O MEU TA DEBOAS"
+[08/09/2021 15:13:58] [Info] [World] Corvo [Corvo]: "ta falando q eu tenho um monte de coisa mas só tenho 1"
+[08/09/2021 15:14:08] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "entao"
+[08/09/2021 15:14:17] [Info] [Area] Zikinha [Zikinha]: "ss o meu ta falando que tenho 22 chemicals mais to com 8 so"
+[08/09/2021 15:14:22] [Info] [World] Zed [Frost]: "O MEU TABEM KKKKKKKKKKK"
+[08/09/2021 15:15:06] [Info] ronaldcouto33 [ronaldcouto33] was mauled by a zombie!
+[08/09/2021 15:15:15] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/09/2021 15:15:31] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/09/2021 15:16:41] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/09/2021 15:17:08] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/09/2021 15:17:11] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/09/2021 15:17:13] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/09/2021 15:17:19] [Info] ronaldcouto33 moved x:1262.695 y:46.33096(+17.95973) z:-1019.133 in the last second (0.1004448)
+[08/09/2021 15:17:24] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "os chemicals estao sumindo"
+[08/09/2021 15:18:11] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561199029785900:
+[08/09/2021 15:18:15] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:18:15] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:18:15] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198066514317:
+[08/09/2021 15:18:34] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:18:34] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:18:34] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561199029785900:
+[08/09/2021 15:20:26] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:20:26] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:20:26] [Info] [Area] Zikinha [Zikinha]: "/home"
+[08/09/2021 15:20:32] [Info] Zikinha moved x:1974.633 y:134.6213(+85.29823) z:-967.4609 in the last second (0.1000061)
+[08/09/2021 15:20:56] [Info] [Area] Zikinha [Zikinha]: "/kit incial"
+[08/09/2021 15:21:05] [Info] [Area] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 15:21:57] [Info] jefinhodaxt660 [jefinhodaxt660] was mauled by a zombie!
+[08/09/2021 15:22:20] [Info] jefinhodaxt660 [jefinhodaxt660] killed themself.
+[08/09/2021 15:22:37] [Info] Player finished session: 76561199197596199
+[08/09/2021 15:22:50] [Info] Disconnecting: PlayerID: 76561199197596199 Name: jefinhodaxt660 Character: jefinhodaxt660
+[08/09/2021 15:22:50] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198883712380:
+[08/09/2021 15:23:01] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:23:01] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:23:01] [Info] ronaldcouto33 moved x:1952.711 y:135.0304(+89.00222) z:-984.5625 in the last second (0.5531006)
+[08/09/2021 15:24:27] [Info] Corvo moved x:1190.969 y:79.44207(+29.15965) z:710.4453 in the last second (0.1593552)
+[08/09/2021 15:24:48] [Info] [World] GelinBR [GelinBR]: "/tpa corvo"
+[08/09/2021 15:24:49] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 15:29:21] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198883712380:
+[08/09/2021 15:30:26] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:30:26] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:30:26] [Info] Zed moved x:-1450.039 y:94.92969(+45.74309) z:562.7813 in the last second (0.7424316)
+[08/09/2021 15:30:33] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198883712380:
+[08/09/2021 15:31:24] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:31:24] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:31:24] [Info] Corvo moved x:-1764.255 y:215.0837(+166.4057) z:1869.412 in the last second (31.47014)
+[08/09/2021 15:31:52] [Info] [World] Corvo [Corvo]: "/tpa gelinbr"
+[08/09/2021 15:31:57] [Info] [World] GelinBR [GelinBR]: "/tpa accept"
+[08/09/2021 15:34:29] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198883712380:
+[08/09/2021 15:34:34] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 15:34:34] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 15:34:34] [Info] [Area] Zikinha [Zikinha]: "/home"
+[08/09/2021 15:34:40] [Info] Zikinha moved x:1974.633 y:134.6213(+88.46735) z:-967.4609 in the last second (0.09999084)
+[08/09/2021 15:35:35] [Info] Saving server
+[08/09/2021 15:35:56] [Info] ronaldcouto33 moved x:1936.742 y:138.3496(+88.76775) z:-996.0391 in the last second (0.1402893)
+[08/09/2021 15:39:02] [Info] Corvo moved x:-1840.847 y:184.8058(+126.0798) z:1902.84 in the last second (0.1150818)
+[08/09/2021 15:41:01] [Info] Kicking for inactivity: PlayerID: 76561198840962036 Name: ronaldcouto33 Character: ronaldcouto33
+[08/09/2021 15:41:54] [Info] Disconnecting: PlayerID: 76561198840962036 Name: ronaldcouto33 Character: ronaldcouto33
+[08/09/2021 15:41:54] [Info] Connecting: PlayerID: 76561199147010499 Name: RICOL_LR Character: RICOL_LR
+[08/09/2021 15:42:11] [Info] [World] RICOL_LR [RICOL_LR]: "/kits"
+[08/09/2021 15:42:14] [Info] [World] RICOL_LR [RICOL_LR]: "/inicial"
+[08/09/2021 15:42:17] [Info] [World] RICOL_LR [RICOL_LR]: "/kit inicial"
+[08/09/2021 15:42:42] [Info] [Area] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 15:42:51] [Info] [World] Corvo [Corvo]: "/tpa gelinbr"
+[08/09/2021 15:42:59] [Info] [World] RICOL_LR [RICOL_LR]: "/maxskills"
+[08/09/2021 15:43:10] [Info] [World] GelinBR [GelinBR]: "/tpa accept"
+[08/09/2021 15:43:31] [Info] [World] GelinBR [GelinBR]: "/tpa accept"
+[08/09/2021 15:43:49] [Info] [World] Corvo [Corvo]: "/tpa gelinbr"
+[08/09/2021 15:43:52] [Info] Player finished session: 76561199147010499
+[08/09/2021 15:43:58] [Info] Disconnecting: PlayerID: 76561199147010499 Name: RICOL_LR Character: RICOL_LR
+[08/09/2021 15:43:58] [Info] [World] GelinBR [GelinBR]: "/tpa accept"
+[08/09/2021 15:47:33] [Info] Corvo moved x:1722.13 y:114.4347(+65.95679) z:-160.9733 in the last second (0.09999847)
+[08/09/2021 15:47:34] [Info] GelinBR moved x:1718.598 y:114.4195(+65.94153) z:-156.1639 in the last second (0.1000061)
+[08/09/2021 15:51:10] [Info] [World] Zed [Frost]: "/home"
+[08/09/2021 15:53:20] [Info] Connecting: PlayerID: 76561198840962036 Name: ronaldcouto33 Character: ronaldcouto33
+[08/09/2021 15:56:31] [Info] GelinBR moved x:-1857.516 y:179.8239(+121.2467) z:1909.164 in the last second (0.1246796)
+[08/09/2021 15:59:14] [Info] [Group] GelinBR [GelinBR]: "/tpa corvo"
+[08/09/2021 15:59:16] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/09/2021 16:02:45] [Info] Player finished session: 76561199029785900
+[08/09/2021 16:03:31] [Info] Disconnecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/09/2021 16:03:31] [Info] ronaldcouto33 [ronaldcouto33] was mauled by a zombie!
+[08/09/2021 16:03:38] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/09/2021 16:03:39] [Info] Zikinha [Zikinha] was infected to death!
+[08/09/2021 16:04:23] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/home"
+[08/09/2021 16:04:29] [Info] ronaldcouto33 moved x:1972.813 y:134.1331(+104.723) z:-971.0625 in the last second (0.1000061)
+[08/09/2021 16:04:36] [Info] Zikinha [Zikinha] was mauled by a zombie!
+[08/09/2021 16:04:39] [Info] Connecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/09/2021 16:05:04] [Info] Zed moved x:-325.2031 y:75.90182(+20.52976) z:455.1953 in the last second (0.1152954)
+[08/09/2021 16:05:14] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198883712380:
+[08/09/2021 16:05:35] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/09/2021 16:05:35] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/09/2021 16:05:35] [Info] Saving server
+[08/09/2021 16:06:24] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/09/2021 16:06:29] [Info] [Group] Zikinha [Zikinha]: "/tpa accept"
+[08/09/2021 16:11:36] [Info] Player finished session: 76561199029785900
+[08/09/2021 16:12:49] [Info] Disconnecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/09/2021 16:12:49] [Info] Connecting: PlayerID: 76561198451655671 Name: swt_c4t Character: Finn
+[08/09/2021 16:14:19] [Info] GelinBR moved x:-1869.313 y:181.2027(+122.5215) z:1896.789 in the last second (0.1291351)
+[08/09/2021 16:17:41] [Info] Finn [swt_c4t] dehydrated to death!
+[08/09/2021 16:18:12] [Info] Finn moved x:-1838.492 y:190.1953(+57.13226) z:1870.828 in the last second (0.7335205)
+[08/09/2021 16:18:23] [Info] [World] Finn [swt_c4t]: "/tpa gelin"
+[08/09/2021 16:18:24] [Info] [Group] GelinBR [GelinBR]: "/tpa accept"
+[08/09/2021 16:18:33] [Info] Zikinha moved x:1795.816 y:116.1632(+70.5604) z:-315.8246 in the last second (0.1016541)
+[08/09/2021 16:18:48] [Info] [World] Corvo [Corvo]: "/home"
+[08/09/2021 16:18:53] [Info] Corvo moved x:-1837.367 y:190.1953(+74.94894) z:1872.859 in the last second (0.7335205)
+[08/09/2021 16:21:13] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/09/2021 16:21:16] [Info] [Group] Zikinha [Zikinha]: "/tpa accept"
+[08/09/2021 16:21:21] [Info] ronaldcouto33 moved x:1766.648 y:115.507(+73.2794) z:-261.2813 in the last second (0.08850098)
+[08/09/2021 16:21:52] [Info] [World] Finn [swt_c4t]: "/home"
+[08/09/2021 16:21:58] [Info] Finn moved x:-1838.492 y:189.5618(+56.49875) z:1870.828 in the last second (0.1000061)
+[08/09/2021 16:23:42] [Info] GelinBR moved x:-1881.258 y:180.0304(+61.98569) z:1889.43 in the last second (0.5598145)
+[08/09/2021 16:24:06] [Info] [Group] GelinBR [GelinBR]: "/kits"
+[08/09/2021 16:28:46] [Info] [World] Corvo [Corvo]: "boa"
+[08/09/2021 16:28:48] [Info] [World] Finn [swt_c4t]: "boa"
+[08/09/2021 16:28:49] [Info] [Group] GelinBR [GelinBR]: "haker kid?"
+[08/09/2021 16:28:55] [Info] [World] Corvo [Corvo]: "adm o crafting ta bugado"
+[08/09/2021 16:29:21] [Info] [World] Corvo [Corvo]: "ta falando q tenho uns 20 itens mas só tenho 5"
+[08/09/2021 16:29:26] [Info] [World] Corvo [Corvo]: "todos"
+[08/09/2021 16:29:28] [Info] [World] Corvo [Corvo]: "scrpa"
+[08/09/2021 16:29:31] [Info] [Group] Zikinha [Zikinha]: "ss"
+[08/09/2021 16:29:31] [Info] [World] Corvo [Corvo]: "scrap"
+[08/09/2021 16:29:34] [Info] [World] Corvo [Corvo]: "filtro"
+[08/09/2021 16:29:56] [Info] [World] Corvo [Corvo]: "e os pentes tao com munição extra"
+[08/09/2021 16:30:10] [Info] [Group] Zikinha [Zikinha]: "os chemicals tbm estao sumindo da beg"
+[08/09/2021 16:30:13] [Info] [World] Corvo [Corvo]: "o da lee enfield por exemplo cabe 10 balas e tava spawnando com 12, 15"
+[08/09/2021 16:30:20] [Info] [Group] Zikinha [Zikinha]: "mais vou limpar meu chace como vc falou"
+[08/09/2021 16:30:29] [Info] [Group] Zikinha [Zikinha]: "cache *"
+[08/09/2021 16:31:04] [Info] [World] Corvo [Corvo]: "o gelin ta com o mesmo q eu"
+[08/09/2021 16:31:05] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "TODO MUNDO"
+[08/09/2021 16:31:06] [Info] [Group] GelinBR [GelinBR]: "Eu tb to bugado"
+[08/09/2021 16:31:14] [Info] [Group] Zikinha [Zikinha]: "geral eu acho"
+[08/09/2021 16:31:15] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "PERDI 50 CHEMICALS"
+[08/09/2021 16:31:22] [Info] [World] GelinBR [GelinBR]: "Eu tb"
+[08/09/2021 16:31:43] [Info] [World] Corvo [Corvo]: "o da caixa extra ficou legal"
+[08/09/2021 16:31:51] [Info] [World] Corvo [Corvo]: "mas acho q ta influenciando os pentes"
+[08/09/2021 16:32:18] [Info] [World] Corvo [Corvo]: "blz"
+[08/09/2021 16:32:56] [Info] [World] GelinBR [GelinBR]: "O do crafting ta o seguinte"
+[08/09/2021 16:33:19] [Info] [World] GelinBR [GelinBR]: "muitos items estao mostrando 3x da quantidade real que voce tem"
+[08/09/2021 16:33:57] [Info] [World] GelinBR [GelinBR]: "E como o sistema acha que tu tem 3x o valor real, Ele libera voce para fazer stacks mesmo quando tu nao tem o bastante"
+[08/09/2021 16:34:20] [Info] [World] GelinBR [GelinBR]: "Ai oque ele faz e some com todos seus items da stack e nao da a stack"
+[08/09/2021 16:34:30] [Info] [World] GelinBR [GelinBR]: "perdi 50 scrap e 20 filtros ja"
+[08/09/2021 16:34:36] [Info] [World] GelinBR [GelinBR]: "assim"
+[08/09/2021 16:34:41] [Info] [Group] Zikinha [Zikinha]: "eu tbm"
+[08/09/2021 16:34:46] [Info] [Group] Zikinha [Zikinha]: "mais meu foi chemicals"
+[08/09/2021 16:35:29] [Info] [World] Finn [swt_c4t]: "/kit inicial"
+[08/09/2021 16:35:35] [Info] Saving server
+[08/09/2021 16:35:38] [Info] Corvo moved x:1680.322 y:126.604(+73.35701) z:-95.82399 in the last second (0.1096191)
+[08/09/2021 16:35:41] [Info] Finn moved x:1678.129 y:127.3018(+73.83684) z:-101.4176 in the last second (0.103653)
+[08/09/2021 16:36:30] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/kit inicial"
+[08/09/2021 16:37:21] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:37:29] [Info] Zikinha [Zikinha] was shot in the arm by Corvo [Corvo]!
+[08/09/2021 16:38:17] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:38:51] [Info] [Group] Zikinha [Zikinha]: "/tpa ronaldcouto33"
+[08/09/2021 16:38:58] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/09/2021 16:38:59] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:39:03] [Info] Zikinha moved x:1830.93 y:159.8716(+130.3948) z:-480.4375 in the last second (0.3460846)
+[08/09/2021 16:39:38] [Info] [Group] Zikinha [Zikinha]: "3x2 é foda"
+[08/09/2021 16:39:42] [Info] [World] Finn [swt_c4t]: "/home"
+[08/09/2021 16:39:51] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:39:58] [Info] [World] Finn [swt_c4t]: "/home"
+[08/09/2021 16:40:12] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:40:42] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:41:00] [Info] Player finished session: 76561198883712380
+[08/09/2021 16:41:16] [Info] Disconnecting: PlayerID: 76561198883712380 Name: GelinBR Character: GelinBR
+[08/09/2021 16:41:16] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:41:32] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:41:51] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:42:09] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:42:17] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:43:23] [Info] [Group] Zikinha [Zikinha]: "/kit inicial"
+[08/09/2021 16:43:51] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "os 3 ai volta firewatch"
+[08/09/2021 16:45:16] [Info] [World] Corvo [Corvo]: "n sei"
+[08/09/2021 16:45:16] [Info] [Group] Zikinha [Zikinha]: "nn"
+[08/09/2021 16:46:34] [Info] [Group] Zikinha [Zikinha]: "ok"
+[08/09/2021 16:47:11] [Error] Failed to find parameters in format [Text]/[R]/[G]/[B].
+[08/09/2021 16:47:25] [Info] Corvo moved x:-1703.438 y:187.9271(+73.50197) z:1867.008 in the last second (0.175293)
+[08/09/2021 16:47:26] [Info] Finn moved x:-1702.266 y:187.1953(+129.3457) z:1870.68 in the last second (0.744873)
+[08/09/2021 16:47:52] [Info] 
+[unloading] WebsiteCommand

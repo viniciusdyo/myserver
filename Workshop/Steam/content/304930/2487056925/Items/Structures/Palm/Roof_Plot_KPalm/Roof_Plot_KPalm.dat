@@ -1,0 +1,23 @@
+GUID 2c867af536074552808473a6b3561d79
+Type Structure
+Useable Structure
+Construct Roof
+ID 5480
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 400
+Range 8
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5501
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5479
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27

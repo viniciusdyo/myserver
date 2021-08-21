@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color>Skulled
+Description <color=epic>Major Augustus</color><br>There's a skull that, for some reason, is on the scaffholding. Find a way to grab it.
+
+Condition_0 Grab the Skull {0}/1

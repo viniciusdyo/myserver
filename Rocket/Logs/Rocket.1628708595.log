@@ -1,0 +1,669 @@
+[08/11/2021 16:52:16] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[08/11/2021 16:52:16] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[08/11/2021 16:52:16] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[08/11/2021 16:52:16] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[08/11/2021 16:52:16] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[08/11/2021 16:52:16] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[08/11/2021 16:52:16] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[08/11/2021 16:52:16] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[08/11/2021 16:52:16] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[08/11/2021 16:52:16] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[08/11/2021 16:52:16] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[08/11/2021 16:52:16] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[08/11/2021 16:52:16] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[08/11/2021 16:52:16] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[08/11/2021 16:52:16] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[08/11/2021 16:52:16] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[08/11/2021 16:52:16] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[08/11/2021 16:52:16] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[08/11/2021 16:52:16] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[08/11/2021 16:52:16] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[08/11/2021 16:52:16] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[08/11/2021 16:52:16] [Info] Loading MaxPlayer from /home/steam/unturned/Servers/myserver/Rocket/Plugins/MaxPlayer.dll
+[08/11/2021 16:52:16] [Info] Loading WebsiteCommand from /home/steam/unturned/Servers/myserver/Rocket/Plugins/WebsiteCommand.dll
+[08/11/2021 16:52:17] [Info] Loading uEssentials from /home/steam/unturned/Servers/myserver/Rocket/Plugins/uEssentials.dll
+[08/11/2021 16:52:17] [Info] 
+[loading] MaxPlayer
+[08/11/2021 16:52:17] [Info] [registered] /checkmaxplayers (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/checkmaxplayers)
+[08/11/2021 16:52:17] [Info] [registered] /checkmp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/checkmp)
+[08/11/2021 16:52:17] [Info] [registered] /mps (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/mps)
+[08/11/2021 16:52:17] [Info] [registered] /setmaxplayers (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/setmaxplayers)
+[08/11/2021 16:52:17] [Info] [registered] /setmp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/setmp)
+[08/11/2021 16:52:17] [Info] [registered] /mp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/mp)
+[08/11/2021 16:52:17] [Info] MaxPlayer >> MaxplayerModifier has been loaded!
+[08/11/2021 16:52:17] [Info] MaxPlayer >> MaxplayerModifier 1.0.7
+[08/11/2021 16:52:17] [Info] MaxPlayer >> Made by Tortellio
+[08/11/2021 16:52:17] [Info] 
+[loading] WebsiteCommand
+[08/11/2021 16:52:17] [Info] WebsiteCommand >> WebsiteCommand has loaded!
+[08/11/2021 16:52:17] [Info] [registered] /discord (WebsiteCommand.RocketWebsiteCommand/Discord)
+[08/11/2021 16:52:17] [Info] 
+[loading] uEssentials
+[08/11/2021 16:52:17] [Info] This server will automatically save every 1800 seconds
+[08/11/2021 16:52:17] [Info] Steam servers ready!
+[08/11/2021 16:52:17] [Info] Workshop install folder: /home/steam/unturned/Servers/myserver/Workshop/Steam
+[08/11/2021 16:52:17] [Info] 13 workshop item(s) requested
+[08/11/2021 16:52:17] [Info] Submitting workshop query for 13 item(s)...
+[08/11/2021 16:52:17] [Info] Workshop query yielded 13 result(s)
+[08/11/2021 16:52:26] [Info] This server's allowed IP for Workshop downloads: 152.67.60.193
+[08/11/2021 16:52:26] [Info] 1232252658 'More Farming Mod' queued for download
+[08/11/2021 16:52:26] [Info] 928394140 'Oldie Firearm Pack' queued for download
+[08/11/2021 16:52:26] [Info] 2306374088 'MilitaryMkll' queued for download
+[08/11/2021 16:52:26] [Info] 2528363491 'Wind Vehicles' queued for download
+[08/11/2021 16:52:26] [Info] 2446784509 'JDM Cars ID's' queued for download
+[08/11/2021 16:52:26] [Info] 2451595662 'Vanilla Vehicles 2: Air Transport' queued for download
+[08/11/2021 16:52:26] [Info] 1979157694 'France Bundles' queued for download
+[08/11/2021 16:52:26] [Info] 2487056925 'Kuwait Assets (Always Updated)' queued for download
+[08/11/2021 16:52:26] [Info] 2175483644 'Metal Upgrades v5 Edited' queued for download
+[08/11/2021 16:52:26] [Info] 1441131424 '[METAL] Building Assets by roll4charm' queued for download
+[08/11/2021 16:52:26] [Info] 2425744483 ' Hard stack 2021' queued for download
+[08/11/2021 16:52:26] [Info] 939083944 'GoldGaming's Locker Pack' queued for download
+[08/11/2021 16:52:26] [Info] 2365700338 'Vanilla Vehicles 2' queued for download
+[08/11/2021 16:52:26] [Info] 13 workshop item(s) to download...
+[08/11/2021 16:52:26] [Info] Workshop item found in cache: 1232252658
+[08/11/2021 16:52:26] [Info] Installing workshop item: 1232252658
+[08/11/2021 16:52:26] [Info] Installed workshop item: 1232252658
+[08/11/2021 16:52:26] [Info] Workshop item found in cache: 928394140
+[08/11/2021 16:52:26] [Info] Installing workshop item: 928394140
+[08/11/2021 16:52:26] [Info] Installed workshop item: 928394140
+[08/11/2021 16:52:26] [Info] Workshop item found in cache: 2306374088
+[08/11/2021 16:52:26] [Info] Installing workshop item: 2306374088
+[08/11/2021 16:52:26] [Info] Installed workshop item: 2306374088
+[08/11/2021 16:52:26] [Info] Workshop item found in cache: 2528363491
+[08/11/2021 16:52:26] [Info] Installing workshop item: 2528363491
+[08/11/2021 16:52:26] [Info] Installed workshop item: 2528363491
+[08/11/2021 16:52:26] [Info] Downloading workshop item: 2446784509
+[08/11/2021 16:52:26] [Info] Successfully downloaded workshop item: 2446784509
+[08/11/2021 16:52:26] [Warning] Finished downloading workshop item 2446784509, but unable to find the files on disk (/home/steam/unturned/Servers/myserver/Workshop/Steam/content/304930/2446784509/1719787067167067005_legacy.bin)
+[08/11/2021 16:52:26] [Info] Workshop item found in cache: 2451595662
+[08/11/2021 16:52:26] [Info] Installing workshop item: 2451595662
+[08/11/2021 16:52:57] [Info] Installed workshop item: 2451595662
+[08/11/2021 16:52:57] [Info] Workshop item found in cache: 1979157694
+[08/11/2021 16:52:57] [Info] Installing workshop item: 1979157694
+[08/11/2021 16:52:57] [Info] Installed workshop item: 1979157694
+[08/11/2021 16:52:57] [Info] Workshop item found in cache: 2487056925
+[08/11/2021 16:52:57] [Info] Installing workshop item: 2487056925
+[08/11/2021 16:52:57] [Info] Installed workshop item: 2487056925
+[08/11/2021 16:52:57] [Info] Workshop item found in cache: 2175483644
+[08/11/2021 16:52:57] [Info] Installing workshop item: 2175483644
+[08/11/2021 16:52:57] [Info] Installed workshop item: 2175483644
+[08/11/2021 16:52:57] [Info] Workshop item found in cache: 1441131424
+[08/11/2021 16:52:57] [Info] Installing workshop item: 1441131424
+[08/11/2021 16:52:57] [Info] Installed workshop item: 1441131424
+[08/11/2021 16:52:57] [Info] Workshop item found in cache: 2425744483
+[08/11/2021 16:52:57] [Info] Installing workshop item: 2425744483
+[08/11/2021 16:52:57] [Info] Installed workshop item: 2425744483
+[08/11/2021 16:52:57] [Info] Workshop item found in cache: 939083944
+[08/11/2021 16:52:57] [Info] Installing workshop item: 939083944
+[08/11/2021 16:52:57] [Info] Installed workshop item: 939083944
+[08/11/2021 16:52:57] [Info] Workshop item found in cache: 2365700338
+[08/11/2021 16:52:57] [Info] Installing workshop item: 2365700338
+[08/11/2021 16:52:57] [Error] Value cannot be null.
+Parameter name: key
+[08/11/2021 16:52:57] [Error]   at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryGetValue (TKey key, TValue& value) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader.readDictionary (System.IO.StreamReader input, System.Collections.Generic.Dictionary`2[TKey,TValue] scope) [0x000fe] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader..ctor (System.IO.StreamReader input) [0x00019] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader.readDictionary (System.IO.StreamReader input, System.Collections.Generic.Dictionary`2[TKey,TValue] scope) [0x00124] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader..ctor (System.IO.StreamReader input) [0x00019] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0002f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/11/2021 16:52:57] [Info] Installed workshop item: 2365700338
+[08/11/2021 16:52:57] [Info] Loading level: 8%
+[08/11/2021 16:53:00] [Info] Loading level: 16%
+[08/11/2021 16:53:02] [Info] Loading level: 25%
+[08/11/2021 16:53:02] [Info] Loading level: 33%
+[08/11/2021 16:53:02] [Info] Loading level: 41%
+[08/11/2021 16:53:02] [Info] Loading level: 50%
+[08/11/2021 16:53:02] [Info] Loading level: 58%
+[08/11/2021 16:53:02] [Info] Loading level: 66%
+[08/11/2021 16:53:02] [Info] Loading level: 75%
+[08/11/2021 16:53:02] [Info] Loading level: 83%
+[08/11/2021 16:53:02] [Info] Loading level: 91%
+[08/11/2021 16:53:02] [Info] Loading level: 100%
+[08/11/2021 16:53:14] [Error] Failed to generate an item with ID 36116 from type Fire [6]
+[08/11/2021 16:53:14] [Error] Failed to generate an item with ID 36116 from type Fire [6]
+[08/11/2021 16:53:14] [Error] Failed to generate an item with ID 36116 from type Fire [6]
+[08/11/2021 16:53:14] [Error] Failed to generate an item with ID 36820 from type Fire [6]
+[08/11/2021 16:53:14] [Error] Failed to generate an item with ID 36821 from type Fire [6]
+[08/11/2021 16:53:14] [Error] Failed to generate an item with ID 36112 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36110 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36114 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36116 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36116 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36820 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36112 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36821 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36821 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36110 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36117 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36115 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36116 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36820 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36114 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to generate an item with ID 36821 from type Fire [6]
+[08/11/2021 16:53:24] [Error] Failed to find any players.
+[08/11/2021 16:53:42] [Info] Connecting: PlayerID: 76561198883435343 Name: CIRIMAR Character: Espancador de Véia Rica
+[08/11/2021 16:54:56] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 16:56:38] [Error] Failed to respawn an item with ID 36112 from type Fire [6]
+[08/11/2021 16:58:43] [Info] Connecting: PlayerID: 76561198942031373 Name: Eu kimetsu no teu rayba Character: Eu kimetsu no teu rayba
+[08/11/2021 17:00:28] [Info] Connecting: PlayerID: 76561199026720253 Name: joji Character: joji
+[08/11/2021 17:01:00] [Info] [World] joji [joji]: "/kits"
+[08/11/2021 17:01:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp joji kime"
+[08/11/2021 17:01:05] [Info] [World] joji [joji]: "/kit discord"
+[08/11/2021 17:01:23] [Info] Successfully admined joji
+[08/11/2021 17:01:27] [Info] Successfully admined Eu kimetsu no teu rayba
+[08/11/2021 17:01:33] [Info] [World] joji [joji]: "/tp eu"
+[08/11/2021 17:01:34] [Info] joji moved x:-971.0547 y:201.7457(+173.9554) z:1903.953 in the last second (0.1375885)
+[08/11/2021 17:01:43] [Info] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba] was shot in the head by joji [joji]!
+[08/11/2021 17:01:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp joji"
+[08/11/2021 17:01:49] [Info] Eu kimetsu no teu rayba moved x:-984.1641 y:207.3281(+180.5077) z:1909.805 in the last second (1.278564)
+[08/11/2021 17:02:02] [Info] [World] joji [joji]: "/ci"
+[08/11/2021 17:02:07] [Info] [World] joji [joji]: "/vehicle 140"
+[08/11/2021 17:02:26] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vahicle 140"
+[08/11/2021 17:02:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 140"
+[08/11/2021 17:02:38] [Info] [World] joji [joji]: "/god"
+[08/11/2021 17:02:44] [Info] joji enabled Godmode
+[08/11/2021 17:02:44] [Info] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba] was blown up by a vehicle!
+[08/11/2021 17:02:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 140"
+[08/11/2021 17:04:25] [Info] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba] was blown up by a vehicle!
+[08/11/2021 17:04:26] [Info] Eu kimetsu no teu rayba moved x:1195.836 y:74.53125(+47.59032) z:662.4297 in the last second (0.7446594)
+[08/11/2021 17:04:29] [Info] [World] joji [joji]: "/tp eu"
+[08/11/2021 17:04:35] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp joji"
+[08/11/2021 17:04:36] [Info] Eu kimetsu no teu rayba moved x:1200.222 y:66.36034(+38.92949) z:650.2297 in the last second (0.1029739)
+[08/11/2021 17:04:41] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/11/2021 17:04:54] [Info] Eu kimetsu no teu rayba enabled Godmode
+[08/11/2021 17:04:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i plate"
+[08/11/2021 17:04:54] [Info] [World] joji [joji]: "/i plate 3"
+[08/11/2021 17:05:11] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/heal"
+[08/11/2021 17:05:15] [Info] [World] joji [joji]: "/heal"
+[08/11/2021 17:05:35] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i blow"
+[08/11/2021 17:05:37] [Info] [World] joji [joji]: "/maxskills"
+[08/11/2021 17:05:43] [Info] [World] joji [joji]: "/i 1440"
+[08/11/2021 17:05:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1440"
+[08/11/2021 17:05:48] [Info] [World] joji [joji]: "/i alice"
+[08/11/2021 17:05:51] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ci"
+[08/11/2021 17:05:53] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/11/2021 17:05:58] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "/ci"
+[08/11/2021 17:06:04] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "qual foi"
+[08/11/2021 17:06:42] [Info] joji moved x:1861.273 y:165.8204(+117.1425) z:1223.094 in the last second (2.344254)
+[08/11/2021 17:06:43] [Info] Eu kimetsu no teu rayba moved x:1855.398 y:165.2359(+116.558) z:1233.703 in the last second (0.1448517)
+[08/11/2021 17:07:06] [Info] [World] joji [joji]: "/kits"
+[08/11/2021 17:07:14] [Info] [World] joji [joji]: "/kit plane"
+[08/11/2021 17:07:18] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 36586"
+[08/11/2021 17:07:26] [Info] [World] joji [joji]: "/kits"
+[08/11/2021 17:07:35] [Info] [World] joji [joji]: "/kit default"
+[08/11/2021 17:07:50] [Info] [World] joji [joji]: "/kit vipmkspec"
+[08/11/2021 17:08:17] [Error] Failed to respawn an item with ID 36110 from type Fire [6]
+[08/11/2021 17:08:17] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 17:09:59] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 17:10:29] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle gt"
+[08/11/2021 17:11:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 39770"
+[08/11/2021 17:11:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 36970"
+[08/11/2021 17:11:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 36971"
+[08/11/2021 17:11:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 36977"
+[08/11/2021 17:11:56] [Info] Connecting: PlayerID: 76561199012249184 Name: rafapvp43 Character: rafapvp43
+[08/11/2021 17:12:41] [Info] Connecting: PlayerID: 76561198353558002 Name: creuthanatos Character: creuthanatos
+[08/11/2021 17:13:08] [Info] [World] rafapvp43 [rafapvp43]: "/KIT"
+[08/11/2021 17:13:12] [Info] [World] rafapvp43 [rafapvp43]: "/KITS"
+[08/11/2021 17:13:16] [Info] joji moved x:1869.031 y:164.2527(+16.1474) z:1190.711 in the last second (0.1139069)
+[08/11/2021 17:13:21] [Info] [World] rafapvp43 [rafapvp43]: "/KIT INICIAL"
+[08/11/2021 17:13:27] [Error] Failed to respawn an item with ID 36113 from type Fire [6]
+[08/11/2021 17:13:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 37000"
+[08/11/2021 17:13:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 37001"
+[08/11/2021 17:15:07] [Error] Failed to respawn an item with ID 36113 from type Fire [6]
+[08/11/2021 17:15:11] [Info] creuthanatos [creuthanatos] was dissolved by a zombie!
+[08/11/2021 17:15:50] [Info] Connecting: PlayerID: 76561198388550907 Name: victorx0 Character: victorx0
+[08/11/2021 17:16:02] [Info] [World] joji [joji]: "/i rpg"
+[08/11/2021 17:16:08] [Info] [World] joji [joji]: "/i launcher"
+[08/11/2021 17:16:14] [Info] [World] joji [joji]: "/i rocket 10"
+[08/11/2021 17:16:36] [Error] Failed to respawn an item with ID 36113 from type Fire [6]
+[08/11/2021 17:16:46] [Info] [World] joji [joji]: "/i dragon"
+[08/11/2021 17:16:55] [Info] [World] joji [joji]: "/i box"
+[08/11/2021 17:17:10] [Info] Connecting: PlayerID: 76561198066514317 Name: Zikinha Character: Zikinha
+[08/11/2021 17:17:22] [Info] [World] joji [joji]: "/i dragon"
+[08/11/2021 17:17:23] [Info] [World] joji [joji]: "/i dragon"
+[08/11/2021 17:17:25] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/11/2021 17:17:25] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/11/2021 17:17:31] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 36530"
+[08/11/2021 17:17:41] [Info] victorx0 moved x:1974.305 y:242.0695(+114.7717) z:1955.555 in the last second (0.08267212)
+[08/11/2021 17:18:07] [Info] [World] joji [joji]: "/i dragon"
+[08/11/2021 17:19:31] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/11/2021 17:19:39] [Info] Connecting: PlayerID: 76561199107766810 Name: Brunóx Character: Brunóx
+[08/11/2021 17:19:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit VipMkSpec"
+[08/11/2021 17:20:40] [Info] [World] Brunóx [Brunóx]: "oo"
+[08/11/2021 17:20:41] [Info] Player finished session: 76561199026720253
+[08/11/2021 17:20:48] [Info] Disconnecting: PlayerID: 76561199026720253 Name: joji Character: joji
+[08/11/2021 17:20:48] [Info] [World] Brunóx [Brunóx]: "quem explodiu a minha baae"
+[08/11/2021 17:20:51] [Info] [World] Brunóx [Brunóx]: "base"
+[08/11/2021 17:21:01] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle gt"
+[08/11/2021 17:21:18] [Info] [World] Zikinha [Zikinha]: "sei nao é uma bm ?"
+[08/11/2021 17:21:20] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "Press F"
+[08/11/2021 17:21:26] [Info] [World] Brunóx [Brunóx]: "nn"
+[08/11/2021 17:21:31] [Info] [World] Zikinha [Zikinha]: "entao foi eu nao"
+[08/11/2021 17:21:37] [Info] [World] Zikinha [Zikinha]: "onde é ?"
+[08/11/2021 17:21:45] [Info] [World] Brunóx [Brunóx]: "foi perto dos mafiosos"
+[08/11/2021 17:21:59] [Info] [World] Brunóx [Brunóx]: "/kit inicial"
+[08/11/2021 17:22:03] [Info] Connecting: PlayerID: 76561199121539557 Name: Alberto_Einstein06 Character: Alberto Einstein
+[08/11/2021 17:22:11] [Info] [World] Zikinha [Zikinha]: "fui eu nao"
+[08/11/2021 17:22:16] [Info] Saving server
+[08/11/2021 17:22:20] [Info] [World] Brunóx [Brunóx]: "ns se desisto"
+[08/11/2021 17:22:24] [Info] Player finished session: 76561199121539557
+[08/11/2021 17:22:37] [Info] Disconnecting: PlayerID: 76561199121539557 Name: Alberto_Einstein06 Character: Alberto Einstein
+[08/11/2021 17:22:37] [Info] [World] Zikinha [Zikinha]: "olk man serve ta top"
+[08/11/2021 17:22:46] [Info] [World] Zikinha [Zikinha]: "foda fui raidado essa madruga tbm"
+[08/11/2021 17:22:51] [Info] [World] Zikinha [Zikinha]: "mais reconstrui"
+[08/11/2021 17:22:53] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "vcs sao vip ?"
+[08/11/2021 17:22:58] [Info] [World] Zikinha [Zikinha]: "nao"
+[08/11/2021 17:23:19] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 17:23:19] [Error] Failed to respawn an item with ID 36111 from type Fire [6]
+[08/11/2021 17:23:41] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "me raidaram tambem"
+[08/11/2021 17:23:49] [Info] [World] Zikinha [Zikinha]: "ss o corvo tbm"
+[08/11/2021 17:23:54] [Info] [World] Zikinha [Zikinha]: "raidarao geral"
+[08/11/2021 17:24:04] [Info] Connecting: PlayerID: 76561199026720253 Name: joji Character: joji
+[08/11/2021 17:24:05] [Info] Kicking for inactivity: PlayerID: 76561198883435343 Name: CIRIMAR Character: Espancador de Véia Rica
+[08/11/2021 17:24:19] [Info] Disconnecting: PlayerID: 76561198883435343 Name: CIRIMAR Character: Espancador de Véia Rica
+[08/11/2021 17:24:19] [Info] [World] Brunóx [Brunóx]: "a mano"
+[08/11/2021 17:24:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmkspec"
+[08/11/2021 17:24:42] [Info] [World] creuthanatos [creuthanatos]: "como muda a camera"
+[08/11/2021 17:24:52] [Info] Connecting: PlayerID: 76561198883435343 Name: CIRIMAR Character: Espancador de Véia Rica
+[08/11/2021 17:24:55] [Info] rafapvp43 [rafapvp43] was mauled by a zombie!
+[08/11/2021 17:25:01] [Error] Failed to respawn an item with ID 36112 from type Fire [6]
+[08/11/2021 17:25:04] [Info] [World] rafapvp43 [rafapvp43]: "/kit inicial"
+[08/11/2021 17:25:14] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 17:25:43] [Info] [Area] Zikinha [Zikinha]: "/kit inicial"
+[08/11/2021 17:26:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i battery"
+[08/11/2021 17:26:07] [Info] [Area] Espancador de Véia Rica [CIRIMAR]: "ThuuG#2317"
+[08/11/2021 17:26:13] [Info] creuthanatos moved x:336.323 y:58.47747(+31.81338) z:-886.5272 in the last second (0.1073532)
+[08/11/2021 17:26:41] [Error] Failed to respawn an item with ID 36116 from type Fire [6]
+[08/11/2021 17:26:54] [Error] Failed to respawn an item with ID 36113 from type Fire [6]
+[08/11/2021 17:26:54] [Error] Failed to respawn an item with ID 36110 from type Fire [6]
+[08/11/2021 17:27:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 36580"
+[08/11/2021 17:27:29] [Info] rafapvp43 moved x:472.0626 y:55.23626(+28.50967) z:-1192.011 in the last second (0.1018562)
+[08/11/2021 17:28:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 36610"
+[08/11/2021 17:28:19] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 17:28:31] [Error] Failed to respawn an item with ID 36111 from type Fire [6]
+[08/11/2021 17:28:47] [Info] Eu kimetsu no teu rayba moved x:1932.695 y:191.0625(+26.32755) z:1274.883 in the last second (0.7525635)
+[08/11/2021 17:29:51] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/night"
+[08/11/2021 17:29:54] [Info] Successfully set time to night!
+[08/11/2021 17:29:54] [Info] creuthanatos [creuthanatos] was mauled by a zombie!
+[08/11/2021 17:29:58] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 17:29:58] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 17:30:03] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 17:30:14] [Info] Player finished session: 76561198353558002
+[08/11/2021 17:31:20] [Info] Disconnecting: PlayerID: 76561198353558002 Name: creuthanatos Character: creuthanatos
+[08/11/2021 17:31:20] [Info] [Area] Zikinha [Zikinha]: "kimetsu"
+[08/11/2021 17:31:25] [Info] [Area] Zikinha [Zikinha]: "vcs aki ??"
+[08/11/2021 17:31:29] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/day"
+[08/11/2021 17:31:30] [Info] Successfully set time to day!
+[08/11/2021 17:31:30] [Info] [Area] Zikinha [Zikinha]: "respawnando ?"
+[08/11/2021 17:31:36] [Info] Connecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/11/2021 17:31:49] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 17:32:04] [Info] [Area] Zikinha [Zikinha]: "kkkkkk assustarao"
+[08/11/2021 17:32:06] [Info] Kicking for inactivity: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/11/2021 17:32:14] [Info] Disconnecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/11/2021 17:32:14] [Info] [World] joji [joji]: "/i plate 10"
+[08/11/2021 17:32:21] [Info] [Area] Espancador de Véia Rica [CIRIMAR]: "/shelter"
+[08/11/2021 17:32:21] [Info] [Area] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkk"
+[08/11/2021 17:32:28] [Info] [Area] Zikinha [Zikinha]: "mta nao carai"
+[08/11/2021 17:32:29] [Info] [Area] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vai pra la"
+[08/11/2021 17:33:17] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 17:34:00] [Info] [World] Brunóx [Brunóx]: "/tpa japa"
+[08/11/2021 17:34:03] [Info] [Area] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/11/2021 17:34:05] [Info] [World] Brunóx [Brunóx]: "/tp japa"
+[08/11/2021 17:34:10] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "...."
+[08/11/2021 17:34:21] [Info] [World] Brunóx [Brunóx]: "/tpa Japa o Loko"
+[08/11/2021 17:34:26] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "/tpa a"
+[08/11/2021 17:34:31] [Info] [Area] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmkt c"
+[08/11/2021 17:34:35] [Info] [Area] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmktc"
+[08/11/2021 17:34:50] [Info] [World] Brunóx [Brunóx]: "/tpa espancador"
+[08/11/2021 17:34:51] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "/tpa a"
+[08/11/2021 17:34:58] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "/tpa a"
+[08/11/2021 17:34:58] [Info] Connecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/11/2021 17:35:11] [Info] [World] joji [joji]: "/ci"
+[08/11/2021 17:35:16] [Info] [World] joji [joji]: "/kits"
+[08/11/2021 17:35:22] [Info] [World] joji [joji]: "/kit vipmkspec"
+[08/11/2021 17:35:34] [Info] [World] BrunoNRG [BrunoNRG]: "adimininastror"
+[08/11/2021 17:35:53] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "boa"
+[08/11/2021 17:36:01] [Info] [World] BrunoNRG [BrunoNRG]: "ja fui raido mds"
+[08/11/2021 17:36:05] [Info] [World] joji [joji]: "/ci"
+[08/11/2021 17:36:09] [Info] [World] joji [joji]: "/kits"
+[08/11/2021 17:36:16] [Info] [World] joji [joji]: "/kit vipmktc"
+[08/11/2021 17:36:18] [Info] [World] BrunoNRG [BrunoNRG]: "o doente ainda tapa a minha porta"
+[08/11/2021 17:37:03] [Info] Brunóx moved x:1493.453 y:252.7422(+41.55853) z:1967.742 in the last second (0.7454834)
+[08/11/2021 17:37:04] [Info] Espancador de Véia Rica moved x:1491.4 y:253.3771(+42.2393) z:1972.873 in the last second (0.1074219)
+[08/11/2021 17:37:55] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i battery 10"
+[08/11/2021 17:38:18] [Error] Failed to respawn an item with ID 36113 from type Fire [6]
+[08/11/2021 17:38:20] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 17:39:27] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/11/2021 17:39:30] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/11/2021 17:39:33] [Info] [World] BrunoNRG [BrunoNRG]: "to brabo"
+[08/11/2021 17:39:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmk"
+[08/11/2021 17:39:43] [Info] [Area] Zikinha [Zikinha]: "pk ?"
+[08/11/2021 17:39:59] [Error] Failed to respawn an item with ID 36116 from type Fire [6]
+[08/11/2021 17:39:59] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 17:40:01] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 17:40:02] [Info] [World] joji [joji]: "/ci"
+[08/11/2021 17:40:06] [Info] [Area] Zikinha [Zikinha]: "todos fomos raidados"
+[08/11/2021 17:40:06] [Info] [World] joji [joji]: "/kits"
+[08/11/2021 17:40:11] [Info] [World] joji [joji]: "/kit vipmk"
+[08/11/2021 17:40:15] [Error] Failed to respawn an item with ID 36116 from type Fire [6]
+[08/11/2021 17:40:17] [Info] [World] BrunoNRG [BrunoNRG]: "/home"
+[08/11/2021 17:40:18] [Info] [Area] Zikinha [Zikinha]: "corvo kmetsu"
+[08/11/2021 17:40:27] [Info] [Area] Zikinha [Zikinha]: "brunox"
+[08/11/2021 17:40:33] [Info] [Area] Zikinha [Zikinha]: "geral foi ate eu"
+[08/11/2021 17:41:08] [Info] [Area] victorx0 [victorx0]: "/kit inicial"
+[08/11/2021 17:41:19] [Info] [Area] Zikinha [Zikinha]: "sua base era perto da bm ?"
+[08/11/2021 17:43:33] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/11/2021 17:43:38] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipspec"
+[08/11/2021 17:43:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/11/2021 17:43:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmk"
+[08/11/2021 17:43:50] [Info] [World] joji [joji]: "/kit vipmk"
+[08/11/2021 17:44:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/11/2021 17:44:27] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipspec"
+[08/11/2021 17:44:58] [Error] Failed to respawn an item with ID 36115 from type Fire [6]
+[08/11/2021 17:45:12] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 17:45:22] [Info] [World] joji [joji]: "/ci"
+[08/11/2021 17:45:26] [Info] [World] joji [joji]: "/kit vipspec"
+[08/11/2021 17:45:26] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/11/2021 17:45:33] [Info] BrunoNRG [BrunoNRG] was mauled by a zombie!
+[08/11/2021 17:45:41] [Info] [World] BrunoNRG [BrunoNRG]: "desisto"
+[08/11/2021 17:45:46] [Info] [World] BrunoNRG [BrunoNRG]: "desanimei agr"
+[08/11/2021 17:45:50] [Info] [World] BrunoNRG [BrunoNRG]: "flw"
+[08/11/2021 17:45:59] [Info] [World] Brunóx [Brunóx]: "ate"
+[08/11/2021 17:46:00] [Info] [World] joji [joji]: "/ci"
+[08/11/2021 17:46:02] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmktc"
+[08/11/2021 17:46:11] [Info] rafapvp43 [rafapvp43] bled to death!
+[08/11/2021 17:46:17] [Info] [World] joji [joji]: "/kit vipspec brunonrg"
+[08/11/2021 17:46:28] [Info] Connecting: PlayerID: 76561199121539557 Name: Alberto_Einstein06 Character: Alberto Einstein
+[08/11/2021 17:46:30] [Info] [Area] BrunoNRG [BrunoNRG]: ",-,"
+[08/11/2021 17:46:31] [Info] Player finished session: 76561199012249184
+[08/11/2021 17:46:38] [Info] Disconnecting: PlayerID: 76561199012249184 Name: rafapvp43 Character: rafapvp43
+[08/11/2021 17:46:38] [Info] [Area] BrunoNRG [BrunoNRG]: "/kits"
+[08/11/2021 17:46:40] [Error] Failed to respawn an item with ID 36112 from type Fire [6]
+[08/11/2021 17:46:42] [Error] Failed to respawn an item with ID 36113 from type Fire [6]
+[08/11/2021 17:46:52] [Error] Failed to respawn an item with ID 36111 from type Fire [6]
+[08/11/2021 17:46:55] [Error] Failed to respawn an item with ID 36113 from type Fire [6]
+[08/11/2021 17:46:55] [Info] [World] joji [joji]: "/ci"
+[08/11/2021 17:47:02] [Info] [World] joji [joji]: "/i dragon"
+[08/11/2021 17:47:18] [Info] [World] Alberto Einstein [Alberto_Einstein06]: "/kits"
+[08/11/2021 17:47:25] [Info] [World] Alberto Einstein [Alberto_Einstein06]: "/kit inicial"
+[08/11/2021 17:47:33] [Info] [World] joji [joji]: "/ci"
+[08/11/2021 17:47:38] [Info] [World] joji [joji]: "/i dragon"
+[08/11/2021 17:48:17] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 17:48:38] [Info] [World] joji [joji]: "/ci"
+[08/11/2021 17:48:56] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/11/2021 17:49:27] [Info] [Area] victorx0 [victorx0]: "/kit inicial"
+[08/11/2021 17:49:38] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/11/2021 17:50:04] [Info] Eu kimetsu no teu rayba moved x:1680.133 y:178.9363(+33.05797) z:1293.952 in the last second (0.1428223)
+[08/11/2021 17:51:12] [Info] victorx0 [victorx0] killed themself.
+[08/11/2021 17:51:26] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/11/2021 17:51:29] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/11/2021 17:51:40] [Error] Failed to respawn an item with ID 36116 from type Fire [6]
+[08/11/2021 17:51:45] [Info] victorx0 moved x:1295.633 y:49.28821(+21.85287) z:572 in the last second (0.084095)
+[08/11/2021 17:51:49] [Error] Failed to respawn an item with ID 36114 from type Fire [6]
+[08/11/2021 17:52:11] [Info] Connecting: PlayerID: 76561198877083098 Name: tomadachocante Character: gado de e-grilo
+[08/11/2021 17:52:16] [Info] Saving server
+[08/11/2021 17:53:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle 36760"
+[08/11/2021 17:54:05] [Info] [World] gado de e-grilo [tomadachocante]: "/kit inicial"
+[08/11/2021 17:54:26] [Info] Brunóx [Brunóx] killed themself.
+[08/11/2021 17:54:58] [Info] joji [joji] was roadkilled by Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]!
+[08/11/2021 17:55:57] [Info] Alberto Einstein [Alberto_Einstein06] bled to death!
+[08/11/2021 17:56:37] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i carjack"
+[08/11/2021 17:56:40] [Error] Failed to respawn an item with ID 36117 from type Fire [6]
+[08/11/2021 17:56:42] [Error] Failed to respawn an item with ID 36114 from type Fire [6]
+[08/11/2021 17:56:43] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "/home"
+[08/11/2021 17:56:44] [Info] [World] joji [joji]: "/god"
+[08/11/2021 17:56:51] [Info] joji enabled Godmode
+[08/11/2021 17:56:51] [Info] [World] joji [joji]: "/vanisg"
+[08/11/2021 17:56:55] [Info] [World] joji [joji]: "/vanish"
+[08/11/2021 17:56:59] [Info] joji enabled Vanishmode
+[08/11/2021 17:56:59] [Info] Espancador de Véia Rica moved x:1496.906 y:254.5608(+19.9026) z:1980.117 in the last second (0.09999084)
+[08/11/2021 17:57:00] [Info] [World] joji [joji]: "/tp eu"
+[08/11/2021 17:57:16] [Info] [World] Brunóx [Brunóx]: "/tpa japa"
+[08/11/2021 17:57:30] [Info] [World] Espancador de Véia Rica [CIRIMAR]: ",,,,"
+[08/11/2021 17:57:38] [Info] [World] Brunóx [Brunóx]: "/tpa Japa o Loko"
+[08/11/2021 17:57:43] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "/tpa a"
+[08/11/2021 17:57:44] [Info] [World] Alberto Einstein [Alberto_Einstein06]: "/kit inicial"
+[08/11/2021 17:57:59] [Info] [World] Brunóx [Brunóx]: "/tpa Japa O Loko"
+[08/11/2021 17:58:18] [Error] Failed to respawn an item with ID 36112 from type Fire [6]
+[08/11/2021 17:58:22] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 17:58:36] [Error] Failed to respawn an item with ID 36116 from type Fire [6]
+[08/11/2021 17:58:45] [Info] Espancador de Véia Rica moved x:1109.406 y:229.0234(+15.96474) z:1919.117 in the last second (0.7436523)
+[08/11/2021 17:59:09] [Info] victorx0 moved x:1980.594 y:240.9375(+191.9329) z:1938.227 in the last second (0.7441406)
+[08/11/2021 17:59:10] [Info] Zikinha moved x:1979.781 y:240.8585(+191.8962) z:1942.148 in the last second (0.5596924)
+[08/11/2021 18:00:00] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "alguém tem base lvl 3 ? preciso tirar uma dúvida"
+[08/11/2021 18:00:10] [Error] Failed to respawn an item with ID 36111 from type Fire [6]
+[08/11/2021 18:00:12] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 18:01:38] [Error] Failed to respawn an item with ID 36113 from type Fire [6]
+[08/11/2021 18:01:38] [Error] Failed to respawn an item with ID 36115 from type Fire [6]
+[08/11/2021 18:01:45] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 18:01:52] [Error] Failed to respawn an item with ID 36114 from type Fire [6]
+[08/11/2021 18:02:27] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmktc"
+[08/11/2021 18:02:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/11/2021 18:02:57] [Info] [World] joji [joji]: "/vanish"
+[08/11/2021 18:02:57] [Info] joji disabled Vanishmode
+[08/11/2021 18:02:57] [Info] joji moved x:-658.2643 y:59.24597(+31.77079) z:648.6509 in the last second (0.1060143)
+[08/11/2021 18:03:01] [Info] [World] joji [joji]: "/god"
+[08/11/2021 18:03:05] [Info] joji disabled Godmode
+[08/11/2021 18:03:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle gt"
+[08/11/2021 18:03:18] [Error] Failed to respawn an item with ID 36117 from type Fire [6]
+[08/11/2021 18:03:22] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 18:03:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/vehicle gt"
+[08/11/2021 18:03:25] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 18:04:49] [Info] joji moved x:-1968.813 y:151.6927(+93.15808) z:-44.5 in the last second (0.1824951)
+[08/11/2021 18:04:58] [Info] [World] joji [joji]: "/i mattock"
+[08/11/2021 18:05:02] [Error] Failed to respawn an item with ID 36115 from type Fire [6]
+[08/11/2021 18:05:03] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 18:05:12] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 18:05:14] [Info] Eu kimetsu no teu rayba moved x:-1980.451 y:155.8444(+96.24566) z:-13.74703 in the last second (0.1069946)
+[08/11/2021 18:05:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i hammer"
+[08/11/2021 18:05:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/11/2021 18:06:23] [Info] Eu kimetsu no teu rayba disabled Godmode
+[08/11/2021 18:06:23] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/heal joji"
+[08/11/2021 18:06:29] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/unadmin joji"
+[08/11/2021 18:06:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/11/2021 18:06:37] [Info] Eu kimetsu no teu rayba enabled Godmode
+[08/11/2021 18:06:37] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/11/2021 18:06:43] [Info] Eu kimetsu no teu rayba disabled Godmode
+[08/11/2021 18:06:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/unadmin kime"
+[08/11/2021 18:06:49] [Error] Failed to respawn an item with ID 36111 from type Fire [6]
+[08/11/2021 18:06:55] [Info] [World] joji [joji]: "/kit discord"
+[08/11/2021 18:07:19] [Info] Successfully admined joji
+[08/11/2021 18:07:26] [Info] [World] joji [joji]: "/kit discord"
+[08/11/2021 18:07:35] [Info] Successfully unadmined joji
+[08/11/2021 18:07:55] [Info] [Area] BrunoNRG [BrunoNRG]: "adimimininastror"
+[08/11/2021 18:08:02] [Info] [World] BrunoNRG [BrunoNRG]: "adimimininastror"
+[08/11/2021 18:08:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit discord"
+[08/11/2021 18:08:11] [Info] [World] BrunoNRG [BrunoNRG]: "qnt tempo demora prio drop cair?"
+[08/11/2021 18:08:18] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 18:08:18] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "nao sei"
+[08/11/2021 18:08:23] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "mas eu atrasei um pouco"
+[08/11/2021 18:08:32] [Info] [World] BrunoNRG [BrunoNRG]: "pq mds to aq a 4 minutos e ele n saiu do lugar KKK"
+[08/11/2021 18:08:32] [Error] Failed to respawn an item with ID 36112 from type Fire [6]
+[08/11/2021 18:09:12] [Info] Successfully admined Eu kimetsu no teu rayba
+[08/11/2021 18:09:24] [Info] [World] BrunoNRG [BrunoNRG]: "um pouco? KKKKKKKK"
+[08/11/2021 18:09:24] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp bruno"
+[08/11/2021 18:09:51] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/11/2021 18:09:54] [Info] Eu kimetsu no teu rayba enabled Godmode
+[08/11/2021 18:09:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/heal"
+[08/11/2021 18:10:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/heal"
+[08/11/2021 18:10:27] [Info] [World] BrunoNRG [BrunoNRG]: "ele sumiu ,-,"
+[08/11/2021 18:10:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "espera outro vim"
+[08/11/2021 18:10:59] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "pra ver se bugou"
+[08/11/2021 18:11:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/11/2021 18:11:16] [Info] Eu kimetsu no teu rayba disabled Godmode
+[08/11/2021 18:11:16] [Info] [World] BrunoNRG [BrunoNRG]: "eu nem queria pegar, só queria ver se alguem ia pegar kksksksks"
+[08/11/2021 18:11:27] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp joji"
+[08/11/2021 18:11:39] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tu viu ele saindo do aviao ?"
+[08/11/2021 18:11:42] [Info] [World] BrunoNRG [BrunoNRG]: "quero descontar minha raiva em algúem"
+[08/11/2021 18:11:45] [Info] [World] BrunoNRG [BrunoNRG]: "ss"
+[08/11/2021 18:11:45] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/unadmin"
+[08/11/2021 18:11:47] [Info] [World] BrunoNRG [BrunoNRG]: "ss"
+[08/11/2021 18:11:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/unadmin kime"
+[08/11/2021 18:11:51] [Error] Failed to respawn an item with ID 36114 from type Fire [6]
+[08/11/2021 18:12:11] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou dar uma olhada nas conf"
+[08/11/2021 18:12:40] [Info] [World] BrunoNRG [BrunoNRG]: "qm é o sandor?"
+[08/11/2021 18:12:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "eu"
+[08/11/2021 18:13:27] [Info] [World] BrunoNRG [BrunoNRG]: "atah, achei q se ia falar comigo sobre aql lançe, mas aparentemente tu ja resolveu KKKKK"
+[08/11/2021 18:13:45] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "esqueci"
+[08/11/2021 18:13:47] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkkk"
+[08/11/2021 18:13:58] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tava arrumando  as coisas do vip"
+[08/11/2021 18:14:05] [Info] [World] Brunóx [Brunóx]: "/kit inicisl"
+[08/11/2021 18:14:09] [Info] [World] BrunoNRG [BrunoNRG]: "conseguiu?"
+[08/11/2021 18:14:13] [Info] [World] Brunóx [Brunóx]: "/kit inicial"
+[08/11/2021 18:14:14] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "calmae"
+[08/11/2021 18:15:35] [Info] Successfully admined Eu kimetsu no teu rayba
+[08/11/2021 18:16:12] [Info] Kicking for inactivity: PlayerID: 76561199026720253 Name: joji Character: joji
+[08/11/2021 18:16:25] [Info] Disconnecting: PlayerID: 76561199026720253 Name: joji Character: joji
+[08/11/2021 18:16:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/11/2021 18:16:29] [Info] Eu kimetsu no teu rayba enabled Godmode
+[08/11/2021 18:16:29] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp bruno"
+[08/11/2021 18:16:44] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 18:17:42] [Info] Brunóx moved x:952.7031 y:232.8359(+72.86324) z:1952.633 in the last second (0.7492676)
+[08/11/2021 18:17:44] [Info] gado de e-grilo [tomadachocante] was punched in the head by Alberto Einstein [Alberto_Einstein06]!
+[08/11/2021 18:17:52] [Info] [World] Brunóx [Brunóx]: "/tpa Japa o Loko"
+[08/11/2021 18:18:06] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "...."
+[08/11/2021 18:18:32] [Error] Failed to respawn an item with ID 36111 from type Fire [6]
+[08/11/2021 18:20:00] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 18:20:05] [Info] [World] gado de e-grilo [tomadachocante]: "/tpa alberto"
+[08/11/2021 18:20:14] [Info] [World] Alberto Einstein [Alberto_Einstein06]: "/tpa accept"
+[08/11/2021 18:20:18] [Info] Connecting: PlayerID: 76561199026720253 Name: joji Character: joji
+[08/11/2021 18:20:19] [Info] [World] Alberto Einstein [Alberto_Einstein06]: "/tpa accept"
+[08/11/2021 18:20:28] [Info] victorx0 [victorx0] killed themself.
+[08/11/2021 18:20:34] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/11/2021 18:20:34] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/11/2021 18:20:41] [Info] [World] gado de e-grilo [tomadachocante]: "/kit inicial"
+[08/11/2021 18:20:49] [Info] victorx0 moved x:1282.664 y:160.5469(+134.5781) z:1376.297 in the last second (0.2770691)
+[08/11/2021 18:21:09] [Info] [World] gado de e-grilo [tomadachocante]: "/tpa alberto"
+[08/11/2021 18:21:16] [Info] [World] Alberto Einstein [Alberto_Einstein06]: "/tpa accept"
+[08/11/2021 18:21:38] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 18:21:45] [Error] Failed to respawn an item with ID 36116 from type Fire [6]
+[08/11/2021 18:22:16] [Info] Saving server
+[08/11/2021 18:22:58] [Info] Zikinha [Zikinha] was chopped in the head by victorx0 [victorx0]!
+[08/11/2021 18:23:12] [Info] [Area] Zikinha [Zikinha]: "/tpa victorx0"
+[08/11/2021 18:23:22] [Info] [Area] Zikinha [Zikinha]: "cara cuzao pegou costa çç"
+[08/11/2021 18:23:26] [Info] [Area] Zikinha [Zikinha]: "zoas kkkkkkk"
+[08/11/2021 18:23:28] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/11/2021 18:23:32] [Info] [Area] Zikinha [Zikinha]: "/tpa victorx0"
+[08/11/2021 18:23:44] [Info] [Area] Zikinha [Zikinha]: "/tpa victorx0"
+[08/11/2021 18:23:44] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/11/2021 18:24:15] [Info] [Area] Zikinha [Zikinha]: "/tpa victorx0"
+[08/11/2021 18:24:20] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/11/2021 18:24:36] [Info] Zikinha moved x:1391.219 y:159.6801(+127.8082) z:1415.367 in the last second (0.100235)
+[08/11/2021 18:25:05] [Error] Failed to respawn an item with ID 36111 from type Fire [6]
+[08/11/2021 18:26:42] [Error] Failed to respawn an item with ID 36113 from type Fire [6]
+[08/11/2021 18:26:43] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 18:27:47] [Info] Zikinha moved x:1979.375 y:240.653(+81.10571) z:1947.086 in the last second (0.1056213)
+[08/11/2021 18:27:52] [Info] victorx0 moved x:1980.288 y:240.5371(+81.02097) z:1942.86 in the last second (0.1066589)
+[08/11/2021 18:28:23] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 18:29:56] [Info] Player finished session: 76561198388550907
+[08/11/2021 18:30:06] [Info] Disconnecting: PlayerID: 76561198388550907 Name: victorx0 Character: victorx0
+[08/11/2021 18:30:06] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 18:30:06] [Error] Failed to respawn an item with ID 36115 from type Fire [6]
+[08/11/2021 18:30:06] [Error] Failed to respawn an item with ID 36115 from type Fire [6]
+[08/11/2021 18:30:38] [Info] Player finished session: 76561198066514317
+[08/11/2021 18:31:01] [Info] Disconnecting: PlayerID: 76561198066514317 Name: Zikinha Character: Zikinha
+[08/11/2021 18:31:01] [Info] gado de e-grilo [tomadachocante] was shot in the head by Alberto Einstein [Alberto_Einstein06]!
+[08/11/2021 18:31:34] [Info] [World] gado de e-grilo [tomadachocante]: "/tpa alberto"
+[08/11/2021 18:31:37] [Info] [World] Alberto Einstein [Alberto_Einstein06]: "/tpa accept"
+[08/11/2021 18:32:38] [Info] [World] gado de e-grilo [tomadachocante]: "/kit inicial"
+[08/11/2021 18:33:22] [Error] Failed to respawn an item with ID 36114 from type Fire [6]
+[08/11/2021 18:34:23] [Info] Player finished session: 76561198371542208
+[08/11/2021 18:35:20] [Info] Disconnecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/11/2021 18:35:20] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 18:35:20] [Error] Failed to respawn an item with ID 36114 from type Fire [6]
+[08/11/2021 18:36:46] [Error] Failed to respawn an item with ID 36115 from type Fire [6]
+[08/11/2021 18:36:49] [Info] Kicking for inactivity: PlayerID: 76561198877083098 Name: tomadachocante Character: gado de e-grilo
+[08/11/2021 18:38:17] [Info] Disconnecting: PlayerID: 76561198877083098 Name: tomadachocante Character: gado de e-grilo
+[08/11/2021 18:38:17] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "/home"
+[08/11/2021 18:38:18] [Error] Failed to respawn an item with ID 36110 from type Fire [6]
+[08/11/2021 18:38:24] [Error] Failed to respawn an item with ID 36115 from type Fire [6]
+[08/11/2021 18:38:32] [Info] Espancador de Véia Rica moved x:1496.906 y:254.5608(+100.5896) z:1980.117 in the last second (0.09999084)
+[08/11/2021 18:39:36] [Info] Player finished session: 76561199121539557
+[08/11/2021 18:39:57] [Info] Disconnecting: PlayerID: 76561199121539557 Name: Alberto_Einstein06 Character: Alberto Einstein
+[08/11/2021 18:39:57] [Info] Brunóx moved x:974.4922 y:232.8224(+67.54237) z:1962.563 in the last second (0.1009674)
+[08/11/2021 18:40:31] [Info] Permissions reloaded
+[08/11/2021 18:40:48] [Info] Connecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/11/2021 18:41:35] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/p add Bruno Mod"
+[08/11/2021 18:41:52] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 18:41:57] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/p add Bruno Moderador"
+[08/11/2021 18:42:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "fala alguma coisa no chat"
+[08/11/2021 18:42:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "bruno"
+[08/11/2021 18:42:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp Bruno"
+[08/11/2021 18:43:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/p add kime moderador"
+[08/11/2021 18:43:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/11/2021 18:43:17] [Info] Eu kimetsu no teu rayba disabled Godmode
+[08/11/2021 18:43:17] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/unadmin kime"
+[08/11/2021 18:43:27] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 18:43:29] [Error] Failed to respawn an item with ID 36821 from type Fire [6]
+[08/11/2021 18:43:32] [Info] Player finished session: 76561198942031373
+[08/11/2021 18:43:32] [Info] Disconnecting: PlayerID: 76561198942031373 Name: Eu kimetsu no teu rayba Character: Eu kimetsu no teu rayba
+[08/11/2021 18:43:32] [Error] Failed to respawn an item with ID 36113 from type Fire [6]
+[08/11/2021 18:44:38] [Info] Connecting: PlayerID: 76561198942031373 Name: Eu kimetsu no teu rayba Character: [MOD]Eu kimetsu no teu rayba
+[08/11/2021 18:44:59] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "alo"
+[08/11/2021 18:47:03] [Info] Permissions reloaded
+[08/11/2021 18:47:15] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ae"
+[08/11/2021 18:47:26] [Info] [World] BrunoNRG [BrunoNRG]: "/kits"
+[08/11/2021 18:47:29] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "bruno"
+[08/11/2021 18:47:36] [Info] [World] BrunoNRG [BrunoNRG]: "ala tu"
+[08/11/2021 18:47:40] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "reloga"
+[08/11/2021 18:47:43] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/commands"
+[08/11/2021 18:47:45] [Info] [World] BrunoNRG [BrunoNRG]: "dmr"
+[08/11/2021 18:47:55] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/p add discord kime"
+[08/11/2021 18:47:57] [Info] Player finished session: 76561198371542208
+[08/11/2021 18:48:02] [Info] Disconnecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/11/2021 18:48:02] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/11/2021 18:48:07] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ae"
+[08/11/2021 18:49:42] [Info] Connecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: [MOD]BrunoNRG
+[08/11/2021 18:49:45] [Info] Connecting: PlayerID: 76561198413375571 Name: hugo's scope Character: rojaoh
+[08/11/2021 18:49:46] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "alo"
+[08/11/2021 18:49:49] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/11/2021 18:50:01] [Info] [World] rojaoh [hugo's scope]: "/kits"
+[08/11/2021 18:50:07] [Info] [World] Brunóx [Brunóx]: "/HOME"
+[08/11/2021 18:50:08] [Info] [World] rojaoh [hugo's scope]: "/kit inicial"
+[08/11/2021 18:50:27] [Info] [World] [MOD]BrunoNRG [BrunoNRG]: "/kits"
+[08/11/2021 18:50:32] [Info] [World] [MOD]BrunoNRG [BrunoNRG]: "opah"
+[08/11/2021 18:51:08] [Info] rojaoh [hugo's scope] killed themself.
+[08/11/2021 18:51:10] [Info] Player finished session: 76561198413375571
+[08/11/2021 18:51:11] [Info] Disconnecting: PlayerID: 76561198413375571 Name: hugo's scope Character: rojaoh
+[08/11/2021 18:51:11] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "/home"
+[08/11/2021 18:52:02] [Error] Failed to respawn an item with ID 36116 from type Fire [6]
+[08/11/2021 18:52:16] [Info] Saving server
+[08/11/2021 18:52:34] [Info] Permissions reloaded
+[08/11/2021 18:52:39] [Info] Connecting: PlayerID: 76561199012249184 Name: rafapvp43 Character: rafapvp43
+[08/11/2021 18:52:51] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/11/2021 18:53:00] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tpa joji"
+[08/11/2021 18:53:06] [Info] [World] joji [joji]: "/tpa a"
+[08/11/2021 18:53:07] [Info] [World] rafapvp43 [rafapvp43]: "/KIT INICIAL"
+[08/11/2021 18:53:20] [Info] [World] Brunóx [Brunóx]: "/kit inicial"
+[08/11/2021 18:53:22] [Info] [MOD]Eu kimetsu no teu rayba moved x:-1962.352 y:160.4797(+117.2916) z:29.32031 in the last second (0.1000977)
+[08/11/2021 18:53:24] [Error] Failed to respawn an item with ID 36110 from type Fire [6]
+[08/11/2021 18:53:40] [Info] Player finished session: 76561199026720253
+[08/11/2021 18:53:51] [Info] Disconnecting: PlayerID: 76561199026720253 Name: joji Character: joji
+[08/11/2021 18:53:51] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ae"
+[08/11/2021 18:54:04] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou arrumar o airdrop"
+[08/11/2021 18:54:07] [Info] [World] [MOD]BrunoNRG [BrunoNRG]: "/give 269"
+[08/11/2021 18:54:17] [Info] [World] [MOD]BrunoNRG [BrunoNRG]: "dmr"
+[08/11/2021 18:54:33] [Info] [World] [MOD]BrunoNRG [BrunoNRG]: "to morrendo de infecção agr q vi ,-, KKKK"
+[08/11/2021 18:55:06] [Error] Failed to respawn an item with ID 36820 from type Fire [6]
+[08/11/2021 18:56:29] [Error] Failed to respawn an item with ID 36116 from type Fire [6]
+[08/11/2021 18:56:29] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou reiniciar o servidor"
+[08/11/2021 18:56:32] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "5 min"
+[08/11/2021 18:56:34] [Info] [World] [MOD]BrunoNRG [BrunoNRG]: "perai"
+[08/11/2021 18:56:51] [Info] [World] [MOD]BrunoNRG [BrunoNRG]: "dx eu me mata aq"
+[08/11/2021 18:56:51] [Error] Failed to respawn an item with ID 36112 from type Fire [6]
+[08/11/2021 18:56:55] [Info] Successfully admined [MOD]Eu kimetsu no teu rayba
+[08/11/2021 18:56:57] [Info] [MOD]BrunoNRG [BrunoNRG] killed themself.
+[08/11/2021 18:57:02] [Info] [World] [MOD]BrunoNRG [BrunoNRG]: "/home"
+[08/11/2021 18:57:05] [Info] [World] [MOD]Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/11/2021 18:57:15] [Info] [MOD]Eu kimetsu no teu rayba enabled Godmode
+[08/11/2021 18:57:15] [Info] [World] [MOD]BrunoNRG [BrunoNRG]: "/tp"
+[08/11/2021 18:57:42] [Info] [World] [MOD]BrunoNRG [BrunoNRG]: "pronto terminei"
+[08/11/2021 18:57:57] [Info] [World] [MOD]BrunoNRG [BrunoNRG]: "tm já volto vou resolver uma fita aq uns 15 min"
+[08/11/2021 18:58:12] [Info] Player finished session: 76561198371542208
+[08/11/2021 19:00:08] [Info] Disconnecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: [MOD]BrunoNRG
+[08/11/2021 19:00:08] [Error] Failed to respawn an item with ID 36117 from type Fire [6]
+[08/11/2021 19:01:45] [Error] Failed to respawn an item with ID 36117 from type Fire [6]
+[08/11/2021 19:01:47] [Error] Failed to respawn an item with ID 36111 from type Fire [6]
+[08/11/2021 19:02:45] [Info] 
+[unloading] uEssentials

@@ -1,0 +1,90 @@
+GUID 46f8c0fd663a43d297208cec991c4289
+Type Dialogue
+ID 25360
+
+Messages 3
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 25370
+Message_0_Condition_0_Status None
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 2
+Message_0_Response_0 0
+Message_0_Response_1 2
+
+Message_1_Pages 1
+Message_1_Conditions 2
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 25370
+Message_1_Condition_0_Status Completed
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_ID 25371
+Message_1_Condition_1_Status None
+Message_1_Condition_1_Logic Equal
+Message_1_Condition_1_Allow_Unset
+Message_1_Responses 2
+Message_1_Response_0 3
+Message_1_Response_1 5
+
+Message_2_Pages 1
+Message_2_Responses 4
+Message_2_Response_0 1
+Message_2_Response_1 4
+Message_2_Response_2 6
+Message_2_Response_3 7
+
+Responses 8
+
+Response_0_Dialogue 25361
+Response_0_Quest 25370
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_ID 25370
+Response_0_Condition_0_Status None
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 25370
+
+Response_1_Dialogue 25362
+Response_1_Quest 25370
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 25370
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Reset
+
+// Sydney Pearl, Len Oakbear, Haider Flowers
+
+Response_3_Dialogue 25363
+Response_3_Quest 25371
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 25371
+Response_3_Condition_0_Status None
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 25371
+
+Response_4_Dialogue 25364
+Response_4_Quest 25371
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_ID 25371
+Response_4_Condition_0_Status Ready
+Response_4_Condition_0_Reset
+
+// Response 1 when the questioning begins.
+Response_6_Dialogue 25365
+Response_6_Conditions 1
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_ID 25040
+Response_6_Condition_0_Status None
+Response_6_Condition_0_Logic Not_Equal
+

@@ -1,0 +1,12 @@
+GUID 9b48b9f09a1d4a20a31e8cff0209f25a
+Type Small
+ID 35183
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4145
+Condition_0_Value 2
+Condition_0_Logic Equal
+
+Bundle_Override_Path /Objects/France/Small/Quests/France_Gold_Pan
+Master_Bundle_Override france.masterbundle

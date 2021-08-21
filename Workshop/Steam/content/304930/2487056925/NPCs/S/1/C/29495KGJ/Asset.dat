@@ -1,0 +1,18 @@
+GUID 22873eecda13441486f2f6129ed2fc93
+Type NPC
+ID 29495
+
+Shirt 165 
+Pants 209
+Backpack 253
+
+Primary 5011
+Equipped Primary
+
+Face 22
+Hair 18
+Beard 1
+Color_Skin #BEA582
+Color_Hair #191919
+
+Dialogue 29496

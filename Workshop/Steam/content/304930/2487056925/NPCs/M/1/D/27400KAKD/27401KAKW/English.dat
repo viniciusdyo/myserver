@@ -1,0 +1,16 @@
+//T1
+Message_0_Page_0 They don't seem like they're in the mood to talk.
+Message_1_Page_0 They probably don't want to talk to you.
+Message_2_Page_0 They probably won't talk to you.
+//T2
+Message_3_Page_0 They seem a bit annoyed.
+Message_4_Page_0 They don't seem too happy.
+Message_5_Page_0 They likely won't talk with you.
+//T3
+Message_6_Page_0 They seem angry.
+Message_7_Page_0 They don't seem to like you staring at them.
+Message_8_Page_0 They definitely don't want to talk right now.
+//...
+Message_9_Page_0 ...
+// Intro
+Response_0 Goodbye.

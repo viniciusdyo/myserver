@@ -1,0 +1,7 @@
+Name <color=#b8b188>Concord: </color>Quenching a Thirst
+Description Akil wants something to drink. Water won't do, and soda isn't good for him. Get him some cucumber water.
+
+Condition_0 Find {0}/{1} {2}
+
+Reward_0 50 Experience
+Reward_1 5 Reputation

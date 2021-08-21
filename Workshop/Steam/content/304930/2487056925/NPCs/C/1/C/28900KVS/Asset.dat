@@ -1,0 +1,24 @@
+GUID 9e46de15b8e142f2ab52c881d4ce75b4
+Type NPC
+ID 28900
+
+Shirt 420
+Pants 214
+Glasses 568
+Mask 418
+
+// Beyblade Master Kyle 
+Face 22
+Hair 19
+Beard 6
+Color_Skin #BEA582
+Color_Hair #191919
+
+Primary 1041
+
+Dialogue 28901
+
+Conditions 1
+Condition_0_Type Time_Of_Day
+Condition_0_Second 14400
+Condition_0_Logic Less_Than_Or_Equal_To

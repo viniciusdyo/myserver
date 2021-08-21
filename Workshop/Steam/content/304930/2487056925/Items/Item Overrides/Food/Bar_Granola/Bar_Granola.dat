@@ -1,0 +1,16 @@
+GUID 980ac4ae55284b4199f5b3223116df45
+Type Food
+Useable Consumeable
+ID 5222
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Food 25
+Energy 15
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Bar_Granola
+
+ConsumeAudioClip Sounds/EatCrunchy.mp3

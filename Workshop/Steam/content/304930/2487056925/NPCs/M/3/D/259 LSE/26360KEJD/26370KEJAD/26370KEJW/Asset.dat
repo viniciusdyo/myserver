@@ -1,0 +1,112 @@
+GUID 98811d1e1a1e419792bbaa1be8c082cf
+Type Dialogue
+ID 26370
+
+// Hello!
+Messages 2
+Message_0_Pages 1
+Message_0_Conditions 3
+// Major Grant's Exploration.
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 25959
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+// Lieutenant Yaeger
+Message_0_Condition_1_Type Flag_Bool
+Message_0_Condition_1_ID 26259
+Message_0_Condition_1_Value False
+Message_0_Condition_1_Logic Equal
+Message_0_Condition_1_Allow_Unset
+// Ensign Jennifer (self)
+Message_0_Condition_2_Type Flag_Bool
+Message_0_Condition_2_ID 26359
+Message_0_Condition_2_Value False
+Message_0_Condition_2_Logic Equal
+Message_0_Condition_2_Allow_Unset
+Message_0_Responses 4
+Message_0_Response_0 0
+Message_0_Response_1 1
+Message_0_Response_2 3
+Message_0_Response_3 4
+
+Message_1_Pages 1
+Message_1_Responses 3
+Message_1_Response_0 2
+Message_1_Response_1 3
+Message_1_Response_2 5
+
+Responses 6
+
+// Spawn table for mechanic items is 7116.
+// Response 0 when no quest.
+Response_0_Dialogue 26371
+Response_0_Quest 26375
+Response_0_Conditions 2
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 26375
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_1_Type Currency
+Response_0_Condition_1_Value 25
+Response_0_Condition_1_GUID b76b37b2d40c4054b850458e135408c6
+Response_0_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_0_Condition_1_Reset
+Response_0_Rewards 2
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 26375
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 26359
+Response_0_Reward_1_Value True
+
+// Response 1 when quest having been taken, reset.
+Response_1_Dialogue 26371
+Response_1_Quest 26375
+Response_1_Conditions 2
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 26375
+Response_1_Condition_0_Status Completed
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Reset
+Response_1_Condition_1_Type Currency
+Response_1_Condition_1_Value 25
+Response_1_Condition_1_GUID b76b37b2d40c4054b850458e135408c6
+Response_1_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_1_Condition_1_Reset
+Response_1_Rewards 2
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 26375
+Response_1_Reward_1_Type Flag_Bool
+Response_1_Reward_1_ID 26359
+Response_1_Reward_1_Value True
+
+// Response 2 when self taken, but want to reset.
+Response_2_Dialogue 26372
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 26375
+Response_2_Condition_0_Status None
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_1_Type Flag_Bool
+Response_2_Condition_1_ID 26359
+Response_2_Condition_1_Value True
+Response_2_Condition_1_Logic Equal
+Response_2_Rewards 2
+Response_2_Reward_0_Type Flag_Bool
+Response_2_Reward_0_ID 26359
+Response_2_Reward_0_Value False
+Response_2_Reward_1_Type Currency
+Response_2_Reward_1_Value 20
+Response_2_Reward_1_GUID b76b37b2d40c4054b850458e135408c6
+
+// Response 3 when the questioning begins.
+Response_3_Dialogue 26373
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 25040
+Response_3_Condition_0_Status None
+Response_3_Condition_0_Logic Not_Equal
+
+// Response 4, 5 exit
+
+// If you're copying things, at least credit NSTM.

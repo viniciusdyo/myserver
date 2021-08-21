@@ -1,0 +1,23 @@
+GUID 67dc19b6e3f34d54bc4bba50dc9290a0
+Type Small
+ID 5221
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 28821
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+// Wiring from Weston?
+Interactability_Conditions 1
+Interactability_Condition_0_Type Flag_Bool
+Interactability_Condition_0_ID 28822
+Interactability_Condition_0_Value True
+Interactability_Condition_0_Logic Equal
+// Can place.
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 28821
+Interactability_Reward_0_Value True

@@ -1,0 +1,31 @@
+GUID 25c45097a0d44727892dd48e15c9ec94
+Type Medium
+ID 5257
+
+Master_Bundle_Override kuwait.masterbundle
+Bundle_Override_Path /Objects/Medium/Quests/Kuwait_Eye_Floating_Collect
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 29750
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 29709
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 29709
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 29706
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
+
+Chart Ignore
+GPS Ignore

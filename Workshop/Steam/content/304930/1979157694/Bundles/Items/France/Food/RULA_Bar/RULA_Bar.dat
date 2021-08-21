@@ -1,0 +1,14 @@
+GUID 142ca1117bd640c0acd7d38db2fbd864
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 3117
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Quality_Min 50
+
+Food 60
+Water 10

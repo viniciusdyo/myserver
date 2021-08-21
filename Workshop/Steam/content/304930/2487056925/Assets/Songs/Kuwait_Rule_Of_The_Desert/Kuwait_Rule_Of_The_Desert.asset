@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "3809d51fb9064e2797f832c77078ba77"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Music_Guitar_Track_0.Title"
+	}
+	"Song"
+	{
+		"MasterBundle" "kuwait.masterbundle"
+		"AssetPath" "Songs/Music_Rule_Of_The_Desert_Staswalle.mp3"
+	}
+}

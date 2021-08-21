@@ -1,0 +1,230 @@
+GUID e6bd030eee7e4121bc8ee37ec94b3c75
+Type Dialogue
+ID 28151
+
+// Ciao.
+Messages 8
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 28161
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Rewards 3
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 28163
+Message_0_Reward_0_Min_Value 1
+Message_0_Reward_0_Max_Value 9
+Message_0_Reward_0_Modification Assign
+Message_0_Reward_1_Type Flag_Bool
+Message_0_Reward_1_ID 28161
+Message_0_Reward_1_Value True
+Message_0_Reward_2_Type Flag_Short_Random
+Message_0_Reward_2_ID 23800
+Message_0_Reward_2_Min_Value 0
+Message_0_Reward_2_Max_Value 2
+Message_0_Reward_2_Modification Assign
+
+// Randomized 1
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 23800
+Message_1_Condition_0_Value 0
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_Allow_Unset
+// Randomize Again.
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short_Random
+Message_1_Reward_0_ID 23800
+Message_1_Reward_0_Min_Value 0
+Message_1_Reward_0_Max_Value 2
+Message_1_Reward_0_Modification Assign
+
+// Randomized 2
+Message_2_Pages 1
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 23800
+Message_2_Condition_0_Value 1
+Message_2_Condition_0_Logic Equal
+// Randomize Again.
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short_Random
+Message_2_Reward_0_ID 23800
+Message_2_Reward_0_Min_Value 0
+Message_2_Reward_0_Max_Value 2
+Message_2_Reward_0_Modification Assign
+
+// Randomized 3 (Morning, 4 to 6)
+Message_3_Pages 1
+Message_3_Conditions 3
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 23800
+Message_3_Condition_0_Value 2
+Message_3_Condition_0_Logic Equal
+Message_3_Condition_1_Type Time_Of_Day
+Message_3_Condition_1_Second 14400
+Message_3_Condition_1_Logic Greater_Than
+Message_3_Condition_2_Type Time_Of_Day
+Message_3_Condition_2_Second 21600
+Message_3_Condition_2_Logic Less_Than_Or_Equal_To
+// Randomize Again.
+Message_3_Rewards 1
+Message_3_Reward_0_Type Flag_Short_Random
+Message_3_Reward_0_ID 23800
+Message_3_Reward_0_Min_Value 0
+Message_3_Reward_0_Max_Value 2
+Message_3_Reward_0_Modification Assign
+
+// Randomized 3 (Morning, 6 to 9)
+Message_4_Pages 1
+Message_4_Conditions 3
+Message_4_Condition_0_Type Flag_Short
+Message_4_Condition_0_ID 23800
+Message_4_Condition_0_Value 2
+Message_4_Condition_0_Logic Equal
+Message_4_Condition_1_Type Time_Of_Day
+Message_4_Condition_1_Second 21600
+Message_4_Condition_1_Logic Greater_Than
+Message_4_Condition_2_Type Time_Of_Day
+Message_4_Condition_2_Second 32400
+Message_4_Condition_2_Logic Less_Than_Or_Equal_To
+// Randomize Again.
+Message_4_Rewards 1
+Message_4_Reward_0_Type Flag_Short_Random
+Message_4_Reward_0_ID 23800
+Message_4_Reward_0_Min_Value 0
+Message_4_Reward_0_Max_Value 2
+Message_4_Reward_0_Modification Assign
+
+// Randomized 3 (Afternoon, 9am to 6pm)
+Message_5_Pages 1
+Message_5_Conditions 3
+Message_5_Condition_0_Type Flag_Short
+Message_5_Condition_0_ID 23800
+Message_5_Condition_0_Value 2
+Message_5_Condition_0_Logic Equal
+Message_5_Condition_1_Type Time_Of_Day
+Message_5_Condition_1_Second 32400
+Message_5_Condition_1_Logic Greater_Than
+Message_5_Condition_2_Type Time_Of_Day
+Message_5_Condition_2_Second 64800
+Message_5_Condition_2_Logic Less_Than_Or_Equal_To
+// Randomize Again.
+Message_5_Rewards 1
+Message_5_Reward_0_Type Flag_Short_Random
+Message_5_Reward_0_ID 23800
+Message_5_Reward_0_Min_Value 0
+Message_5_Reward_0_Max_Value 2
+Message_5_Reward_0_Modification Assign
+
+// Randomized 3 (Evening, 6pm to 12)
+Message_6_Pages 1
+Message_6_Conditions 2
+Message_6_Condition_0_Type Flag_Short
+Message_6_Condition_0_ID 23800
+Message_6_Condition_0_Value 2
+Message_6_Condition_0_Logic Equal
+Message_6_Condition_1_Type Time_Of_Day
+Message_6_Condition_1_Second 64800
+Message_6_Condition_1_Logic Greater_Than
+// Randomize Again.
+Message_6_Rewards 1
+Message_6_Reward_0_Type Flag_Short_Random
+Message_6_Reward_0_ID 23800
+Message_6_Reward_0_Min_Value 0
+Message_6_Reward_0_Max_Value 2
+Message_6_Reward_0_Modification Assign
+
+// Randomized 3 (Evening, 12 to 4am)
+Message_7_Pages 1
+Message_7_Conditions 2
+Message_7_Condition_0_Type Flag_Short
+Message_7_Condition_0_ID 23800
+Message_7_Condition_0_Value 2
+Message_7_Condition_0_Logic Equal
+Message_7_Condition_1_Type Time_Of_Day
+Message_7_Condition_1_Second 14400
+Message_7_Condition_1_Logic Less_Than_Or_Equal_To
+// Randomize Again.
+Message_7_Rewards 1
+Message_7_Reward_0_Type Flag_Short_Random
+Message_7_Reward_0_ID 23800
+Message_7_Reward_0_Min_Value 0
+Message_7_Reward_0_Max_Value 2
+Message_7_Reward_0_Modification Assign
+
+Responses 6
+
+// ...huh? Oh, Ehilà! What are you doing here, looking for random quest code? Y'know, Snowy is the older one, she has a better one... And besides, I already stopped using random quest code! Go away!
+
+// Quest IDs are 28161 - 28162 - 28163
+
+// No Quests T1
+Response_0_Dialogue 28152
+// Response_0_Quest 28161
+Response_0_Conditions 2
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 28161
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Status None
+Response_0_Condition_1_Type Quest
+Response_0_Condition_1_ID 28162
+Response_0_Condition_1_Logic Equal
+Response_0_Condition_1_Status None
+// Response_0_Rewards 1
+// Response_0_Reward_0_Type Quest
+// Response_0_Reward_0_ID 28161
+
+// Take Quest - Reset Quest Condition
+Response_1_Dialogue 28152
+// Response_1_Quest 28161
+Response_1_Conditions 2
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 28161
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Status Completed
+Response_1_Condition_0_Reset
+Response_1_Condition_1_Type Quest
+Response_1_Condition_1_ID 28162
+Response_1_Condition_1_Logic Equal
+Response_1_Condition_1_Status None
+// Response_1_Rewards 1
+// Response_1_Reward_0_Type Quest
+// Response_1_Reward_0_ID 28161
+
+// Take Quest - Reset Quest Condition 2
+Response_2_Dialogue 28152
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 28162
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Status Completed
+Response_2_Condition_0_Reset
+Response_2_Condition_1_Type Quest
+Response_2_Condition_1_ID 28161
+Response_2_Condition_1_Logic Equal
+Response_2_Condition_1_Status None
+
+// Quest T1-1 Done
+Response_3_Dialogue 28154
+Response_3_Quest 28161
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 28161
+Response_3_Condition_0_Status Ready	
+Response_3_Condition_0_Reset
+
+// Quest T1-1 Done
+Response_4_Dialogue 28155
+Response_4_Quest 28162
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_ID 28162
+Response_4_Condition_0_Status Ready	
+Response_4_Condition_0_Reset

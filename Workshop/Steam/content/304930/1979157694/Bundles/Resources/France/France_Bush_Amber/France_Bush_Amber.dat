@@ -1,0 +1,16 @@
+GUID e1c0503c15da49f483bc30157491a276
+Type Resource
+ID 163
+
+Health 1
+Radius 3
+Scale 0.1
+
+Explosion 43
+
+Log 270
+Forage
+
+Reset 900
+
+Asset_Bundle_Version 3

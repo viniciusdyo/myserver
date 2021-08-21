@@ -1,0 +1,59 @@
+GUID 83a0e017fb2340d689c39704b8f9dd24
+Type Melee
+Rarity Rare
+Useable Melee
+ID 5087
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Range 2.25
+BladeID 99
+Strength 1.5
+Stamina 5
+
+Player_Damage 10
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 5.0
+
+Zombie_Damage 15
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 2
+
+Animal_Damage 15
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 5.0
+
+Barricade_Damage 10
+Structure_Damage 0
+Vehicle_Damage 10
+Object_Damage 10
+Resource_Damage 50
+
+Durability 0.5
+
+Blueprints 3
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 5087
+Blueprint_2_Product 67
+Blueprint_2_Products 3
+Blueprint_2_Build 27
+Blueprint_2_Map Kuwait

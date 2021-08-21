@@ -1,0 +1,13 @@
+GUID 15608c52763447cb9da914ed083719cd
+Type Barrel
+ID 3034
+
+Size_X 2
+Size_Y 1
+Size_Z 1
+
+Braked
+Silenced 
+Volume 0.6
+
+Ballistic_Drop 1.21

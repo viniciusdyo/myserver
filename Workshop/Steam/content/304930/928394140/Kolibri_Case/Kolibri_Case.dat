@@ -1,0 +1,30 @@
+GUID 14e34bcf102f4ff48b9485e1ed6beddb
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 51145
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Health 1000
+Range 4
+Radius 0.02
+Offset 0.05
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51145
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 51142
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 51143
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Output_2_ID 51144
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Build 27

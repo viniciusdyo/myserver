@@ -1,0 +1,12 @@
+GUID 724edb8c4581456393b5a118b463382d
+Type Small
+ID 35234
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4015
+Condition_0_Value 4
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Bundle_Override_Path /Objects/France/Small/Scrap/France_Scrap_Bar_Stock
+Master_Bundle_Override france.masterbundle

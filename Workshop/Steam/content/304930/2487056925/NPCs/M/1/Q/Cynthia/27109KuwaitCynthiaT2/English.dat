@@ -1,0 +1,5 @@
+Name <color=#b8b188>Concord: </color><color=epic>Handguns and Heavy Barrels</color>
+Description <color=epic>Colonel Cynthia</color><br>It would be useful to have more weaponry on hand for defense. Get some more.
+
+Condition_1 Find Full Military Magazine {0}/1
+Condition_3 Find Full Catalyst Magazine {0}/1

@@ -1,0 +1,29 @@
+GUID 336c48aa6c834afbb56282d97abacef7
+Type Glasses
+Rarity Rare
+Useable Clothing
+ID 5632
+
+Size_X 2
+Size_Y 1
+Size_Z 0.175
+
+Hair
+Beard
+
+Vision Civilian
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 5632
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Glasses/Nightvision_Civilian

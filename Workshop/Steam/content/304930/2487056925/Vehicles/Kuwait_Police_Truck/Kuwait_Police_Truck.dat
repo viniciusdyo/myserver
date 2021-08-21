@@ -1,0 +1,36 @@
+GUID 0219c72c6dbd43aa88758afafd7b5000
+Type Vehicle
+Rarity Rare
+ID 5000
+
+Speed_Min -6
+Speed_Max 15.5
+
+Steer_Min 12
+Steer_Max 24
+
+Brake 40
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2000
+
+Health_Min 450
+Health_Max 550
+Health 650
+
+Traction
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+
+Physics_Profile 0be1cede92404d57999e4a848fc8f996
+
+Valid_Speed_Horizontal 150
+
+ShouldExplosionCauseDamage True
+ShouldExplosionBurnMaterials True
+
+Asset_Bundle_Version 3

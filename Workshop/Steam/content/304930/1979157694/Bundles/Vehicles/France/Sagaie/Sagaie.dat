@@ -1,0 +1,43 @@
+GUID 36f6b949fe0f4f6b8746c8a57e4a1ea1
+Type Vehicle
+Rarity Legendary
+ID 702
+
+Speed_Min -5.4
+Speed_Max 11.46
+
+Steer_Min 14
+Steer_Max 32
+
+Brake 24
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2000
+
+Health_Min 1100
+Health_Max 1300
+Health 1500
+
+Exit 4
+
+Cam_Follow_Distance 8.5
+Bumper_Multiplier 2
+Passenger_Explosion_Armor 0.2
+
+Traction
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 10
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 3059
+Turret_0_Yaw_Min -360
+Turret_0_Yaw_Max 360
+Turret_0_Pitch_Min 70
+Turret_0_Pitch_Max 100

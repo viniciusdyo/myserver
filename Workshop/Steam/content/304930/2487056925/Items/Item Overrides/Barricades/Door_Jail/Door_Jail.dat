@@ -1,0 +1,45 @@
+GUID 31fddaed43bc4700bf6de4e1381f182b
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Door
+ID 5452
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 500
+Range 4
+Radius 1
+Offset 1.25
+
+Locked
+
+Explosion 35
+
+Blueprints 2
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Barricade
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Tool 5112
+Blueprint_1_Tool_Critical
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+
+Armor_Tier High
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Door_Jail
+
+PlacementAudioClip Sounds/MetalPlacement.mp3

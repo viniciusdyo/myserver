@@ -1,0 +1,58 @@
+GUID cddbe8dcec464ac3808a537132efab73
+Type Dialogue
+ID 27501
+
+// Welcome back.
+Messages 3
+
+// Randomized 1
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 27401
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+// Randomize Again.
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 27401
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 2
+Message_0_Reward_0_Modification Assign
+
+// Randomized 2
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 27401
+Message_1_Condition_0_Value 1
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_Allow_Unset
+// Randomize Again.
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short_Random
+Message_1_Reward_0_ID 27401
+Message_1_Reward_0_Min_Value 0
+Message_1_Reward_0_Max_Value 2
+Message_1_Reward_0_Modification Assign
+
+// Randomized 3
+Message_2_Pages 1
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 27401
+Message_2_Condition_0_Value 2
+Message_2_Condition_0_Logic Equal
+Message_2_Condition_0_Allow_Unset
+// Randomize Again.
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short_Random
+Message_2_Reward_0_ID 27401
+Message_2_Reward_0_Min_Value 0
+Message_2_Reward_0_Max_Value 2
+Message_2_Reward_0_Modification Assign
+
+Responses 1
+
+// If you're copying things, at least credit NSTM.

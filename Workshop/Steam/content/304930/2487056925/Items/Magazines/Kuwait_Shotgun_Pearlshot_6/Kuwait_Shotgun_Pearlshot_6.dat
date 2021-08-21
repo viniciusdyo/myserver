@@ -1,0 +1,41 @@
+GUID 80ead72fa99b46948d4dcd75534eb322
+Type Magazine
+Rarity Epic
+ID 5129
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 6
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 5126
+
+Pellets 4
+Spread 0.5
+Ballistic_Damage_Multiplier 1.5
+
+Range 3
+Player_Damage 5
+Zombie_Damage 25
+Animal_Damage 15
+Barricade_Damage 10
+Structure_Damage 0
+Vehicle_Damage 10
+Resource_Damage 10
+Object_Damage 10
+Explosion 5279
+Explosive
+
+Tracer 48
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5129
+Blueprint_0_Build 30
+
+Delete_Empty

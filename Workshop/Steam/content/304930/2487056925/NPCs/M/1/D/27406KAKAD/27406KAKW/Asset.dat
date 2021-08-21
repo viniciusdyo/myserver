@@ -1,0 +1,102 @@
+GUID fa813dad70134a5481634141add22281
+Type Dialogue
+ID 27406
+
+// Krieger needs your help to find out information about the other group.
+// Lucy, it's only for a little bit, let the player do something. I'll meet up with you later.
+Messages 3
+// First Contact.
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 27406
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 1
+Message_0_Response_0 0
+
+// I'll meet you there.
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Bool
+Message_1_Condition_0_ID 27420
+Message_1_Condition_0_Value True
+Message_1_Condition_0_Logic Equal
+Message_1_Responses 1
+Message_1_Response_0 6
+
+// Report.
+Message_2_Pages 1
+Message_2_Responses 5
+Message_2_Response_0 1
+Message_2_Response_1 2
+Message_2_Response_2 3
+Message_2_Response_3 4
+Message_2_Response_4 5
+
+Responses 7
+
+// Let's begin. I'm <char_name>
+Response_0_Dialogue 27407
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 27406
+Response_0_Reward_0_Value True
+
+// Check on progress.
+Response_1_Dialogue 27408
+
+// Met survivors.
+Response_2_Dialogue 27409
+Response_2_Conditions 2
+Response_2_Condition_0_Type Flag_Bool
+Response_2_Condition_0_ID 29301
+Response_2_Condition_0_Value True
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_1_Type Flag_Bool
+Response_2_Condition_1_ID 29410
+Response_2_Condition_1_Value False
+Response_2_Condition_1_Logic Equal
+Response_2_Condition_1_Allow_Unset
+Response_2_Rewards 1
+Response_2_Reward_0_Type Flag_Bool
+Response_2_Reward_0_ID 29410
+Response_2_Reward_0_Value True
+
+// Too hot?
+Response_3_Dialogue 27411
+Response_3_Conditions 2
+Response_3_Condition_0_Type Flag_Bool
+Response_3_Condition_0_ID 29410
+Response_3_Condition_0_Value True
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_1_Type Flag_Bool
+Response_3_Condition_1_ID 29412
+Response_3_Condition_1_Value False
+Response_3_Condition_1_Logic Equal
+Response_3_Condition_1_Allow_Unset
+Response_3_Rewards 1
+Response_3_Reward_0_Type Flag_Bool
+Response_3_Reward_0_ID 29412
+Response_3_Reward_0_Value True
+
+// Meet Weston?
+Response_4_Dialogue 27413
+Response_4_Conditions 2
+Response_4_Condition_0_Type Flag_Bool
+Response_4_Condition_0_ID 29412
+Response_4_Condition_0_Value True
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_1_Type Flag_Bool
+Response_4_Condition_1_ID 29327
+Response_4_Condition_1_Value True
+Response_4_Condition_1_Logic Equal
+Response_4_Rewards 1
+Response_4_Reward_0_Type Flag_Bool
+Response_4_Reward_0_ID 27420
+Response_4_Reward_0_Value True
+
+// If you're copying things, at least credit NSTM.

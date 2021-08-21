@@ -1,0 +1,26 @@
+GUID 6b76c2dd4545402bb58fad1ccbe90b38
+Type NPC
+ID 27300
+
+Shirt 5301
+Pants 5302
+Glasses 761
+
+Hair 8
+Face 24
+Color_Skin #bea582
+Color_Hair #cdc08c
+
+Tertiary 1405
+Equipped Tertiary
+
+Dialogue 27301
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 26515
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+// If you're copying things, at least credit NSTM.

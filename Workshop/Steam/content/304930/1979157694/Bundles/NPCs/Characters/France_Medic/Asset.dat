@@ -1,0 +1,17 @@
+GUID 1c41cc355b6e478599449eb71954337b
+Type NPC
+ID 4005
+
+Shirt 3015
+Pants 3016
+Hat 3022
+
+Face 4
+Color_Skin #E1B37E
+
+Primary 1375
+Secondary 1027
+Tertiary 394
+Equipped Tertiary
+
+Dialogue 4123

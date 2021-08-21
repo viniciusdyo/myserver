@@ -1,0 +1,20 @@
+GUID 56f6503bf65f41ff8433e01dc9c1aa07
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 5241
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Quality_Min 50
+Quality_Max 100
+
+Food 75
+Water 75
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Bag_MRE
+
+ConsumeAudioClip Sounds/EatCrunchy.mp3

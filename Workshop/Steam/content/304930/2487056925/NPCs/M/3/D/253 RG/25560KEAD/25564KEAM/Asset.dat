@@ -1,0 +1,68 @@
+GUID 246ed8e758c545bb8d065746829b8a40
+Type Dialogue
+ID 25565
+
+// First is adding to flag.
+Messages 5
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 25566
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short
+Message_0_Reward_0_ID 25566
+Message_0_Reward_0_Value 1
+Message_0_Reward_0_Modification Increment
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 25566
+Message_1_Condition_0_Value 1
+Message_1_Condition_0_Logic Equal
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short
+Message_1_Reward_0_ID 25566
+Message_1_Reward_0_Value 1
+Message_1_Reward_0_Modification Increment
+
+Message_2_Pages 1
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 25566
+Message_2_Condition_0_Value 2
+Message_2_Condition_0_Logic Equal
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short
+Message_2_Reward_0_ID 25566
+Message_2_Reward_0_Value 1
+Message_2_Reward_0_Modification Increment
+
+Message_3_Pages 1
+Message_3_Conditions 1
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 25566
+Message_3_Condition_0_Value 3
+Message_3_Condition_0_Logic Equal
+Message_3_Rewards 1
+Message_3_Reward_0_Type Flag_Short
+Message_3_Reward_0_ID 25566
+Message_3_Reward_0_Value 1
+Message_3_Reward_0_Modification Increment
+
+Message_4_Pages 1
+Message_4_Conditions 1
+Message_4_Condition_0_Type Flag_Short
+Message_4_Condition_0_ID 25566
+Message_4_Condition_0_Value 4
+Message_4_Condition_0_Logic Equal
+Message_4_Rewards 1
+Message_4_Reward_0_Type Flag_Short
+Message_4_Reward_0_ID 25566
+Message_4_Reward_0_Value 4
+Message_4_Reward_0_Modification Decrement
+
+// If you're copying things, at least credit NSTM.

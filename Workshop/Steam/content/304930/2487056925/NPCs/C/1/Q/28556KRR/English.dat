@@ -1,0 +1,12 @@
+Name <color=#b8b188>Concord: </color>Replanting
+Description Rosa doesn't have too much space available to grow crops, so she requests that you grow some at your homestead.
+
+Condition_0 Grow {0}/{1} {2}
+Condition_1 Grow {0}/{1} {2}
+Condition_2 Grow {0}/{1} {2}
+Condition_3 Grow {0}/{1} {2}
+Condition_4 Grow {0}/{1} {2}
+Condition_5 Grow {0}/{1} {2}
+
+Reward_0 100 Experience
+Reward_1 10 Reputation

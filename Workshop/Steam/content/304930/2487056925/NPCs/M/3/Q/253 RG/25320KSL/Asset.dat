@@ -1,0 +1,17 @@
+GUID d56f0cdb52ec451180e79f146ba926c2
+Type Quest
+ID 25320
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 25321
+Condition_0_Value 9
+Condition_0_Logic Equal
+
+Rewards 2
+Reward_0_Type Experience
+Reward_0_Value 100
+Reward_1_Type Reputation
+Reward_1_Value 5
+
+// If you're copying things, at least credit NSTM.

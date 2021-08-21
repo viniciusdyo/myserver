@@ -1,0 +1,27 @@
+GUID 1c687ffdb33947ae8737a3e07fa1bfe4
+Type NPC
+ID 27450
+
+Shirt 5301
+Pants 5302
+
+Hair 18
+Face 0
+Color_Skin #bea582
+Color_Hair #352c22
+
+Primary 4
+Secondary 121
+
+Dialogue 27451
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 26515
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+// Eaglefire, Mili Knife.
+// Replace with M16A3?
+// If you're copying things, at least credit NSTM.

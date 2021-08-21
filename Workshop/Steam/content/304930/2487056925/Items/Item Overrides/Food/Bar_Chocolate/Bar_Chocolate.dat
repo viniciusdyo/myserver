@@ -1,0 +1,18 @@
+GUID a4ca1943bbbd4b048b97f12addfd7a0e
+Type Food
+Useable Consumeable
+ID 5220
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Quality_Min 50
+Quality_Max 100
+
+Food 10
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Bar_Chocolate
+
+ConsumeAudioClip Sounds/EatCrunchy.mp3

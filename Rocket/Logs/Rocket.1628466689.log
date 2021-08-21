@@ -1,0 +1,115 @@
+[08/08/2021 23:45:28] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[08/08/2021 23:45:28] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[08/08/2021 23:45:28] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[08/08/2021 23:45:28] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[08/08/2021 23:45:28] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[08/08/2021 23:45:28] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[08/08/2021 23:45:28] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[08/08/2021 23:45:28] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[08/08/2021 23:45:28] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[08/08/2021 23:45:28] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[08/08/2021 23:45:28] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[08/08/2021 23:45:28] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[08/08/2021 23:45:28] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[08/08/2021 23:45:28] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[08/08/2021 23:45:28] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[08/08/2021 23:45:28] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[08/08/2021 23:45:28] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[08/08/2021 23:45:28] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[08/08/2021 23:45:28] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[08/08/2021 23:45:28] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[08/08/2021 23:45:28] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[08/08/2021 23:45:28] [Info] Loading MaxPlayer from /home/steam/unturned/Servers/myserver/Rocket/Plugins/MaxPlayer.dll
+[08/08/2021 23:45:28] [Info] Loading WebsiteCommand from /home/steam/unturned/Servers/myserver/Rocket/Plugins/WebsiteCommand.dll
+[08/08/2021 23:45:28] [Info] Loading uEssentials from /home/steam/unturned/Servers/myserver/Rocket/Plugins/uEssentials.dll
+[08/08/2021 23:45:28] [Info] 
+[loading] MaxPlayer
+[08/08/2021 23:45:28] [Info] [registered] /checkmaxplayers (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/checkmaxplayers)
+[08/08/2021 23:45:28] [Info] [registered] /checkmp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/checkmp)
+[08/08/2021 23:45:28] [Info] [registered] /mps (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/mps)
+[08/08/2021 23:45:28] [Info] [registered] /setmaxplayers (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/setmaxplayers)
+[08/08/2021 23:45:28] [Info] [registered] /setmp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/setmp)
+[08/08/2021 23:45:28] [Info] [registered] /mp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/mp)
+[08/08/2021 23:45:28] [Info] MaxPlayer >> MaxplayerModifier has been loaded!
+[08/08/2021 23:45:28] [Info] MaxPlayer >> MaxplayerModifier 1.0.7
+[08/08/2021 23:45:28] [Info] MaxPlayer >> Made by Tortellio
+[08/08/2021 23:45:28] [Info] 
+[loading] WebsiteCommand
+[08/08/2021 23:45:28] [Info] WebsiteCommand >> WebsiteCommand has loaded!
+[08/08/2021 23:45:28] [Info] [registered] /discord (WebsiteCommand.RocketWebsiteCommand/Discord)
+[08/08/2021 23:45:28] [Info] 
+[loading] uEssentials
+[08/08/2021 23:45:28] [Info] This server will automatically save every 1800 seconds
+[08/08/2021 23:45:28] [Info] Steam servers ready!
+[08/08/2021 23:45:29] [Info] Workshop install folder: /home/steam/unturned/Servers/myserver/Workshop/Steam
+[08/08/2021 23:45:29] [Info] 11 workshop item(s) requested
+[08/08/2021 23:45:29] [Info] Submitting workshop query for 11 item(s)...
+[08/08/2021 23:45:29] [Info] Workshop query yielded 11 result(s)
+[08/08/2021 23:45:29] [Info] This server's allowed IP for Workshop downloads: 152.67.60.193
+[08/08/2021 23:45:29] [Info] 928394140 'Oldie Firearm Pack' queued for download
+[08/08/2021 23:45:29] [Info] 2306374088 'MilitaryMkll' queued for download
+[08/08/2021 23:45:29] [Info] 2528363491 'Wind Vehicles' queued for download
+[08/08/2021 23:45:29] [Info] 2435496165 'Vanilla Vehicles 2: Military Transport' queued for download
+[08/08/2021 23:45:29] [Info] 2451595662 'Vanilla Vehicles 2: Air Transport' queued for download
+[08/08/2021 23:45:29] [Info] 1979157694 'France Bundles' queued for download
+[08/08/2021 23:45:29] [Info] 2487056925 'Kuwait Assets (Always Updated)' queued for download
+[08/08/2021 23:45:29] [Info] 2175483644 'Metal Upgrades v5 Edited' queued for download
+[08/08/2021 23:45:29] [Info] 1441131424 '[METAL] Building Assets by roll4charm' queued for download
+[08/08/2021 23:45:29] [Info] 1418436222 'More Stacking Mod(Unofficial More Farming Mod Addon)' queued for download
+[08/08/2021 23:45:29] [Info] 1418436222 'More Stacking Mod(Unofficial More Farming Mod Addon)' has 1 children
+[08/08/2021 23:45:29] [Info] 	1232252658
+[08/08/2021 23:45:29] [Info] 939083944 'GoldGaming's Locker Pack' queued for download
+[08/08/2021 23:45:29] [Info] Submitting workshop query for 1 item(s)...
+[08/08/2021 23:45:29] [Info] Workshop query yielded 1 result(s)
+[08/08/2021 23:45:29] [Info] This server's allowed IP for Workshop downloads: 152.67.60.193
+[08/08/2021 23:45:29] [Info] 1232252658 'More Farming Mod' queued for download
+[08/08/2021 23:45:29] [Info] 12 workshop item(s) to download...
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 928394140
+[08/08/2021 23:45:57] [Info] Installing workshop item: 928394140
+[08/08/2021 23:45:57] [Info] Installed workshop item: 928394140
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 2306374088
+[08/08/2021 23:45:57] [Info] Installing workshop item: 2306374088
+[08/08/2021 23:45:57] [Info] Installed workshop item: 2306374088
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 2528363491
+[08/08/2021 23:45:57] [Info] Installing workshop item: 2528363491
+[08/08/2021 23:45:57] [Info] Installed workshop item: 2528363491
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 2435496165
+[08/08/2021 23:45:57] [Info] Installing workshop item: 2435496165
+[08/08/2021 23:45:57] [Info] Installed workshop item: 2435496165
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 2451595662
+[08/08/2021 23:45:57] [Info] Installing workshop item: 2451595662
+[08/08/2021 23:45:57] [Info] Installed workshop item: 2451595662
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 1979157694
+[08/08/2021 23:45:57] [Info] Installing workshop item: 1979157694
+[08/08/2021 23:45:57] [Info] Installed workshop item: 1979157694
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 2487056925
+[08/08/2021 23:45:57] [Info] Installing workshop item: 2487056925
+[08/08/2021 23:45:57] [Info] Installed workshop item: 2487056925
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 2175483644
+[08/08/2021 23:45:57] [Info] Installing workshop item: 2175483644
+[08/08/2021 23:45:57] [Info] Installed workshop item: 2175483644
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 1441131424
+[08/08/2021 23:45:57] [Info] Installing workshop item: 1441131424
+[08/08/2021 23:45:57] [Info] Installed workshop item: 1441131424
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 1418436222
+[08/08/2021 23:45:57] [Info] Installing workshop item: 1418436222
+[08/08/2021 23:45:57] [Warning] Workshop version of 'More Stacking Mod(Unofficial More Farming Mod Addon)' has not yet been updated from Unity 5.5 to 2017.4 or 2018.4.
+[08/08/2021 23:45:57] [Info] Installed workshop item: 1418436222
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 939083944
+[08/08/2021 23:45:57] [Info] Installing workshop item: 939083944
+[08/08/2021 23:45:57] [Info] Installed workshop item: 939083944
+[08/08/2021 23:45:57] [Info] Workshop item found in cache: 1232252658
+[08/08/2021 23:45:57] [Info] Installing workshop item: 1232252658
+[08/08/2021 23:45:57] [Info] Installed workshop item: 1232252658
+[08/08/2021 23:45:57] [Info] Loading level: 8%
+[08/08/2021 23:46:00] [Info] Loading level: 16%
+[08/08/2021 23:46:01] [Info] Loading level: 25%
+[08/08/2021 23:46:01] [Info] Loading level: 33%
+[08/08/2021 23:46:01] [Info] Loading level: 41%
+[08/08/2021 23:46:01] [Info] Loading level: 50%
+[08/08/2021 23:46:01] [Info] Loading level: 58%
+[08/08/2021 23:46:01] [Info] Loading level: 66%
+[08/08/2021 23:46:01] [Info] Loading level: 75%
+[08/08/2021 23:46:01] [Info] Loading level: 83%
+[08/08/2021 23:46:01] [Info] Loading level: 91%
+[08/08/2021 23:46:01] [Info] Loading level: 100%

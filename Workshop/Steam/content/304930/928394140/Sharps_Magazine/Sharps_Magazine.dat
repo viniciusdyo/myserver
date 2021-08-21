@@ -1,0 +1,19 @@
+GUID fd32232b18e24903a23cc2e0eecda95c
+Type Magazine
+Rarity Legendary
+ID 51509
+
+Size_X 1
+Size_Y 1
+Size_Z 0.17
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 51508
+
+Tracer 48
+
+Delete_Empty

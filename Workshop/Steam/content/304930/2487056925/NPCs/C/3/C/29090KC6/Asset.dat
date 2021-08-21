@@ -1,0 +1,20 @@
+GUID 122c6c6444524eed948568ec88df2cb1
+Type NPC
+ID 29090
+
+Shirt 155
+Pants 226
+Glasses
+
+Hair 7
+Face 20
+Color_Skin #bea582
+Color_Hair #cdc08c
+
+Dialogue 29091
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 27031
+Condition_0_Value True
+Condition_0_Logic Equal

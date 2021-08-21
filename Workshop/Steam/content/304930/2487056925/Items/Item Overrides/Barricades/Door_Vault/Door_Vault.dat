@@ -1,0 +1,47 @@
+GUID b9d3cade3ba842a09cc560727e149f42
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Door
+ID 5454
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 2100
+Range 4
+Radius 1
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+Blueprints 2
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 21
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Barricade
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 19
+Blueprint_1_Tool 5112
+Blueprint_1_Tool_Critical
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+
+Armor_Tier High
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Door_Vault
+
+PlacementAudioClip Sounds/MetalPlacement.mp3

@@ -1,0 +1,81 @@
+GUID e255f3268548431c91dad62d69658b15
+Type Dialogue
+ID 4167
+
+Messages 2
+
+// Not met Colonel
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 4013
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+
+// Nothing Special
+Message_1_Pages 1
+
+
+Responses 6
+
+// Not met Colonel
+Response_0_Messages 1
+Response_0_Message_0 0
+
+// Quest Accept
+Response_1_Dialogue 4179
+Response_1_Quest 4173
+Response_1_Conditions 2
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 4173
+Response_1_Condition_0_Status None
+Response_1_Condition_1_Type Flag_Bool
+Response_1_Condition_1_Logic Equal
+Response_1_Condition_1_ID 4172
+Response_1_Condition_1_Value True
+Response_1_Rewards 6
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 4173
+Response_1_Reward_0_Status Active
+Response_1_Reward_1_Type Flag_Bool
+Response_1_Reward_1_ID 4174
+Response_1_Reward_1_Value False
+Response_1_Reward_2_Type Flag_Bool
+Response_1_Reward_2_ID 4175
+Response_1_Reward_2_Value False
+Response_1_Reward_3_Type Flag_Bool
+Response_1_Reward_3_ID 4176
+Response_1_Reward_3_Value False
+Response_1_Reward_4_Type Flag_Bool
+Response_1_Reward_4_ID 4177
+Response_1_Reward_4_Value False
+Response_1_Reward_5_Type Flag_Bool
+Response_1_Reward_5_ID 4178
+Response_1_Reward_5_Value False
+
+// Quest Turn In
+Response_2_Dialogue 4180
+Response_2_Quest 4173
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 4173
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Reset
+
+//Vendor
+Response_3_Dialogue 4182
+Response_3_Vendor 4181
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 4173
+Response_3_Condition_0_Status Completed
+
+// Questions
+Response_4_Dialogue 4168
+

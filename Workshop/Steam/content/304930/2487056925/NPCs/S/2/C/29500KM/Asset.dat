@@ -1,0 +1,21 @@
+GUID 93052410fe16465e8a0726e6de13c7e3
+Type NPC
+ID 29500
+
+Shirt 165
+Pants 207
+Backpack 603
+
+Face 1
+Hair 16
+Beard 0
+Color_Skin #D9CAB4
+Color_Hair #191919
+
+Dialogue 29501
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 29320
+Condition_0_Value True
+Condition_0_Logic Equal

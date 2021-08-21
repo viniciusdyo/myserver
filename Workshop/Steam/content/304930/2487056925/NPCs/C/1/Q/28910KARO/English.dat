@@ -1,0 +1,7 @@
+Name <color=#b8b188>Concord: </color><color=uncommon>The Perfect Rod</color>
+Description Adnan has seen parts of some sort of special rod in the ocean - which may be the key to catching better fish. He wants you to get these parts and make that rod.
+
+Condition_0 Craft the Perfect Rod
+
+Reward_0 50 Experience
+Reward_1 5 Reputation

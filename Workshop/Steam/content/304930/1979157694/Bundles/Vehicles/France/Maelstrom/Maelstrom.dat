@@ -1,0 +1,46 @@
+GUID e6af6f7e16944131927d75f01a26026f
+Type Vehicle
+Rarity Legendary
+ID 703
+
+Speed_Min -5.4
+Speed_Max 14
+
+Steer_Min 145
+Steer_Max 82
+
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 3000
+
+Health_Min 1100
+Health_Max 1300
+Health 1500
+
+Exit 1
+
+Cam_Follow_Distance 10.5
+Passenger_Explosion_Armor 0.5
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 7
+
+Engine Boat
+Explosion 20
+Invulnerable
+
+Turrets 2
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 1394
+Turret_0_Yaw_Min -110
+Turret_0_Yaw_Max 110
+Turret_0_Pitch_Min 55
+Turret_0_Pitch_Max 95
+
+Turret_1_Seat_Index 2
+Turret_1_Item_ID 1394
+Turret_1_Yaw_Min -2000
+Turret_1_Yaw_Max 2000
+Turret_1_Pitch_Min 40
+Turret_1_Pitch_Max 125

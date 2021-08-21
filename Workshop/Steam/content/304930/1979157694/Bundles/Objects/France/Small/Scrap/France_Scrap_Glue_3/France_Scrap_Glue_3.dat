@@ -1,0 +1,16 @@
+GUID e8f15e5af8414193af694c77f13dd6ad
+Type Small
+ID 35248
+
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 4015
+Condition_0_Value 18
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_1_Type Flag_Short
+Condition_1_ID 4015
+Condition_1_Value 28
+Condition_1_Logic Less_Than_Or_Equal_To
+
+Bundle_Override_Path /Objects/France/Small/Scrap/France_Scrap_Glue
+Master_Bundle_Override france.masterbundle

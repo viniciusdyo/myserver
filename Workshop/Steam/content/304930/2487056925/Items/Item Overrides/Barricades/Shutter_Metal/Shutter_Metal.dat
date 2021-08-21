@@ -1,0 +1,30 @@
+GUID 115b90061511480e9ca2c312b31e8ac7
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Shutter
+ID 5797
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Health 600
+Range 4
+Radius 0.5
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Shutter_Metal

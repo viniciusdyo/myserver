@@ -1,0 +1,16 @@
+GUID a98d625de7474bac92730bf417d07eb4
+Type Food
+Useable Consumeable
+ID 5253
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Food 10
+Virus 5
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Dough
+
+ConsumeAudioClip Sounds/EatSquishy.mp3

@@ -1,0 +1,29 @@
+GUID 8a136e5776d64bea9d2809dadf1127ad
+Type Fisher
+Rarity Epic
+Useable Fisher
+ID 5541
+
+Size_X 4
+Size_Y 1
+Size_Z 0.26
+
+Backward
+
+Reward_ID 7145
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 5542
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5543
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 5544
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 5259
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

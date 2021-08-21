@@ -1,0 +1,63 @@
+GUID ffd7e22ee1a54f059ec009253f78d902
+Type Vendor
+ID 29324
+
+Disable_Sorting
+
+Buying 5
+// Stealy
+Buying_0_ID 1353  
+Buying_0_Cost 100
+// Raw Explosives
+Buying_1_ID 73  
+Buying_1_Cost 100
+// Charge
+Buying_2_ID 5106  
+Buying_2_Cost 200
+// Detonator
+Buying_3_ID 1240  
+Buying_3_Cost 200
+// Choco
+Buying_4_ID 5220  
+Buying_4_Cost 20
+
+Selling 8
+// Thief Top
+Selling_0_ID 5734 
+Selling_0_Cost 100
+// Thief Bottom
+Selling_1_ID 5685
+Selling_1_Cost 100
+// Chips
+Selling_2_ID 5218
+Selling_2_Cost 60
+// Apple Juice
+Selling_3_ID 5223
+Selling_3_Cost 40
+// Grape Juice
+Selling_4_ID 5224
+Selling_4_Cost 40
+// Black Balaclava
+Selling_5_ID 434
+Selling_5_Cost 50
+Selling_5_Conditions 1
+Selling_5_Condition_0_Type Flag_Bool
+Selling_5_Condition_0_ID 29321
+Selling_5_Condition_0_Value True
+Selling_5_Condition_0_Logic Equal
+// Black Daypack
+Selling_6_ID 200
+Selling_6_Cost 250
+Selling_6_Conditions 1
+Selling_6_Condition_0_Type Flag_Bool
+Selling_6_Condition_0_ID 29321
+Selling_6_Condition_0_Value True
+Selling_6_Condition_0_Logic Equal
+// Black Scarf
+Selling_7_ID 5740
+Selling_7_Cost 100
+Selling_7_Conditions 1
+Selling_7_Condition_0_Type Flag_Bool
+Selling_7_Condition_0_ID 29321
+Selling_7_Condition_0_Value True
+Selling_7_Condition_0_Logic Equal

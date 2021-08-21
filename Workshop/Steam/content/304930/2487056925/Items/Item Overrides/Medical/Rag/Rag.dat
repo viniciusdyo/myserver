@@ -1,0 +1,29 @@
+GUID 31e4b609c70247f392813c7e6dbe12e5
+Type Medical
+Useable Consumeable
+ID 5520
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Aid
+Bleeding
+Health 5
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+Blueprint_0_Map Kuwait
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 5521
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Bandage
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Rag

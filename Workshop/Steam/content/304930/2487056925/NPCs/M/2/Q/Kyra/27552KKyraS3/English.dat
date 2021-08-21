@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=legendary>Zombie Clearing</color>
+Description <color=#FF69B4>Kyra</color> needs you to kill some more zombies for to ensure the safety of others.
+
+Condition_0 Defeat {0}/{1} Crawler Zombies

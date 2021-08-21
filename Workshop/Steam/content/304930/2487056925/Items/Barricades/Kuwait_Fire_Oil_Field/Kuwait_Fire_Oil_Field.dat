@@ -1,0 +1,19 @@
+GUID eb1e9c8bbcdc44359a8814ff590fd2b6
+Type Barricade
+Useable Barricade
+Build Campfire
+ID 5409
+
+Size_X 255
+Size_Y 255
+
+Health 9999
+
+Radius 0.0
+Offset 0.0
+
+Explosion 19
+Unrepairable
+Unpickupable
+
+Asset_Bundle_Version 3

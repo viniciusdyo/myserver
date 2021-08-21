@@ -1,0 +1,7 @@
+Name <color=#567DBC>Coalition: </color>Ranger Run
+Description <color=rare>Lieutenant Yaeger</color> is going to take their echelon of <color=uncommon>Ensign Voss, Ensign Jennifer, Ensign Ikehu, and Ensign Cillian</color> to acquire you ranger gear. You'll just need to have the money. 
+
+Condition_0 Have <color=#FF69B4>200 KWD</color>, with 100 upfront
+Condition_1 Claim after 1900, in the evening.
+
+Reward_0 6x Ranger Equipment

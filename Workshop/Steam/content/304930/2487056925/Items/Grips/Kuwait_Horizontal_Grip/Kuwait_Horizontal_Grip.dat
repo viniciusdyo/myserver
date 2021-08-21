@@ -1,0 +1,22 @@
+GUID b6deb526756a406f9916feeeb0c358bb
+Type Grip
+Rarity Rare
+ID 5062
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Recoil_X 0.75
+
+Spread 0.8
+Sway 0.75
+Shake 0.8
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5062
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27

@@ -1,0 +1,15 @@
+GUID ec6ff2c2f204488fa81c74e72a126006
+Type Spawn
+ID 2176
+
+Tables 5
+Table_0_Asset_ID 3116
+Table_0_Weight 40
+Table_1_Asset_ID 3093
+Table_1_Weight 30
+Table_2_Asset_ID 3094
+Table_2_Weight 10
+Table_3_Asset_ID 3095
+Table_3_Weight 10
+Table_4_Asset_ID 3056
+Table_4_Weight 10

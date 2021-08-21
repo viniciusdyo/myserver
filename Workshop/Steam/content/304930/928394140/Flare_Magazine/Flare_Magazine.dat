@@ -1,0 +1,45 @@
+GUID dc7fd67b85eb46b2bca9dceb14c61d57
+Type Magazine
+Rarity Rare
+ID 51412
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Amount 1
+
+Calibers 1
+Caliber_0 51411
+
+Blueprints 6
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 255
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 32
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 256
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 257
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Build 32
+Blueprint_3_Type Tool
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 258
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Build 32
+Blueprint_4_Type Tool
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 259
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Build 32
+Blueprint_5_Type Tool
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 260
+Blueprint_5_Supply_0_Amount 1
+Blueprint_5_Build 32

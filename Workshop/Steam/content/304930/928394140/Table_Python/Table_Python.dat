@@ -1,0 +1,24 @@
+GUID ab7441bb5d3249418775be3903a2e31b
+Type Spawn
+ID 51158
+Roots 8
+Root_0_Spawn_ID 94
+Root_0_Weight 5
+Root_1_Spawn_ID 549
+Root_1_Weight 6
+Root_2_Spawn_ID 547
+Root_2_Weight 3
+Root_3_Spawn_ID 246
+Root_3_Weight 1
+Root_4_Spawn_ID 686
+Root_4_Weight 6
+Root_5_Spawn_ID 687
+Root_5_Weight 3
+Root_6_Spawn_ID 2078
+Root_6_Weight 1
+Root_7_Spawn_ID 2073
+Root_7_Weight 1
+
+Tables 1
+Table_0_Asset_ID 51158
+Table_0_Weight 10

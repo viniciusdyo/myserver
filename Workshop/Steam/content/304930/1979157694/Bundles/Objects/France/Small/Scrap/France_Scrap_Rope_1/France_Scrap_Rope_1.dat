@@ -1,0 +1,12 @@
+GUID 471393b8dee746f08775be50a0fae4e6
+Type Small
+ID 35251
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4015
+Condition_0_Value 21
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Bundle_Override_Path /Objects/France/Small/Scrap/France_Scrap_Rope
+Master_Bundle_Override france.masterbundle

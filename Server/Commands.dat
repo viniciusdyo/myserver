@@ -1,0 +1,7 @@
+name [BR]EpicBattles[TPA|MODS|KITS]
+map Russia
+mode normal
+port 27015
+perspective vehicle
+password
+maxplayers 24

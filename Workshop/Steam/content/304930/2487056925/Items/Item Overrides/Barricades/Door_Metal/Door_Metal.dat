@@ -1,0 +1,32 @@
+GUID d120b74b1ff743c3ad10f1f2a4974628
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Door
+ID 5453
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Health 800
+Range 4
+Radius 1
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Door_Metal
+
+PlacementAudioClip Sounds/MetalPlacement.mp3

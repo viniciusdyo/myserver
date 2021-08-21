@@ -1,0 +1,26 @@
+GUID ae494027151b4384a059482bdd1134ca
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 5250
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 90
+Water 10
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5216
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5248
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Sandwich_Minnow
+
+ConsumeAudioClip Sounds/EatCrunchy.mp3

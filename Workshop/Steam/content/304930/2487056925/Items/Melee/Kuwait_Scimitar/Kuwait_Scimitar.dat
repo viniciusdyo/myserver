@@ -1,0 +1,55 @@
+GUID 38d05b878b294cbe9ded81289c1d9e44
+Type Melee
+Rarity Rare
+Useable Melee
+Slot Secondary
+ID 5051
+
+Size_X 1
+Size_Y 3
+Size_Z 0.825
+
+Range 2
+Strength 1.3
+Weak 0.25
+Strong 0.25
+Stamina 10
+
+Player_Damage 45
+Player_Leg_Multiplier 0.7
+Player_Arm_Multiplier 0.7
+Player_Spine_Multiplier 0.9
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 55
+Zombie_Leg_Multiplier 0.4
+Zombie_Arm_Multiplier 0.4
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 88
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 3
+Structure_Damage 3
+Vehicle_Damage 15
+Resource_Damage 15
+Object_Damage 20
+
+Durability 0.3
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5051
+Blueprint_1_Product 67
+Blueprint_1_Products 2
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait

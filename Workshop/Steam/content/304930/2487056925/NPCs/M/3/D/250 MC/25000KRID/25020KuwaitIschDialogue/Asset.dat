@@ -1,0 +1,292 @@
+GUID 1c639dc2b8da4960b8a8b8c6faf39b72
+Type Dialogue
+ID 25020
+
+// The Admiral will have some strange quests - distribute uniforms, find dates/flowers, gather oil, and then acquire modules. Deceptively simple, no?
+Messages 12
+// Quest?
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 25060
+Message_0_Condition_0_Status None
+Message_0_Condition_0_Logic Equal
+Message_0_Responses 2
+Message_0_Response_0 0
+Message_0_Response_1 8
+
+// Done?
+Message_1_Pages 1
+Message_1_Conditions 2
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 25060
+Message_1_Condition_0_Status None
+Message_1_Condition_0_Logic Not_Equal
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_ID 25060
+Message_1_Condition_1_Status Completed
+Message_1_Condition_1_Logic Not_Equal
+Message_1_Responses 2
+Message_1_Response_0 1
+Message_1_Response_1 9
+
+// Quest?
+Message_2_Pages 1
+Message_2_Conditions 1
+Message_2_Condition_0_Type Quest
+Message_2_Condition_0_ID 25065
+Message_2_Condition_0_Status None
+Message_2_Condition_0_Logic Equal
+Message_2_Responses 2
+Message_2_Response_0 2
+Message_2_Response_1 8
+
+// Done?
+Message_3_Pages 1
+Message_3_Conditions 2
+Message_3_Condition_0_Type Quest
+Message_3_Condition_0_ID 25065
+Message_3_Condition_0_Status None
+Message_3_Condition_0_Logic Not_Equal
+Message_3_Condition_1_Type Quest
+Message_3_Condition_1_ID 25065
+Message_3_Condition_1_Status Completed
+Message_3_Condition_1_Logic Not_Equal
+Message_3_Responses 2
+Message_3_Response_0 3
+Message_3_Response_1 9
+
+// Quest?
+Message_4_Pages 1
+Message_4_Conditions 1
+Message_4_Condition_0_Type Quest
+Message_4_Condition_0_ID 25070
+Message_4_Condition_0_Status None
+Message_4_Condition_0_Logic Equal
+Message_4_Responses 2
+Message_4_Response_0 4
+Message_4_Response_1 8
+
+// Done?
+Message_5_Pages 1
+Message_5_Conditions 2
+Message_5_Condition_0_Type Quest
+Message_5_Condition_0_ID 25070
+Message_5_Condition_0_Status None
+Message_5_Condition_0_Logic Not_Equal
+Message_5_Condition_1_Type Quest
+Message_5_Condition_1_ID 25070
+Message_5_Condition_1_Status Completed
+Message_5_Condition_1_Logic Not_Equal
+Message_5_Responses 2
+Message_5_Response_0 5
+Message_5_Response_1 9
+
+// Quest?
+Message_6_Pages 1
+Message_6_Conditions 1
+Message_6_Condition_0_Type Quest
+Message_6_Condition_0_ID 25075
+Message_6_Condition_0_Status None
+Message_6_Condition_0_Logic Equal
+Message_6_Responses 2
+Message_6_Response_0 6
+Message_6_Response_1 8
+
+// Done?
+Message_7_Pages 1
+Message_7_Conditions 2
+Message_7_Condition_0_Type Quest
+Message_7_Condition_0_ID 25075
+Message_7_Condition_0_Status None
+Message_7_Condition_0_Logic Not_Equal
+Message_7_Condition_1_Type Quest
+Message_7_Condition_1_ID 25075
+Message_7_Condition_1_Status Completed
+Message_7_Condition_1_Logic Not_Equal
+Message_7_Responses 2
+Message_7_Response_0 7
+Message_7_Response_1 9
+
+// ...
+Message_8_Pages 1
+Message_8_Conditions 1
+Message_8_Condition_0_Type Quest
+Message_8_Condition_0_ID 25040
+Message_8_Condition_0_Status Completed
+Message_8_Condition_0_Logic Equal
+Message_8_Responses 1
+Message_8_Response_0 13
+
+// Randomized 1
+Message_9_Pages 1
+Message_9_Conditions 1
+Message_9_Condition_0_Type Flag_Short
+Message_9_Condition_0_ID 25020
+Message_9_Condition_0_Value 0
+Message_9_Condition_0_Logic Equal
+Message_9_Condition_0_Allow_Unset
+// Randomize Again.
+Message_9_Rewards 1
+Message_9_Reward_0_Type Flag_Short_Random
+Message_9_Reward_0_ID 25020
+Message_9_Reward_0_Min_Value 0
+Message_9_Reward_0_Max_Value 2
+Message_9_Reward_0_Modification Assign
+Message_9_Responses 3
+Message_9_Response_0 10
+Message_9_Response_1 11
+Message_9_Response_2 12
+
+// Randomized 2
+Message_10_Pages 1
+Message_10_Conditions 1
+Message_10_Condition_0_Type Flag_Short
+Message_10_Condition_0_ID 25020
+Message_10_Condition_0_Value 1
+Message_10_Condition_0_Logic Equal
+Message_10_Condition_0_Allow_Unset
+// Randomize Again.
+Message_10_Rewards 1
+Message_10_Reward_0_Type Flag_Short_Random
+Message_10_Reward_0_ID 25020
+Message_10_Reward_0_Min_Value 0
+Message_10_Reward_0_Max_Value 2
+Message_10_Reward_0_Modification Assign
+Message_10_Responses 3
+Message_10_Response_0 10
+Message_10_Response_1 11
+Message_10_Response_2 12
+
+// Randomized 3
+Message_11_Pages 1
+Message_11_Conditions 1
+Message_11_Condition_0_Type Flag_Short
+Message_11_Condition_0_ID 25020
+Message_11_Condition_0_Value 2
+Message_11_Condition_0_Logic Equal
+Message_11_Condition_0_Allow_Unset
+// Randomize Again.
+Message_11_Rewards 1
+Message_11_Reward_0_Type Flag_Short_Random
+Message_11_Reward_0_ID 25020
+Message_11_Reward_0_Min_Value 0
+Message_11_Reward_0_Max_Value 2
+Message_11_Reward_0_Modification Assign
+Message_11_Responses 3
+Message_11_Response_0 10
+Message_11_Response_1 11
+Message_11_Response_2 12
+
+Responses 14
+
+Response_0_Dialogue 25021
+Response_0_Quest 25060
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_ID 25060
+Response_0_Condition_0_Status None
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 25060
+
+Response_1_Dialogue 25022
+Response_1_Quest 25060
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 25060
+Response_1_Condition_0_Status Ready	
+Response_1_Condition_0_Reset
+
+Response_2_Dialogue 25021
+Response_2_Quest 25065
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 25065
+Response_2_Condition_0_Status None
+Response_2_Rewards 1
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 25065
+
+Response_3_Dialogue 25022
+Response_3_Quest 25065
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 25065
+Response_3_Condition_0_Status Ready	
+Response_3_Condition_0_Reset
+
+Response_4_Dialogue 25021
+Response_4_Quest 25070
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_ID 25070
+Response_4_Condition_0_Status None
+Response_4_Rewards 1
+Response_4_Reward_0_Type Quest
+Response_4_Reward_0_ID 25070
+
+Response_5_Dialogue 25022
+Response_5_Quest 25070
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_ID 25070
+Response_5_Condition_0_Status Ready	
+Response_5_Condition_0_Reset
+
+Response_6_Dialogue 25021
+Response_6_Quest 25075
+Response_6_Conditions 1
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_ID 25075
+Response_6_Condition_0_Status None
+Response_6_Rewards 1
+Response_6_Reward_0_Type Quest
+Response_6_Reward_0_ID 25075
+
+Response_7_Dialogue 25022
+Response_7_Quest 25075
+Response_7_Conditions 1
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_ID 25075
+Response_7_Condition_0_Status Ready	
+Response_7_Condition_0_Reset
+
+// 8, 9 none
+
+Response_10_Dialogue 25023
+Response_10_Quest 25040
+// To be implemented later.
+// Response_10_Conditions 1
+Response_10_Conditions 2
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_0_ID 25040
+Response_10_Condition_0_Status None
+// Temporary lock.
+Response_10_Condition_1_Type Item
+Response_10_Condition_1_ID 5407
+Response_10_Condition_1_Amount 100
+Response_10_Condition_1_Logic Equal
+Response_10_Rewards 1
+Response_10_Reward_0_Type Quest
+Response_10_Reward_0_ID 25040
+
+Response_11_Dialogue 25024
+Response_11_Quest 25040
+Response_11_Conditions 1
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_0_ID 25040
+Response_11_Condition_0_Status Ready	
+Response_11_Condition_0_Reset
+
+// 12, 13 none

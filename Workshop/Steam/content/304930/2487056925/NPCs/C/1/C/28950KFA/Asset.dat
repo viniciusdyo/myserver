@@ -1,0 +1,19 @@
+GUID ef94f8817d454504af9536d24247b762
+Type NPC
+ID 28950
+
+Shirt 510
+Pants 511
+
+Face 5
+Hair 2
+Beard 6
+Color_Skin #BEA582
+Color_Hair #57452F
+
+Dialogue 28951
+
+Tertiary 5517
+Equipped Tertiary
+
+// If you're copying things, at least credit NSTM.

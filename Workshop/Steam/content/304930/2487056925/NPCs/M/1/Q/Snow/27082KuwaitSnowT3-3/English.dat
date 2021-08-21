@@ -1,0 +1,5 @@
+Name <color=#b8b188>Concord: </color><color=legendary>The Best Defense</color>
+Description <color=legendary>Brigadier General Snow</color><br>A good offense. More weapons are required for the armory.
+
+Condition_1 Find Full Monarchist Magazine {0}/1
+Condition_4 Find Full Military Ammunition Box {0}/1

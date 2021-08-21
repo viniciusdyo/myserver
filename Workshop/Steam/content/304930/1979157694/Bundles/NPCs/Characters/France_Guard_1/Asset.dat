@@ -1,0 +1,17 @@
+GUID cdbb92adad8a4a328108f15ab5268a31
+Type NPC
+ID 4004
+
+Shirt 3015
+Pants 3016
+Vest 3019
+Hat 3020
+
+Face 24
+Color_Skin #c49b85
+
+Primary 3041
+Secondary 1481
+Equipped Primary
+
+Dialogue 4215

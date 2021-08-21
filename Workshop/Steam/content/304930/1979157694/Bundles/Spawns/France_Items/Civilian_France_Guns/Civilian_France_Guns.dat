@@ -1,0 +1,11 @@
+GUID 033ea2e1cb9d4982aa91f84b24344c61
+Type Spawn
+ID 2060
+
+Tables 3
+Table_0_Asset_ID 97
+Table_0_Weight 10
+Table_1_Asset_ID 107
+Table_1_Weight 10
+Table_2_Asset_ID 1337
+Table_2_Weight 25

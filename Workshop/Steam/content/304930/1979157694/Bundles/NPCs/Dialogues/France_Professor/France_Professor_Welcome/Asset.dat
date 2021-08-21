@@ -1,0 +1,27 @@
+GUID 4222d7134dc34f03937bafbbe2496027
+Type Dialogue
+ID 4230
+
+Messages 2
+
+// Not met Colonel
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 4013
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+
+// Nothing Special
+Message_1_Pages 1
+
+
+Responses 2
+
+// Not met Colonel
+Response_0_Messages 1
+Response_0_Message_0 0
+

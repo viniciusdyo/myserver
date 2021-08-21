@@ -1,0 +1,9 @@
+Message_0_Page_0 Hello <name_char>! Need to test this quest - you need to give me 50 CAD total, 25 first.
+Message_1_Page_0 Do you have the money?
+
+Response_0 Here's the money!
+Response_1 Here's the money again!
+Response_2 Actually, can I have the money back?
+Response_3 Here's the rest of the money!
+Response_4 Maybe later.
+Response_5 Not yet, sorry.

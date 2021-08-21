@@ -1,0 +1,30 @@
+GUID ddee1ff1efed48dc80770726cf55646a
+Type Magazine
+Rarity Rare
+ID 5120
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 15
+Count_Min 4
+Count_Max 12
+
+Calibers 1
+Caliber_0 23
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5120
+Blueprint_1_Build 30
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Magazines/Avenger_13

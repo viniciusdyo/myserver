@@ -1,0 +1,9 @@
+GUID d1354621da574e5ca215612fcb114f15
+Type Small
+ID 35171
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4018
+Condition_0_Value 4
+Condition_0_Logic Greater_Than_Or_Equal_To

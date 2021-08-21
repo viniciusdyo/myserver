@@ -1,0 +1,8 @@
+Name <color=#FF69B4>Survivors: </color>Might Need A Raincoat
+Description Dave wants to make sure that nothing will be a problem for him, whether it be heat or water - but he's already handled the heat. Get him an outfit to handle water.
+
+Condition_0 Find {0}/{1} {2}
+Condition_1 Find {0}/{1} {2}
+
+Reward_0 50 Experience
+Reward_1 5 Reputation

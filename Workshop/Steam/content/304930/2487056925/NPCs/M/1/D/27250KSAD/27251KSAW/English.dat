@@ -1,0 +1,21 @@
+Message_0_Page_0 Hi, go talk to <color=legendary>Issac</color> first. He should be in the building on the eastern end of the island.
+Message_1_Page_0 We have an operation for you to do, <color=legendary>Issac</color> wants to see you.
+Message_2_Page_0 We have another op <name_char>, talk to <color=legendary>Issac</color>.
+Message_3_Page_0 You have one more operation to do <name_char>, talk with <color=legendary>Issac</color>. Good luck.
+Message_4_Page_0 Hiya.
+Message_5_Page_0 Heya <name_char>, what's up?
+Message_6_Page_0 Are you looking for something <name_char>?
+
+Response_0 Alright.
+// Post talked to Issac
+Response_1 What's that thing on your face?
+Response_2 Need any help?
+Response_3 Need any help?
+Response_4 Need any help?
+Response_5 Got your stuff.
+Response_6 Got your supplies.
+Response_7 Got your rockets.
+Response_8 Need any help?
+// Response_9 What are you working on?
+Response_9 Do you have any borrowed tools?
+Response_10 Goodbye.

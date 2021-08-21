@@ -1,0 +1,37 @@
+"Metadata"
+{
+	"GUID" "e6cab5aecde846138bd658e584dca38b"
+	"Type" "SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Texture"
+	{
+		"Name" "kuwait.content"
+		"Path" "Assets/KuwaitSource/Materials/Kuwait_Sand_1.png"
+	}
+	"Mask"
+	{
+		"Name" ""
+		"Path" ""
+	}
+	"Physics_Material" "SAND_STATIC"
+	"Foliage"
+	{
+		"GUID" "00000000000000000000000000000000"
+	}
+	"Christmas_Redirect"
+	{
+		"GUID" "00000000000000000000000000000000"
+	}
+	"Use_Auto_Slope" "false"
+	"Auto_Min_Angle_Begin" "0"
+	"Auto_Min_Angle_End" "0"
+	"Auto_Max_Angle_Begin" "0"
+	"Auto_Max_Angle_End" "0"
+	"Use_Auto_Foundation" "false"
+	"Auto_Ray_Radius" "0"
+	"Auto_Ray_Length" "0"
+	"Auto_Ray_Mask" "0"
+}

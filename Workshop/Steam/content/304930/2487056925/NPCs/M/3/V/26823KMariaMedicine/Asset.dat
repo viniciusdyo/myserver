@@ -1,0 +1,52 @@
+GUID 9b48953ca8744af788adbe7196c6ced1
+Type Vendor
+ID 26823
+
+Selling 14
+
+Disable_Sorting
+
+// Bandage
+Selling_0_ID 5521
+Selling_0_Cost 20
+// Dressing
+Selling_1_ID 5522
+Selling_1_Cost 40
+// Suturekit
+Selling_2_ID 5524
+Selling_2_Cost 50
+// Bloodbag
+Selling_3_ID 5525
+Selling_3_Cost 50
+// Medkit
+Selling_4_ID 5523
+Selling_4_Cost 100
+// Vitamins
+Selling_5_ID 5526
+Selling_5_Cost 25
+// Cough Syrup
+Selling_6_ID 5527
+Selling_6_Cost 30
+// Tablets
+Selling_7_ID 5528
+Selling_7_Cost 40
+// Painkillers
+Selling_8_ID 5529
+Selling_8_Cost 25
+// Antibiotics
+Selling_9_ID 5530
+Selling_9_Cost 60
+// Vaccine
+Selling_10_ID 5531
+Selling_10_Cost 60
+// Adrenaline
+Selling_11_ID 5532
+Selling_11_Cost 25
+// Morphine
+Selling_12_ID 5533
+Selling_12_Cost 25
+// Splint
+Selling_13_ID 5534
+Selling_13_Cost 10
+
+Currency b76b37b2d40c4054b850458e135408c6

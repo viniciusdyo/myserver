@@ -1,0 +1,23 @@
+GUID d2887f9035f24e4891d118b03c61c352
+Type Cloud
+Rarity Uncommon
+Useable Cloud
+ID 5516
+
+Size_X 3
+Size_Y 2
+Size_Z 0.8
+
+Gravity 0.1
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5501
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 66
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Products 1
+Blueprint_0_Product 5516
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

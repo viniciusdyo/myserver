@@ -1,0 +1,12 @@
+GUID 87e9b11eb5e74e9a89cb945d662c8f8b
+Type Large
+ID 5102
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Material_Palette dcb905bed1b44fa5a5aa893c4a6210fb
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Large/Buildings/Fire_0

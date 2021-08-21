@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebsiteConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OpenUrlOnJoin>true</OpenUrlOnJoin>
+  <JoinUrl>https://discord.gg/ZaP72EAr</JoinUrl>
+  <JoinDesc>Entre em nosso Discord, garanta seu kit e fique por dentro das novidades.</JoinDesc>
+  <WebsiteCommands>
+    <WebsiteCommand>
+      <Url>https://discord.gg/ZaP72EAr</Url>
+      <Desc>Acessar Discord</Desc>
+      <CommandName>Discord</CommandName>
+      <Help>Acesse nosso Discord e garante seu kit.</Help>
+    </WebsiteCommand>
+  </WebsiteCommands>
+</WebsiteConfig>

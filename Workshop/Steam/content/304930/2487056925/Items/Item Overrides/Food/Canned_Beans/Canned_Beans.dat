@@ -1,0 +1,27 @@
+GUID accee8202066452395304d61814855e9
+Type Food
+Useable Consumeable
+ID 5227
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+Size2_Z 0.35
+
+Health 10
+Food 55
+
+Quality_Min 50
+Quality_Max 100
+
+Shared_Skin_Lookup_ID 13
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 5538
+Quest_Reward_0_Amount 1
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Canned_Beans
+
+ConsumeAudioClip Sounds/EatCrunchy.mp3

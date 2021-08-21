@@ -1,0 +1,7 @@
+Name <color=#FF69B4>Survivors: </color><color=uncommon>Maneater</color>
+Description Daryl just wants you to complete a simple task - lowering the amount of turned. 
+
+Condition_0 Defeat {0}/{1} Zombies
+
+Reward_0 100 Experience
+Reward_1 10 Reputation

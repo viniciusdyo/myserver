@@ -1,0 +1,20 @@
+GUID 674ffddd943e47b1a497150af4ad4cf1
+Type Vendor
+ID 28452
+
+Selling 6
+Selling_0_ID 5049
+Selling_0_Cost 20
+Selling_1_ID 5050
+Selling_1_Cost 20
+Selling_2_ID 5328
+Selling_2_Cost 25
+Selling_3_ID 5327
+Selling_3_Cost 25
+Selling_4_ID 5329
+Selling_4_Cost 25
+Selling_5_ID 5330
+Selling_5_Cost 25
+
+Disable_Sorting
+Currency b76b37b2d40c4054b850458e135408c6

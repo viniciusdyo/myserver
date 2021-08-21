@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color>Valuable Vase
+Description Oliver was examining a vase in some ruins, but he forgot where it was. Retrieve it for him.
+
+Condition_0 Find Vase {0}/1

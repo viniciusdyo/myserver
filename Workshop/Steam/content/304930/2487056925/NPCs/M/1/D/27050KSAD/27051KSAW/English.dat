@@ -1,0 +1,43 @@
+Message_0_Page_0 Hello there, you should talk to <color=legendary>Issac</color> right here first.
+Message_1_Page_0 We have an operation ready for you, talk to <color=legendary>Issac</color>.
+Message_2_Page_0 We have another operation, gear up and talk to <color=legendary>Issac</color>.
+Message_3_Page_0 We have one more operation for you to undertake. You should get ready - when you're ready to go, talk to <color=legendary>Issac</color>. Good luck.
+Message_4_Page_0 Hello <name_char>, do you need anything?
+Message_5_Page_0 Hello there <name_char>, are you looking for something?
+Message_6_Page_0 Good <i>*yawn*</i> <pause> ... good morning <name_char>, what do you need? <br><br> <i>i wonder how Dango is doing...</i>
+Message_7_Page_0 Ohayou <name_char>, what do you need?
+Message_8_Page_0 Good afternoon <name_char>, do you need something?
+Message_9_Page_0 Good evening <name_char>, what are you looking for?
+
+Response_0 Will do.
+// Post talked to Issac
+Response_1 Need any help?
+Response_2 Need any help?
+Response_3 Need any help?
+Response_4 Need any help?
+// Post OP-1
+Response_5 Need any help?
+Response_6 Need any help?
+Response_7 Need any help?
+Response_8 Need any help?
+// Post OP-2
+Response_9 Need any help?
+Response_10 Need any help?
+Response_11 Need any help?
+Response_12 Need any help?
+// Completed
+Response_13 I've completed the task!
+Response_14 I've completed the task!
+Response_15 I've completed the task!
+Response_16 I've completed the task!
+Response_17 I've completed the task!
+Response_18 I've completed the task!
+Response_19 I've completed the task!
+Response_20 I've completed the task!
+Response_21 I've completed the task!
+// Uniform/None
+Response_22 Could I get a uniform?
+Response_23 May I purchase a uniform?
+Response_24 Do you need any help?
+Response_25 Do you have any borrowed tools?
+Response_26 Nothing.

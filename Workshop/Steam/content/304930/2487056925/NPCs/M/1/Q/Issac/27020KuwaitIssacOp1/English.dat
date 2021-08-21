@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=mythical>Hydrate or Die-drate</color>
+Description <color=legendary>Major General Issac</color><br>A very powerful zombie was spotted at the Bayan Water Towers, preventing the <color=legendary>Concord</color> from having a stable source of water. You need to liberate the towers from this zombie.
+
+Condition_0 Defeat <color=mythical>Electric Boss Zombie</color> {0}/1

@@ -1,0 +1,62 @@
+GUID 240f91f9380f4748a734ceac13a577f9
+Type Dialogue
+ID 27052
+
+Messages 1
+Message_0_Pages 1
+
+Responses 4
+
+// ...eh? Ah, Ohayou! What are you doing here? Do you need bridge code? Well, Ashley's code looks better, and it's newer... Why don't you look at hers?
+
+// Nanda? Ettoo, 27070 didn't work. So - 27090 for the first one, I guess. Maybe I have an overlapping ID.
+
+Response_0_Dialogue 27055
+Response_0_Quest 27090
+Response_0_Conditions 2
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_ID 27090
+Response_0_Condition_0_Status None
+Response_0_Condition_1_Type Flag_Short
+Response_0_Condition_1_ID 27051
+Response_0_Condition_1_Value 0
+Response_0_Condition_1_Logic Equal
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 27090
+
+Response_1_Dialogue 27055
+Response_1_Quest 27071
+Response_1_Conditions 2
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 27071
+Response_1_Condition_0_Status None
+Response_1_Condition_1_Type Flag_Short
+Response_1_Condition_1_ID 27051
+Response_1_Condition_1_Value 1
+Response_1_Condition_1_Logic Equal
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 27071
+
+Response_2_Dialogue 27055
+Response_2_Quest 27072
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 27072
+Response_2_Condition_0_Status None
+Response_2_Condition_1_Type Flag_Short
+Response_2_Condition_1_ID 27051
+Response_2_Condition_1_Value 2
+Response_2_Condition_1_Logic Equal
+Response_2_Rewards 1
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 27072
+
+// Welcome Dialogue
+Response_3_Dialogue 27051
+
+// If you're copying things, at least credit NSTM.

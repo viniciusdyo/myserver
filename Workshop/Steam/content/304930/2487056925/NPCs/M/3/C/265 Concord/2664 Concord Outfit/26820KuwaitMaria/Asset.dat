@@ -1,0 +1,29 @@
+GUID 7d401fa906434d3396f128bb88367339
+Type NPC
+ID 26820
+
+Shirt 5317
+Pants 5322
+
+Face 10
+Hair 15
+Color_Skin #bea582
+Color_Hair #7d190f
+
+Primary 1377
+Secondary 1369
+
+Dialogue 26821
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 25050
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+Condition_1_Type Flag_Bool
+Condition_1_ID 26609
+Condition_1_Value True
+Condition_1_Logic Equal
+
+// If you're copying things, at least credit NSTM.

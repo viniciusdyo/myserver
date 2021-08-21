@@ -1,0 +1,23 @@
+GUID e3fa118ebff64b68a6c0889ba4401602
+Type NPC
+ID 29300
+
+Shirt 5346
+Pants 5347
+
+Face 11
+Hair 15
+Beard 0
+Color_Skin #BEA582
+Color_Hair #191919
+
+Primary 1366
+
+Dialogue 29301
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 28821
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset

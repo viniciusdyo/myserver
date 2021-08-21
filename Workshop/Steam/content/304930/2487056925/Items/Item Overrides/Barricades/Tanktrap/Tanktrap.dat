@@ -1,0 +1,43 @@
+GUID 7aeba4841110461a9f4fb8452b840e2f
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 5805
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Health 250
+Range 4
+Radius 0.4
+Offset 0.5
+
+Explosion 35
+
+Blueprints 2
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Tool 76
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Barricade
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Tool 5112
+Blueprint_1_Tool_Critical
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+
+Armor_Tier High
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Tanktrap

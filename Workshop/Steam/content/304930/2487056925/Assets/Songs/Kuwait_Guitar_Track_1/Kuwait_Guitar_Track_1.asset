@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "39137c9e31b141178a30ad9a480a9922"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title"
+	{
+		"Namespace" "SDG"
+		"Token" "Stereo_Songs.Music_Guitar_Track_0.Title"
+	}
+	"Song"
+	{
+		"MasterBundle" "kuwait.masterbundle"
+		"AssetPath" "Songs/Music_Guitar_Track_1.mp3"
+	}
+}

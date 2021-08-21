@@ -1,0 +1,98 @@
+GUID 3cd37e9554b64ebb844185a96913c2fb
+Type Vendor
+ID 29323
+
+Disable_Sorting
+
+Buying 5
+// Teklowvka
+Buying_0_ID 5015
+Buying_0_Cost 25
+// Al-Musaytir
+Buying_1_ID 5011 
+Buying_1_Cost 100
+// Snayperska
+Buying_2_ID 5016
+Buying_2_Cost 200
+// Duststorm
+Buying_3_ID 5012 
+Buying_3_Cost 200
+// Ekho
+Buying_4_ID 5019 
+Buying_4_Cost 300
+
+Selling 11
+// Butterfly Knife
+Selling_0_ID 5079
+Selling_0_Cost 50
+// Teklowvka
+Selling_1_ID 5015
+Selling_1_Cost 125
+// Teklowvka Mag
+Selling_2_ID 1361
+Selling_2_Cost 50
+// Al-Musaytir
+Selling_3_ID 5011
+Selling_3_Cost 300
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Flag_Bool
+Selling_3_Condition_0_ID 29321
+Selling_3_Condition_0_Value True
+Selling_3_Condition_0_Logic Equal
+// Militia Magazine
+Selling_4_ID 5013
+Selling_4_Cost 100
+Selling_4_Conditions 1
+Selling_4_Condition_0_Type Flag_Bool
+Selling_4_Condition_0_ID 29321
+Selling_4_Condition_0_Value True
+Selling_4_Condition_0_Logic Equal
+// Ranger Barrel
+Selling_5_ID 5074
+Selling_5_Cost 150
+Selling_5_Conditions 1
+Selling_5_Condition_0_Type Flag_Bool
+Selling_5_Condition_0_ID 29321
+Selling_5_Condition_0_Value True
+Selling_5_Condition_0_Logic Equal
+// Kobra Sight
+Selling_6_ID 5064
+Selling_6_Cost 125
+Selling_6_Conditions 1
+Selling_6_Condition_0_Type Flag_Bool
+Selling_6_Condition_0_ID 29321
+Selling_6_Condition_0_Value True
+Selling_6_Condition_0_Logic Equal
+// Low Caliber Ranger Ammunition
+Selling_7_ID 119
+Selling_7_Cost 250
+Selling_7_Conditions 1
+Selling_7_Condition_0_Type Flag_Bool
+Selling_7_Condition_0_ID 29321
+Selling_7_Condition_0_Value True
+Selling_7_Condition_0_Logic Equal
+// Op 3 Done
+// Snayperskya
+Selling_8_ID 5016
+Selling_8_Cost 600
+Selling_8_Conditions 1
+Selling_8_Condition_0_Type Flag_Bool
+Selling_8_Condition_0_ID 29322
+Selling_8_Condition_0_Value True
+Selling_8_Condition_0_Logic Equal
+// Snayperskya Magazine
+Selling_9_ID 5017
+Selling_9_Cost 175
+Selling_9_Conditions 1
+Selling_9_Condition_0_Type Flag_Bool
+Selling_9_Condition_0_ID 29322
+Selling_9_Condition_0_Value True
+Selling_9_Condition_0_Logic Equal
+// Ranger Suppressor
+Selling_10_ID 5072
+Selling_10_Cost 200
+Selling_10_Conditions 1
+Selling_10_Condition_0_Type Flag_Bool
+Selling_10_Condition_0_ID 29322
+Selling_10_Condition_0_Value True
+Selling_10_Condition_0_Logic Equal

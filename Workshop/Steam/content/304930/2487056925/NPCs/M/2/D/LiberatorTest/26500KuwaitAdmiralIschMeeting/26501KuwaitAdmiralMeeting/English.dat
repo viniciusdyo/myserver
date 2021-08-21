@@ -1,0 +1,9 @@
+Message_0_Page_0 Hello! Who might you be?
+Message_1_Page_0 Do talk to your leadership, and ask if we could stay. We also have new uniforms for them, if they would like.
+Message_2_Page_0 I'll meet you over there then!
+
+// Intro
+Response_0 I'm <name_char>.
+Response_1 I'll ask them.
+Response_2 They said you can stay.
+Response_3 Will do later.

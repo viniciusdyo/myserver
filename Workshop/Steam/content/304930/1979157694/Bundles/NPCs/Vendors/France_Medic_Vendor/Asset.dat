@@ -1,0 +1,198 @@
+GUID e69803d2915f470683e380863205c6f5
+Type Vendor
+ID 4134
+Disable_Sorting
+
+Buying 5
+
+// Medkit
+Buying_0_ID 15
+Buying_0_Cost 90
+// Suture Kit
+Buying_1_ID 403
+Buying_1_Cost 40
+// Bloodbag
+Buying_2_ID 395
+Buying_2_Cost 40
+// Antibiotics
+Buying_3_ID 389
+Buying_3_Cost 20
+// Vaccine
+Buying_4_ID 269
+Buying_4_Cost 50
+
+
+
+Selling 19
+
+// Rag
+Selling_0_ID 393
+Selling_0_Cost 25
+Selling_0_Conditions 1
+Selling_0_Condition_0_Type Flag_Bool
+Selling_0_Condition_0_ID 4093
+Selling_0_Condition_0_Value False
+Selling_0_Condition_0_Logic Equal
+Selling_0_Condition_0_Allow_Unset
+
+// Bandage
+Selling_1_ID 95
+Selling_1_Cost 25
+Selling_1_Conditions 1
+Selling_1_Condition_0_Type Flag_Bool
+Selling_1_Condition_0_ID 4093
+Selling_1_Condition_0_Value True
+Selling_1_Condition_0_Logic Equal
+
+// Dressing
+Selling_2_ID 394
+Selling_2_Cost 80
+Selling_2_Conditions 1
+Selling_2_Condition_0_Type Flag_Bool
+Selling_2_Condition_0_ID 4093
+Selling_2_Condition_0_Value False
+Selling_2_Condition_0_Logic Equal
+Selling_2_Condition_0_Allow_Unset
+
+Selling_3_ID 394
+Selling_3_Cost 45
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Flag_Bool
+Selling_3_Condition_0_ID 4093
+Selling_3_Condition_0_Value True
+Selling_3_Condition_0_Logic Equal
+
+// Splint
+Selling_4_ID 96
+Selling_4_Cost 50
+Selling_4_Conditions 1
+Selling_4_Condition_0_Type Flag_Bool
+Selling_4_Condition_0_ID 4093
+Selling_4_Condition_0_Value False
+Selling_4_Condition_0_Logic Equal
+Selling_4_Condition_0_Allow_Unset
+
+Selling_5_ID 96
+Selling_5_Cost 25
+Selling_5_Conditions 1
+Selling_5_Condition_0_Type Flag_Bool
+Selling_5_Condition_0_ID 4093
+Selling_5_Condition_0_Value True
+Selling_5_Condition_0_Logic Equal
+
+// Vitamins
+Selling_6_ID 391
+Selling_6_Cost 35
+Selling_6_Conditions 1
+Selling_6_Condition_0_Type Flag_Bool
+Selling_6_Condition_0_ID 4093
+Selling_6_Condition_0_Value False
+Selling_6_Condition_0_Logic Equal
+Selling_6_Condition_0_Allow_Unset
+
+Selling_7_ID 391
+Selling_7_Cost 25
+Selling_7_Conditions 1
+Selling_7_Condition_0_Type Flag_Bool
+Selling_7_Condition_0_ID 4093
+Selling_7_Condition_0_Value True
+Selling_7_Condition_0_Logic Equal
+
+// Cough Syrup
+Selling_8_ID 404
+Selling_8_Cost 45
+Selling_8_Conditions 1
+Selling_8_Condition_0_Type Flag_Bool
+Selling_8_Condition_0_ID 4093
+Selling_8_Condition_0_Value False
+Selling_8_Condition_0_Logic Equal
+Selling_8_Condition_0_Allow_Unset
+
+Selling_9_ID 404
+Selling_9_Cost 30
+Selling_9_Conditions 1
+Selling_9_Condition_0_Type Flag_Bool
+Selling_9_Condition_0_ID 4093
+Selling_9_Condition_0_Value True
+Selling_9_Condition_0_Logic Equal
+
+// Tablets
+Selling_10_ID 392
+Selling_10_Cost 35
+Selling_10_Conditions 1
+Selling_10_Condition_0_Type Flag_Bool
+Selling_10_Condition_0_ID 4093
+Selling_10_Condition_0_Value True
+Selling_10_Condition_0_Logic Equal
+
+// Antibiotics
+Selling_11_ID 389
+Selling_11_Cost 50	
+Selling_11_Conditions 1
+Selling_11_Condition_0_Type Flag_Bool
+Selling_11_Condition_0_ID 4093
+Selling_11_Condition_0_Value True
+Selling_11_Condition_0_Logic Equal
+
+// Vaccine
+Selling_12_ID 269
+Selling_12_Cost 90
+Selling_12_Conditions 1
+Selling_12_Condition_0_Type Flag_Bool
+Selling_12_Condition_0_ID 4093
+Selling_12_Condition_0_Value True
+Selling_12_Condition_0_Logic Equal
+
+// Painkillers
+Selling_13_ID 390
+Selling_13_Cost 50
+Selling_13_Conditions 1
+Selling_13_Condition_0_Type Flag_Bool
+Selling_13_Condition_0_ID 4093
+Selling_13_Condition_0_Value False
+Selling_13_Condition_0_Logic Equal
+Selling_13_Condition_0_Allow_Unset
+
+Selling_14_ID 390
+Selling_14_Cost 25
+Selling_14_Conditions 1
+Selling_14_Condition_0_Type Flag_Bool
+Selling_14_Condition_0_ID 4093
+Selling_14_Condition_0_Value True
+Selling_14_Condition_0_Logic Equal
+
+// Suturekit
+Selling_15_ID 403
+Selling_15_Cost 130
+Selling_15_Conditions 1
+Selling_15_Condition_0_Type Flag_Bool
+Selling_15_Condition_0_ID 4093
+Selling_15_Condition_0_Value False
+Selling_15_Condition_0_Logic Equal
+Selling_15_Condition_0_Allow_Unset
+
+Selling_16_ID 403
+Selling_16_Cost 90
+Selling_16_Conditions 1
+Selling_16_Condition_0_Type Flag_Bool
+Selling_16_Condition_0_ID 4093
+Selling_16_Condition_0_Value True
+Selling_16_Condition_0_Logic Equal
+
+// Bloodbag
+Selling_17_ID 395
+Selling_17_Cost 90
+Selling_17_Conditions 1
+Selling_17_Condition_0_Type Flag_Bool
+Selling_17_Condition_0_ID 4093
+Selling_17_Condition_0_Value True
+Selling_17_Condition_0_Logic Equal
+
+// Medkit
+Selling_18_ID 15
+Selling_18_Cost 150
+Selling_18_Conditions 1
+Selling_18_Condition_0_Type Flag_Bool
+Selling_18_Condition_0_ID 4093
+Selling_18_Condition_0_Value True
+Selling_18_Condition_0_Logic Equal

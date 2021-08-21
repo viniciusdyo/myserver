@@ -1,0 +1,25 @@
+GUID 110a8791ccb94e1398f6e85a0175eb94
+Type Dialogue
+ID 26646
+
+Messages 1
+Message_0_Pages 1
+
+Responses 2
+
+Response_0_Dialogue 26647
+Response_0_Rewards 2
+Response_0_Reward_0_Type Item
+Response_0_Reward_0_ID 5043
+Response_0_Reward_0_Amount 1
+Response_0_Reward_0_Sight 5068
+Response_0_Reward_0_Barrel 5076 
+Response_0_Reward_0_Grip 5061
+Response_0_Reward_0_Tactical 5057 
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 27003
+Response_0_Reward_1_Value True
+
+Response_1_Dialogue 26641
+
+// If you're copying things, at least credit NSTM.

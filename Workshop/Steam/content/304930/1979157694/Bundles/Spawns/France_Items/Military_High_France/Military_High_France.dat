@@ -1,0 +1,13 @@
+GUID 60ba7678a13d48e686bf1f78e8126f52
+Type Spawn
+ID 2085
+
+Tables 4
+Table_0_Spawn_ID 2079
+Table_0_Weight 900
+Table_1_Spawn_ID 2087
+Table_1_Weight 50
+Table_2_Spawn_ID 2086
+Table_2_Weight 25
+Table_3_Spawn_ID 2088
+Table_3_Weight 25

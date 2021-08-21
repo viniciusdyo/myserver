@@ -1,0 +1,68 @@
+GUID 16571d12ffa140edb3ddfca840670ffc
+Type Vehicle
+Rarity Legendary
+ID 721
+
+Speed_Min -25.2
+Speed_Max 25.2
+
+Fuel 4000
+
+Health_Min 10000
+Health_Max 10000
+Health 10000
+
+Exit 3
+
+Cam_Follow_Distance 9.5
+Passenger_Explosion_Armor 0.5
+
+LockMouse
+
+Engine Train
+Train_Track_Offset 1.3
+Train_Wheel_Offset 7
+Train_Car_Length 0
+
+Pitch_Idle 0.625
+Pitch_Drive 0.01
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 7
+
+Explosion 20
+Invulnerable
+Explosions_Invulnerable
+Environment_Invulnerable
+Bumper_Invulnerable
+
+Turrets 4
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 3075
+Turret_0_Yaw_Min -129
+Turret_0_Yaw_Max 129
+Turret_0_Pitch_Min 55
+Turret_0_Pitch_Max 100
+Turret_1_Seat_Index 2
+Turret_1_Item_ID 3075
+Turret_1_Yaw_Min -129
+Turret_1_Yaw_Max 129
+Turret_1_Pitch_Min 55
+Turret_1_Pitch_Max 100
+Turret_2_Seat_Index 3
+Turret_2_Item_ID 3077
+Turret_2_Yaw_Min 0
+Turret_2_Yaw_Max 180
+Turret_2_Pitch_Min 75
+Turret_2_Pitch_Max 105
+Turret_3_Seat_Index 4
+Turret_3_Item_ID 3077
+Turret_3_Yaw_Min -180
+Turret_3_Yaw_Max 0
+Turret_3_Pitch_Min 75
+Turret_3_Pitch_Max 105
+//Turret_4_Seat_Index 0
+//Turret_4_Yaw_Min -360
+//Turret_4_Yaw_Max 360
+//Turret_4_Pitch_Min 5
+//Turret_4_Pitch_Max 125

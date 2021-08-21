@@ -1,0 +1,30 @@
+GUID 46fd18693ade4395a7ba4c2223e114db
+Type Barricade
+Useable Barricade
+Build Sign
+ID 5756
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Health 50
+Range 4
+Radius 0.075
+Offset 0.1
+
+Explosion 58
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 5537
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Book

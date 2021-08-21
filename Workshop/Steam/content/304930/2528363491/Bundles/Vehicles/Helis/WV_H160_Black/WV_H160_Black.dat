@@ -1,0 +1,36 @@
+GUID 686459b958d24d0bb3f84216937781bc
+Type Vehicle
+Rarity Legendary
+ID 46531
+
+BatteryMode_Sirens None
+
+Speed_Min -4
+Speed_Max 20
+
+Steer_Min 16
+Steer_Max 8
+
+Fuel 1750
+
+Health_Min 1100
+Health_Max 1200
+Health 1200
+
+Exit 3
+
+Cam_Follow_Distance 24
+
+Asset_Bundle_Version 3
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 6
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Air_Turn_Responsiveness 3

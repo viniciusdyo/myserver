@@ -1,0 +1,7 @@
+Name <color=#567DBC>Coalition: </color>Police Run
+Description <color=rare>Lieutenant Schatzi</color> is going to take their echelon of <color=uncommon>Ensign Cage, Ensign Christopher, Ensign Nick, and Ensign Zephaniah</color> to acquire you police gear. You'll just need to have the money. 
+
+Condition_0 Have <color=#FF69B4>200 KWD</color>, with 100 upfront
+Condition_1 Claim after 1900, in the evening.
+
+Reward_0 6x Police Equipment

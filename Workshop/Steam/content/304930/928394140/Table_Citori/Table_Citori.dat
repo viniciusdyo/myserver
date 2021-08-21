@@ -1,0 +1,13 @@
+GUID 20fb0ecb8ce44c69afe0d9be53e7c38b
+Type Spawn
+ID 51212
+Roots 2
+Root_0_Spawn_ID 216
+Root_0_Weight 7
+Root_1_Spawn_ID 2016
+Root_1_Weight 1
+
+
+Tables 1
+Table_0_Asset_ID 51212
+Table_0_Weight 10

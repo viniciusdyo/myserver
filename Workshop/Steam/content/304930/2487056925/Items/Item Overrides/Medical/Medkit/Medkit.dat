@@ -1,0 +1,29 @@
+GUID 0d9adc97286548f8a80742b1c746b450
+Type Medical
+Rarity Legendary
+Useable Consumeable
+ID 5523
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Aid
+Bleeding
+Broken
+Health 100
+Disinfectant 50
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5521
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5530
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 5534
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 32
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Medkit

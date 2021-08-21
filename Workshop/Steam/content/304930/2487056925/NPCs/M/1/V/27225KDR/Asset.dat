@@ -1,0 +1,24 @@
+GUID 4564a7b07fc341649d8149e08fc539f7
+Type Vendor
+ID 27225
+
+Buying 5
+// Rope
+Buying_0_ID 5536
+Buying_0_Cost 1
+// Tape
+Buying_1_ID 5537
+Buying_1_Cost 1
+// Cans
+Buying_2_ID 5538
+Buying_2_Cost 2
+// Glue
+Buying_3_ID 5259
+Buying_3_Cost 1
+// Chemicals
+Buying_4_ID 5260
+Buying_4_Cost 1
+
+Disable_Sorting
+
+Currency b76b37b2d40c4054b850458e135408c6

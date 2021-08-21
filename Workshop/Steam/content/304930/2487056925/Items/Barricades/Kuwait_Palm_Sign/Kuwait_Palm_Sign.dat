@@ -1,0 +1,26 @@
+GUID 6003519d84024f988b9299d32faa1d2f
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Sign
+ID 5471
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 250
+Range 4
+Radius 0.5
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 5501
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

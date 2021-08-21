@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=legendary>Caracal Contract</color>
+Description <color=epic>Colonel Phillip</color> wants you to kill those cats - they put a hole in his shirt!
+
+Condition_0 Defeat Caracals {0}/5

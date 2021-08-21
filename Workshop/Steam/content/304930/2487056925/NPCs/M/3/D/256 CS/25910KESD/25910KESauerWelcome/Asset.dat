@@ -1,0 +1,43 @@
+GUID fa79c44006f4449a83dfbefc6463f1cb
+Type Dialogue
+ID 25910
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 25913
+Response_0_Conditions 3
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 25371
+Response_0_Condition_0_Status Active
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_1_Type Item
+Response_0_Condition_1_ID 5203
+Response_0_Condition_1_Amount 1
+Response_0_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_0_Condition_1_Reset
+Response_0_Condition_2_Type Flag_Bool 
+Response_0_Condition_2_ID 25914
+Response_0_Condition_2_Value False 
+Response_0_Condition_2_Logic Equal 
+Response_0_Condition_2_Allow_Unset 
+Response_0_Rewards 2
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 25914
+Response_0_Reward_0_Value True
+Response_0_Reward_1_Type Flag_Short
+Response_0_Reward_1_ID 25372
+Response_0_Reward_1_Value 1
+Response_0_Reward_1_Modification Increment
+Response_0_Messages 1
+Response_0_Message_0 0
+
+// Response 1 when the questioning begins.
+Response_1_Dialogue 25911
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 25040
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Not_Equal

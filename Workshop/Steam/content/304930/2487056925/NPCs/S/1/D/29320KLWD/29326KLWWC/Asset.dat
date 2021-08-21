@@ -1,0 +1,24 @@
+GUID 3c38b21d565945989a01fd7b47d050ca
+Type Dialogue
+ID 29326
+
+Messages 2
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 28820
+Message_0_Condition_0_Status Active
+Message_0_Condition_0_Logic Not_Equal
+Message_0_Condition_0_Allow_Unset
+
+Message_1_Pages 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 28820
+Message_1_Condition_0_Status Active
+Message_1_Condition_0_Logic Equal
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Bool
+Message_1_Reward_0_ID 29327
+Message_1_Reward_0_Value True
+
+// If you're copying things, at least credit NSTM.

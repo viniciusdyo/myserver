@@ -1,0 +1,35 @@
+GUID 7a85efd9b9be49e8bf5c22697f999b49
+Type Barricade
+Rarity Mythical
+Useable Barricade
+Build Gate
+ID 29952
+
+Exclude_From_Master_Bundle
+Armor_Tier High
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 4890
+Range 4
+Radius 1.5
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 29951
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 65
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 68
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

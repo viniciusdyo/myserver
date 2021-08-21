@@ -1,0 +1,35 @@
+GUID 26cf6e9a074c49d49d0b96b2d887081e
+Type Quest
+ID 28556
+
+Conditions 6
+Condition_0_Type Item
+Condition_0_ID 5210
+Condition_0_Amount 3
+Condition_0_Reset
+Condition_1_Type Item
+Condition_1_ID 5211
+Condition_1_Amount 3
+Condition_1_Reset
+Condition_2_Type Item
+Condition_2_ID 5212
+Condition_2_Amount 3
+Condition_2_Reset
+Condition_3_Type Item
+Condition_3_ID 5213
+Condition_3_Amount 3
+Condition_3_Reset
+Condition_4_Type Item
+Condition_4_ID 5214
+Condition_4_Amount 3
+Condition_4_Reset
+Condition_5_Type Item
+Condition_5_ID 5215
+Condition_5_Amount 3
+Condition_5_Reset
+
+Rewards 2
+Reward_0_Type Experience
+Reward_0_Value 100
+Reward_1_Type Reputation
+Reward_1_Value 10

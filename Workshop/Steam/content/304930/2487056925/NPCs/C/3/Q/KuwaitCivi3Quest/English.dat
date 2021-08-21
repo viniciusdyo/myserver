@@ -1,0 +1,7 @@
+Name <color=#b8b188>Concord: </color>Fixup
+Description Rashad needs his saw to help fix up the place. He needs a couple supplies to fix it up.
+
+Condition_0 Find {0}/{1} {2}
+
+Reward_0 50 Experience
+Reward_1 5 Reputation

@@ -1,0 +1,44 @@
+GUID 75b09abcb2a74765836d0fb049e2d2b3
+Type Barrel
+Rarity Epic
+ID 51901
+
+Size_X 2
+Size_Y 1
+Size_Z 0.12
+
+Calibers 9
+Caliber_0 51105
+Caliber_1 51114
+Caliber_2 51118
+Caliber_3 51301
+Caliber_4 51306
+Caliber_5 51131
+Caliber_6 51316
+Caliber_7 51136
+Caliber_8 51153
+
+Silenced 
+Volume 0.9
+Durability 1
+
+Quality_Min 90
+Quality_Max 100
+
+Ballistic_Drop 1.1
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51910
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 51901
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27

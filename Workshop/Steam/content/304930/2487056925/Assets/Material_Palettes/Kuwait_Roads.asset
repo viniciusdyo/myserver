@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "2960a999c1854992a6e3bda9171302b1"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Roads/KRoad_0.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Roads/KRoad_1.mat"
+		}
+}

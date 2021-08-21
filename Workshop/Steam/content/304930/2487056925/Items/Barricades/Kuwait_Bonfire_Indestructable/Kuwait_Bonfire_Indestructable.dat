@@ -1,0 +1,19 @@
+GUID 4b93e08cfe28425f88e6b285be47af52
+Type Barricade
+Useable Barricade
+Build Campfire
+ID 5483
+
+Size_X 255
+Size_Y 255
+Size_Z 0.675
+
+Can_Be_Damaged False
+Allow_Placement_On_Vehicle False
+Unrepairable
+Unpickupable
+
+Asset_Bundle_Version 3
+
+Master_Bundle_Override kuwait.masterbundle
+Bundle_Override_Path /Items/Barricades/Kuwait_Bonfire

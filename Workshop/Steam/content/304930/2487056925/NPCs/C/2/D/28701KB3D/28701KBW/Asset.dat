@@ -1,0 +1,29 @@
+GUID b46be1dfb8a44debab2999fade78d8af
+Type Dialogue
+ID 28701
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 28702
+Response_0_Quest 28705
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_ID 28705
+Response_0_Condition_0_Status None
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 28705
+
+Response_1_Dialogue 28703
+Response_1_Quest 28705
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 28705
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Reset

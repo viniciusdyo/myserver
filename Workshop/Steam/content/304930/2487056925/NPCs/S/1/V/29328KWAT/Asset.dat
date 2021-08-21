@@ -1,0 +1,45 @@
+GUID 25ef1b95f1c4408c88f95e5c7b462201
+Type Vendor
+ID 29328
+
+Disable_Sorting
+
+Buying 12
+// Tactical Light
+Buying_0_ID 5056
+Buying_0_Cost 10
+// Tactical Laser
+Buying_1_ID 5057 
+Buying_1_Cost 20
+// Rangefinder
+Buying_2_ID 5058 
+Buying_2_Cost 30
+// Adaptive Chambering
+Buying_3_ID 5059 
+Buying_3_Cost 30
+// Vertical Grip
+Buying_4_ID 5061 
+Buying_4_Cost 40
+// Horizontal Grip
+Buying_5_ID 5062 
+Buying_5_Cost 40
+// Bipod
+Buying_6_ID 5063 
+Buying_6_Cost 40
+// Kobra Sight
+Buying_7_ID 5064 
+Buying_7_Cost 40
+// 7x Scope
+Buying_8_ID 5065 
+Buying_8_Cost 50
+// Ranger Suppressor
+Buying_9_ID 5072 
+Buying_9_Cost 50
+// Ranger Muzzle
+Buying_10_ID 5073 
+Buying_10_Cost 50
+// Ranger Barrel
+Buying_11_ID 5074 
+Buying_11_Cost 50
+
+Selling 0

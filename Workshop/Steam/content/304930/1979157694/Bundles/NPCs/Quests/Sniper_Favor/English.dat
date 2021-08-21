@@ -1,0 +1,4 @@
+Name <color=epic>A Little Favor</color>
+Description <color=epic>Sergeant Boone</color> dropped his golden pocket watch when he was evacuating Marseille. He thinks it fell into the grass when he was running from his guard tower to the docks. His tower was the one leading to the airstrip. He ran around the building and jumped onto the dock. It's a small strip of grass, but it's also a small object. This trinket seems very important to him.
+
+Condition_0 Recover <color=epic>Golden Pocketwatch</color> {0}/1 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="mp_set" Value="Succesfully set max player to : " />
+  <Translation Id="mp_set_normal" Value="Succesfully set max player to normal" />
+  <Translation Id="mps" Value="Current server max players : " />
+  <Translation Id="mps_usage" Value="Error in command. Try /mps or /mplayers" />
+  <Translation Id="mp_usage" Value="Error in command. Try /mp amount or /setmp amount or /maxplayer amount" />
+  <Translation Id="mp_error" Value="Something went wrong. Input a number." />
+</Translations>

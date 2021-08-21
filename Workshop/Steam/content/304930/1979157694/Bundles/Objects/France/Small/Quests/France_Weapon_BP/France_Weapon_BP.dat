@@ -1,0 +1,9 @@
+GUID 3d40ad00473e442c8271217a21287093
+Type Small
+ID 35170
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4018
+Condition_0_Value 4
+Condition_0_Logic Greater_Than_Or_Equal_To

@@ -1,0 +1,28 @@
+GUID b7ad99735dfb426596b75182f383b8c1
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Floor
+ID 5435
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 2100
+Range 8
+
+Explosion 36
+
+Foliage_Cut_Radius 4
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5551
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5412
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

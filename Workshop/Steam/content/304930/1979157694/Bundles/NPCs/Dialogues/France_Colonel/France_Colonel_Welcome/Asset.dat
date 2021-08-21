@@ -1,0 +1,351 @@
+GUID b651c7217acb40d59df35ae7b9408eea
+Type Dialogue
+ID 4030
+
+Messages 3
+
+// Welcome
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 1
+// Met_Colonel
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 4013
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+
+// Aid Reward
+Message_1_Pages 1
+Message_1_Responses 2
+Message_1_Response_0 20
+Message_1_Response_1 21
+Message_1_Conditions 6
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 4014
+Message_1_Condition_0_Value 4
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_Logic Equal
+Message_1_Condition_1_ID 4042
+Message_1_Condition_1_Status Completed
+Message_1_Condition_2_Type Quest
+Message_1_Condition_2_Logic Equal
+Message_1_Condition_2_ID 4131
+Message_1_Condition_2_Status Completed
+Message_1_Condition_3_Type Quest
+Message_1_Condition_3_Logic Equal
+Message_1_Condition_3_ID 4144
+Message_1_Condition_3_Status Completed
+Message_1_Condition_4_Type Quest
+Message_1_Condition_4_Logic Equal
+Message_1_Condition_4_ID 4156
+Message_1_Condition_4_Status Completed
+Message_1_Condition_5_Type Flag_Bool
+Message_1_Condition_5_ID 4093
+Message_1_Condition_5_Value False
+Message_1_Condition_5_Logic Equal
+Message_1_Condition_5_Allow_Unset
+
+// Anything to report?
+Message_2_Pages 1
+
+Responses 24
+
+// Hello I'm X
+// Introduce
+Response_0_Dialogue 4031
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Rewards 1
+// Met_Captain
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 4013
+Response_0_Reward_0_Value True
+
+// I'm ready for Exterminate 1
+Response_1_Dialogue 4049
+Response_1_Quest 4039
+Response_1_Conditions 2
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 4039
+Response_1_Condition_0_Status None
+Response_1_Condition_1_Type Flag_Bool
+Response_1_Condition_1_Logic Equal
+Response_1_Condition_1_ID 4037
+Response_1_Condition_1_Value True
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 4039
+Response_1_Reward_0_Status Active
+
+// Exterminate 1 turn in
+Response_2_Dialogue 4050
+Response_2_Quest 4039
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 4039
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Reset
+
+// I'm ready for Exterminate 2
+Response_3_Dialogue 4051
+Response_3_Quest 4040
+Response_3_Conditions 2
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 4040
+Response_3_Condition_0_Status None
+Response_3_Condition_1_Type Flag_Short
+Response_3_Condition_1_Logic Equal
+Response_3_Condition_1_ID 4038
+Response_3_Condition_1_Value 1
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 4040
+Response_3_Reward_0_Status Active
+
+// Exterminate 2 turn in
+Response_4_Dialogue 4052
+Response_4_Quest 4040
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_ID 4040
+Response_4_Condition_0_Status Ready
+Response_4_Condition_0_Reset
+
+// I'm ready for Exterminate 3
+Response_5_Dialogue 4049
+Response_5_Quest 4041
+Response_5_Conditions 2
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_ID 4041
+Response_5_Condition_0_Status None
+Response_5_Condition_1_Type Flag_Short
+Response_5_Condition_1_Logic Equal
+Response_5_Condition_1_ID 4038
+Response_5_Condition_1_Value 2
+Response_5_Rewards 1
+Response_5_Reward_0_Type Quest
+Response_5_Reward_0_ID 4041
+Response_5_Reward_0_Status Active
+
+// Exterminate 3 turn in
+Response_6_Dialogue 4050
+Response_6_Quest 4041
+Response_6_Conditions 1
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_ID 4041
+Response_6_Condition_0_Status Ready
+Response_6_Condition_0_Reset
+
+// I'm ready for Exterminate 4
+Response_7_Dialogue 4051
+Response_7_Quest 4042
+Response_7_Conditions 2
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_ID 4042
+Response_7_Condition_0_Status None
+Response_7_Condition_1_Type Flag_Short
+Response_7_Condition_1_Logic Equal
+Response_7_Condition_1_ID 4038
+Response_7_Condition_1_Value 3
+Response_7_Rewards 1
+Response_7_Reward_0_Type Quest
+Response_7_Reward_0_ID 4042
+Response_7_Reward_0_Status Active
+
+// Exterminate 4 turn in
+Response_8_Dialogue 4052
+Response_8_Quest 4042
+Response_8_Conditions 1
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_ID 4042
+Response_8_Condition_0_Status Ready
+Response_8_Condition_0_Reset
+
+// I'm ready for Exterminate 5
+Response_9_Dialogue 4051
+Response_9_Quest 4043
+Response_9_Conditions 2
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_ID 4043
+Response_9_Condition_0_Status None
+Response_9_Condition_1_Type Flag_Short
+Response_9_Condition_1_Logic Equal
+Response_9_Condition_1_ID 4038
+Response_9_Condition_1_Value 4
+Response_9_Rewards 1
+Response_9_Reward_0_Type Quest
+Response_9_Reward_0_ID 4043
+Response_9_Reward_0_Status Active
+
+// Exterminate 5 turn in
+Response_10_Dialogue 4052
+Response_10_Quest 4043
+Response_10_Conditions 1
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_0_ID 4043
+Response_10_Condition_0_Status Ready
+Response_10_Condition_0_Reset
+
+// Lost Document
+Response_11_Dialogue 4053
+Response_11_Quest 4044
+Response_11_Conditions 2
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_0_ID 4044
+Response_11_Condition_0_Status None
+Response_11_Condition_1_Type Flag_Short
+Response_11_Condition_1_Logic Equal
+Response_11_Condition_1_ID 4038
+Response_11_Condition_1_Value 5
+Response_11_Rewards 2
+Response_11_Reward_0_Type Quest
+Response_11_Reward_0_ID 4044
+Response_11_Reward_0_Status Active
+Response_11_Reward_1_Type Flag_Bool
+Response_11_Reward_1_ID 4055
+Response_11_Reward_1_Value False
+
+// Lost Document turn in
+Response_12_Dialogue 4054
+Response_12_Quest 4044
+Response_12_Conditions 1
+Response_12_Condition_0_Type Quest
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_0_ID 4044
+Response_12_Condition_0_Status Ready
+Response_12_Condition_0_Reset
+
+// I'm ready for Exterminate 6
+Response_13_Dialogue 4049
+Response_13_Quest 4045
+Response_13_Conditions 2
+Response_13_Condition_0_Type Quest
+Response_13_Condition_0_Logic Equal
+Response_13_Condition_0_ID 4045
+Response_13_Condition_0_Status None
+Response_13_Condition_1_Type Flag_Short
+Response_13_Condition_1_Logic Equal
+Response_13_Condition_1_ID 4038
+Response_13_Condition_1_Value 6
+Response_13_Rewards 1
+Response_13_Reward_0_Type Quest
+Response_13_Reward_0_ID 4045
+Response_13_Reward_0_Status Active
+
+// Exterminate 6 turn in
+Response_14_Dialogue 4050
+Response_14_Quest 4045
+Response_14_Conditions 1
+Response_14_Condition_0_Type Quest
+Response_14_Condition_0_Logic Equal
+Response_14_Condition_0_ID 4045
+Response_14_Condition_0_Status Ready
+Response_14_Condition_0_Reset
+
+// I'm ready for Exterminate 7
+Response_15_Dialogue 4049
+Response_15_Quest 4046
+Response_15_Conditions 2
+Response_15_Condition_0_Type Quest
+Response_15_Condition_0_Logic Equal
+Response_15_Condition_0_ID 4046
+Response_15_Condition_0_Status None
+Response_15_Condition_1_Type Flag_Short
+Response_15_Condition_1_Logic Equal
+Response_15_Condition_1_ID 4038
+Response_15_Condition_1_Value 7
+Response_15_Rewards 1
+Response_15_Reward_0_Type Quest
+Response_15_Reward_0_ID 4046
+Response_15_Reward_0_Status Active
+
+// Exterminate 7 turn in
+Response_16_Dialogue 4050
+Response_16_Quest 4046
+Response_16_Conditions 1
+Response_16_Condition_0_Type Quest
+Response_16_Condition_0_Logic Equal
+Response_16_Condition_0_ID 4046
+Response_16_Condition_0_Status Ready
+Response_16_Condition_0_Reset
+
+// I'm ready for Exterminate 8
+Response_17_Dialogue 4051
+Response_17_Quest 4047
+Response_17_Conditions 2
+Response_17_Condition_0_Type Quest
+Response_17_Condition_0_Logic Equal
+Response_17_Condition_0_ID 4047
+Response_17_Condition_0_Status None
+Response_17_Condition_1_Type Flag_Short
+Response_17_Condition_1_Logic Equal
+Response_17_Condition_1_ID 4038
+Response_17_Condition_1_Value 8
+Response_17_Rewards 1
+Response_17_Reward_0_Type Quest
+Response_17_Reward_0_ID 4047
+Response_17_Reward_0_Status Active
+
+// Exterminate 8 turn in
+Response_18_Dialogue 4052
+Response_18_Quest 4047
+Response_18_Conditions 1
+Response_18_Condition_0_Type Quest
+Response_18_Condition_0_Logic Equal
+Response_18_Condition_0_ID 4047
+Response_18_Condition_0_Status Ready
+Response_18_Condition_0_Reset
+
+// All completed
+Response_19_Dialogue 4048
+Response_19_Messages 1
+Response_19_Message_0 1
+Response_19_Conditions 1
+Response_19_Condition_0_Type Flag_Short
+Response_19_Condition_0_Logic Equal
+Response_19_Condition_0_ID 4038
+Response_19_Condition_0_Value 9
+
+// Accept Aid
+Response_20_Dialogue 4061
+Response_20_Messages 1
+Response_20_Message_0 1
+Response_20_Rewards 5
+Response_20_Reward_0_Type Flag_Bool
+Response_20_Reward_0_ID 4093
+Response_20_Reward_0_Value True
+Response_20_Reward_1_Type Flag_Bool
+Response_20_Reward_1_ID 4094
+Response_20_Reward_1_Value True
+Response_20_Reward_2_Type Flag_Bool
+Response_20_Reward_2_ID 4095
+Response_20_Reward_2_Value True
+Response_20_Reward_3_Type Flag_Bool
+Response_20_Reward_3_ID 4096
+Response_20_Reward_3_Value True
+Response_20_Reward_4_Type Flag_Bool
+Response_20_Reward_4_ID 4097
+Response_20_Reward_4_Value True
+
+// Aid Later
+Response_21_Messages 1
+Response_21_Message_0 1
+
+// I have some questions
+Response_22_Dialogue 4032
+Response_22_Messages 1
+Response_22_Message_0 2

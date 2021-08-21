@@ -1,0 +1,336 @@
+GUID 1aa8b8b38bf8449a846b3c550ba25ce2
+Type Dialogue
+ID 26821
+
+// Maria will provide healing supplies if you give her money - up to 50. Each 20KWD will provide (5). The flag id is 27350.
+Messages 12
+// Regular
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 27001
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 1
+Message_0_Response_0 4
+
+// <33 HP, <33 VIR (You look horrible! Dressing+Antibio C:4, HP and Virus 0-33 (0,33])
+Message_1_Pages 1
+Message_1_Conditions 3
+Message_1_Condition_0_Type Player_Life_Health
+Message_1_Condition_0_Value 33
+Message_1_Condition_0_Logic Less_Than_Or_Equal_To
+Message_1_Condition_1_Type Player_Life_Virus
+Message_1_Condition_1_Value 33
+Message_1_Condition_1_Logic Less_Than_Or_Equal_To
+Message_1_Condition_2_Type Flag_Short
+Message_1_Condition_2_ID 27350
+Message_1_Condition_2_Value 12
+Message_1_Condition_2_Logic Greater_Than_Or_Equal_To
+// Rewards, -12 Flag and +1 Dressing/Antibiotics
+Message_1_Rewards 3
+Message_1_Reward_0_Type Item
+Message_1_Reward_0_ID 5522
+Message_1_Reward_0_Amount 1
+Message_1_Reward_1_Type Item
+Message_1_Reward_1_ID 5530
+Message_1_Reward_1_Amount 1
+Message_1_Reward_2_Type Flag_Short
+Message_1_Reward_2_ID 27350
+Message_1_Reward_2_Value 12
+Message_1_Reward_2_Modification Decrement
+
+// <66 HP, <33 VIR (You look bad. Bandage+Antibio C:3, HP 66-33, Virus 0-33)
+Message_2_Pages 1
+Message_2_Conditions 4
+Message_2_Condition_0_Type Player_Life_Virus
+Message_2_Condition_0_Value 66
+Message_2_Condition_0_Logic Less_Than_Or_Equal_To
+Message_2_Condition_1_Type Player_Life_Virus
+Message_2_Condition_1_Value 33
+Message_2_Condition_1_Logic Greater_Than
+Message_2_Condition_2_Type Player_Life_Health
+Message_2_Condition_2_Value 33
+Message_2_Condition_2_Logic Less_Than_Or_Equal_To
+Message_2_Condition_3_Type Flag_Short
+Message_2_Condition_3_ID 27350
+Message_2_Condition_3_Value 9
+Message_2_Condition_3_Logic Greater_Than_Or_Equal_To
+// Rewards, -9 Flag and +1 Bandage/Antibiotics
+Message_2_Rewards 3
+Message_2_Reward_0_Type Item
+Message_2_Reward_0_ID 5521
+Message_2_Reward_0_Amount 1
+Message_2_Reward_1_Type Item
+Message_2_Reward_1_ID 5530
+Message_2_Reward_1_Amount 1
+Message_2_Reward_2_Type Flag_Short
+Message_2_Reward_2_ID 27350
+Message_2_Reward_2_Value 9
+Message_2_Reward_2_Modification Decrement
+
+// <33 HP, <66 VIR (You look bad. Dressing+CSyrup C:3, HP 0-33, Virus 33-66)
+Message_3_Pages 1
+Message_3_Conditions 4
+Message_3_Condition_0_Type Player_Life_Virus
+Message_3_Condition_0_Value 66
+Message_3_Condition_0_Logic Less_Than_Or_Equal_To
+Message_3_Condition_1_Type Player_Life_Virus
+Message_3_Condition_1_Value 33
+Message_3_Condition_1_Logic Greater_Than
+Message_3_Condition_2_Type Player_Life_Health
+Message_3_Condition_2_Value 66
+Message_3_Condition_2_Logic Less_Than_Or_Equal_To
+Message_3_Condition_3_Type Flag_Short
+Message_3_Condition_3_ID 27350
+Message_3_Condition_3_Value 9
+Message_3_Condition_3_Logic Greater_Than_Or_Equal_To
+// Rewards, -9 Flag and +1 Dressing/CSyrup
+Message_3__Reward_0_Type Item
+Message_3_Reward_0_ID 5522
+Message_3_Reward_0_Amount 1
+Message_3_Reward_1_Type Item
+Message_3_Reward_1_ID 5527
+Message_3_Reward_1_Amount 1
+Message_3_Reward_2_Type Flag_Short
+Message_3_Reward_2_ID 27350
+Message_3_Reward_2_Value 9
+Message_3_Reward_2_Modification Decrement
+
+// <66 HP, <66 VIR (You look pretty bad. Bandage+CSyrup C:2, HP and Virus 33-66 (33-66)
+Message_4_Pages 1
+Message_4_Conditions 5
+Message_4_Condition_0_Type Player_Life_Virus
+Message_4_Condition_0_Value 66
+Message_4_Condition_0_Logic Less_Than_Or_Equal_To
+Message_4_Condition_1_Type Player_Life_Virus
+Message_4_Condition_1_Value 33
+Message_4_Condition_1_Logic Greater_Than
+Message_4_Condition_2_Type Player_Life_Health
+Message_4_Condition_2_Value 66
+Message_4_Condition_2_Logic Less_Than_Or_Equal_To
+Message_4_Condition_3_Type Player_Life_Health
+Message_4_Condition_3_Value 33
+Message_4_Condition_3_Logic Greater_Than
+Message_4_Condition_4_Type Flag_Short
+Message_4_Condition_4_ID 27350
+Message_4_Condition_4_Value 6
+Message_4_Condition_4_Logic Greater_Than_Or_Equal_To
+// Rewards, -6 Flag and +1 Bandage/CSyrup
+Message_4_Rewards 3
+Message_4_Reward_0_Type Item
+Message_4_Reward_0_ID 5521
+Message_4_Reward_0_Amount 1
+Message_4_Reward_1_Type Item
+Message_4_Reward_1_ID 5527
+Message_4_Reward_1_Amount 1
+Message_4_Reward_2_Type Flag_Short
+Message_4_Reward_2_ID 27350
+Message_4_Reward_2_Value 6
+Message_4_Reward_2_Modification Decrement
+
+// <33 HP, >66 VIR (You look injured! Dressing C:2, If HP 0-33, Virus above 66)
+Message_6_Pages 1
+Message_6_Conditions 3
+Message_6_Condition_0_Type Player_Life_Health
+Message_6_Condition_0_Value 33
+Message_6_Condition_0_Logic Less_Than_Or_Equal_To
+Message_6_Condition_1_Type Player_Life_Virus
+Message_6_Condition_1_Value 66
+Message_6_Condition_1_Logic Greater_Than
+Message_6_Condition_2_Type Flag_Short
+Message_6_Condition_2_ID 27350
+Message_6_Condition_2_Value 6
+Message_6_Condition_2_Logic Greater_Than_Or_Equal_To
+// Rewards, -6 Flag and +1 Dressing
+Message_6_Rewards 2
+Message_6_Reward_0_Type Item
+Message_6_Reward_0_ID 5522
+Message_6_Reward_0_Amount 1
+Message_6_Reward_1_Type Flag_Short
+Message_6_Reward_1_ID 27350
+Message_6_Reward_1_Value 6
+Message_6_Reward_1_Modification Decrement
+
+// >66 HP, <33 VIR (You look sick! Antibiotics C:2, If VIR 0-33, HP above 66)
+Message_5_Pages 1
+Message_5_Conditions 3
+Message_5_Condition_0_Type Player_Life_Virus
+Message_5_Condition_0_Value 33
+Message_5_Condition_0_Logic Less_Than_Or_Equal_To
+Message_5_Condition_1_Type Player_Life_Health
+Message_5_Condition_1_Value 66
+Message_5_Condition_1_Logic Greater_Than
+Message_5_Condition_2_Type Flag_Short
+Message_5_Condition_2_ID 27350
+Message_5_Condition_2_Value 6
+Message_5_Condition_2_Logic Greater_Than_Or_Equal_To
+// Rewards, -6 Flag and +1 Antibiotics
+Message_5_Rewards 2
+Message_5_Reward_0_Type Item
+Message_5_Reward_0_ID 5530
+Message_5_Reward_0_Amount 1
+Message_5_Reward_1_Type Flag_Short
+Message_5_Reward_1_ID 27350
+Message_5_Reward_1_Value 6
+Message_5_Reward_1_Modification Decrement
+
+
+// <66 HP, >66 VIR (You look hurt, Bandage C:1, If HP is 33-66, Virus above 66)
+Message_7_Pages 1
+Message_7_Conditions 4
+Message_7_Condition_0_Type Player_Life_Health
+Message_7_Condition_0_Value 66
+Message_7_Condition_0_Logic Less_Than_Or_Equal_To
+Message_7_Condition_1_Type Player_Life_Health
+Message_7_Condition_1_Value 33
+Message_7_Condition_1_Logic Greater_Than
+Message_7_Condition_2_Type Player_Life_Virus
+Message_7_Condition_2_Value 66
+Message_7_Condition_2_Logic Greater_Than
+Message_7_Condition_3_Type Flag_Short
+Message_7_Condition_3_ID 27350
+Message_7_Condition_3_Value 3
+Message_7_Condition_3_Logic Greater_Than_Or_Equal_To
+// Rewards, -3 Flag and +1 Bandages
+Message_7_Rewards 2
+Message_7_Reward_0_Type Item
+Message_7_Reward_0_ID 5521
+Message_7_Reward_0_Amount 1
+Message_7_Reward_1_Type Flag_Short
+Message_7_Reward_1_ID 27350
+Message_7_Reward_1_Value 3
+Message_7_Reward_1_Modification Decrement
+
+// >66 HP, <66 VIR (You look ill, CSyrup C:1, If VIR is 33-66, HP above 66)
+Message_8_Pages 1
+Message_8_Conditions 4
+Message_8_Condition_0_Type Player_Life_Virus
+Message_8_Condition_0_Value 66
+Message_8_Condition_0_Logic Less_Than_Or_Equal_To
+Message_8_Condition_1_Type Player_Life_Virus
+Message_8_Condition_1_Value 33
+Message_8_Condition_1_Logic Greater_Than
+Message_8_Condition_2_Type Player_Life_Health
+Message_8_Condition_2_Value 66
+Message_8_Condition_2_Logic Greater_Than
+Message_8_Condition_3_Type Flag_Short
+Message_8_Condition_3_ID 27350
+Message_8_Condition_3_Value 3
+Message_8_Condition_3_Logic Greater_Than_Or_Equal_To
+// Rewards, -3 Flag and +1 CSyrup
+Message_8_Rewards 2
+Message_8_Reward_0_Type Item
+Message_8_Reward_0_ID 5527
+Message_8_Reward_0_Amount 1
+Message_8_Reward_1_Type Flag_Short
+Message_8_Reward_1_ID 27350
+Message_8_Reward_1_Value 3
+Message_8_Reward_1_Modification Decrement
+
+// <66 HP, No Money
+Message_9_Pages 1
+Message_9_Conditions 2
+Message_9_Condition_0_Type Player_Life_Health
+Message_9_Condition_0_Value 66
+Message_9_Condition_0_Logic Less_Than_Or_Equal_To
+Message_9_Condition_1_Type Flag_Short
+Message_9_Condition_1_ID 27350
+Message_9_Condition_1_Value 3
+Message_9_Condition_1_Logic Less_Than_Or_Equal_To
+
+// <66 VIR, No Money
+Message_10_Pages 1
+Message_10_Conditions 2
+Message_10_Condition_0_Type Player_Life_Virus
+Message_10_Condition_0_Value 66
+Message_10_Condition_0_Logic Less_Than_Or_Equal_To
+Message_10_Condition_1_Type Flag_Short
+Message_10_Condition_1_ID 27350
+Message_10_Condition_1_Value 3
+Message_10_Condition_1_Logic Less_Than_Or_Equal_To
+
+// Failsafe
+Message_11_Pages 1
+Message_11_Rewards 1
+Message_11_Reward_0_Type Flag_Short
+Message_11_Reward_0_ID 27350
+Message_11_Reward_0_Value 0
+Message_11_Reward_0_Modification Increment
+
+Responses 8
+
+Response_0_Dialogue 27352
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Short
+Response_0_Reward_0_ID 27350
+Response_0_Reward_0_Value 0
+Response_0_Reward_0_Modification Increment
+
+// Pay 20 KWD. The Current ID is 5512 for 20KWD.
+Response_1_Dialogue 27353
+Response_1_Conditions 2
+Response_1_Condition_0_Type Currency
+Response_1_Condition_0_Value 20
+Response_1_Condition_0_GUID b76b37b2d40c4054b850458e135408c6
+Response_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Response_1_Condition_0_Reset
+Response_1_Condition_1_Type Flag_Short
+Response_1_Condition_1_ID 27350
+Response_1_Condition_1_Value 50
+Response_1_Condition_1_Logic Less_Than_Or_Equal_To
+Response_1_Condition_1_Allow_Unset
+Response_1_Rewards 1
+Response_1_Reward_0_Type Flag_Short
+Response_1_Reward_0_ID 27350
+Response_1_Reward_0_Value 6
+Response_1_Reward_0_Modification Increment
+
+Response_2_Vendor 26823
+Response_2_Dialogue 26824
+
+// You're ill, let me patch you up.
+Response_3_Messages 8
+Response_3_Message_0 1
+Response_3_Message_1 2
+Response_3_Message_2 3
+Response_3_Message_3 4
+Response_3_Message_4 5
+Response_3_Message_5 6
+Response_3_Message_6 7
+Response_3_Message_7 8
+
+// You're ill, I can't patch you up.
+Response_4_Messages 2
+Response_4_Message_0 9
+Response_4_Message_1 10
+
+Response_5_Dialogue 27362
+
+Response_6_Dialogue 26825
+Response_6_Conditions 2
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_ID 25320
+Response_6_Condition_0_Status Active
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_1_Type Flag_Bool
+Response_6_Condition_1_ID 26826
+Response_6_Condition_1_Value False
+Response_6_Condition_1_Logic Equal
+Response_6_Condition_1_Allow_Unset
+Response_6_Rewards 2
+Response_6_Reward_0_Type Flag_Bool
+Response_6_Reward_0_ID 26826
+Response_6_Reward_0_Value True
+Response_6_Reward_1_Type Flag_Short
+Response_6_Reward_1_ID 25321
+Response_6_Reward_1_Value 1
+Response_6_Reward_1_Modification Increment
+
+// All good.
+Response_7_Messages 2
+Response_7_Message_0 0
+Response_7_Message_1 11
+
+// If you're copying things, at least credit NSTM.

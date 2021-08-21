@@ -1,0 +1,76 @@
+GUID 1d38bc67fe734c2bad184ad945eb7e9d
+Type Vendor
+ID 28962
+
+Buying 19
+// Items to be bought. Cost = EXP
+// Ghost-Fish
+Buying_0_ID 5245 
+Buying_0_Cost 3
+// Electro-Fish
+Buying_1_ID 5244 
+Buying_1_Cost 4
+// Red Herring
+Buying_2_ID 5277 
+Buying_2_Cost 4
+// Holy Mackeral
+Buying_3_ID 5278
+Buying_3_Cost 4
+// Fred The Fish
+Buying_4_ID 5246  
+Buying_4_Cost 5
+// Le Fishe
+Buying_5_ID 5279  
+Buying_5_Cost 6
+// Tuna
+Buying_6_ID 5280  
+Buying_6_Cost 20
+// BLÅHAJ
+Buying_7_ID 5467  
+Buying_7_Cost 60
+Buying_7_Conditions 1
+Buying_7_Condition_0_Type Quest
+Buying_7_Condition_0_ID 28961
+Buying_7_Condition_0_Status Completed
+Buying_7_Condition_0_Logic Equal
+// Fishing Rod
+Buying_8_ID 5517  
+Buying_8_Cost 10
+// Fiberglass Rod
+Buying_9_ID 5542  
+Buying_9_Cost 20
+// Fiberglass Caster
+Buying_10_ID 5543  
+Buying_10_Cost 20
+// Soft Handle
+Buying_11_ID 5544 
+Buying_11_Cost 20
+// Fiberglass Fishing Rod
+Buying_12_ID 5541 
+Buying_12_Cost 60
+// White Pearl
+Buying_13_ID 5540 
+Buying_13_Cost 20
+// Pink Pearl
+Buying_14_ID 5566 
+Buying_14_Cost 40
+// Midnight Pearl
+Buying_15_ID 5565
+Buying_15_Cost 80
+// Pandora's Treasure
+Buying_16_ID 5473 
+Buying_16_Cost 100
+// RGB Treasure
+Buying_17_ID 5485
+Buying_17_Cost 175
+// Shiny Treasure
+Buying_18_ID 5484
+Buying_18_Cost 225
+
+Selling 1
+// Fishing Rod
+Selling_0_ID 5517 
+Selling_0_Cost 20
+
+Currency b76b37b2d40c4054b850458e135408c6
+Disable_Sorting

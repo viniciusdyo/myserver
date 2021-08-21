@@ -1,0 +1,4 @@
+Name <color=uncommon>Smartphone Search</color>
+Description <color=uncommon>Jack</color> left his smartphone behind in the rubble of his crashed plane. His plane crashed on an island north of Cotentin Arsenal. He seems to want it very badly, but it can't be that important.
+
+Condition_0 Recover <color=rare>Smartphone</color> {0}/1 

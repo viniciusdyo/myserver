@@ -1,0 +1,7 @@
+Name <color=#567DBC>Coalition: </color>Supply Run
+Description <color=uncommon>Ensign Holloway</color> is getting supplies - you just need to pay them.
+
+Condition_0 Have <color=#FF69B4>20 KWD</color>, with 10 upfront
+Condition_1 Claim after 1900, in the evening.
+
+Reward_0 4x Supplies

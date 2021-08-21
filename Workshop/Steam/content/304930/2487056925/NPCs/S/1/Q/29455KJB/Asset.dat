@@ -1,0 +1,17 @@
+GUID e0b54a276e11479c90625788b7599dd7
+Type Quest
+ID 29455
+
+Conditions 1
+Condition_0_Type Item
+Condition_0_ID 5251
+Condition_0_Amount 5
+Condition_0_Reset
+
+Rewards 2
+Reward_0_Type Experience
+Reward_0_Value 300
+Reward_1_Type Flag_Short
+Reward_1_ID 29300
+Reward_1_Value 1
+Reward_1_Modification Increment

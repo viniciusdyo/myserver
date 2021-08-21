@@ -1,0 +1,22 @@
+GUID c1604c6e6d54422c9e478c3cef297e8a
+Type NPC
+ID 28650
+
+Shirt 664 
+Pants 212
+
+Face 5
+Hair 2
+Beard 0
+Color_Skin #9D886B
+Color_Hair #352C22
+
+Dialogue 28651
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 27041
+Condition_0_Value True
+Condition_0_Logic Equal
+
+// If you're copying things, at least credit NSTM.

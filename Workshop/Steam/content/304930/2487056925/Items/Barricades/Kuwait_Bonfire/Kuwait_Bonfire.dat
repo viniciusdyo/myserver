@@ -1,0 +1,29 @@
+GUID af2aeaa8afbb43b5833d156680889d17
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Campfire
+ID 5404
+
+Size_X 2
+Size_Y 2
+Size_Z 0.675
+
+Health 250
+Range 4
+Radius 0.6
+Offset 0.7
+
+Explosion 19
+Vulnerable
+
+Allow_Placement_On_Vehicle False
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 5501
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+
+Asset_Bundle_Version 3

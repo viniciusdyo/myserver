@@ -1,0 +1,22 @@
+GUID 9273b0339b7a4ec480cca91b7f61dda6
+Type NPC
+ID 29600
+
+Shirt 420
+Pants 214
+
+Face 20
+Hair 4
+Beard 0
+Color_Skin #BEA582
+Color_Hair #CDC08C
+
+Dialogue 29601
+
+Secondary 5021
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 29321
+Condition_0_Value True
+Condition_0_Logic Equal

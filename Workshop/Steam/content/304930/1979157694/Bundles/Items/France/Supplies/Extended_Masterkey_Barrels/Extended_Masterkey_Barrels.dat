@@ -1,0 +1,17 @@
+GUID 1eca10a113cb4562a5b3a539a49b7c94
+Type Supply
+Rarity Uncommon
+ID 3013
+
+Size_X 4
+Size_Y 1
+Size_Z 0.17
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 3013
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

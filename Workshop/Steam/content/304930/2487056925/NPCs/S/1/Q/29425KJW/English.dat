@@ -1,0 +1,7 @@
+Name <color=#FF69B4>Survivors: </color>Once In A Lifetime
+Description Being underground, Jared is able to feel groundwater in the sand, despite the heat. He wants you to acquire canteens so that they can use the water.
+
+Condition_0 Find {0}/{1} {2}
+
+Reward_0 50 Experience
+Reward_1 5 Reputation

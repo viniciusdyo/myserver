@@ -1,0 +1,19 @@
+GUID 1e15818f7fa04bd9a67e493ffb36c852
+Type Shirt
+Useable Clothing
+ID 5333
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Character_Mesh_3P_Override_LODs 1
+Has_Character_Material_Override True
+
+Unobtainable
+Unsaveable
+
+Beard_Visible False
+Hair_Visible False
+
+Asset_Bundle_Version 2

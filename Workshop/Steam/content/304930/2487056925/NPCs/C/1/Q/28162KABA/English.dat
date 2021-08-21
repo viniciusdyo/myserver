@@ -1,0 +1,8 @@
+Name <color=#b8b188>Concord: </color>A Brief Excursion
+Description Ashley had left an important briefcase somewhere, but she doesn't know where. She requests that you find it for her.
+
+Condition_0 Find Briefcase {0}/1
+
+Reward_0 +25 Experience
+Reward_1 +3 Reputation
+Reward_2 Random Item x3

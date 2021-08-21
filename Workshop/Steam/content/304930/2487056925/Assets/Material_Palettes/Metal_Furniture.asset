@@ -1,0 +1,24 @@
+"Metadata"
+{
+	"GUID" "2ff7771768c34ee9a8b0f0ed13d08813"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Metal_Furniture/Bronze.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Metal_Furniture/Gold.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Metal_Furniture/Silver.mat"
+		}
+		
+}

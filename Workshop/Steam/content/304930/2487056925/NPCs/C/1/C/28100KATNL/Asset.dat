@@ -1,0 +1,20 @@
+GUID 2052025a36b746ad87e2bc64686cdf7e
+Type NPC
+ID 28100
+
+Shirt 182
+Pants 214
+
+Hair 2
+Face 5
+Color_Skin #332c25
+Color_Hair #191919
+
+Dialogue 28101
+
+Conditions 1
+Condition_0_Type Time_Of_Day
+Condition_0_Second 21600
+Condition_0_Logic Less_Than
+
+// If you're copying things, at least credit NSTM.

@@ -1,0 +1,17 @@
+GUID 15e0eeef26074e46add7b71801f57f06
+Type Supply
+Rarity Uncommon
+ID 5502
+
+Size_X 1
+Size_Y 1
+Size_Z 0.415
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 5503
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product 5502
+Blueprint_0_Products 6
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

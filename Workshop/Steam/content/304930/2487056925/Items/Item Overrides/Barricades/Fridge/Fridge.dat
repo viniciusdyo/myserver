@@ -1,0 +1,47 @@
+GUID 0d38e7030f5b452e89f7cdd81def8bed
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 5778
+
+Size_X 2
+Size_Y 2
+Size_Z 0.75
+
+Health 500
+Range 4
+Radius 0.5
+Offset 0.75
+
+Storage_X 4
+Storage_Y 6
+
+Explosion 36
+
+Blueprints 2
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Furniture
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 6
+Blueprint_1_Tool 5112
+Blueprint_1_Tool_Critical
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Fridge

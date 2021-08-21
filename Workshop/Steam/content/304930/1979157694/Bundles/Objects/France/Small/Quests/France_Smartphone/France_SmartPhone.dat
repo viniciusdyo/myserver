@@ -1,0 +1,16 @@
+GUID b3229760604148ec806499f03f99dab9
+Type Small
+ID 35199
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 4200
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 4200
+Interactability_Reward_0_Value True

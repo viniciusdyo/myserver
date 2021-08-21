@@ -1,0 +1,15 @@
+"Metadata"
+{
+	"GUID" "49666c4213a24c0f89abb2ea0e4ff961"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Sandman_XMAS/KSandman_XMAS.mat"
+		}
+}

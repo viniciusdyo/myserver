@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "971145f4ef6941fcad881f254f66f340"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Foliage/Kuwait_Vines_0.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Foliage/Kuwait_Vines_1.mat"
+		}
+}

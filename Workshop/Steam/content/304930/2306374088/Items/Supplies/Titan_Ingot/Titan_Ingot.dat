@@ -1,0 +1,19 @@
+GUID 35ebbbf7e4424accb7e57952c69e07f0
+
+Type Supply
+Rarity Legendary
+ID 25896
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 25897
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

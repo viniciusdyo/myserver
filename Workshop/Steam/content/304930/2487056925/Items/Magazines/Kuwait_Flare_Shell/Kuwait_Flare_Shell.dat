@@ -1,0 +1,84 @@
+GUID b8680101d9514c0194e0b2341b809ff5
+Type Magazine
+Rarity Rare
+ID 5136
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Amount 1
+
+Calibers 1
+Caliber_0 5075
+
+Range 15
+Zombie_Damage 75
+Animal_Damage 10
+Barricade_Damage 10
+Structure_Damage 10
+Vehicle_Damage 25
+Resource_Damage 65
+Object_Damage 10
+Explosion 5277
+Explosive
+
+Tracer 51
+
+Delete_Empty
+
+Blueprints 6
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 255
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 256
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_1_Critical
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 67
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 257
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_1_Critical
+Blueprint_2_Build 27
+Blueprint_2_Map Kuwait
+Blueprint_3_Type Tool
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 67
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_1_ID 258
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_1_Critical
+Blueprint_3_Build 27
+Blueprint_3_Map Kuwait
+Blueprint_4_Type Tool
+Blueprint_4_Supplies 2
+Blueprint_4_Supply_0_ID 67
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Supply_1_ID 259
+Blueprint_4_Supply_1_Amount 1
+Blueprint_4_Supply_1_Critical
+Blueprint_4_Build 27
+Blueprint_4_Map Kuwait
+Blueprint_5_Type Tool
+Blueprint_5_Supplies 2
+Blueprint_5_Supply_0_ID 67
+Blueprint_5_Supply_0_Amount 1
+Blueprint_5_Supply_1_ID 260
+Blueprint_5_Supply_1_Amount 1
+Blueprint_5_Supply_1_Critical
+Blueprint_5_Build 27
+Blueprint_5_Map Kuwait

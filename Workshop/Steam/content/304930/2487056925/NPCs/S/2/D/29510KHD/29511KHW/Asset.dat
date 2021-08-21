@@ -1,0 +1,38 @@
+GUID c7fd0d16320144e988f47117808c5322
+Type Dialogue
+ID 29511
+
+Messages 2
+ 
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 29553
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 2
+Message_0_Response_0 0
+Message_0_Response_1 1
+
+Message_1_Pages 1
+Message_1_Responses 1
+Message_1_Response_0 2
+
+Responses 3
+
+Response_0_Dialogue 29512
+Response_0_Conditions 1
+Response_0_Condition_0_Type Item
+Response_0_Condition_0_ID 5405
+Response_0_Condition_0_Amount 1
+Response_0_Condition_0_Logic Greater_Than_Or_Equal_To
+Response_0_Condition_0_Reset
+Response_0_Rewards 2
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 29553
+Response_0_Reward_0_Value True
+Response_0_Reward_1_Type Item
+Response_0_Reward_1_ID 5104
+Response_0_Reward_1_Amount 1
+

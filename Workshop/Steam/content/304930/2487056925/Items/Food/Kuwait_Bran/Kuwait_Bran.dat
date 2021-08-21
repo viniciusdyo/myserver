@@ -1,0 +1,18 @@
+GUID 020d98d2e51144b8915746147442ef0c
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 5273
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Food 45
+Health 5
+
+Quality_Min 50
+
+Quest_Rewards 1
+Quest_Reward_0_Type Experience
+Quest_Reward_0_Value 25

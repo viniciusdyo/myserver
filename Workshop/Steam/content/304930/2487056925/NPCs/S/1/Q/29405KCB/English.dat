@@ -1,0 +1,7 @@
+Name <color=#FF69B4>Survivors: </color>Burning Down The House
+Description Chris was on his way home to save his belongings when he saw that his house was destroyed by zombies that were on fire. He wants you to defeat these zombies to prevent it from happening to others. You can keep your distance up to 200 meters.
+
+Condition_0 Defeat {0}/{1} Burning Zombies
+
+Reward_0 50 Experience
+Reward_1 5 Reputation

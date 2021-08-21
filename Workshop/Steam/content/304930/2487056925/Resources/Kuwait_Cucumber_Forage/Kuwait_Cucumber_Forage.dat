@@ -1,0 +1,14 @@
+GUID a495a3449cab49e4b79ff95a85b8b277
+Type Resource
+ID 3056
+
+Health 1000
+Radius 3
+Scale 0.25
+
+Log 5506
+Forage
+
+Reset 1000
+
+Asset_Bundle_Version 2

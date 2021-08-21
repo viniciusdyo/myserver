@@ -1,0 +1,46 @@
+GUID 60f3b75548714cc8b11d1b4c1fdbdcdd
+Type Charge
+Rarity Epic
+Useable Barricade
+Build Charge
+ID 5106
+
+Size_X 1
+Size_Y 1
+Size_Z 0.325
+
+Health 1
+Range 4
+Offset 0.05
+
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 1000
+Structure_Damage 1000
+Vehicle_Damage 500
+Resource_Damage 2000
+Object_Damage 1000
+
+Range2 8
+Explosion2 45
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5507
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 73
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 32
+Blueprint_0_Map Kuwait
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Charge

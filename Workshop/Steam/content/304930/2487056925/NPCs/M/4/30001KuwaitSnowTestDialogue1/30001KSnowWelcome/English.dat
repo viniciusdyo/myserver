@@ -1,0 +1,9 @@
+Message_0_Page_0 Hello <name_char>. 100 CAD Quest.
+Message_1_Page_0 Do you have the money?
+
+Response_0 Start Quest
+Response_1 Start Quest Again
+Response_2 Cancel Quest
+Response_3 Complete Quest
+Response_4 Decline Prior
+Response_5 Decline After

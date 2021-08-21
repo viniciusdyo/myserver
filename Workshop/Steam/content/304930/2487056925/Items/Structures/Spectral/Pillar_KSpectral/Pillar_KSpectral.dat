@@ -1,0 +1,26 @@
+GUID 6b327f86b47c4d0f93a547b35c3aaaed
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Pillar
+ID 5439
+
+Size_X 1
+Size_Y 2
+Size_Z 0.475
+
+Health 2000
+Range 8
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5551
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5427
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

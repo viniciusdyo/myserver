@@ -1,0 +1,30 @@
+GUID 8a956a06d83345579f6dc551c4e124bb
+Type Storage
+Useable Barricade
+Build Storage
+ID 5402
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 125
+Range 4
+Radius 0.5
+Offset 0.75
+
+Storage_X 5
+Storage_Y 5
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5501
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+
+Vulnerable
+Should_Close_When_Outside_Range true

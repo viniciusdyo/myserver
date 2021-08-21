@@ -1,0 +1,83 @@
+GUID 4989af2c53a84fce827bf206945908db
+Type Dialogue
+ID 27011
+
+Messages 1
+
+Message_0_Pages 1
+// Message_0_Responses 1
+// Message_0_Response_0 4
+
+// Responses 5
+
+Responses 2
+
+Response_0_Dialogue 27012
+Response_0_Rewards 2
+Response_0_Reward_0_Type Item
+Response_0_Reward_0_ID 5043
+Response_0_Reward_0_Amount 1
+Response_0_Reward_0_Sight 5068
+Response_0_Reward_0_Barrel 5076 
+Response_0_Reward_0_Grip 5061
+Response_0_Reward_0_Tactical 5057 
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 27003
+Response_0_Reward_1_Value True
+
+Response_1_Dialogue 27001
+
+// Response_0_Dialogue 27012
+// Response_0_Rewards 2
+// Response_0_Reward_0_Type Item
+// Response_0_Reward_0_ID 5005
+// Response_0_Reward_0_Amount 1
+// Response_0_Reward_0_Barrel 5075 
+// Response_0_Reward_0_Grip 5063
+// Response_0_Reward_0_Tactical 5058 
+// Response_0_Reward_1_Type Flag_Bool
+// Response_0_Reward_1_ID 27003
+// Response_0_Reward_1_Value True
+
+// Response_1_Dialogue 27012
+// Response_1_Rewards 2
+// Response_1_Reward_0_Type Item
+// Response_1_Reward_0_ID 5000
+// Response_1_Reward_0_Amount 1
+// Response_1_Reward_0_Barrel 5076 
+// Response_1_Reward_0_Grip 5062
+// Response_1_Reward_0_Sight 5066
+// Response_1_Reward_0_Tactical 5059
+// Response_1_Reward_1_Type Flag_Bool
+// Response_1_Reward_1_ID 27003
+// Response_1_Reward_1_Value True
+
+// Response_2_Dialogue 27012
+// Response_2_Rewards 2
+// Response_2_Reward_0_Type Item
+// Response_2_Reward_0_ID 5003
+// Response_2_Reward_0_Amount 1
+// Response_2_Reward_0_Barrel 5077
+// Response_2_Reward_0_Grip 5061
+// Response_2_Reward_0_Sight 5068
+// Response_2_Reward_0_Tactical 5057
+// Response_2_Reward_1_Type Flag_Bool
+// Response_2_Reward_1_ID 27003
+// Response_2_Reward_1_Value True
+
+// Response_3_Dialogue 27012
+// Response_3_Rewards 2
+// Response_3_Reward_0_Type Item
+// Response_3_Reward_0_ID 5009
+// Response_3_Reward_0_Amount 1
+// Response_3_Reward_0_Barrel 5076
+// Response_3_Reward_0_Grip 5061
+// Response_3_Reward_0_Sight 5067
+// Response_3_Reward_0_Tactical 5057
+// Response_3_Reward_1_Type Flag_Bool
+// Response_3_Reward_1_ID 27003
+// Response_3_Reward_1_Value True
+
+// Response_4_Dialogue 27001
+
+// If you're copying things, at least credit NSTM.

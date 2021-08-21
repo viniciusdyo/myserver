@@ -1,0 +1,4 @@
+Name <color=rare>Ammunition Drop</color>
+Description <color=epic>Sergeant Thierry</color> wants you to go to Verdun Airbase and recover some ammunition boxes.
+
+Condition_0 <color=rare>Ammunition Crates</color> {0}/5

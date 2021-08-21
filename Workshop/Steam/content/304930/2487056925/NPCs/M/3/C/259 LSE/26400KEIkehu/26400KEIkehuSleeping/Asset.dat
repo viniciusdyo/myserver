@@ -1,0 +1,39 @@
+GUID 49a41234f6ae4d64b2636adab7329acb
+Type NPC
+ID 26400
+
+// Hat 5325
+Shirt 5316
+Pants 5322 
+
+Face 27
+Hair 14
+Beard 0
+Color_Skin #94764B
+Color_Hair #32C84B
+
+// Primary 5042
+// Tertiary 81
+// Equipped Tertiary
+Pose Asleep
+// Pose Sit
+
+Pose_Pitch 120
+
+Dialogue 26410
+
+Conditions 3
+Condition_0_Type Flag_Bool
+Condition_0_ID 26515
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 25050
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+Condition_2_Type Time_Of_Day
+Condition_2_Second 21600
+Condition_2_Logic Less_Than
+
+// If you're copying things, at least credit NSTM.

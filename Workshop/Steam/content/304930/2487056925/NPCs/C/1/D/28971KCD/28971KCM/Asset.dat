@@ -1,0 +1,36 @@
+GUID 2cdf0af7b3b44367b6566eb9b72a455e
+Type Dialogue
+ID 28971
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 28972
+Response_0_Conditions 1
+Response_0_Condition_0_Type Item
+Response_0_Condition_0_ID 5236
+Response_0_Condition_0_Amount 1
+Response_0_Condition_0_Logic Greater_Than_Or_Equal_To
+Response_0_Condition_0_Reset
+Response_0_Rewards 2
+Response_0_Reward_0_Type Item_Random
+Response_0_Reward_0_ID 7177
+Response_0_Reward_0_Amount 1
+Response_0_Reward_1_Type Achievement
+Response_0_Reward_1_ID Kuwait_FelineFriends
+
+Response_1_Dialogue 28972
+Response_1_Conditions 1
+Response_1_Condition_0_Type Item
+Response_1_Condition_0_ID 5248
+Response_1_Condition_0_Amount 1
+Response_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Response_1_Condition_0_Reset
+Response_1_Rewards 2
+Response_1_Reward_0_Type Item_Random
+Response_1_Reward_0_ID 7121
+Response_1_Reward_0_Amount 1
+Response_1_Reward_1_Type Achievement
+Response_1_Reward_1_ID Kuwait_FelineFriends

@@ -1,0 +1,19 @@
+GUID 6e6adaea3a0a4e0bb2e9d82bf08672a4
+Type Resource
+ID 3060
+
+Health 100
+Radius 1
+Scale 0.1
+
+Explosion 5272
+Reward_ID 7765
+Reward_Min 1
+Reward_Max 2
+
+BladeID 99
+
+No_Debris
+Reset 250
+
+Asset_Bundle_Version 2

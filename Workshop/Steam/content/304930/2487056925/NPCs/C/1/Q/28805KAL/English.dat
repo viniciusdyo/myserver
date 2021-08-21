@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=uncommon>Ship Sighting</color>
+Description Amira believes that she's seen a large ship in the distance, and wants you to confirm this sighting. You'll need some sort of long range sighting tool - <i>maybe a telescope?</i>
+
+Condition_0 Confirm Sighting

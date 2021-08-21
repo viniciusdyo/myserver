@@ -1,0 +1,26 @@
+GUID d0349909573d423b9931bb576fbee89f
+Type NPC
+ID 29550
+
+Shirt 421 
+Pants 422
+
+Face 11
+Hair 2
+Beard 1
+Color_Skin #9D886B
+Color_Hair #191919
+
+Dialogue 29551
+
+Primary 4
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 29320
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 29546
+Condition_1_Value True
+Condition_1_Logic Equal

@@ -1,0 +1,23 @@
+GUID a819d2940f794e329c831956c13f0d6e
+Type NPC
+ID 28800
+
+Shirt 1386
+Pants 1387
+
+Face 20
+Hair 8
+Beard 0
+Color_Skin #BEA582
+Color_Hair #191919
+
+Dialogue 28801
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 28821
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+// If you're copying things, at least credit NSTM.

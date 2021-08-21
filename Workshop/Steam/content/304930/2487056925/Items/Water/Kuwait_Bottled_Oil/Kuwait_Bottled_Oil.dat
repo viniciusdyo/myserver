@@ -1,0 +1,17 @@
+GUID e764d5e7f2d94fa88a0a891f567abcfe
+Type Water
+Rarity Rare
+Useable Consumeable
+ID 5208
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Virus 250
+Food 5
+Water 5
+
+Quest_Rewards 1
+Quest_Reward_0_Type Achievement
+Quest_Reward_0_ID Kuwait_DinosaurJuice

@@ -1,0 +1,9 @@
+GUID 613ce93085394c5eb12416b131e1fae2
+Type Medium
+ID 5238
+
+Rubble Destroy
+Rubble_Reset 1800
+Rubble_Health 1
+Rubble_Effect 64
+Rubble_Reward_ID 7232

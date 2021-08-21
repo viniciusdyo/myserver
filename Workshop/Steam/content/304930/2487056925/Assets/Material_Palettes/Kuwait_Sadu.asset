@@ -1,0 +1,23 @@
+"Metadata"
+{
+	"GUID" "2341b21fa2984f769a92171bd9d57f30"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Sadu/KSadu_0.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Sadu/KSadu_1.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Sadu/KSadu_2.mat"
+		}
+}

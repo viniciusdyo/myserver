@@ -1,0 +1,53 @@
+GUID fa77cf888c3c4b30809677dd2342e798
+Type Quest
+ID 4173
+
+Conditions 5
+// Broken Hawkhound
+Condition_0_Type Flag_Bool
+Condition_0_ID 4174
+Condition_0_Value True
+Condition_0_Logic Equal
+
+// Dandy Leaf Spring
+Condition_1_Type Flag_Bool
+Condition_1_ID 4175
+Condition_1_Value True
+Condition_1_Logic Equal
+
+// Exquisite Fishing Rod
+Condition_2_Type Flag_Bool
+Condition_2_ID 4176
+Condition_2_Value True
+Condition_2_Logic Equal
+
+// Fine Metal Beam
+Condition_3_Type Flag_Bool
+Condition_3_ID 4177
+Condition_3_Value True
+Condition_3_Logic Equal
+
+// Perfect Mahogany Plank
+Condition_4_Type Flag_Bool
+Condition_4_ID 4178
+Condition_4_Value True
+Condition_4_Logic Equal
+
+Rewards 5
+Reward_0_Type Experience
+Reward_0_Value 75
+Reward_1_Type Reputation
+Reward_1_Value 10
+// Fort quests completed
+Reward_2_Type Flag_Short
+Reward_2_ID 4014
+Reward_2_Value 1
+Reward_2_Modification Increment
+// Heavy Crossbow
+Reward_3_Type Item
+Reward_3_ID 3100
+Reward_3_Amount 1
+// Bolts
+Reward_4_Type Item
+Reward_4_ID 3101
+Reward_4_Amount 5

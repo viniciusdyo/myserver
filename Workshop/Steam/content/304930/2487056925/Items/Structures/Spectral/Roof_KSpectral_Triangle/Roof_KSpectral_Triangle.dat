@@ -1,0 +1,26 @@
+GUID 47728c7f93414c8b84e50fd04d74e84b
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Roof_Poly
+ID 5438
+
+Size_X 2
+Size_Y 2
+Size_Z 0.325
+
+Health 2100
+Range 8
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5551
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5415
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

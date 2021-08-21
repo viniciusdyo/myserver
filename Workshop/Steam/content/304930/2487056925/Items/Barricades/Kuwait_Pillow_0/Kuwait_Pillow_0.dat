@@ -1,0 +1,27 @@
+GUID 7f4a5157e49749c59b62161c68d358e1
+Type Barricade
+Useable Barricade
+Build Barricade
+Rarity Uncommon
+ID 5465
+
+Size_X 2
+Size_Y 1
+Size_Z .225
+
+Health 50
+Range 8
+Offset 0.175
+
+Explosion 28
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Build 27
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Map Kuwait

@@ -1,0 +1,29 @@
+GUID f96bc4a64a624d02ac98bfeeea9690b6
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Ladder
+ID 5782
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Health 800
+Range 4
+Offset 0.125
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Ladder_Metal

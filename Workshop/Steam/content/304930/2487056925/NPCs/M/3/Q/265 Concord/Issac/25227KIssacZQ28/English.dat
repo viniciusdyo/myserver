@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=mythical>Fire Power</color>
+Description <color=legendary>General Issac</color><br>An extremely powerful zombie has been spotted in Hawally. You need to defeat it.
+
+Condition_0 Defeat <color=mythical>Fire Boss Zombie</color> {0}/1

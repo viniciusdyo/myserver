@@ -1,0 +1,33 @@
+GUID d569fcd91aaa46f2ba3b05dbe3c9529f
+Type Tactical
+Rarity Rare
+ID 5060
+
+Size_X 3
+Size_Y 1
+Size_Z 0.25
+
+Melee
+
+Blueprints 2
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5060
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 67
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Build 27
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 8
+Blueprint_1_Tool 5518
+Blueprint_1_Tool_Critical
+Blueprint_1_Level 1
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Tacticals/Bayonet

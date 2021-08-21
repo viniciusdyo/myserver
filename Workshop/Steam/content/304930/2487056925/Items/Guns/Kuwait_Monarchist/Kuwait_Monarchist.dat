@@ -1,0 +1,118 @@
+GUID 04635968e564401ea7014e4965c0e595
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 5000
+
+Size_X 4
+Size_Y 2
+Size_Z 0.35
+
+Sight 5002
+Magazine 5001
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 5
+Ammo_Max 21
+
+Safety
+Semi
+Bursts 3
+
+Attachment_Calibers 1
+Attachment_Caliber_0 1
+
+Magazine_Calibers 1
+Magazine_Caliber_0 5002
+
+Range 200
+Firerate 4
+Action Trigger
+
+Player_Damage 39
+Player_Leg_Multiplier 0.65
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 36
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 20
+Structure_Damage 15
+Vehicle_Damage 35
+Resource_Damage 15
+Object_Damage 25
+
+Durability 0.2
+
+Spread_Aim 0.05
+Spread_Hip 0.1
+
+Recoil_Min_X -1.25
+Recoil_Min_Y 4
+Recoil_Max_X 11
+Recoil_Max_Y 15
+
+Recoil_Crouch 0.9
+Recoil_Prone .85
+
+Spread_Prone 0.85
+Spread_Crouch 0.9
+
+Recover_X 0.9
+Recover_Y 0.75
+
+Shake_Min_X -0.0035
+Shake_Min_Y 0.005
+Shake_Min_Z -0.015
+Shake_Max_X 0.0050
+Shake_Max_Y -0.0065
+Shake_Max_Z -0.025
+
+Muzzle 3
+
+Gunshot_Rolloff_Distance 1300
+
+Blueprints 3
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Item
+Blueprint_0_Condition_0_ID 5112
+Blueprint_0_Condition_0_Amount 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5000
+Blueprint_1_Product 67
+Blueprint_1_Products 3
+Blueprint_1_Build 27
+Blueprint_2_Type Repair
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 67
+Blueprint_2_Supply_0_Amount 3
+Blueprint_2_Tool 5112
+Blueprint_2_Tool_Critical
+Blueprint_2_Level 2
+Blueprint_2_Skill Repair
+Blueprint_2_Build 27

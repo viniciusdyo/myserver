@@ -1,0 +1,60 @@
+GUID e86b715560e64ae2a28599906b4159ae
+Type Dialogue
+ID 29701
+
+Messages 2
+ 
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 29705
+Message_0_Condition_0_Status None
+Message_0_Condition_0_Logic Equal
+Message_0_Responses 3
+Message_0_Response_0 0
+Message_0_Response_1 1
+Message_0_Response_2 2
+
+Message_1_Pages 1
+Message_1_Conditions 2
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 29705
+Message_1_Condition_0_Status None
+Message_1_Condition_0_Logic Not_Equal
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_ID 29705
+Message_1_Condition_1_Status Completed
+Message_1_Condition_1_Logic Not_Equal
+Message_1_Responses 2
+Message_1_Response_0 0
+Message_1_Response_1 3
+
+Responses 4
+
+Response_0_Dialogue 29702
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 29703
+Response_0_Reward_0_Value True
+
+Response_1_Dialogue 29704
+Response_1_Quest 29705
+Response_1_Conditions 2
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 29705
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_1_Type Flag_Bool
+Response_1_Condition_1_ID 29703
+Response_1_Condition_1_Value True
+Response_1_Condition_1_Logic Equal
+Response_1_Rewards 2
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 29705
+Response_1_Reward_1_Type Flag_Bool
+Response_1_Reward_1_ID 29750
+Response_1_Reward_1_Value True
+
+// Response 2 None
+
+// Response 3 None

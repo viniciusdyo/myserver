@@ -1,0 +1,21 @@
+GUID 32eeb27792b04190bb6ab2f7e8a16cdb
+Type NPC
+ID 27960
+
+Shirt 5301
+Pants 5302
+Glasses 1674
+
+Face 24
+Hair 8
+Color_Skin #d9cab4
+Color_Hair #191919
+
+Pose Crouch
+Pose_Pitch 180
+
+Primary 1382
+Secondary 99
+Equipped Primary
+
+// If you're copying things, at least credit NSTM.

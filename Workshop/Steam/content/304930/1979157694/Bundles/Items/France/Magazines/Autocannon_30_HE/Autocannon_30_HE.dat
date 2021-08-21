@@ -1,0 +1,37 @@
+GUID 12f819638bdd4e058447ebc29f95eea8
+Type Magazine
+Rarity Legendary
+ID 3064
+
+Size_X 4
+Size_Y 2
+Size_Z 0.3
+
+Amount 30
+Count_Min 3
+Count_Max 9
+
+Calibers 1
+Caliber_0 72
+
+Tracer 55
+
+Range 5
+Player_Damage 15
+Zombie_Damage 60
+Animal_Damage 60
+Barricade_Damage 20
+Structure_Damage 20
+Vehicle_Damage 20
+Resource_Damage 50
+Object_Damage 20
+Explosion 53
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 3064
+Blueprint_0_Build 30
+
+Delete_Empty

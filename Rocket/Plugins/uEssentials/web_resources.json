@@ -1,0 +1,7 @@
+{
+  "Enabled": false,
+  "URLs": {
+    "Config": "http://example.com/config.json",
+    "Kits": "http://example.com/kits.json"
+  }
+}

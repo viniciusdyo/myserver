@@ -1,0 +1,26 @@
+GUID 8446b819bbdb4e5baf981a14c9cf8be1
+Type NPC
+ID 29060
+
+Shirt 667 
+Pants 214
+
+Face 22
+Hair 18
+Beard 1
+Color_Skin #bea582
+Color_Hair #473928
+
+Secondary 141
+Tertiary 1328 
+Equipped Tertiary
+
+Pose Sit
+
+Dialogue 29061
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 27031
+Condition_0_Value True
+Condition_0_Logic Equal

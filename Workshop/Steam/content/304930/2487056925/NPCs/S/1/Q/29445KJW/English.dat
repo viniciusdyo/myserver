@@ -1,0 +1,7 @@
+Name <color=#FF69B4>Survivors: </color>Synthesize Another Strain
+Description Jamie needs you to find some medicine to combat infections for survivors.
+
+Condition_0 Find {0}/{1} {2}
+
+Reward_0 50 Experience
+Reward_1 5 Reputation

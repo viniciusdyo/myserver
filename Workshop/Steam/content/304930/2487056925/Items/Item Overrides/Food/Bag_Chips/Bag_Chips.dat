@@ -1,0 +1,15 @@
+GUID 97ee65408add4e24892adf06214ce688
+Type Food
+Useable Consumeable
+ID 5218
+
+Size_X 1
+Size_Y 2
+Size_Z 0.45
+
+Food 30
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Bag_Chips
+
+ConsumeAudioClip Sounds/EatCrunchy.mp3

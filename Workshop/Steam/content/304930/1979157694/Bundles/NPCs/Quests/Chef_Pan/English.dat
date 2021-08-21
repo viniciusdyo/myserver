@@ -1,0 +1,4 @@
+Name <color=uncommon>Lost Pan</color>
+Description Chef Bastien left his very special frying pan in Pont du Gard. Recover it for him.
+
+Condition_0 Recover <color=#Cf6A32>Golden Frying Pan</color> {0}/1 

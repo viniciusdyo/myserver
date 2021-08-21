@@ -1,0 +1,60 @@
+GUID 41ecab470c954f99b00e45ec372f3174
+Type Dialogue
+ID 29381
+
+// Eric is there to make sure Kyra doesn't do anything stupid.
+Messages 3
+
+// Randomized 1
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 29302
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+// Randomize Again.
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 29302
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 2
+Message_0_Reward_0_Modification Assign
+
+// Randomized 2
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 29302
+Message_1_Condition_0_Value 1
+Message_1_Condition_0_Logic Equal
+// Randomize Again.
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short_Random
+Message_1_Reward_0_ID 29302
+Message_1_Reward_0_Min_Value 0
+Message_1_Reward_0_Max_Value 2
+Message_1_Reward_0_Modification Assign
+
+// Randomized 3
+Message_2_Pages 1
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 29302
+Message_2_Condition_0_Value 2
+Message_2_Condition_0_Logic Equal
+// Randomize Again.
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short_Random
+Message_2_Reward_0_ID 29302
+Message_2_Reward_0_Min_Value 0
+Message_2_Reward_0_Max_Value 2
+Message_2_Reward_0_Modification Assign
+
+Responses 3
+
+Response_0_Dialogue 29382
+
+Response_1_Dialogue 29383
+
+// If you're copying things, at least credit NSTM.

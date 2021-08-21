@@ -1,0 +1,20 @@
+GUID 24ce49907f994f52a05224652589c267
+Type Dialogue
+ID 4217
+
+Messages 1
+Message_0_Pages 1
+
+Responses 4
+
+// Who are you?
+Response_0_Dialogue 4218
+
+// Nice Boat
+Response_1_Dialogue 4219
+
+// Need any help
+Response_2_Dialogue 4220
+
+// Nvm
+Response_3_Dialogue 4216

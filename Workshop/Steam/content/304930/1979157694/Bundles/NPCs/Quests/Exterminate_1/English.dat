@@ -1,0 +1,4 @@
+Name <color=uncommon>Cull Orly International</color>
+Description Orly International is a location of mild importance, and culling the horde will make the eventual reclamation easier.
+
+Condition_0 Kill zombies {0}/40

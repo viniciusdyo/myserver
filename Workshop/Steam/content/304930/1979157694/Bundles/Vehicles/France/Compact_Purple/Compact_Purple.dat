@@ -1,0 +1,24 @@
+GUID ceb8266b841546a0b885b601255cb085
+Type Vehicle
+ID 734
+
+Speed_Min -6
+Speed_Max 16.5
+
+Steer_Min 28
+Steer_Max 48
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1500
+
+Health_Min 350
+Health_Max 450
+Health 600
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 3
+
+Explosion 20

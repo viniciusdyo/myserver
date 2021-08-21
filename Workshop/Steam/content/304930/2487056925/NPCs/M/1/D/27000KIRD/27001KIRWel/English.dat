@@ -1,0 +1,36 @@
+Message_0_Page_0 Hello there, who might you be?
+Message_1_Page_0 We've got an operation ready for you to undertake. Are you ready?
+Message_2_Page_0 We've got another operation that we'll need you for. Are you ready for this?
+Message_3_Page_0 We've got one more operation that we'll need your help for. Are you ready to help us?
+Message_4_Page_0 Anything new?
+Message_5_Page_0 What'cha need?
+Message_6_Page_0 Need help with somethin'?
+
+// Intro
+Response_0 I'm <name_char>.
+// OP 1
+Response_1 I'm ready for it.
+// OP 2
+Response_2 I'm ready for it.
+// OP 3
+Response_3 I'm ready for it.
+// OP 1 Complete
+Response_4 I've completed the operation.
+// OP 2 Complete
+Response_5 I've completed the operation.
+// OP 3 Complete
+Response_6 I've completed the operation.
+// Help info
+Response_7 Do you know where I can get some things?
+// Quest/Op info
+Response_8 Got anything for me to do?
+// Reward
+Response_9 Got any rewards?
+// Borrowed Tools?
+Response_10 Do you have any borrowed tools?
+// Coalition?
+Response_11 The <color=legendary>Coalition</color> would like to stay here.
+// Nothing
+Response_12 Nothing.
+//
+Response_13 Not yet.

@@ -1,0 +1,16 @@
+GUID 1e11c7eba9c04d0cb43c82d45f779487
+Type Food
+Useable Consumeable
+ID 5221
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Food 10
+Energy 50
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Bar_Energy
+
+ConsumeAudioClip Sounds/EatCrunchy.mp3

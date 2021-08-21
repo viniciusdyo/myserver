@@ -1,0 +1,27 @@
+GUID 637a55bc6d8d40c3ad5cc5a53cd8e76e
+Type Hat
+Rarity Uncommon
+Useable Clothing
+ID 5327
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Beard
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 5327
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Asset_Bundle_Version 2

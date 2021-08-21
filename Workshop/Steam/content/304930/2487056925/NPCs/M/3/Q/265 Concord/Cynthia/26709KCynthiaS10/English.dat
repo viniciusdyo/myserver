@@ -1,0 +1,6 @@
+Name <color=#b8b188>Concord: </color><color=legendary>Weapon Acquisition</color>
+Description <color=epic>Colonel Cynthia</color><br>Acquire some weaponry for <color=epic>Colonel Cynthia</color> to restock the armory.
+
+Condition_0 Find Full Pulse Magazine {0}/2
+Condition_1 Find Full Pulsette Magazine {0}/2
+Condition_2 Find Charged Seaweed Sheets {0}/2

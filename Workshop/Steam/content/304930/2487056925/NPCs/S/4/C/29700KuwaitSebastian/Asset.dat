@@ -1,0 +1,26 @@
+GUID 572cd0a203ce4ff4b17516ed308098b5
+Type NPC
+ID 29700
+
+Hat 723
+Shirt 724
+Pants 214
+
+Face 16
+Hair 14
+Beard 11
+Color_Skin #9D886B
+Color_Hair #191919
+
+Dialogue 29701
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 29322
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Short
+Condition_1_ID 29706
+Condition_1_Value 3
+Condition_1_Logic Not_Equal
+Condition_1_Allow_Unset

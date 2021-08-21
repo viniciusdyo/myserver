@@ -1,0 +1,20 @@
+GUID ec9bdeab1bb9479fa8d1bb49dbcb8e6a
+Type Resource
+ID 3071
+
+Health 2750
+Radius 4
+Scale 0.3
+
+Explosion 52
+Reward_ID 7134
+Reward_XP 6
+Reward_Min 1
+Reward_Max 2
+
+BladeID 2
+
+No_Debris
+Reset 500
+
+Asset_Bundle_Version 2

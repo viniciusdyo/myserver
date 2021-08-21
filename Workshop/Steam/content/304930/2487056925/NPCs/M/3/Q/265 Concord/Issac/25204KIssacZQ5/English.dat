@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=mythical>Full Strength</color>
+Description <color=legendary>General Issac</color><br>An extremely powerful zombie has been spotted in Al-Abdally. You need to defeat it.
+
+Condition_0 Defeat <color=mythical>Super Boss Zombie</color> {0}/1

@@ -1,0 +1,15 @@
+GUID bcfb5325afe24667bbc4912c378f9741
+Type Medical
+Useable Consumeable
+ID 5526
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Aid
+Health 10
+Disinfectant 10
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Vitamins

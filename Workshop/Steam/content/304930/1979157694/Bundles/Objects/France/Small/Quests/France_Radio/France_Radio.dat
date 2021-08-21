@@ -1,0 +1,17 @@
+GUID 716ead83e88742bebab3239e068732d7
+Type Small
+ID 35192
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4190
+Condition_0_Value 0
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 4190
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment

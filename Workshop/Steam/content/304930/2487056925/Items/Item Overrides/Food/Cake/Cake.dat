@@ -1,0 +1,30 @@
+GUID ffb962b90f33491788e37dbc6a34abf1
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 5252
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Food 100
+Water 25
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5215
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 5237
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 5217
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Cake
+
+ConsumeAudioClip Sounds/EatCrunchy.mp3

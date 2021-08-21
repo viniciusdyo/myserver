@@ -1,0 +1,32 @@
+GUID 25110c7d614646d9ab09537bd19219c8
+Type Vehicle
+Rarity Epic
+ID 46570
+Speed_Min -9
+Speed_Max 23
+
+Steer_Min 64
+Steer_Max 32
+
+Fuel_Min 250
+Fuel_Max 1500
+Fuel 3000
+
+Health_Min 500
+Health_Max 600
+Health 1250
+
+Cam_Follow_Distance 16
+
+BatteryMode_Sirens None
+
+Exit 3
+
+Tires_Invulnerable
+
+Engine Boat
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 7
+
+Explosion 20

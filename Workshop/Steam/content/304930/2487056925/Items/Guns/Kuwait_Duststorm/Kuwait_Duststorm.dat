@@ -1,0 +1,118 @@
+GUID bfb4289787ca45b5bde9d94b8fbef607
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 5012
+
+Size_X 4
+Size_Y 2
+Size_Z 0.35
+
+Sight 5014
+Magazine 5013
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 13
+Ammo_Max 30
+
+Safety
+Semi
+Auto
+
+Attachment_Calibers 1
+Attachment_Caliber_0 9
+
+Magazine_Calibers 1
+Magazine_Caliber_0 5001
+
+Range 200
+Firerate 7
+Action Trigger
+
+Player_Damage 33
+Player_Leg_Multiplier 0.5
+Player_Arm_Multiplier 0.5
+Player_Spine_Multiplier 0.6
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 95
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.5
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 48
+Animal_Leg_Multiplier 0.7
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 20
+Structure_Damage 15
+Vehicle_Damage 35
+Resource_Damage 15
+Object_Damage 25
+
+Durability .2
+
+Spread_Aim 0.05
+Spread_Hip 0.25
+
+Recoil_Min_X 4.5
+Recoil_Min_Y 4
+Recoil_Max_X 5.75
+Recoil_Max_Y 7
+
+Recoil_Crouch 0.9
+Recoil_Prone .85
+
+Spread_Prone 0.85
+Spread_Crouch 0.9
+
+Recover_X -0.555
+Recover_Y -0.650
+
+Shake_Min_X -0.0035
+Shake_Min_Y 0.005
+Shake_Min_Z -0.015
+Shake_Max_X 0.0070
+Shake_Max_Y -0.01
+Shake_Max_Z -0.05
+
+Muzzle 3
+
+Gunshot_Rolloff_Distance 1250
+
+Blueprints 3
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Level 1
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Item
+Blueprint_0_Condition_0_ID 5112
+Blueprint_0_Condition_0_Amount 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5012
+Blueprint_1_Product 67
+Blueprint_1_Products 3
+Blueprint_1_Build 27
+Blueprint_2_Type Repair
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 67
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Tool 5112
+Blueprint_2_Tool_Critical
+Blueprint_2_Level 1
+Blueprint_2_Skill Repair
+Blueprint_2_Build 27

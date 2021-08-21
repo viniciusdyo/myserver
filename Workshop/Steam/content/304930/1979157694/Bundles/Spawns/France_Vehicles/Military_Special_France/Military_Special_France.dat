@@ -1,0 +1,9 @@
+GUID 94b7afb070e54bb0bc6e4b7e448026ab
+Type Spawn
+ID 2045
+
+Tables 2
+Table_0_Spawn_ID 2043
+Table_0_Weight 85
+Table_1_Asset_ID 701
+Table_1_Weight 15

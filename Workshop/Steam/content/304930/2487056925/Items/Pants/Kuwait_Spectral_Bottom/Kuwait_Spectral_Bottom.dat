@@ -1,0 +1,45 @@
+GUID bcb1feb7baae4c09a8b90e04f1851868
+Type Pants
+Rarity Legendary
+Useable Clothing
+ID 5342
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 3
+Height 4
+
+Proof_Fire
+
+Armor 0.75
+
+Blueprints 3
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 5552
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5550
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 5545
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 5546
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Products 1
+Blueprint_0_Product_0 5342
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5552
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+Blueprint_2_Type Apparel
+Blueprint_2_Supply_0_ID 5342
+Blueprint_2_Product 5552
+Blueprint_2_Products 1
+Blueprint_2_Build 32
+
+Asset_Bundle_Version 3

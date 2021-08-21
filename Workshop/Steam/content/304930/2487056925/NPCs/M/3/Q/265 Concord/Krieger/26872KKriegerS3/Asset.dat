@@ -1,0 +1,31 @@
+GUID 01a8ea78fd0f4895a1e6b96818659394
+Type Quest
+ID 26872
+
+Conditions 3
+Condition_0_Type Item
+Condition_0_ID 5734
+Condition_0_Amount 1
+Condition_0_Reset
+Condition_1_Type Item
+Condition_1_ID 5685
+Condition_1_Amount 1
+Condition_1_Reset
+Condition_2_Type Item
+Condition_2_ID 5312
+Condition_2_Amount 1
+Condition_2_Reset
+
+Rewards 3
+Reward_0_Type Currency
+Reward_0_Value 100
+Reward_0_GUID b76b37b2d40c4054b850458e135408c6
+Reward_1_Type Reputation
+Reward_1_Value 10
+Reward_2_Type Flag_Short_Random
+Reward_2_ID 26855
+Reward_2_Min_Value 0
+Reward_2_Max_Value 9
+Reward_2_Modification Assign
+
+// If you're copying things, at least credit NSTM.

@@ -1,0 +1,35 @@
+GUID c5599ad45cf644568d9fc64af0f85955
+Type Vendor
+ID 29523
+
+Buying 3
+// Items to be bought. Cost = EXP
+// Metal Scrap
+Buying_0_ID 67
+Buying_0_Cost 3
+// Rope
+Buying_1_ID 5536
+Buying_1_Cost 3
+// Tape
+Buying_2_ID 5537
+Buying_2_Cost 3
+
+Selling 6
+// Palm Fibre
+Selling_0_ID 5501
+Selling_0_Cost 25
+// Stack o Bricks
+Selling_1_ID 5502
+Selling_1_Cost 50
+// Bag o Bricks
+Selling_2_ID 5503
+Selling_2_Cost 300
+// Palm Crate
+Selling_3_ID 5402
+Selling_3_Cost 100
+// Rope Ladder
+Selling_4_ID 5401
+Selling_4_Cost 50
+// White Bedroll
+Selling_5_ID 5754
+Selling_5_Cost 50

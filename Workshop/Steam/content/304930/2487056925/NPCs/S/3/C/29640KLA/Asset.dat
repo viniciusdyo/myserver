@@ -1,0 +1,25 @@
+GUID f2a6ad4e5b32446ba15e441895b86015
+Type NPC
+ID 29640
+
+Shirt 5329
+Pants 5330
+Hat 5327
+
+Face 5
+Hair 12
+Beard 0
+Color_Skin #BEA582
+Color_Hair #CDC08C
+
+Dialogue 29641
+
+Primary 5032
+Equipped Primary
+Pose Passive
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 29321
+Condition_0_Value True
+Condition_0_Logic Equal

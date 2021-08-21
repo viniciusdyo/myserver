@@ -1,0 +1,231 @@
+GUID 66c9d01768384360bf0af50f112986cc
+Type Vendor
+ID 4148
+Disable_Sorting
+
+Buying 5
+
+// Raw Venison
+Buying_0_ID 514
+Buying_0_Cost 40
+// Pork
+Buying_1_ID 1117
+Buying_1_Cost 40
+// Raw Beef
+Buying_2_ID 1120
+Buying_2_Cost 40
+// Raw Salmon
+Buying_3_ID 505
+Buying_3_Cost 30
+// Raw Bass
+Buying_4_ID 1351
+Buying_4_Cost 40
+
+
+Selling 22
+
+// Bread
+Selling_0_ID 460
+Selling_0_Cost 30
+Selling_0_Conditions 1
+Selling_0_Condition_0_Type Flag_Bool
+Selling_0_Condition_0_ID 4093
+Selling_0_Condition_0_Value False
+Selling_0_Condition_0_Logic Equal
+Selling_0_Condition_0_Allow_Unset
+
+Selling_1_ID 460
+Selling_1_Cost 15
+Selling_1_Conditions 1
+Selling_1_Condition_0_Type Flag_Bool
+Selling_1_Condition_0_ID 4093
+Selling_1_Condition_0_Value True
+Selling_1_Condition_0_Logic Equal
+
+// Baguette
+Selling_2_ID 3084
+Selling_2_Cost 80
+Selling_2_Conditions 2
+Selling_2_Condition_0_Type Flag_Bool
+Selling_2_Condition_0_ID 4093
+Selling_2_Condition_0_Value False
+Selling_2_Condition_0_Logic Equal
+Selling_2_Condition_0_Allow_Unset
+Selling_2_Condition_1_Type Quest
+Selling_2_Condition_1_Logic Equal
+Selling_2_Condition_1_ID 4144
+Selling_2_Condition_1_Status Completed
+
+Selling_3_ID 3084
+Selling_3_Cost 40
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Flag_Bool
+Selling_3_Condition_0_ID 4093
+Selling_3_Condition_0_Value True
+Selling_3_Condition_0_Logic Equal
+Selling_3_Condition_1_Type Quest
+Selling_3_Condition_1_Logic Equal
+Selling_3_Condition_1_ID 4144
+Selling_3_Condition_1_Status Completed
+
+// Apple Juice
+Selling_4_ID 91
+Selling_4_Cost 30
+Selling_4_Conditions 1
+Selling_4_Condition_0_Type Flag_Bool
+Selling_4_Condition_0_ID 4093
+Selling_4_Condition_0_Value False
+Selling_4_Condition_0_Logic Equal
+Selling_4_Condition_0_Allow_Unset
+
+Selling_5_ID 91
+Selling_5_Cost 15
+Selling_5_Conditions 1
+Selling_5_Condition_0_Type Flag_Bool
+Selling_5_Condition_0_ID 4093
+Selling_5_Condition_0_Value True
+Selling_5_Condition_0_Logic Equal
+
+// Grape Juice
+Selling_6_ID 92
+Selling_6_Cost 30
+Selling_6_Conditions 1
+Selling_6_Condition_0_Type Flag_Bool
+Selling_6_Condition_0_ID 4093
+Selling_6_Condition_0_Value False
+Selling_6_Condition_0_Logic Equal
+Selling_6_Condition_0_Allow_Unset
+
+Selling_7_ID 92
+Selling_7_Cost 15
+Selling_7_Conditions 1
+Selling_7_Condition_0_Type Flag_Bool
+Selling_7_Condition_0_ID 4093
+Selling_7_Condition_0_Value True
+Selling_7_Condition_0_Logic Equal
+
+// Bottled Water
+Selling_8_ID 14
+Selling_8_Cost 85
+Selling_8_Conditions 1
+Selling_8_Condition_0_Type Flag_Bool
+Selling_8_Condition_0_ID 4093
+Selling_8_Condition_0_Value False
+Selling_8_Condition_0_Logic Equal
+Selling_8_Condition_0_Allow_Unset
+
+Selling_9_ID 14
+Selling_9_Cost 40
+Selling_9_Conditions 1
+Selling_9_Condition_0_Type Flag_Bool
+Selling_9_Condition_0_ID 4093
+Selling_9_Condition_0_Value True
+Selling_9_Condition_0_Logic Equal
+
+// Bottled Coconut
+Selling_10_ID 94
+Selling_10_Cost 90
+Selling_10_Conditions 1
+Selling_10_Condition_0_Type Flag_Bool
+Selling_10_Condition_0_ID 4093
+Selling_10_Condition_0_Value False
+Selling_10_Condition_0_Logic Equal
+Selling_10_Condition_0_Allow_Unset
+
+Selling_11_ID 94
+Selling_11_Cost 45
+Selling_11_Conditions 1
+Selling_11_Condition_0_Type Flag_Bool
+Selling_11_Condition_0_ID 4093
+Selling_11_Condition_0_Value True
+Selling_11_Condition_0_Logic Equal
+
+// BLT
+Selling_12_ID 467
+Selling_12_Cost 150
+Selling_12_Conditions 1
+Selling_12_Condition_0_Type Flag_Bool
+Selling_12_Condition_0_ID 4093
+Selling_12_Condition_0_Value False
+Selling_12_Condition_0_Logic Equal
+Selling_12_Condition_0_Allow_Unset
+
+Selling_13_ID 467
+Selling_13_Cost 75
+Selling_13_Conditions 1
+Selling_13_Condition_0_Type Flag_Bool
+Selling_13_Condition_0_ID 4093
+Selling_13_Condition_0_Value True
+Selling_13_Condition_0_Logic Equal
+
+// Cheese Steak
+Selling_14_ID 1405
+Selling_14_Cost 140
+Selling_14_Conditions 1
+Selling_14_Condition_0_Type Flag_Bool
+Selling_14_Condition_0_ID 4093
+Selling_14_Condition_0_Value False
+Selling_14_Condition_0_Logic Equal
+Selling_14_Condition_0_Allow_Unset
+
+Selling_15_ID 1405
+Selling_15_Cost 70
+Selling_15_Conditions 1
+Selling_15_Condition_0_Type Flag_Bool
+Selling_15_Condition_0_ID 4093
+Selling_15_Condition_0_Value True
+Selling_15_Condition_0_Logic Equal
+
+// Beef Sandwich
+Selling_16_ID 1407
+Selling_16_Cost 130
+Selling_16_Conditions 1
+Selling_16_Condition_0_Type Flag_Bool
+Selling_16_Condition_0_ID 4093
+Selling_16_Condition_0_Value False
+Selling_16_Condition_0_Logic Equal
+Selling_16_Condition_0_Allow_Unset
+
+Selling_17_ID 1407
+Selling_17_Cost 65
+Selling_17_Conditions 1
+Selling_17_Condition_0_Type Flag_Bool
+Selling_17_Condition_0_ID 4093
+Selling_17_Condition_0_Value True
+Selling_17_Condition_0_Logic Equal
+
+// Bass Sandwich
+Selling_18_ID 1403
+Selling_18_Cost 130
+Selling_18_Conditions 1
+Selling_18_Condition_0_Type Flag_Bool
+Selling_18_Condition_0_ID 4093
+Selling_18_Condition_0_Value False
+Selling_18_Condition_0_Logic Equal
+Selling_18_Condition_0_Allow_Unset
+
+Selling_19_ID 1403
+Selling_19_Cost 65
+Selling_19_Conditions 1
+Selling_19_Condition_0_Type Flag_Bool
+Selling_19_Condition_0_ID 4093
+Selling_19_Condition_0_Value True
+Selling_19_Condition_0_Logic Equal
+
+// Dough
+Selling_20_ID 1162
+Selling_20_Cost 20
+Selling_20_Conditions 1
+Selling_20_Condition_0_Type Flag_Bool
+Selling_20_Condition_0_ID 4093
+Selling_20_Condition_0_Value False
+Selling_20_Condition_0_Logic Equal
+Selling_20_Condition_0_Allow_Unset
+
+Selling_21_ID 1162
+Selling_21_Cost 10
+Selling_21_Conditions 1
+Selling_21_Condition_0_Type Flag_Bool
+Selling_21_Condition_0_ID 4093
+Selling_21_Condition_0_Value True
+Selling_21_Condition_0_Logic Equal

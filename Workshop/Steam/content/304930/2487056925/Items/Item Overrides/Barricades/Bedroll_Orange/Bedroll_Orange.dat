@@ -1,0 +1,32 @@
+GUID 6cba7a5e42bd4c2f8ab31895692aca60
+Type Barricade
+Useable Barricade
+Build Bed
+ID 5751
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+
+Health 50
+Range 4
+Radius 0.2
+Offset 0.2
+
+Explosion 37
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 9
+Blueprint_0_Supply_1_ID 257
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_1_Critical
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Bedroll_Orange

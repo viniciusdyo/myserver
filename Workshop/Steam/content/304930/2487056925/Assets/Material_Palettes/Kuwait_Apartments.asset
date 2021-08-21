@@ -1,0 +1,23 @@
+"Metadata"
+{
+	"GUID" "207caf5e5cfe44c697a23ed39209d0a4"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Apartments/KApartments_0.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Apartments/KApartments_1.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Apartments/KApartments_2.mat"
+		}
+}

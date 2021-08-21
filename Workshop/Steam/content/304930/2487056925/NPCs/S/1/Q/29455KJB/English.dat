@@ -1,0 +1,6 @@
+Name <color=#FF69B4>Survivors: </color><color=epic>Indigo Cloud</color>
+Description Jimmy wants you to acquire some berries for him to get his mind off the apocalypse. Apparently, there's a seller on Icarus who sells them at night.
+
+Condition_0 Find {0}/{1} {2}
+
+Reward_0 300 Experience

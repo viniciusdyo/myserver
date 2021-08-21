@@ -1,0 +1,7 @@
+Name <color=#567DBC>Coalition: </color>Medical Run
+Description <color=uncommon>Ensign Nasir</color> is going out to get you medical supplies - you just need to pay them.
+
+Condition_0 Have <color=#FF69B4>50 KWD</color>, with 25 upfront
+Condition_1 Claim after 1900, in the evening.
+
+Reward_0 3x Medical Supplies

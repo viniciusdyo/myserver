@@ -1,0 +1,29 @@
+GUID 7ba6701926d54df2b54a7aa14249ec4c
+Type Dialogue
+ID 29641
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 29642
+Response_0_Quest 29645
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_ID 29645
+Response_0_Condition_0_Status None
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 29645
+
+Response_1_Dialogue 29643
+Response_1_Quest 29645
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 29645
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Reset

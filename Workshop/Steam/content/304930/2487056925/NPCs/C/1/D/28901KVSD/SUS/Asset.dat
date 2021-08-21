@@ -1,0 +1,12 @@
+GUID f68b3e050bc84c74af71d2b046e82332
+Type Dialogue
+ID 28901
+
+Messages 1
+Message_0_Pages 1
+
+Responses 2
+
+Response_0_Vendor 28903
+Response_0_Dialogue 28902
+

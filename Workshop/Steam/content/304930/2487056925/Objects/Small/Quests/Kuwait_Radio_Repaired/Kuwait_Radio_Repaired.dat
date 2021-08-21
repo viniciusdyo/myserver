@@ -1,0 +1,9 @@
+GUID a8d1356890da48d8ae0fb1594af33078
+Type Small
+ID 5220
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 28821
+Condition_0_Value True
+Condition_0_Logic Equal

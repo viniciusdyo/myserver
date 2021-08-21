@@ -1,0 +1,34 @@
+GUID 941839c9f4274b9fa232f6427a43b90e
+Type Supply
+Rarity Uncommon
+ID 5558
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Blueprints 2
+/// Civilian Ammo Crate
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5558
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 67
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Product 44
+Blueprint_0_Products 1
+Blueprint_0_Map Kuwait
+Blueprint_0_Build 30
+/// Pearlshot
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 5558
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 5507
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 5540
+Blueprint_1_Supply_2_Amount 2
+Blueprint_1_Product 5129
+Blueprint_1_Products 1
+Blueprint_1_Map Kuwait
+Blueprint_1_Build 30

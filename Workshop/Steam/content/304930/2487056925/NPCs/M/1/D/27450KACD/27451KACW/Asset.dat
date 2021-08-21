@@ -1,0 +1,93 @@
+GUID 5fbfbee445cc4e6c83ee2beaf8682027
+Type Dialogue
+ID 27451
+
+// Augustus, just a cool dude honestly.
+Messages 2
+// Talk to Issac.
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 27001
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 1
+Message_0_Response_0 3
+
+// Hey.
+Message_1_Pages 1
+
+Responses 9
+
+Response_0_Dialogue 27452
+
+Response_1_Dialogue 27453
+Response_1_Quest 27490
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 27490
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Equal
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 27490
+
+Response_2_Dialogue 27454
+Response_2_Quest 27490
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 27490
+Response_2_Condition_0_Status Ready	
+Response_2_Condition_0_Reset
+
+// Alright.
+Response_3_Messages 1
+Response_3_Messages_0 0
+
+// Borrowed Tools?
+Response_4_Dialogue 27465
+Response_4_Conditions 2
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 27210
+Response_4_Condition_0_Status Active
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_1_Type Flag_Bool
+Response_4_Condition_1_ID 27466
+Response_4_Condition_1_Value False
+Response_4_Condition_1_Logic Equal
+Response_4_Condition_1_Allow_Unset
+Response_4_Rewards 1
+Response_4_Reward_0_Type Flag_Bool
+Response_4_Reward_0_ID 27466
+Response_4_Reward_0_Value True
+
+// Convert Currency to Currency
+Response_5_Dialogue 27463
+Response_5_Vendor 27461
+
+// Convert Currency to Experience
+Response_6_Dialogue 27463
+Response_6_Vendor 27464
+
+// NPC Fixes 1
+Response_7_Dialogue 27467
+Response_7_Conditions 2
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_ID 27020
+Response_7_Condition_0_Status Completed
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_1_Type Flag_Bool
+Response_7_Condition_1_ID 27041
+Response_7_Condition_1_Value False
+Response_7_Condition_1_Logic Equal
+Response_7_Condition_1_Allow_Unset
+Response_7_Rewards 1
+Response_7_Reward_0_Type Flag_Bool
+Response_7_Reward_0_ID 27041
+Response_7_Reward_0_Value True
+
+// Bye
+
+// If you're copying things, at least credit NSTM.

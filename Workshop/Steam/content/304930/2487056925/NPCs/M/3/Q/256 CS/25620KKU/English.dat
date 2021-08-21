@@ -1,0 +1,6 @@
+Name <color=#567DBC>Coalition: </color>Joining Forces
+Description <color=epic>Major Kriss</color> would like you to get some weapons to upgrade to Coalition spec.
+
+Condition_1 Find Full Military Magazine {0}/1
+
+Reward_0 Unlocks <color=#567DBC>Coalition Suncrack</color> from Armory

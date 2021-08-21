@@ -1,0 +1,47 @@
+GUID a7836c6d4bd04bd9b83ca022fbeed5d4
+Type Vendor
+ID 27461
+
+Buying 6
+// 1 Dinar
+Buying_0_ID 5509
+Buying_0_Cost 1
+// 5 Dinar
+Buying_1_ID 5510
+Buying_1_Cost 5
+// 10 Dinar
+Buying_2_ID 5511
+Buying_2_Cost 10
+// 20 Dinar
+Buying_3_ID 5512
+Buying_3_Cost 20
+// 100 Dinar
+Buying_4_ID 5513
+Buying_4_Cost 100
+// 200 Dinar
+Buying_5_ID 5514
+Buying_5_Cost 200
+
+Selling 6
+// 1 Dinar
+Selling_0_ID 5509
+Selling_0_Cost 1
+// 5 Dinar
+Selling_1_ID 5510
+Selling_1_Cost 5
+// 10 Dinar
+Selling_2_ID 5511
+Selling_2_Cost 10
+// 20 Dinar
+Selling_3_ID 5512
+Selling_3_Cost 20
+// 100 Dinar
+Selling_4_ID 5513
+Selling_4_Cost 100
+// 200 Dinar
+Selling_5_ID 5514
+Selling_5_Cost 200
+
+Disable_Sorting
+
+Currency b76b37b2d40c4054b850458e135408c6

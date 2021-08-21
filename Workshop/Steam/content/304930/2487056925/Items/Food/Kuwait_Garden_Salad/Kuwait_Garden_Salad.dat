@@ -1,0 +1,27 @@
+GUID 8a700275fb854f789c7f54f157046efc
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 5204
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Food 50
+Water 95
+Disinfectant 5
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 5201
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5210
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 5212
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 5214
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

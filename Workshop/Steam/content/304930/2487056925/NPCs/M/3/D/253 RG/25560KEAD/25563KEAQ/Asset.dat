@@ -1,0 +1,37 @@
+GUID fb23327aaf234a6896d8b2d5038194c2
+Type Dialogue
+ID 25563
+
+// First is adding to flag.
+Messages 3
+Message_0_Pages 1
+Message_0_Conditions 2
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 25040
+Message_0_Condition_0_Status Active
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_1_Type Flag_Bool
+Message_0_Condition_1_ID 25564
+Message_0_Condition_1_Value False
+Message_0_Condition_1_Logic Equal
+Message_0_Condition_1_Allow_Unset
+Message_0_Rewards 2
+Message_0_Reward_0_Type Flag_Bool
+Message_0_Reward_0_ID 25564
+Message_0_Reward_0_Value True
+Message_0_Reward_1_Type Flag_Short
+Message_0_Reward_1_ID 25041
+Message_0_Reward_1_Value 1
+Message_0_Reward_1_Modification Increment
+
+// Second so the flag isn't added.
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 25040
+Message_1_Condition_0_Status Completed
+Message_1_Condition_0_Logic Not_Equal
+
+Message_2_Pages 1
+
+// If you're copying things, at least credit NSTM.

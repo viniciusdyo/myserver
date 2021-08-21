@@ -1,0 +1,30 @@
+GUID ce3d63633c2a4e17b94dbc6b1a9e7eed
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 5521
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Aid
+Bleeding
+Health 15
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 5520
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+Blueprint_0_Map Kuwait
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 5522
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Dressing
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Bandage

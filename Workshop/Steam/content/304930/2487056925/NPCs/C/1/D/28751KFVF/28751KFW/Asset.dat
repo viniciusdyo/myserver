@@ -1,0 +1,13 @@
+GUID 879b8a6222294f1cb81c329f01775053
+Type Dialogue
+ID 28751
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Vendor 28755
+Response_0_Dialogue 28753
+
+Response_1_Dialogue 28754

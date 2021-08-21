@@ -1,0 +1,7 @@
+Name <color=#567DBC>Coalition: </color>Armory Run
+Description <color=epic>Major Grant</color> is going to take everyone with them to acquire military/ranger supplies. You'll just need to have the money. 
+
+Condition_0 Have <color=#FF69B4>500 KWD</color>, with 250 upfront
+Condition_1 Claim after 1900, in the evening.
+
+Reward_0 12x Ranger/Military Supplies

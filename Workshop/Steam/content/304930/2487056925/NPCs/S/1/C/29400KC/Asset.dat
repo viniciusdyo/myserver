@@ -1,0 +1,16 @@
+GUID 23bed2dcedf8494a9e93ca5d3c42c9a3
+Type NPC
+ID 29400
+
+Shirt 175 
+Pants 207 
+
+Face 6
+Hair 2
+Beard 0
+Color_Skin #BEA582
+Color_Hair #352C22
+
+Dialogue 29401
+
+Pose Asleep

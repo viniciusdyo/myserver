@@ -1,0 +1,18 @@
+GUID 6c987639869540058186dc94b7c85d3b
+Type Food
+Useable Consumeable
+ID 5219
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Quality_Min 50
+Quality_Max 100
+
+Food 10
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Bar_Candy
+
+ConsumeAudioClip Sounds/EatCrunchy.mp3

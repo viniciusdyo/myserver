@@ -1,0 +1,16 @@
+GUID 3a58e85e345f4be88c0867b3ec668d04
+Type Small
+ID 5058
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 28006
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 28006
+Interactability_Reward_0_Value True

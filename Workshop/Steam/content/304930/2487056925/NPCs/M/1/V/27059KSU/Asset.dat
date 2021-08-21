@@ -1,0 +1,41 @@
+GUID 4728ce6a5c474a0cb04e3fdc8ee026ec
+Type Vendor
+ID 27059
+
+Selling 6
+Selling_0_ID 5301
+Selling_0_Cost 25
+Selling_1_ID 5302 
+Selling_1_Cost 25
+// Op 2 Done
+Selling_2_ID 5637
+Selling_2_Cost 25
+Selling_2_Conditions 1
+Selling_2_Condition_0_Type Quest
+Selling_2_Condition_0_ID 27021
+Selling_2_Condition_0_Status Completed
+Selling_2_Condition_0_Logic Equal
+// Op 3 Done
+Selling_3_ID 5303
+Selling_3_Cost 50
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Quest
+Selling_3_Condition_0_ID 27022
+Selling_3_Condition_0_Status Completed
+Selling_3_Condition_0_Logic Equal
+Selling_4_ID 5651
+Selling_4_Cost 50
+Selling_4_Conditions 1
+Selling_4_Condition_0_Type Quest
+Selling_4_Condition_0_ID 27022
+Selling_4_Condition_0_Status Completed
+Selling_4_Condition_0_Logic Equal
+Selling_5_ID 5304
+Selling_5_Cost 100
+Selling_5_Conditions 1
+Selling_5_Condition_0_Type Quest
+Selling_5_Condition_0_ID 27022
+Selling_5_Condition_0_Status Completed
+Selling_5_Condition_0_Logic Equal
+
+Currency b76b37b2d40c4054b850458e135408c6

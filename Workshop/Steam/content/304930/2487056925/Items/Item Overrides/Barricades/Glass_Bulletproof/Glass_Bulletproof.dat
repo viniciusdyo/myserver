@@ -1,0 +1,32 @@
+GUID 7a1fd82f2bdb455ab110868b5ff1afa1
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Glass
+ID 5459
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 900
+Range 4
+Radius 0.5
+
+Explosion 97
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 5458
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+
+Use_Water_Height_Transparent_Sort
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Glass_Bulletproof
+
+PlacementAudioClip Sounds/MetalPlacement.mp3

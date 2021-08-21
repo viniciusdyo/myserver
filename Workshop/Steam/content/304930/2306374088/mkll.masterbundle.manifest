@@ -1,0 +1,240 @@
+ManifestFileVersion: 0
+CRC: 2979771634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 583f1d8ab8f83a505cb64d2ed785d5b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eff58ea41fb1aebc25bdc27b875211f2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MkllMasterBundle/items/Backpacks/Elver_Alicepack_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/USA_Shirt_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/Spec_Ops_Shirt_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Vests/France_Vest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Backpacks/Spec_Ops_Pack_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/France_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Vests/California_Olive_Vest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Supplies/Kevlar_Cloths/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/California_Beige_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/Military_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Mkll/Hat.prefab
+- Assets/MkllMasterBundle/items/Pants/Spec_Ops_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Shirts/Spec_Ops_Shirt_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Masks/Gasmask/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Elver_Military_Top_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Backpacks/Alicepack_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/Greece_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/Elver_Military_Top_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/Greece_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Germany_Shirt_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Supplies/Kevlar_Tape/Item.prefab
+- Assets/MkllMasterBundle/items/Vests/Elver_Thick_Vest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/EI_Shirt_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Shirts/Canada_Shirt_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Backpacks/France_Alicepack_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/California_Olive_Shirt_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_France_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Masks/Gasmask/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/California_Olive_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/EI_Shirt_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Shirts/France_Shirt_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Pants/Military_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Greece_Top_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/Spec_Ops_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/Elver_Military_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Pants/Military_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Pants/Belgium_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Pants/Greece_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Pants/Canada_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Vests/Military_Vest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Hats/Greece_Helmet_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/USA_Shirt_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Backpacks/RuckPack_Olive_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/USA_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Backpacks/Alicepack_Mkll/Backpack.prefab
+- Assets/MkllMasterBundle/items/Pants/California_Beige_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Pants/USA_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Vests/Elver_Thick_Vest_Mkll/Vest.prefab
+- Assets/MkllMasterBundle/items/Shirts/California_Beige_Shirt_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Vests/California_Beige_Vest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/Elver_Military_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Pants/Elver_Military_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Belgium_Shirt_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Belgium_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/Canada_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Pants/Elver_Military_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/Germany_Shirt_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/Elver_Thick_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/France_Shirt_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Vests/USA_Vest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Vests/Canada_Vest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/France_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Shirts/Greece_Top_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Masks/Armored_Balaclava/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/EI_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Backpacks/RuckPack_Beige_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Supplies/Titan_Ingot/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/Greece_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Pants/California_Olive_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Shirts/Elver_Military_Top_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Pants/California_Olive_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Shirts/Russia_Shirt_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Backpacks/RuckPack_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/EI_Shirt_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Elver_Thick_Top_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Vests/Greece_Vest_Mkll/Vest.prefab
+- Assets/MkllMasterBundle/items/Supplies/Iron_Sheet/Item.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Spec_Ops_Mkll/Hat.prefab
+- Assets/MkllMasterBundle/items/Pants/EI_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Pants/Belgium_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Vests/Belgium_Vest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/Elver_Thick_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Forest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/USA_Shirt_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/California_Beige_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Vests/Greece_Vest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/France_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Shirts/Canada_Shirt_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Vests/USA_Vest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Vests/California_Olive_Vest_Mkll/Vest.prefab
+- Assets/MkllMasterBundle/items/Shirts/California_Beige_Shirt_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Vests/Military_Vest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_California_Beige_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/Elver_Thick_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Backpacks/RuckPack_Beige_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/California_Olive_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Vests/Canada_Vest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_California_Olive_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Canada_Shirt_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Forest_Mkll/Hat.prefab
+- Assets/MkllMasterBundle/items/Pants/France_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Supplies/Titan_Sheet/Item.prefab
+- Assets/MkllMasterBundle/items/Vests/Military_Vest_Mkll/Vest.prefab
+- Assets/MkllMasterBundle/items/Backpacks/RuckPack_Olive_Mkll/Backpack.prefab
+- Assets/MkllMasterBundle/items/Vests/Belgium_Vest_Mkll/Vest.prefab
+- Assets/MkllMasterBundle/items/Backpacks/Elver_Thick_Military_Backpack_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/California_Olive_Shirt_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Shirts/Elver_Thick_Top_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Backpacks/RuckPack_Olive_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Belgium_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/Germany_Shirt_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Supplies/Kevlar_Threads/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/USA_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Vests/Elver_Thick_Vest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Vests/Elver_Vest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Backpacks/Elver_Alicepack_Mkll/Backpack.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Desert_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Belgium_Mkll/Hat.prefab
+- Assets/MkllMasterBundle/items/Shirts/Russia_Shirt_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Backpacks/Spec_Ops_Pack_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Vests/Spec_Ops_Vest_Mkll/Vest.prefab
+- Assets/MkllMasterBundle/items/Supplies/Bolts/Item.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_France_Mkll/Hat.prefab
+- Assets/MkllMasterBundle/items/Shirts/California_Olive_Shirt_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/Russia_Shirt_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Backpacks/Alicepack_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/Spec_Ops_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Pants/Canada_Bottom_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Spec_Ops_Shirt_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Canada_Shirt_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/Elver_Military_Top_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Vests/California_Beige_Vest_Mkll/Vest.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_California_Beige_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Spec_Ops_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/Spec_Ops_Shirt_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Shirts/California_Olive_Shirt_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Backpacks/Spec_Ops_Pack_Mkll/Backpack.prefab
+- Assets/MkllMasterBundle/items/Backpacks/RuckPack_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/California_Beige_Shirt_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Hats/Greece_Helmet_Mkll/Hat.prefab
+- Assets/MkllMasterBundle/items/Vests/France_Vest_Mkll/Vest.prefab
+- Assets/MkllMasterBundle/items/Vests/Canada_Vest_Mkll/Vest.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_California_Olive_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/Elver_Thick_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Shirts/Belgium_Shirt_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/USA_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Vests/Spec_Ops_Vest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Vests/California_Beige_Vest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Pants/EI_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Pants/California_Beige_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Supplies/Steel_Ingot/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/France_Shirt_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/Canada_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_California_Beige_Mkll/Hat.prefab
+- Assets/MkllMasterBundle/items/Vests/Greece_Vest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Belgium_Shirt_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Spec_Ops_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_France_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Vests/California_Olive_Vest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Masks/Gasmask/Mask.prefab
+- Assets/MkllMasterBundle/items/Vests/USA_Vest_Mkll/Vest.prefab
+- Assets/MkllMasterBundle/items/Backpacks/France_Alicepack_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/Belgium_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Backpacks/France_Alicepack_Mkll/Backpack.prefab
+- Assets/MkllMasterBundle/items/Shirts/California_Beige_Shirt_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Greece_Top_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Desert_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Vests/Belgium_Vest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Vests/Elver_Vest_Mkll/Vest.prefab
+- Assets/MkllMasterBundle/items/Pants/Military_Bottom_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_California_Olive_Mkll/Hat.prefab
+- Assets/MkllMasterBundle/items/Shirts/Elver_Thick_Top_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Vests/Elver_Vest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Shirts/USA_Shirt_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Desert_Mkll/Hat.prefab
+- Assets/MkllMasterBundle/items/Shirts/Russia_Shirt_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Vests/Spec_Ops_Vest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Backpacks/RuckPack_Beige_Mkll/Backpack.prefab
+- Assets/MkllMasterBundle/items/Backpacks/Elver_Alicepack_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Hats/Military_Helmet_Forest_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Pants/EI_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Masks/Armored_Balaclava/Mask.prefab
+- Assets/MkllMasterBundle/items/Pants/Spec_Ops_Bottom_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Hats/Greece_Helmet_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Supplies/Repair_Kit/Item.prefab
+- Assets/MkllMasterBundle/items/Backpacks/Elver_Thick_Military_Backpack_Mkll/Backpack.prefab
+- Assets/MkllMasterBundle/items/Backpacks/Elver_Thick_Military_Backpack_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Vests/France_Vest_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/France_Shirt_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Shirts/Elver_Thick_Top_Mkll/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Greece_Top_Mkll/Material.mat
+- Assets/MkllMasterBundle/items/Backpacks/RuckPack_Mkll/Backpack.prefab
+- Assets/MkllMasterBundle/items/Pants/Belgium_Bottom_Mkll/Pants.png
+- Assets/MkllMasterBundle/items/Shirts/EI_Shirt_Mkll/Animations.prefab
+- Assets/MkllMasterBundle/items/Masks/Armored_Balaclava/Animations.prefab
+- Assets/MkllMasterBundle/items/Supplies/Steel_Sheet/Item.prefab
+- Assets/MkllMasterBundle/items/Shirts/Belgium_Shirt_Mkll/Shirt.png
+- Assets/MkllMasterBundle/items/Shirts/Germany_Shirt_Mkll/Material.mat
+Dependencies: []

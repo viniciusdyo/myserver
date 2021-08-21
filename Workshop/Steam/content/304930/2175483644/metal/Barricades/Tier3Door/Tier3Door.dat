@@ -1,0 +1,39 @@
+GUID 968f1c1bbbbb435ea04a3c93bae9e6d1
+Type Barricade
+Rarity Mythical
+Useable Barricade
+Build Door
+ID 29989
+
+Exclude_From_Master_Bundle
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 4890
+Range 4
+Radius 1
+Offset 1.25
+
+Locked
+
+Explosion 35
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 29990
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 65
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 68
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Supply_3_ID 71
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 29970
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Armor_Tier High

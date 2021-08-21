@@ -1,0 +1,15 @@
+GUID 98e8f84fa79d4e25b1bea240296eaa50
+Type Dialogue
+ID 25510
+
+Messages 1
+Message_0_Pages 1
+
+Responses 2
+
+Response_0_Dialogue 25413
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 25040
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Not_Equal

@@ -1,0 +1,7 @@
+Name <color=#FF69B4>Survivors: </color>All in All
+Description Lloyd needs some bricks to do repairs on the camp. Bring him some more so he can ensure the safety of the survivors.
+
+Condition_0 Find {0}/{1} {2}
+
+Reward_0 50 Experience
+Reward_1 5 Reputation

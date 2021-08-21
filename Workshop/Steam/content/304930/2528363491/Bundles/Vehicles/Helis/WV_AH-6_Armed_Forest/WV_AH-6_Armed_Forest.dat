@@ -1,0 +1,47 @@
+GUID 6b6f7855414c4c31b1738400d8624215
+Type Vehicle
+Rarity Legendary
+ID 46549
+
+BatteryMode_Sirens None
+
+Speed_Min -8
+Speed_Max 28
+
+Steer_Min 32
+Steer_Max 16
+
+Fuel 1500
+
+Health_Min 400
+Health_Max 800
+Health 800
+
+Exit 3
+
+Cam_Follow_Distance 18
+
+Asset_Bundle_Version 3
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 5
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Air_Turn_Responsiveness 4
+
+Turrets 2
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 46566 
+Turret_0_Ignore_Aim_Camera
+Turret_0_Yaw_Min 0
+Turret_0_Yaw_Max 0
+Turret_0_Pitch_Min 90
+Turret_0_Pitch_Max 90
+Turret_1_Seat_Index 1
+Turret_1_Item_ID 1300

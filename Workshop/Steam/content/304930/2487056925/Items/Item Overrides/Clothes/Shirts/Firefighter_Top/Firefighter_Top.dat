@@ -1,0 +1,31 @@
+GUID 5a0864cc895445168b2c8bf75cd49ed6
+Type Shirt
+Rarity Uncommon
+Useable Clothing
+ID 5704
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 3
+
+Armor 0.9
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 5704
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 27
+
+Proof_Fire
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Shirts/Firefighter_Top

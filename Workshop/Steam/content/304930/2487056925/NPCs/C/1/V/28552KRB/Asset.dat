@@ -1,0 +1,71 @@
+GUID aedfc61b80544caf8047cfc594532390
+Type Vendor
+ID 28552
+
+Buying 1
+// Items to be bought. Cost = EXP
+// Fertilizer
+Buying_0_ID 5559
+Buying_0_Cost 5
+
+Selling 8
+// Planter
+Selling_0_ID 5478
+Selling_0_Cost 20
+
+// Fertilizer
+Selling_1_ID 5559
+Selling_1_Cost 10
+
+// Complete Master Farmer.
+
+Selling_2_ID 5262
+Selling_2_Cost 10
+Selling_2_Conditions 1
+Selling_2_Condition_0_Type Quest
+Selling_2_Condition_0_ID 28205
+Selling_2_Condition_0_Status Completed
+Selling_2_Condition_0_Logic Equal
+
+Selling_3_ID 5263
+Selling_3_Cost 10
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Quest
+Selling_3_Condition_0_ID 28205
+Selling_3_Condition_0_Status Completed
+Selling_3_Condition_0_Logic Equal
+
+Selling_4_ID 5264
+Selling_4_Cost 10
+Selling_4_Conditions 1
+Selling_4_Condition_0_Type Quest
+Selling_4_Condition_0_ID 28205
+Selling_4_Condition_0_Status Completed
+Selling_4_Condition_0_Logic Equal
+
+Selling_5_ID 5265
+Selling_5_Cost 10
+Selling_5_Conditions 1
+Selling_5_Condition_0_Type Quest
+Selling_5_Condition_0_ID 28205
+Selling_5_Condition_0_Status Completed
+Selling_5_Condition_0_Logic Equal
+
+Selling_6_ID 5266
+Selling_6_Cost 10
+Selling_6_Conditions 1
+Selling_6_Condition_0_Type Quest
+Selling_6_Condition_0_ID 28205
+Selling_6_Condition_0_Status Completed
+Selling_6_Condition_0_Logic Equal
+
+Selling_7_ID 5267
+Selling_7_Cost 10
+Selling_7_Conditions 1
+Selling_7_Condition_0_Type Quest
+Selling_7_Condition_0_ID 28205
+Selling_7_Condition_0_Status Completed
+Selling_7_Condition_0_Logic Equal
+
+
+Currency b76b37b2d40c4054b850458e135408c6

@@ -1,0 +1,24 @@
+GUID dee77de26f0d4de28ad0756eef3db4b6
+Type Water
+Rarity Uncommon
+Useable Consumeable
+ID 5257
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Food 5
+Water 25
+Energy 25
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 5528
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Water/Maple_Syrup
+
+ConsumeAudioClip Sounds/DrinkSwallow.mp3

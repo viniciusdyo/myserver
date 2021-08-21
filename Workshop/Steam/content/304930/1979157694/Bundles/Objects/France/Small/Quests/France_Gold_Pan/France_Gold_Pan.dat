@@ -1,0 +1,17 @@
+GUID a205fd14aef3423ca04868e3702d8d34
+Type Small
+ID 35109
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4145
+Condition_0_Value 0
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 4145
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Increment

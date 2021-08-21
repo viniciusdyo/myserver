@@ -1,0 +1,28 @@
+GUID 653ccacabca844e9bac2a10296e6cdf0
+Type Tactical
+Rarity Epic
+ID 51904
+
+Size_X 2
+Size_Y 1
+Size_Z 0.24
+
+Calibers 6
+Caliber_0 51501
+Caliber_1 51508
+Caliber_2 51515
+Caliber_3 51522
+Caliber_4 51528
+Caliber_5 51321
+
+Melee
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51910
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 51904
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

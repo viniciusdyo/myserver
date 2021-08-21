@@ -1,0 +1,20 @@
+GUID 2e25a42c336e486ca13bc50ccf931aff
+Type Tactical
+Rarity Rare
+ID 5057
+
+Size_X 1
+Size_Y 1
+Size_Z 0.075
+
+Spread 0.90
+
+Laser
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5057
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27

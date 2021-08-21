@@ -1,0 +1,26 @@
+GUID fbfdc15ed5b049b1bf9983798cf0ac90
+Type NPC
+ID 29086
+
+Shirt 180
+Pants 227
+
+Face 5
+Hair 5
+Color_Skin #94764b
+Color_Hair #131313
+
+Tertiary 5466
+Equipped Tertiary
+
+Dialogue 29081
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 27031
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 29085
+Condition_1_Value True
+Condition_1_Logic Equal

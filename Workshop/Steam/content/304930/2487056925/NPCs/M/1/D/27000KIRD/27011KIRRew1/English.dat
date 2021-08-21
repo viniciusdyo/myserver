@@ -1,0 +1,11 @@
+Message_0_Page_0 Well, I'll admit you are deserving of a reward. I do have this specially modified <color=epic>Suncrack</color> if you want - only got one, though.
+// Message_0_Page_0 Well, I'll admit you are deserving of a reward. Tell you what, I'll give you an especially powerful weapon - of your choice. Only this once. Make your pick.
+
+Response_0 Sure thing!
+Response_1 Maybe later.
+
+// Response_0 <color=legendary>Snow's Mirage.</color>
+// Response_1 <color=epic>Cynthia's Monarchist.</color>
+// Response_2 <color=epic>Augustus' Suncrack.</color>
+// Response_3 <color=epic>Samantha's Catalyst</color>
+// Response_4 Maybe later.

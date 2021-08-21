@@ -1,0 +1,30 @@
+GUID 176dd86f84074a429dab55ca6f564951
+Type NPC
+ID 29720
+
+Shirt 1156
+Pants 1157
+Backpack 1182
+Mask 5322
+
+Face 25
+Hair 15
+Beard 0
+Color_Skin #C3A082
+Color_Hair #AC6A39
+
+Primary 519
+Secondary 5025
+
+Dialogue 29721
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 27420
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 28821
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset

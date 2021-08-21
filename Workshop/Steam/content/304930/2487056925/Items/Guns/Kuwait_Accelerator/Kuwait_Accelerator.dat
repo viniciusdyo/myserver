@@ -1,0 +1,87 @@
+GUID 4c3ef9ff81e24b7dae15995dbaa4f656
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Secondary
+ID 5124
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Magazine 98
+Barrel 5125
+
+Ammo_Min 3
+Ammo_Max 7
+
+Safety
+Semi
+
+Caliber 3
+
+Range 150
+Firerate 4
+Action Trigger
+
+Player_Damage 35
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 115
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 30
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 10
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 15
+Object_Damage 15
+
+Durability 0.1
+
+Spread_Aim 0.04
+Spread_Hip 0.125
+
+Recoil_Min_X -0.175
+Recoil_Min_Y 5
+Recoil_Max_X -0.25
+Recoil_Max_Y 7.5
+
+Recover_X 0.8
+Recover_Y 0.8
+
+Shake_Min_X -0.0075
+Shake_Min_Y 0.0075
+Shake_Min_Z -0.05
+Shake_Max_X 0.0075
+Shake_Max_Y -0.0075
+Shake_Max_Z -0.075
+
+Muzzle 5297
+
+Gunshot_Rolloff_Distance 100
+
+Can_Aim_During_Sprint False
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5124
+Blueprint_1_Product 67
+Blueprint_1_Products 1
+Blueprint_1_Build 27

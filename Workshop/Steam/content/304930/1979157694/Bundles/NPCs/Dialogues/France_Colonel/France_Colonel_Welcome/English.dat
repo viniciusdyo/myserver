@@ -1,0 +1,28 @@
+Message_0_Page_0 Who are you? I'm <name_npc>, the leader of this fort and my remaining men.
+Message_1_Page_0 Do you have a moment?
+Message_2_Page_0 Anything to report?
+
+Response_0 My name is <name_char>
+Response_1 I am ready for your plan.
+Response_2 I've culled Orly International.
+Response_3 I am ready for your next mission.
+Response_4 I've killed the Lightningstrike mutant.
+Response_5 I am ready for your next mission.
+Response_6 I've culled Le Mans Hospital.
+Response_7 I am ready for your next mission.
+Response_8 I've killed the Flamethrower mutant.
+Response_9 I am ready for your next mission.
+Response_10 I've killed the Groundpounder mutant.
+Response_11 I am ready for your next mission.
+Response_12 I've recovered the documents.
+Response_13 I am ready for your next mission.
+Response_14 I've culled Paris.
+Response_15 I am ready for your next mission.
+Response_16 I've culled Verdun Airbase.
+Response_17 I am ready for your next mission.
+Response_18 I've killed the Radioactive mutant.
+Response_19 I am ready for your next mission.
+Response_20 What is it?
+Response_21 Later, I'm busy.
+Response_22 I have some questions.
+Response_23 Nothing to report.

@@ -1,0 +1,15 @@
+GUID 3e1fe19736864aeea56b11986d77189f
+Type Sight
+ID 5028
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5028
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27

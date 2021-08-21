@@ -1,0 +1,15 @@
+GUID e590e2514a7748ef81a9c39723e0a108
+Type Medical
+Rarity Epic
+Useable Consumeable
+ID 5525
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Aid
+Health 70
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Bloodbag

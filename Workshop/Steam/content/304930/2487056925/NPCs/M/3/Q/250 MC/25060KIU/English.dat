@@ -1,0 +1,4 @@
+Name <color=#567DBC>Coalition: </color><color=#567DBC>Uniform Distribution</color>
+Description <color=legendary>Admiral Isch</color><br>Your first job is to distribute uniforms to the <color=legendary>Concord.</color>
+
+Condition_0 Distribute uniforms to <color=legendary>Concord</color>

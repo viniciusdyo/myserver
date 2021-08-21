@@ -1,0 +1,12 @@
+GUID f8d5f56b81c444989e3335a46e27c78b
+Type Small
+ID 35193
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4190
+Condition_0_Value 2
+Condition_0_Logic Equal
+
+Bundle_Override_Path /Objects/France/Small/Quests/France_Radio
+Master_Bundle_Override france.masterbundle

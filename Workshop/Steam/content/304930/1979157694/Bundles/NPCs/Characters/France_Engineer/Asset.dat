@@ -1,0 +1,16 @@
+GUID 9f5999a506bb4048ae5afcd10c863681
+Type NPC
+ID 4003
+
+Shirt 3015
+Pants 3018
+
+Face 8
+Hair 2
+Color_Skin #BEA582
+Color_Hair #191919
+
+Primary 3052
+Secondary 76
+
+Dialogue 4056

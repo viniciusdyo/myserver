@@ -1,0 +1,23 @@
+GUID 794c2ba0be0d4046abba64671a3e7f25
+Type NPC
+ID 29100
+
+Shirt 5301
+Pants 5302
+Vest 5303
+Glasses 568
+Mask 1446
+
+Hair 12
+Face 0
+Color_Skin #bea582
+Color_Hair #352c22
+Primary 1037
+
+Dialogue 29101
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 27031
+Condition_0_Value True
+Condition_0_Logic Equal

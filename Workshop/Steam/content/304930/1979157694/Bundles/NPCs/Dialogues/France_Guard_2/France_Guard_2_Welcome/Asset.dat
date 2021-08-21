@@ -1,0 +1,66 @@
+GUID 8e57dce66ef84c9292097049194bc6ae
+Type Dialogue
+ID 4216
+
+Messages 3
+
+// Not met Colonel
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 4013
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+
+// Colonel Aid Reward Ready
+Message_1_Pages 1
+Message_1_Conditions 6
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 4014
+Message_1_Condition_0_Value 4
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_Logic Equal
+Message_1_Condition_1_ID 4042
+Message_1_Condition_1_Status Completed
+Message_1_Condition_2_Type Quest
+Message_1_Condition_2_Logic Equal
+Message_1_Condition_2_ID 4131
+Message_1_Condition_2_Status Completed
+Message_1_Condition_3_Type Quest
+Message_1_Condition_3_Logic Equal
+Message_1_Condition_3_ID 4144
+Message_1_Condition_3_Status Completed
+Message_1_Condition_4_Type Quest
+Message_1_Condition_4_Logic Equal
+Message_1_Condition_4_ID 4156
+Message_1_Condition_4_Status Completed
+Message_1_Condition_5_Type Flag_Bool
+Message_1_Condition_5_ID 4093
+Message_1_Condition_5_Value False
+Message_1_Condition_5_Logic Equal
+Message_1_Condition_5_Allow_Unset
+
+// Welcome
+Message_2_Pages 1
+
+
+Responses 4
+
+// Not met Colonel
+Response_0_Messages 1
+Response_0_Message_0 0
+
+//Aid possible
+Response_1_Messages 1
+Response_1_Message_0 1
+
+//Questions
+Response_2_Dialogue 4217
+
+//Nothing Interesting
+Response_3_Messages 1
+Response_3_Message_0 2

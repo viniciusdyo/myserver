@@ -1,0 +1,36 @@
+GUID cce87547cdf84837947f9d7eaa689608
+Type Trap
+Rarity Rare
+Useable Barricade
+Build Spike
+ID 5799
+
+Size_X 2
+Size_Y 1
+Size_Z 0.275
+
+Health 1
+Range 4
+Radius 0.05
+Offset 0.075
+
+Player_Damage 10
+Zombie_Damage 175
+Animal_Damage 175
+
+Broken
+
+Explosion 36
+Vulnerable
+Unrepairable
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Snare

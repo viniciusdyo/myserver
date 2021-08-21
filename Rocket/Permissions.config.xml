@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RocketPermissions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DefaultGroup>default</DefaultGroup>
+  <Groups>
+    <Group>
+      <Id>default</Id>
+      <DisplayName>Guest</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>white</Color>
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="30">essentials.command.tpa</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.send</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.cancel</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.accept</Permission>
+        <Permission Cooldown="0">essentials.command.tpa.deny</Permission>
+        <Permission Cooldown="30">tpa</Permission>
+        <Permission Cooldown="300">home</Permission>
+        <Permission Cooldown="0">tell</Permission>
+        <Permission Cooldown="0">reply</Permission>
+        <Permission Cooldown="0">p</Permission>
+        <Permission Cooldown="0">compass</Permission>
+        <Permission Cooldown="0">rocket</Permission>
+        <Permission Cooldown="0">discord</Permission>
+        <Permission Cooldown="0">essentials.command.kits</Permission>
+        <Permission Cooldown="0">essentials.command.kit</Permission>
+        <Permission Cooldown="300">essentials.kit.Inicial</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>VipMkSpec</Id>
+      <DisplayName>[VIPMS]</DisplayName>
+      <Prefix>[VIPMS]</Prefix>
+      <Suffix />
+      <Color>D2691E</Color>
+      <Members />
+      <ParentGroup>default</ParentGroup>
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.vipmkspec</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>VipMkTc</Id>
+      <DisplayName>[VIPTC]</DisplayName>
+      <Prefix>[VIPTC]</Prefix>
+      <Suffix />
+      <Color>32CD32</Color>
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.vipmktc</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>VipSpec</Id>
+      <DisplayName>[VIPS]</DisplayName>
+      <Prefix>[VIPS]</Prefix>
+      <Suffix />
+      <Color>C0C0C0</Color>
+      <Members />
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.command.kit.vipmkspec</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>Discord</Id>
+      <DisplayName />
+      <Prefix />
+      <Suffix />
+      <Color>4169E1</Color>
+      <Members>
+        <Member>76561198066514317</Member>
+        <Member>76561198796517696</Member>
+        <Member>76561199026720253</Member>
+        <Member>76561198451655671</Member>
+        <Member>76561198840962036</Member>
+        <Member>76561198388550907</Member>
+        <Member>76561199147183725</Member>
+        <Member>76561198258255783</Member>
+        <Member>76561198371542208</Member>
+        <Member>76561198298422768</Member>
+        <Member>76561198150700240</Member>
+        <Member>76561198160240134</Member>
+        <Member>76561198883712380</Member>
+        <Member>76561198883435343</Member>
+        <Member>76561199107766810</Member>
+        <Member>76561198142220656</Member>
+        <Member>76561199022313297</Member>
+        <Member>76561199177523106</Member>
+        <Member>76561199090033599</Member>
+        <Member>76561198300309749</Member>
+        <Member>76561198002984247</Member>
+        <Member>76561198299477414</Member>
+        <Member>76561198329293773</Member>
+        <Member>76561198446725705</Member>
+        <Member>76561198422967374</Member>
+        <Member>76561198942031373</Member>
+        <Member>76561199152593477</Member>
+        <Member>76561198227696432</Member>
+        <Member>76561198372750091</Member>
+        <Member>76561199154809063</Member>
+        <Member>76561198244727810</Member>
+      </Members>
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.discord</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>VIPMK</Id>
+      <DisplayName>[VIPMK]</DisplayName>
+      <Prefix>[VIPMK]</Prefix>
+      <Suffix />
+      <Color>FFE4B5</Color>
+      <Members>
+        <Member>76561198150700240</Member>
+      </Members>
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.vipmk</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>Moderador</Id>
+      <DisplayName>[MOD]</DisplayName>
+      <Prefix>[MOD]</Prefix>
+      <Suffix />
+      <Color>FFD700</Color>
+      <Members>
+        <Member />
+        <Member>76561198258255783</Member>
+        <Member>76561198150700240</Member>
+        <Member>76561198942031373</Member>
+      </Members>
+      <ParentGroup>default</ParentGroup>
+      <Priority>2</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.vipmkspec</Permission>
+        <Permission Cooldown="0">ban</Permission>
+        <Permission Cooldown="0">bans</Permission>
+        <Permission Cooldown="0">kick</Permission>
+        <Permission Cooldown="0">permit</Permission>
+        <Permission Cooldown="0">permits</Permission>
+        <Permission Cooldown="0">slay</Permission>
+        <Permission Cooldown="0">unpermit</Permission>
+        <Permission Cooldown="0">unban</Permission>
+        <Permission Cooldown="0">broadcast</Permission>
+        <Permission Cooldown="0">p</Permission>
+        <Permission Cooldown="0">p.add</Permission>
+        <Permission Cooldown="0">permissions</Permission>
+      </Permissions>
+    </Group>
+    <Group>
+      <Id>DBooster</Id>
+      <DisplayName />
+      <Prefix />
+      <Suffix />
+      <Color>6A5ACD</Color>
+      <Members>
+        <Member />
+        <Member>76561198451194153</Member>
+        <Member>76561198244365552</Member>
+      </Members>
+      <ParentGroup>default</ParentGroup>
+      <Priority>100</Priority>
+      <Permissions>
+        <Permission Cooldown="0">essentials.kit.DBooster</Permission>
+        <Permission Cooldown="0">essentials.kit.discord</Permission>
+      </Permissions>
+    </Group>
+  </Groups>
+</RocketPermissions>

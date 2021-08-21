@@ -1,0 +1,46 @@
+GUID c2afc42ed24d4897a225490df90c665a
+Type Vehicle
+Rarity Rare
+ID 5040
+
+Speed_Min -6
+Speed_Max 18
+
+Steer_Min 32
+Steer_Max 56
+
+Fuel_Min 1500
+Fuel_Max 1500
+Fuel 1500
+
+Health_Min 250
+Health_Max 250
+Health 250
+
+Exit 0.5
+
+Explosion_Min_Force_X 0
+Explosion_Min_Force_Y 0
+Explosion_Min_Force_Z 0
+Explosion_Max_Force_X 0
+Explosion_Max_Force_Y 0
+Explosion_Max_Force_Z 0
+
+Cam_Follow_Distance 6
+
+ShouldExplosionCauseDamage False
+ShouldExplosionBurnMaterials False
+
+Explosion 5256
+
+Stamina_Boost .6
+Stamina_Powered
+
+Engine Boat
+
+Can_Be_Locked True
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 4
+
+Asset_Bundle_Version 3

@@ -1,0 +1,29 @@
+GUID 536a576a36cb4985a48ccf5ce8bfa78b
+Type NPC
+ID 29680
+
+Hat 530 
+Glasses 568
+Mask 418
+Vest 531
+Shirt 770
+Pants 549
+
+Face 17
+Hair 11
+Beard 0
+Color_Skin #BEA582
+Color_Hair #352C22
+
+Primary 5012
+Equipped Primary
+
+Dialogue 29681
+
+Pose Sit
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 29321
+Condition_0_Value True
+Condition_0_Logic Equal

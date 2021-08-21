@@ -1,0 +1,5 @@
+Name <color=#b8b188>Concord: </color>Head into the Clouds
+Description Most of the information was obscured by sobbing, but it seems that they have been separated by their children in Hawally while trying to escape, and they ask for your help to find them.
+
+Condition_0 Find Ahmad {0}/1
+Condition_1 Find Zainab {0}/1

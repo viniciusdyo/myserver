@@ -1,0 +1,19 @@
+GUID a59f9ab0130d418587a2dc072a731ada
+Type Vendor
+ID 28903
+
+Buying 1
+Buying_0_ID 119
+Buying_0_Amount 40
+Buying_0_Cost 60
+
+Selling 4
+Selling_0_ID 5243
+Selling_0_Cost 100
+Selling_1_ID 5242
+Selling_1_Cost 100
+Selling_2_ID 5251
+Selling_2_Cost 100
+Selling_3_ID 5108
+Selling_3_Cost 200
+

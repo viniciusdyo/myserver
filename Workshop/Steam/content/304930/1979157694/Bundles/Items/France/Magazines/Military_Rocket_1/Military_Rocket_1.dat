@@ -1,0 +1,30 @@
+GUID 0a66c28e80854d07bed32cd33e3d46a6
+Type Magazine
+Rarity Legendary
+ID 3088
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Calibers 1
+Caliber_0 74
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 520
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 73
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 72
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 3087
+Blueprint_0_Tool_Critical
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Delete_Empty

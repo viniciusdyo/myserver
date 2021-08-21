@@ -1,0 +1,26 @@
+GUID a2d5cbc825594bd4bf072b8af90dc34d
+Type Dialogue
+ID 29051
+
+Messages 2
+
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 29083
+Message_0_Condition_0_Status Completed
+Message_0_Condition_0_Logic Not_Equal
+Message_0_Condition_0_Allow_Unset
+
+Message_1_Pages 1
+Message_1_Responses 1
+Message_1_Response_0 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 29083
+Message_1_Condition_0_Status Completed
+Message_1_Condition_0_Logic Equal
+
+Responses 2

@@ -1,0 +1,44 @@
+GUID a2290a85faa943f0be4c0fe16fc6027f
+Type Dialogue
+ID 4032
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 5
+
+// Who are you?
+Response_0_Dialogue 4033
+Response_0_Messages 1
+Response_0_Message_0 0
+
+// Why are you here?
+Response_1_Dialogue 4034
+Response_1_Messages 1
+Response_1_Message_0 0
+
+// Outside
+Response_2_Dialogue 4035
+Response_2_Messages 1
+Response_2_Message_0 0
+
+// Need Help?
+Response_3_Dialogue 4036
+Response_3_Messages 1
+Response_3_Message_0 0
+Response_3_Conditions 1
+Response_3_Condition_0_Type Flag_Bool
+Response_3_Condition_0_ID 4037
+Response_3_Condition_0_Value False
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Allow_Unset
+Response_3_Rewards 1
+Response_3_Reward_0_Type Flag_Bool
+Response_3_Reward_0_ID 4037
+Response_3_Reward_0_Value True
+
+// Nvm
+Response_4_Dialogue 4030
+Response_4_Messages 1
+Response_4_Message_0 0

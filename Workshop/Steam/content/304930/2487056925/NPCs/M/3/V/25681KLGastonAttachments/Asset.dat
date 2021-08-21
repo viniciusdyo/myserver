@@ -1,0 +1,83 @@
+GUID 136334d8c5384d26a7d5bcc103c3a495
+Type Vendor
+ID 25681
+
+Disable_Sorting
+
+Buying 16
+// Tactical Light
+Buying_0_ID 5056
+Buying_0_Cost 10
+// Tactical Laser
+Buying_1_ID 5057 
+Buying_1_Cost 20
+// Rangefinder
+Buying_2_ID 5058 
+Buying_2_Cost 30
+// Adaptive Chambering
+Buying_3_ID 5059 
+Buying_3_Cost 30
+// Vertical Grip
+Buying_4_ID 5061 
+Buying_4_Cost 40
+// Horizontal Grip
+Buying_5_ID 5062 
+Buying_5_Cost 40
+// Bipod
+Buying_6_ID 5063 
+Buying_6_Cost 40
+// Dot Sight
+Buying_7_ID 5066 
+Buying_7_Cost 20
+// Halo Sight
+Buying_8_ID 5067 
+Buying_8_Cost 20
+// Chevron Scope
+Buying_9_ID 5068 
+Buying_9_Cost 40
+// Cross Scope
+Buying_10_ID 5069 
+Buying_10_Cost 40
+// 8x Scope
+Buying_11_ID 5070 
+Buying_11_Cost 50
+// 16x Scope
+Buying_12_ID 5071 
+Buying_12_Cost 50
+// Military Suppressor
+Buying_13_ID 5075 
+Buying_13_Cost 50
+// Military Muzzle
+Buying_14_ID 5076 
+Buying_14_Cost 50
+// Military Barrel
+Buying_15_ID 5077 
+Buying_15_Cost 50
+
+Selling 8
+// Tactical Laser
+Selling_0_ID 5057
+Selling_0_Cost 40
+// Dot Sight
+Selling_1_ID 5066
+Selling_1_Cost 40
+// Chevron Scope
+Selling_2_ID 5068
+Selling_2_Cost 80
+// Vertical Grip
+Selling_3_ID 5061
+Selling_3_Cost 80
+// 8x Scope
+Selling_4_ID 5070
+Selling_4_Cost 100
+// Military Barrel
+Selling_5_ID 5077
+Selling_5_Cost 100
+// Military Muzzle
+Selling_6_ID 5076
+Selling_6_Cost 100
+// Military Suppressor
+Selling_7_ID 5075
+Selling_7_Cost 125
+
+Currency b76b37b2d40c4054b850458e135408c6

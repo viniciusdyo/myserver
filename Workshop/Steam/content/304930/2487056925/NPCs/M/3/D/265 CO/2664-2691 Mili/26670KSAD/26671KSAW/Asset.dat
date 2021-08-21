@@ -1,0 +1,535 @@
+GUID 24a5468f286148668c3892aaec3062e8
+Type Dialogue
+ID 26671
+
+Messages 5
+// Randomized 1
+Message_0_Pages 1
+Message_0_Conditions 2
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 26550
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_0_Condition_0_Allow_Unset
+Message_0_Condition_1_Type Flag_Short
+Message_0_Condition_1_ID 26550
+Message_0_Condition_1_Value 33
+Message_0_Condition_1_Logic Less_Than
+Message_0_Condition_1_Allow_Unset
+// Randomize Again.
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 26550
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 100
+Message_0_Reward_0_Modification Assign
+
+// Randomized 2
+Message_1_Pages 1
+Message_1_Conditions 2
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 26550
+Message_1_Condition_0_Value 33
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Flag_Short
+Message_1_Condition_1_ID 26550
+Message_1_Condition_1_Value 66
+Message_1_Condition_1_Logic Less_Than
+// Randomize Again.
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short_Random
+Message_1_Reward_0_ID 26550
+Message_1_Reward_0_Min_Value 0
+Message_1_Reward_0_Max_Value 100
+Message_1_Reward_0_Modification Assign
+
+// Randomized 3
+Message_2_Pages 1
+Message_2_Conditions 2
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 26550
+Message_2_Condition_0_Value 66
+Message_2_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_2_Condition_1_Type Flag_Short
+Message_2_Condition_1_ID 26550
+Message_2_Condition_1_Value 99
+Message_2_Condition_1_Logic Less_Than
+// Randomize Again.
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short_Random
+Message_2_Reward_0_ID 26550
+Message_2_Reward_0_Min_Value 0
+Message_2_Reward_0_Max_Value 100
+Message_2_Reward_0_Modification Assign
+
+// Randomized 4
+Message_3_Pages 1
+Message_3_Conditions 1
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 26550
+Message_3_Condition_0_Value 99
+Message_3_Condition_0_Logic Equal
+// Randomize Again.
+Message_3_Rewards 1
+Message_3_Reward_0_Type Flag_Short_Random
+Message_3_Reward_0_ID 26550
+Message_3_Reward_0_Min_Value 0
+Message_3_Reward_0_Max_Value 100
+Message_3_Reward_0_Modification Assign
+
+// Randomized 4
+Message_4_Pages 1
+Message_4_Conditions 1
+Message_4_Condition_0_Type Flag_Short
+Message_4_Condition_0_ID 26550
+Message_4_Condition_0_Value 100
+Message_4_Condition_0_Logic Equal
+// Randomize Again.
+Message_4_Rewards 1
+Message_4_Reward_0_Type Flag_Short_Random
+Message_4_Reward_0_ID 26550
+Message_4_Reward_0_Min_Value 0
+Message_4_Reward_0_Max_Value 100
+Message_4_Reward_0_Modification Assign
+
+Responses 34
+
+Response_0_Dialogue 26672
+Response_0_Quest 26690
+Response_0_Conditions 2
+Response_0_Condition_0_Type Flag_Short
+Response_0_Condition_0_ID 26675
+Response_0_Condition_0_Value 0
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_1_Type Quest
+Response_0_Condition_1_ID 26690
+Response_0_Condition_1_Status None
+Response_0_Condition_1_Logic Equal
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 26690
+
+Response_1_Dialogue 26672
+Response_1_Quest 26690
+Response_1_Conditions 2
+Response_1_Condition_0_Type Flag_Short
+Response_1_Condition_0_ID 26675
+Response_1_Condition_0_Value 0
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_1_Type Quest
+Response_1_Condition_1_ID 26690
+Response_1_Condition_1_Status Completed
+Response_1_Condition_1_Logic Equal
+Response_1_Condition_1_Reset
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 26690
+
+Response_2_Dialogue 26673
+Response_2_Quest 26690
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 26690
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Reset
+
+Response_3_Dialogue 26672
+Response_3_Quest 26691
+Response_3_Conditions 2
+Response_3_Condition_0_Type Flag_Short
+Response_3_Condition_0_ID 26675
+Response_3_Condition_0_Value 1
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_1_Type Quest
+Response_3_Condition_1_ID 26691
+Response_3_Condition_1_Status None
+Response_3_Condition_1_Logic Equal
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 26691
+
+Response_4_Dialogue 26672
+Response_4_Quest 26691
+Response_4_Conditions 2
+Response_4_Condition_0_Type Flag_Short
+Response_4_Condition_0_ID 26675
+Response_4_Condition_0_Value 1
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_1_Type Quest
+Response_4_Condition_1_ID 26691
+Response_4_Condition_1_Status Completed
+Response_4_Condition_1_Logic Equal
+Response_4_Condition_1_Reset
+Response_4_Rewards 1
+Response_4_Reward_0_Type Quest
+Response_4_Reward_0_ID 26691
+
+Response_5_Dialogue 26673
+Response_5_Quest 26691
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 26691
+Response_5_Condition_0_Status Ready
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_Reset
+
+Response_6_Dialogue 26672
+Response_6_Quest 26692
+Response_6_Conditions 2
+Response_6_Condition_0_Type Flag_Short
+Response_6_Condition_0_ID 26675
+Response_6_Condition_0_Value 2
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_1_Type Quest
+Response_6_Condition_1_ID 26692
+Response_6_Condition_1_Status None
+Response_6_Condition_1_Logic Equal
+Response_6_Rewards 1
+Response_6_Reward_0_Type Quest
+Response_6_Reward_0_ID 26692
+
+Response_7_Dialogue 26672
+Response_7_Quest 26692
+Response_7_Conditions 2
+Response_7_Condition_0_Type Flag_Short
+Response_7_Condition_0_ID 26675
+Response_7_Condition_0_Value 2
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_1_Type Quest
+Response_7_Condition_1_ID 26692
+Response_7_Condition_1_Status Completed
+Response_7_Condition_1_Logic Equal
+Response_7_Condition_1_Reset
+Response_7_Rewards 1
+Response_7_Reward_0_Type Quest
+Response_7_Reward_0_ID 26692
+
+Response_8_Dialogue 26673
+Response_8_Quest 26692
+Response_8_Conditions 1
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_ID 26692
+Response_8_Condition_0_Status Ready
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_Reset
+
+Response_9_Dialogue 26672
+Response_9_Quest 26693
+Response_9_Conditions 2
+Response_9_Condition_0_Type Flag_Short
+Response_9_Condition_0_ID 26675
+Response_9_Condition_0_Value 3
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_1_Type Quest
+Response_9_Condition_1_ID 26693
+Response_9_Condition_1_Status None
+Response_9_Condition_1_Logic Equal
+Response_9_Rewards 1
+Response_9_Reward_0_Type Quest
+Response_9_Reward_0_ID 26693
+
+Response_10_Dialogue 26672
+Response_10_Quest 26693
+Response_10_Conditions 2
+Response_10_Condition_0_Type Flag_Short
+Response_10_Condition_0_ID 26675
+Response_10_Condition_0_Value 3
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_1_Type Quest
+Response_10_Condition_1_ID 26693
+Response_10_Condition_1_Status Completed
+Response_10_Condition_1_Logic Equal
+Response_10_Condition_1_Reset
+Response_10_Rewards 1
+Response_10_Reward_0_Type Quest
+Response_10_Reward_0_ID 26693
+
+Response_11_Dialogue 26673
+Response_11_Quest 26693
+Response_11_Conditions 1
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_ID 26693
+Response_11_Condition_0_Status Ready
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_0_Reset
+
+Response_12_Dialogue 26672
+Response_12_Quest 26694
+Response_12_Conditions 2
+Response_12_Condition_0_Type Flag_Short
+Response_12_Condition_0_ID 26675
+Response_12_Condition_0_Value 4
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_1_Type Quest
+Response_12_Condition_1_ID 26694
+Response_12_Condition_1_Status None
+Response_12_Condition_1_Logic Equal
+Response_12_Rewards 1
+Response_12_Reward_0_Type Quest
+Response_12_Reward_0_ID 26694
+
+Response_13_Dialogue 26672
+Response_13_Quest 26694
+Response_13_Conditions 2
+Response_13_Condition_0_Type Flag_Short
+Response_13_Condition_0_ID 26675
+Response_13_Condition_0_Value 4
+Response_13_Condition_0_Logic Equal
+Response_13_Condition_1_Type Quest
+Response_13_Condition_1_ID 26694
+Response_13_Condition_1_Status Completed
+Response_13_Condition_1_Logic Equal
+Response_13_Condition_1_Reset
+Response_13_Rewards 1
+Response_13_Reward_0_Type Quest
+Response_13_Reward_0_ID 26694
+
+Response_14_Dialogue 26673
+Response_14_Quest 26694
+Response_14_Conditions 1
+Response_14_Condition_0_Type Quest
+Response_14_Condition_0_ID 26694
+Response_14_Condition_0_Status Ready
+Response_14_Condition_0_Logic Equal
+Response_14_Condition_0_Reset
+
+Response_15_Dialogue 26672
+Response_15_Quest 26695
+Response_15_Conditions 2
+Response_15_Condition_0_Type Flag_Short
+Response_15_Condition_0_ID 26675
+Response_15_Condition_0_Value 5
+Response_15_Condition_0_Logic Equal
+Response_15_Condition_1_Type Quest
+Response_15_Condition_1_ID 26695
+Response_15_Condition_1_Status None
+Response_15_Condition_1_Logic Equal
+Response_15_Rewards 1
+Response_15_Reward_0_Type Quest
+Response_15_Reward_0_ID 26695
+
+Response_16_Dialogue 26672
+Response_16_Quest 26695
+Response_16_Conditions 2
+Response_16_Condition_0_Type Flag_Short
+Response_16_Condition_0_ID 26675
+Response_16_Condition_0_Value 5
+Response_16_Condition_0_Logic Equal
+Response_16_Condition_1_Type Quest
+Response_16_Condition_1_ID 26695
+Response_16_Condition_1_Status Completed
+Response_16_Condition_1_Logic Equal
+Response_16_Condition_1_Reset
+Response_16_Rewards 1
+Response_16_Reward_0_Type Quest
+Response_16_Reward_0_ID 26695
+
+Response_17_Dialogue 26673
+Response_17_Quest 26695
+Response_17_Conditions 1
+Response_17_Condition_0_Type Quest
+Response_17_Condition_0_ID 26695
+Response_17_Condition_0_Status Ready
+Response_17_Condition_0_Logic Equal
+Response_17_Condition_0_Reset
+
+Response_18_Dialogue 26672
+Response_18_Quest 26696
+Response_18_Conditions 2
+Response_18_Condition_0_Type Flag_Short
+Response_18_Condition_0_ID 26675
+Response_18_Condition_0_Value 6
+Response_18_Condition_0_Logic Equal
+Response_18_Condition_1_Type Quest
+Response_18_Condition_1_ID 26696
+Response_18_Condition_1_Status None
+Response_18_Condition_1_Logic Equal
+Response_18_Rewards 1
+Response_18_Reward_0_Type Quest
+Response_18_Reward_0_ID 26696
+
+Response_19_Dialogue 26672
+Response_19_Quest 26696
+Response_19_Conditions 2
+Response_19_Condition_0_Type Flag_Short
+Response_19_Condition_0_ID 26675
+Response_19_Condition_0_Value 6
+Response_19_Condition_0_Logic Equal
+Response_19_Condition_1_Type Quest
+Response_19_Condition_1_ID 26696
+Response_19_Condition_1_Status Completed
+Response_19_Condition_1_Logic Equal
+Response_19_Condition_1_Reset
+Response_19_Rewards 1
+Response_19_Reward_0_Type Quest
+Response_19_Reward_0_ID 26696
+
+Response_20_Dialogue 26673
+Response_20_Quest 26696
+Response_20_Conditions 1
+Response_20_Condition_0_Type Quest
+Response_20_Condition_0_ID 26696
+Response_20_Condition_0_Status Ready
+Response_20_Condition_0_Logic Equal
+Response_20_Condition_0_Reset
+
+Response_21_Dialogue 26672
+Response_21_Quest 26697
+Response_21_Conditions 2
+Response_21_Condition_0_Type Flag_Short
+Response_21_Condition_0_ID 26675
+Response_21_Condition_0_Value 7
+Response_21_Condition_0_Logic Equal
+Response_21_Condition_1_Type Quest
+Response_21_Condition_1_ID 26697
+Response_21_Condition_1_Status None
+Response_21_Condition_1_Logic Equal
+Response_21_Rewards 1
+Response_21_Reward_0_Type Quest
+Response_21_Reward_0_ID 26697
+
+Response_22_Dialogue 26672
+Response_22_Quest 26697
+Response_22_Conditions 2
+Response_22_Condition_0_Type Flag_Short
+Response_22_Condition_0_ID 26675
+Response_22_Condition_0_Value 7
+Response_22_Condition_0_Logic Equal
+Response_22_Condition_1_Type Quest
+Response_22_Condition_1_ID 26697
+Response_22_Condition_1_Status Completed
+Response_22_Condition_1_Logic Equal
+Response_22_Condition_1_Reset
+Response_22_Rewards 1
+Response_22_Reward_0_Type Quest
+Response_22_Reward_0_ID 26697
+
+Response_23_Dialogue 26673
+Response_23_Quest 26697
+Response_23_Conditions 1
+Response_23_Condition_0_Type Quest
+Response_23_Condition_0_ID 26697
+Response_23_Condition_0_Status Ready
+Response_23_Condition_0_Logic Equal
+Response_23_Condition_0_Reset
+
+Response_24_Dialogue 26672
+Response_24_Quest 26698
+Response_24_Conditions 2
+Response_24_Condition_0_Type Flag_Short
+Response_24_Condition_0_ID 26675
+Response_24_Condition_0_Value 8
+Response_24_Condition_0_Logic Equal
+Response_24_Condition_1_Type Quest
+Response_24_Condition_1_ID 26698
+Response_24_Condition_1_Status None
+Response_24_Condition_1_Logic Equal
+Response_24_Rewards 1
+Response_24_Reward_0_Type Quest
+Response_24_Reward_0_ID 26698
+
+Response_25_Dialogue 26672
+Response_25_Quest 26698
+Response_25_Conditions 2
+Response_25_Condition_0_Type Flag_Short
+Response_25_Condition_0_ID 26675
+Response_25_Condition_0_Value 8
+Response_25_Condition_0_Logic Equal
+Response_25_Condition_1_Type Quest
+Response_25_Condition_1_ID 26698
+Response_25_Condition_1_Status Completed
+Response_25_Condition_1_Logic Equal
+Response_25_Condition_1_Reset
+Response_25_Rewards 1
+Response_25_Reward_0_Type Quest
+Response_25_Reward_0_ID 26698
+
+Response_26_Dialogue 26673
+Response_26_Quest 26698
+Response_26_Conditions 1
+Response_26_Condition_0_Type Quest
+Response_26_Condition_0_ID 26698
+Response_26_Condition_0_Status Ready
+Response_26_Condition_0_Logic Equal
+Response_26_Condition_0_Reset
+
+Response_27_Dialogue 26672
+Response_27_Quest 26699
+Response_27_Conditions 2
+Response_27_Condition_0_Type Flag_Short
+Response_27_Condition_0_ID 26675
+Response_27_Condition_0_Value 9
+Response_27_Condition_0_Logic Equal
+Response_27_Condition_1_Type Quest
+Response_27_Condition_1_ID 26699
+Response_27_Condition_1_Status None
+Response_27_Condition_1_Logic Equal
+Response_27_Rewards 1
+Response_27_Reward_0_Type Quest
+Response_27_Reward_0_ID 26699
+
+Response_28_Dialogue 26672
+Response_28_Quest 26699
+Response_28_Conditions 2
+Response_28_Condition_0_Type Flag_Short
+Response_28_Condition_0_ID 26675
+Response_28_Condition_0_Value 9
+Response_28_Condition_0_Logic Equal
+Response_28_Condition_1_Type Quest
+Response_28_Condition_1_ID 26699
+Response_28_Condition_1_Status Completed
+Response_28_Condition_1_Logic Equal
+Response_28_Condition_1_Reset
+Response_28_Rewards 1
+Response_28_Reward_0_Type Quest
+Response_28_Reward_0_ID 26699
+
+Response_29_Dialogue 26673
+Response_29_Quest 26699
+Response_29_Conditions 1
+Response_29_Condition_0_Type Quest
+Response_29_Condition_0_ID 26699
+Response_29_Condition_0_Status Ready
+Response_29_Condition_0_Logic Equal
+Response_29_Condition_0_Reset
+
+Response_30_Dialogue 26674
+Response_30_Conditions 1
+Response_30_Condition_0_Type Quest
+Response_30_Condition_0_ID 25232
+Response_30_Condition_0_Status Active
+Response_30_Condition_0_Logic Equal
+Response_30_Rewards 1
+Response_30_Reward_0_Type Flag_Bool
+Response_30_Reward_0_ID 25266
+Response_30_Reward_0_Value True
+
+Response_31_Dialogue 26676
+Response_31_Conditions 2
+Response_31_Condition_0_Type Quest
+Response_31_Condition_0_ID 25320
+Response_31_Condition_0_Status Active
+Response_31_Condition_0_Logic Equal
+Response_31_Condition_1_Type Flag_Bool
+Response_31_Condition_1_ID 26677
+Response_31_Condition_1_Value False
+Response_31_Condition_1_Logic Equal
+Response_31_Condition_1_Allow_Unset
+Response_31_Rewards 2
+Response_31_Reward_0_Type Flag_Bool
+Response_31_Reward_0_ID 26677
+Response_31_Reward_0_Value True
+Response_31_Reward_1_Type Flag_Short
+Response_31_Reward_1_ID 25321
+Response_31_Reward_1_Value 1
+Response_31_Reward_1_Modification Increment
+
+Response_32_Messages 3
+Response_32_Message_0 0
+Response_32_Message_1 1
+Response_32_Message_2 2
+
+Response_33_Messages 2
+Response_33_Message_0 3
+Response_33_Message_1 4

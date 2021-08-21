@@ -1,0 +1,603 @@
+GUID b7acd49fb4944c458f729602b2da5733
+Type Dialogue
+ID 4107
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 31
+
+// Singleshot 12
+// Success
+Response_0_Dialogue 4108
+Response_0_Conditions 2
+// Scrap Points
+Response_0_Condition_0_Type Flag_Short
+Response_0_Condition_0_ID 4015
+Response_0_Condition_0_Value 18
+Response_0_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_0_Condition_1_Type Flag_Short
+Response_0_Condition_1_ID 4018
+Response_0_Condition_1_Value 1
+Response_0_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_0_Rewards 2
+// Item
+Response_0_Reward_0_Type Item
+Response_0_Reward_0_ID 3014
+Response_0_Reward_0_Amount 1
+Response_0_Reward_0_Barrel 149
+Response_0_Reward_0_Sight 146
+// Decrement Points
+Response_0_Reward_1_Type Flag_Short
+Response_0_Reward_1_ID 4015
+Response_0_Reward_1_Value 18
+Response_0_Reward_1_Modification Decrement
+
+// Failure
+Response_1_Dialogue 4109
+Response_1_Conditions 2
+// Scrap Points
+Response_1_Condition_0_Type Flag_Short
+Response_1_Condition_0_ID 4015
+Response_1_Condition_0_Value 18
+Response_1_Condition_0_Logic Less_Than
+// Machine Level
+Response_1_Condition_1_Type Flag_Short
+Response_1_Condition_1_ID 4018
+Response_1_Condition_1_Value 1
+Response_1_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Ace
+// Success
+Response_2_Dialogue 4108
+Response_2_Conditions 2
+// Scrap Points
+Response_2_Condition_0_Type Flag_Short
+Response_2_Condition_0_ID 4015
+Response_2_Condition_0_Value 24
+Response_2_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_2_Condition_1_Type Flag_Short
+Response_2_Condition_1_ID 4018
+Response_2_Condition_1_Value 2
+Response_2_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_2_Rewards 2
+// Item
+Response_2_Reward_0_Type Item
+Response_2_Reward_0_ID 107
+Response_2_Reward_0_Amount 1
+Response_2_Reward_0_Tactical 1007
+Response_2_Reward_0_Sight 3074
+Response_2_Reward_0_Grip 3103
+// Decrement Points
+Response_2_Reward_1_Type Flag_Short
+Response_2_Reward_1_ID 4015
+Response_2_Reward_1_Value 24
+Response_2_Reward_1_Modification Decrement
+
+// Failure
+Response_3_Dialogue 4109
+Response_3_Conditions 2
+// Scrap Points
+Response_3_Condition_0_Type Flag_Short
+Response_3_Condition_0_ID 4015
+Response_3_Condition_0_Value 24
+Response_3_Condition_0_Logic Less_Than
+// Machine Level
+Response_3_Condition_1_Type Flag_Short
+Response_3_Condition_1_ID 4018
+Response_3_Condition_1_Value 2
+Response_3_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Musket
+// Success
+Response_4_Dialogue 4108
+Response_4_Conditions 2
+// Scrap Points
+Response_4_Condition_0_Type Flag_Short
+Response_4_Condition_0_ID 4015
+Response_4_Condition_0_Value 24
+Response_4_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_4_Condition_1_Type Flag_Short
+Response_4_Condition_1_ID 4018
+Response_4_Condition_1_Value 3
+Response_4_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_4_Rewards 2
+// Item
+Response_4_Reward_0_Type Item
+Response_4_Reward_0_ID 3007
+Response_4_Reward_0_Amount 1
+// Decrement Points
+Response_4_Reward_1_Type Flag_Short
+Response_4_Reward_1_ID 4015
+Response_4_Reward_1_Value 24
+Response_4_Reward_1_Modification Decrement
+
+// Failure
+Response_5_Dialogue 4109
+Response_5_Conditions 2
+// Scrap Points
+Response_5_Condition_0_Type Flag_Short
+Response_5_Condition_0_ID 4015
+Response_5_Condition_0_Value 24
+Response_5_Condition_0_Logic Less_Than
+// Machine Level
+Response_5_Condition_1_Type Flag_Short
+Response_5_Condition_1_ID 4018
+Response_5_Condition_1_Value 3
+Response_5_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Heavy Crossbow
+// Success
+Response_6_Dialogue 4108
+Response_6_Conditions 2
+// Scrap Points
+Response_6_Condition_0_Type Flag_Short
+Response_6_Condition_0_ID 4015
+Response_6_Condition_0_Value 30
+Response_6_Condition_0_Logic Greater_Than_Or_Equal_To
+// Crossbow Quest
+Response_6_Condition_1_Type Quest
+Response_6_Condition_1_Logic Equal
+Response_6_Condition_1_ID 4173
+Response_6_Condition_1_Status Completed
+Response_6_Rewards 2
+// Item
+Response_6_Reward_0_Type Item
+Response_6_Reward_0_ID 3100
+Response_6_Reward_0_Amount 1
+// Decrement Points
+Response_6_Reward_1_Type Flag_Short
+Response_6_Reward_1_ID 4015
+Response_6_Reward_1_Value 30
+Response_6_Reward_1_Modification Decrement
+
+// Failure
+Response_7_Dialogue 4109
+Response_7_Conditions 2
+// Scrap Points
+Response_7_Condition_0_Type Flag_Short
+Response_7_Condition_0_ID 4015
+Response_7_Condition_0_Value 30
+Response_7_Condition_0_Logic Less_Than
+// Machine Level
+Response_7_Condition_1_Type Quest
+Response_7_Condition_1_Logic Equal
+Response_7_Condition_1_ID 4173
+Response_7_Condition_1_Status Completed
+
+// Colt
+// Success
+Response_8_Dialogue 4108
+Response_8_Conditions 2
+// Scrap Points
+Response_8_Condition_0_Type Flag_Short
+Response_8_Condition_0_ID 4015
+Response_8_Condition_0_Value 7
+Response_8_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_8_Condition_1_Type Flag_Short
+Response_8_Condition_1_ID 4018
+Response_8_Condition_1_Value 4
+Response_8_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_8_Rewards 2
+// Item
+Response_8_Reward_0_Type Item
+Response_8_Reward_0_ID 97
+Response_8_Reward_0_Amount 1
+// Decrement Points
+Response_8_Reward_1_Type Flag_Short
+Response_8_Reward_1_ID 4015
+Response_8_Reward_1_Value 7
+Response_8_Reward_1_Modification Decrement
+
+// Failure
+Response_9_Dialogue 4109
+Response_9_Conditions 2
+// Scrap Points
+Response_9_Condition_0_Type Flag_Short
+Response_9_Condition_0_ID 4015
+Response_9_Condition_0_Value 7
+Response_9_Condition_0_Logic Less_Than
+// Machine Level
+Response_9_Condition_1_Type Flag_Short
+Response_9_Condition_1_ID 4018
+Response_9_Condition_1_Value 4
+Response_9_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Sportshot
+// Success
+Response_10_Dialogue 4108
+Response_10_Conditions 2
+// Scrap Points
+Response_10_Condition_0_Type Flag_Short
+Response_10_Condition_0_ID 4015
+Response_10_Condition_0_Value 8
+Response_10_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_10_Condition_1_Type Flag_Short
+Response_10_Condition_1_ID 4018
+Response_10_Condition_1_Value 4
+Response_10_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_10_Rewards 2
+// Item
+Response_10_Reward_0_Type Item
+Response_10_Reward_0_ID 484
+Response_10_Reward_0_Amount 1
+// Decrement Points
+Response_10_Reward_1_Type Flag_Short
+Response_10_Reward_1_ID 4015
+Response_10_Reward_1_Value 8
+Response_10_Reward_1_Modification Decrement
+
+// Failure
+Response_11_Dialogue 4109
+Response_11_Conditions 2
+// Scrap Points
+Response_11_Condition_0_Type Flag_Short
+Response_11_Condition_0_ID 4015
+Response_11_Condition_0_Value 8
+Response_11_Condition_0_Logic Less_Than
+// Machine Level
+Response_11_Condition_1_Type Flag_Short
+Response_11_Condition_1_ID 4018
+Response_11_Condition_1_Value 4
+Response_11_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Avenger
+// Success
+Response_12_Dialogue 4108
+Response_12_Conditions 2
+// Scrap Points
+Response_12_Condition_0_Type Flag_Short
+Response_12_Condition_0_ID 4015
+Response_12_Condition_0_Value 11
+Response_12_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_12_Condition_1_Type Flag_Short
+Response_12_Condition_1_ID 4018
+Response_12_Condition_1_Value 4
+Response_12_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_12_Rewards 2
+// Item
+Response_12_Reward_0_Type Item
+Response_12_Reward_0_ID 1021
+Response_12_Reward_0_Amount 1
+// Decrement Points
+Response_12_Reward_1_Type Flag_Short
+Response_12_Reward_1_ID 4015
+Response_12_Reward_1_Value 11
+Response_12_Reward_1_Modification Decrement
+
+// Failure
+Response_13_Dialogue 4109
+Response_13_Conditions 2
+// Scrap Points
+Response_13_Condition_0_Type Flag_Short
+Response_13_Condition_0_ID 4015
+Response_13_Condition_0_Value 11
+Response_13_Condition_0_Logic Less_Than
+// Machine Level
+Response_13_Condition_1_Type Flag_Short
+Response_13_Condition_1_ID 4018
+Response_13_Condition_1_Value 4
+Response_13_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Corsican
+// Success
+Response_14_Dialogue 4108
+Response_14_Conditions 2
+// Scrap Points
+Response_14_Condition_0_Type Flag_Short
+Response_14_Condition_0_ID 4015
+Response_14_Condition_0_Value 15
+Response_14_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_14_Condition_1_Type Flag_Short
+Response_14_Condition_1_ID 4018
+Response_14_Condition_1_Value 4
+Response_14_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_14_Rewards 2
+// Item
+Response_14_Reward_0_Type Item
+Response_14_Reward_0_ID 3039
+Response_14_Reward_0_Amount 1
+// Decrement Points
+Response_14_Reward_1_Type Flag_Short
+Response_14_Reward_1_ID 4015
+Response_14_Reward_1_Value 15
+Response_14_Reward_1_Modification Decrement
+
+// Failure
+Response_15_Dialogue 4109
+Response_15_Conditions 2
+// Scrap Points
+Response_15_Condition_0_Type Flag_Short
+Response_15_Condition_0_ID 4015
+Response_15_Condition_0_Value 15
+Response_15_Condition_0_Logic Less_Than
+// Machine Level
+Response_15_Condition_1_Type Flag_Short
+Response_15_Condition_1_ID 4018
+Response_15_Condition_1_Value 4
+Response_15_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Cobra with Box
+// Success
+Response_16_Dialogue 4108
+Response_16_Conditions 2
+// Scrap Points
+Response_16_Condition_0_Type Flag_Short
+Response_16_Condition_0_ID 4015
+Response_16_Condition_0_Value 13
+Response_16_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_16_Condition_1_Type Flag_Short
+Response_16_Condition_1_ID 4018
+Response_16_Condition_1_Value 4
+Response_16_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_16_Rewards 2
+// Item
+Response_16_Reward_0_Type Item
+Response_16_Reward_0_ID 99
+Response_16_Reward_0_Amount 1
+Response_16_Reward_0_Magazine 1006
+// Decrement Points
+Response_16_Reward_1_Type Flag_Short
+Response_16_Reward_1_ID 4015
+Response_16_Reward_1_Value 13
+Response_16_Reward_1_Modification Decrement
+
+// Failure
+Response_17_Dialogue 4109
+Response_17_Conditions 2
+// Scrap Points
+Response_17_Condition_0_Type Flag_Short
+Response_17_Condition_0_ID 4015
+Response_17_Condition_0_Value 13
+Response_17_Condition_0_Logic Less_Than
+// Machine Level
+Response_17_Condition_1_Type Flag_Short
+Response_17_Condition_1_ID 4018
+Response_17_Condition_1_Value 4
+Response_17_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Hawkhound
+// Success
+Response_18_Dialogue 4108
+Response_18_Conditions 2
+// Scrap Points
+Response_18_Condition_0_Type Flag_Short
+Response_18_Condition_0_ID 4015
+Response_18_Condition_0_Value 16
+Response_18_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_18_Condition_1_Type Flag_Short
+Response_18_Condition_1_ID 4018
+Response_18_Condition_1_Value 4
+Response_18_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_18_Rewards 2
+// Item
+Response_18_Reward_0_Type Item
+Response_18_Reward_0_ID 109
+Response_18_Reward_0_Amount 1
+// Decrement Points
+Response_18_Reward_1_Type Flag_Short
+Response_18_Reward_1_ID 4015
+Response_18_Reward_1_Value 16
+Response_18_Reward_1_Modification Decrement
+
+// Failure
+Response_19_Dialogue 4109
+Response_19_Conditions 2
+// Scrap Points
+Response_19_Condition_0_Type Flag_Short
+Response_19_Condition_0_ID 4015
+Response_19_Condition_0_Value 16
+Response_19_Condition_0_Logic Less_Than
+// Machine Level
+Response_19_Condition_1_Type Flag_Short
+Response_19_Condition_1_ID 4018
+Response_19_Condition_1_Value 4
+Response_19_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Fusilette
+// Success
+Response_20_Dialogue 4108
+Response_20_Conditions 2
+// Scrap Points
+Response_20_Condition_0_Type Flag_Short
+Response_20_Condition_0_ID 4015
+Response_20_Condition_0_Value 27
+Response_20_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_20_Condition_1_Type Flag_Short
+Response_20_Condition_1_ID 4018
+Response_20_Condition_1_Value 4
+Response_20_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_20_Rewards 2
+// Item
+Response_20_Reward_0_Type Item
+Response_20_Reward_0_ID 3023
+Response_20_Reward_0_Amount 1
+// Decrement Points
+Response_20_Reward_1_Type Flag_Short
+Response_20_Reward_1_ID 4015
+Response_20_Reward_1_Value 27
+Response_20_Reward_1_Modification Decrement
+
+// Failure
+Response_21_Dialogue 4109
+Response_21_Conditions 2
+// Scrap Points
+Response_21_Condition_0_Type Flag_Short
+Response_21_Condition_0_ID 4015
+Response_21_Condition_0_Value 27
+Response_21_Condition_0_Logic Less_Than
+// Machine Level
+Response_21_Condition_1_Type Flag_Short
+Response_21_Condition_1_ID 4018
+Response_21_Condition_1_Value 4
+Response_21_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Genaugewehr
+// Success
+Response_22_Dialogue 4108
+Response_22_Conditions 2
+// Scrap Points
+Response_22_Condition_0_Type Flag_Short
+Response_22_Condition_0_ID 4015
+Response_22_Condition_0_Value 35
+Response_22_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_22_Condition_1_Type Flag_Short
+Response_22_Condition_1_ID 4018
+Response_22_Condition_1_Value 4
+Response_22_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_22_Rewards 2
+// Item
+Response_22_Reward_0_Type Item
+Response_22_Reward_0_ID 3041
+Response_22_Reward_0_Amount 1
+// Decrement Points
+Response_22_Reward_1_Type Flag_Short
+Response_22_Reward_1_ID 4015
+Response_22_Reward_1_Value 35
+Response_22_Reward_1_Modification Decrement
+
+// Failure
+Response_23_Dialogue 4109
+Response_23_Conditions 2
+// Scrap Points
+Response_23_Condition_0_Type Flag_Short
+Response_23_Condition_0_ID 4015
+Response_23_Condition_0_Value 35
+Response_23_Condition_0_Logic Less_Than
+// Machine Level
+Response_23_Condition_1_Type Flag_Short
+Response_23_Condition_1_ID 4018
+Response_23_Condition_1_Value 4
+Response_23_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Maplestrike
+// Success
+Response_24_Dialogue 4108
+Response_24_Conditions 2
+// Scrap Points
+Response_24_Condition_0_Type Flag_Short
+Response_24_Condition_0_ID 4015
+Response_24_Condition_0_Value 35
+Response_24_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_24_Condition_1_Type Flag_Short
+Response_24_Condition_1_ID 4018
+Response_24_Condition_1_Value 4
+Response_24_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_24_Rewards 2
+// Item
+Response_24_Reward_0_Type Item
+Response_24_Reward_0_ID 363
+Response_24_Reward_0_Amount 1
+// Decrement Points
+Response_24_Reward_1_Type Flag_Short
+Response_24_Reward_1_ID 4015
+Response_24_Reward_1_Value 35
+Response_24_Reward_1_Modification Decrement
+
+// Failure
+Response_25_Dialogue 4109
+Response_25_Conditions 2
+// Scrap Points
+Response_25_Condition_0_Type Flag_Short
+Response_25_Condition_0_ID 4015
+Response_25_Condition_0_Value 35
+Response_25_Condition_0_Logic Less_Than
+// Machine Level
+Response_25_Condition_1_Type Flag_Short
+Response_25_Condition_1_ID 4018
+Response_25_Condition_1_Value 4
+Response_25_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Eaglefire
+// Success
+Response_26_Dialogue 4108
+Response_26_Conditions 2
+// Scrap Points
+Response_26_Condition_0_Type Flag_Short
+Response_26_Condition_0_ID 4015
+Response_26_Condition_0_Value 27
+Response_26_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_26_Condition_1_Type Flag_Short
+Response_26_Condition_1_ID 4018
+Response_26_Condition_1_Value 4
+Response_26_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_26_Rewards 2
+// Item
+Response_26_Reward_0_Type Item
+Response_26_Reward_0_ID 4
+Response_26_Reward_0_Amount 1
+// Decrement Points
+Response_26_Reward_1_Type Flag_Short
+Response_26_Reward_1_ID 4015
+Response_26_Reward_1_Value 27
+Response_26_Reward_1_Modification Decrement
+
+// Failure
+Response_27_Dialogue 4109
+Response_27_Conditions 2
+// Scrap Points
+Response_27_Condition_0_Type Flag_Short
+Response_27_Condition_0_ID 4015
+Response_27_Condition_0_Value 27
+Response_27_Condition_0_Logic Less_Than
+// Machine Level
+Response_27_Condition_1_Type Flag_Short
+Response_27_Condition_1_ID 4018
+Response_27_Condition_1_Value 4
+Response_27_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Herstal
+// Success
+Response_28_Dialogue 4108
+Response_28_Conditions 2
+// Scrap Points
+Response_28_Condition_0_Type Flag_Short
+Response_28_Condition_0_ID 4015
+Response_28_Condition_0_Value 35
+Response_28_Condition_0_Logic Greater_Than_Or_Equal_To
+// Machine Level
+Response_28_Condition_1_Type Flag_Short
+Response_28_Condition_1_ID 4018
+Response_28_Condition_1_Value 4
+Response_28_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_28_Rewards 2
+// Item
+Response_28_Reward_0_Type Item
+Response_28_Reward_0_ID 3052
+Response_28_Reward_0_Amount 1
+// Decrement Points
+Response_28_Reward_1_Type Flag_Short
+Response_28_Reward_1_ID 4015
+Response_28_Reward_1_Value 35
+Response_28_Reward_1_Modification Decrement
+
+// Failure
+Response_29_Dialogue 4109
+Response_29_Conditions 2
+// Scrap Points
+Response_29_Condition_0_Type Flag_Short
+Response_29_Condition_0_ID 4015
+Response_29_Condition_0_Value 35
+Response_29_Condition_0_Logic Less_Than
+// Machine Level
+Response_29_Condition_1_Type Flag_Short
+Response_29_Condition_1_ID 4018
+Response_29_Condition_1_Value 4
+Response_29_Condition_1_Logic Greater_Than_Or_Equal_To
+
+// Nvm
+Response_30_Dialogue 4056

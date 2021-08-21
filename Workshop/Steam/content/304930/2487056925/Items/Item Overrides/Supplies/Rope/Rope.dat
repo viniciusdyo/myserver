@@ -1,0 +1,35 @@
+GUID 5427816994554caea6962c5902bd414d
+Type Supply
+ID 5536
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Blueprints 3
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5536
+Blueprint_1_Product 66
+Blueprint_1_Products 4
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+Blueprint_2_Type Barricade
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 5536
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 5260
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Build 27
+Blueprint_2_Products 1
+Blueprint_2_Product 5559
+Blueprint_2_Map Kuwait
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Supplies/Rope

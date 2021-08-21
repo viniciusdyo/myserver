@@ -1,0 +1,31 @@
+GUID 5c622c10bcbd426991850db72eef1a03
+Type Dialogue
+ID 29391
+
+Messages 1
+ 
+Message_0_Pages 1
+
+Responses 4
+
+Response_0_Dialogue 29394
+
+Response_1_Dialogue 29392
+Response_1_Quest 29395
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 29395
+Response_1_Condition_0_Status None
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 29395
+
+Response_2_Dialogue 29393
+Response_2_Quest 29395
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 29395
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Reset

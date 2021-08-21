@@ -1,0 +1,44 @@
+GUID 966317af0b2644cba2fea64dcaa47a04
+Type Dialogue
+ID 27259
+
+// Unused content that was planned for weapon modification (i.e. the scientist on the liberator). Rewards would be a shorter Viper (Revi), Catalyst carbine, and silenced vonya.
+
+Messages 4
+
+Message_0_Conditions 2
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 27001
+Message_0_Condition_0_Value True
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_1_Type Quest
+Message_0_Condition_1_ID 27065
+Message_0_Condition_1_Status None
+Message_0_Condition_1_Logic Equal
+Message_0_Pages 1
+
+Message_1_Conditions 2
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 27020
+Message_1_Condition_0_Status Completed
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_ID 27066
+Message_1_Condition_1_Status None
+Message_1_Condition_1_Logic Equal
+Message_1_Pages 1
+
+Message_2_Conditions 2
+Message_2_Condition_0_Type Quest
+Message_2_Condition_0_ID 27021
+Message_2_Condition_0_Status Completed
+Message_2_Condition_0_Logic Equal
+Message_2_Condition_1_Type Quest
+Message_2_Condition_1_ID 27065
+Message_2_Condition_1_Status None
+Message_2_Condition_1_Logic Equal
+Message_2_Pages 1
+
+Message_3_Pages 1
+
+// If you're copying things, at least credit NSTM.

@@ -1,0 +1,21 @@
+GUID 149807c478a24c5aa407b307b6b9b311
+Type Animal
+ID 5250
+
+Speed_Run 8
+Speed_Walk 4
+
+Behaviour Offense
+
+Health 50
+Regen 0.5
+Damage 7
+
+Reward_ID 7154
+Reward_XP 20
+Reward_Min 1
+Reward_Max 2
+
+Roars 3
+
+Asset_Bundle_Version 2

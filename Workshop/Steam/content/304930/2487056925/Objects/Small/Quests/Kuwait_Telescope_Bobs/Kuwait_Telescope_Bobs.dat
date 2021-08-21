@@ -1,0 +1,22 @@
+GUID d214acb94d3741d7a42b2d42c4b43cd6
+Type Small
+ID 5111
+
+Asset_Bundle_Version 2
+
+Conditions 2
+Condition_0_Type Quest
+Condition_0_ID 28105
+Condition_0_Status Active
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 28106
+Condition_1_Value False
+Condition_1_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 28106
+Interactability_Reward_0_Value True

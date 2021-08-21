@@ -1,0 +1,21 @@
+GUID 38560fb1526a4c62a45a6755e005f3fe
+Type Quest
+ID 29535
+
+Conditions 1
+Condition_0_Type Kills_Zombie
+Condition_0_Zombie Crawler
+Condition_0_ID 29536
+Condition_0_Value 30
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_0_Radius 500
+
+Rewards 3
+Reward_0_Type Experience
+Reward_0_Value 75
+Reward_1_Type Reputation
+Reward_1_Value 7
+Reward_2_Type Flag_Short
+Reward_2_ID 29300
+Reward_2_Value 1
+Reward_2_Modification Increment

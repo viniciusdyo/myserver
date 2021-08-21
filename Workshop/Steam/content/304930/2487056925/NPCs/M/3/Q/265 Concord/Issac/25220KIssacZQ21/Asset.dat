@@ -1,0 +1,29 @@
+GUID 85241a271130431eaa64a1831d685676
+Type Quest
+ID 25220
+
+Conditions 1
+Condition_0_Type Kills_Zombie
+Condition_0_ID 25253
+Condition_0_Value 1
+Condition_0_Zombie Boss_All
+Condition_0_Spawn
+Condition_0_Nav 0
+
+Rewards 4
+Reward_0_Type Currency
+Reward_0_Value 500
+Reward_0_GUID b76b37b2d40c4054b850458e135408c6
+Reward_1_Type Reputation
+Reward_1_Value 50
+Reward_2_Type Flag_Short
+Reward_2_ID 25253
+Reward_2_Value 0
+Reward_2_Modification Assign
+Reward_3_Type Flag_Short_Random
+Reward_3_ID 26645
+Reward_3_Min_Value 0
+Reward_3_Max_Value 32
+Reward_3_Modification Assign
+
+// If you're copying things, at least credit NSTM.

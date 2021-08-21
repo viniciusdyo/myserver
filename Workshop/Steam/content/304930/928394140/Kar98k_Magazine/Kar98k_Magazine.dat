@@ -1,0 +1,27 @@
+GUID 28f56eebbcd949a4a6bc7b362ac4335c
+Type Magazine
+Rarity Rare
+ID 51529
+
+Size_X 1
+Size_Y 1
+Size_Z 0.19
+
+Amount 5
+Count_Min 3
+Count_Max 5
+
+Calibers 1
+Caliber_0 51528
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51529
+Blueprint_1_Build 30

@@ -1,0 +1,22 @@
+GUID fa0c9e736ce24d8e875970bb3732005a
+Type Dialogue
+ID 28555
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 2
+
+// Rosa here. This is a very simple version of Ashley's repeating quests, that she borrowed from Snow. This version just supports 1 repeated quest.
+
+Response_0_Dialogue 28557
+Response_0_Quest 28556
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 28556
+
+// Welcome Dialogue
+Response_1_Dialogue 28551
+
+// If you're copying things, at least credit NSTM.

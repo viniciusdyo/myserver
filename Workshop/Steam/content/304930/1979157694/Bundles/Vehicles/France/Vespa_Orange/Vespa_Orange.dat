@@ -1,0 +1,34 @@
+GUID 983a4db3a98148ddbf653949dd728945
+Type Vehicle
+ID 725
+
+Speed_Min -2
+Speed_Max 9
+
+Steer_Min 8
+Steer_Max 42
+
+Brake 24
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1000
+
+Health_Min 200
+Health_Max 300
+Health 400
+
+Exit 1.5
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 2
+
+Pitch_Idle 1.2
+Pitch_Drive 0.2
+
+Zip
+Traction
+Crawler
+Tires_Invulnerable
+
+Explosion 20

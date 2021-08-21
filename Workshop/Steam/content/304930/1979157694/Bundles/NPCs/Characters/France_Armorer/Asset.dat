@@ -1,0 +1,15 @@
+GUID e89969af32dd49518cf748adff49d4ec
+Type NPC
+ID 4002
+
+Shirt 3017
+Pants 3018
+Hat 3022
+
+Face 0
+Color_Skin #885f4b
+
+Primary 3043
+Secondary 3039
+
+Dialogue 4150

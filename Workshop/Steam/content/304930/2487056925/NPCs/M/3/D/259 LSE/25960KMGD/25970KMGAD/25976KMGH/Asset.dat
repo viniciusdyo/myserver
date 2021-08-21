@@ -1,0 +1,9 @@
+GUID 8acfd8f52d824c0893270092ae4f46a9
+Type Dialogue
+ID 25976
+
+// First is adding to flag.
+Messages 1
+Message_0_Pages 1
+
+// If you're copying things, at least credit NSTM.

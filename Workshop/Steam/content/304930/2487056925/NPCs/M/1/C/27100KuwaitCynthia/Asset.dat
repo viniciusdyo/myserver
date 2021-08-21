@@ -1,0 +1,28 @@
+GUID b1e6475d6d284c87bf25dd1b57113481
+Type NPC
+ID 27100
+
+Shirt 5301
+Pants 5302
+
+Face 18
+Hair 7
+Color_Skin #4b3d31
+Color_Hair #191919
+
+Primary 5000
+Secondary 5009
+
+Pose Rest
+
+Dialogue 27101
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 26515
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+// Replace Maplestrike with T91
+// If you're copying things, at least credit NSTM.

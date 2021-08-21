@@ -1,0 +1,23 @@
+Message_0_Page_0 Hey there, you should talk to <color=legendary>Issac</color> first. He's on the east side of the island, on top of the rocks.
+Message_1_Page_0 You've got an operation to do, talk to <color=legendary>Issac</color>.
+Message_2_Page_0 You've got an operation <name_char>, go talk to <color=legendary>Issac</color>.
+Message_3_Page_0 You have an operation to do, go talk to <color=legendary>Issac</color>.
+Message_4_Page_0 Hey there.
+Message_5_Page_0 Heya <name_char>.
+Message_6_Page_0 Whatd'ya need <name_char>?
+
+Response_0 Alright.
+// Post talked to Issac
+Response_1 Who are you?
+Response_2 Why can't I get any weapons?
+Response_3 May I get some weapons?
+Response_4 May I sell some attachments?
+Response_5 Need any help?
+Response_6 Need any help?
+Response_7 Need any help?
+Response_8 Got what you need.
+Response_9 Got what you need.
+Response_10 Got what you need.
+Response_11 Need any help?
+Response_12 Do you have any borrowed tools?
+Response_13 Goodbye.

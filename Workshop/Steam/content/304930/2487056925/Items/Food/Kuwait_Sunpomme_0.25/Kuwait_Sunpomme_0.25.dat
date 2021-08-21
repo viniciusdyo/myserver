@@ -1,0 +1,20 @@
+GUID 2ae62d78930a4084a05e8b517cd573d2
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 5276
+
+Size_X 1
+Size_Y 1
+Size_Z 0.225
+
+Food 15
+Water 16
+Health 10
+Disinfectant 10
+
+Quality_Min 100
+
+Bleeding
+
+Use_Auto_Icon_Measurements False

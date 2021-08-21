@@ -1,0 +1,50 @@
+GUID ee03fbd72a124d488446747d3187eba6
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 46564
+
+Sight 1301
+Magazine 46565
+
+Ammo_Min 4
+Ammo_Max 4
+
+Semi
+
+Ammo_Per_Shot 2
+
+Caliber 46564
+
+Firerate 50
+Action Rocket
+
+Player_Damage 1
+Zombie_Damage 1
+Animal_Damage 1
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 1
+Resource_Damage 1
+Object_Damage 1
+
+Range 14
+Explosion 45
+
+Spread_Aim 0.2
+Spread_Hip 0.05
+
+
+Recoil_Min_X -3
+Recoil_Min_Y 3
+Recoil_Max_X 3
+Recoil_Max_Y 5
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Muzzle 42
+
+Reload_Time 2
+Turret

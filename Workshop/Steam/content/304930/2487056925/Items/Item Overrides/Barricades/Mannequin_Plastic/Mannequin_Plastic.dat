@@ -1,0 +1,56 @@
+GUID 650d57bb4cdf4d9398306b3561e05ffd
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Mannequin
+ID 5808
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 250
+Range 4
+Radius 0.8
+Offset 1
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 5507
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 66
+Blueprint_0_Supply_2_Amount 6
+Blueprint_0_Tool 76
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Supply_1_ID 5507
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 66
+Blueprint_1_Supply_2_Amount 6
+Blueprint_1_Tool 5112
+Blueprint_1_Tool_Critical
+Blueprint_1_Level 1
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+
+// References human read/writeable texture.
+Ignore_TexRW
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Mannequin_Metal

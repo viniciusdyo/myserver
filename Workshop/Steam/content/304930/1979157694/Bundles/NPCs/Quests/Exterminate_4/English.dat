@@ -1,0 +1,4 @@
+Name <color=Mythical>Flamethrower in Paris</color>
+Description A huge mutant has been spotted in Paris. Take it out.
+
+Condition_0 Defeat {0}/{1} <color=mythical>Flamethrower Boss</color>

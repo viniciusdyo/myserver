@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=mythical>Shocking Energy</color>
+Description <color=legendary>General Issac</color><br>An extremely powerful zombie has been spotted in Sulaibiya. You need to defeat it.
+
+Condition_0 Defeat <color=mythical>Electric Boss Zombie</color> {0}/1

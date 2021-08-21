@@ -1,0 +1,85 @@
+GUID ae15b28b6fdb407c90cc8d0c9c7dcbc6
+Type Dialogue
+ID 30001
+
+// Hello!
+Messages 2
+Message_0_Pages 1
+Message_0_Conditions 1
+// Snow (self)
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 30006
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 3
+Message_0_Response_0 0
+Message_0_Response_1 1
+Message_0_Response_2 4
+
+Message_1_Pages 1
+Message_1_Responses 3
+Message_1_Response_0 2
+Message_1_Response_1 3
+Message_1_Response_2 5
+
+Responses 6
+
+// Response 0 when no quest.
+Response_0_Dialogue 30002
+Response_0_Quest 30005
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 30005
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Rewards 2
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 30005
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 30006
+Response_0_Reward_1_Value True
+
+// Response 1 when quest having been taken, reset.
+Response_1_Dialogue 30002
+Response_1_Quest 30005
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 30005
+Response_1_Condition_0_Status Completed
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Reset
+Response_1_Rewards 2
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 30005
+Response_1_Reward_1_Type Flag_Bool
+Response_1_Reward_1_ID 30006
+Response_1_Reward_1_Value True
+
+// Response 2 when self taken, but want to reset.
+Response_2_Dialogue 30003
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 30005
+Response_2_Condition_0_Status None
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_1_Type Flag_Bool
+Response_2_Condition_1_ID 30006
+Response_2_Condition_1_Value True
+Response_2_Condition_1_Logic Equal
+Response_2_Rewards 1
+Response_2_Reward_0_Type Flag_Bool
+Response_2_Reward_0_ID 30006
+Response_2_Reward_0_Value False
+
+// Response 3 when quest done.
+Response_3_Dialogue 30004
+Response_3_Quest 30005
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 30005
+Response_3_Condition_0_Status Ready	
+Response_3_Condition_0_Reset
+
+// Response 4, 5 exit

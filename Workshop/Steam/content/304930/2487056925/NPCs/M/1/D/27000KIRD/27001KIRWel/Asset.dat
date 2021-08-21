@@ -1,0 +1,265 @@
+GUID ef10d485405140369c2c740ee492fca6
+Type Dialogue
+ID 27001
+
+// As leader, Issac will have you take Operations as you complete quests.
+Messages 7
+// Intro
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 27001
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 27002
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 2
+Message_0_Reward_0_Modification Assign
+
+// Operation 1
+Message_1_Pages 1
+Message_1_Conditions 2
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 27000
+Message_1_Condition_0_Value 15
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_ID 27020
+Message_1_Condition_1_Status None
+Message_1_Condition_1_Logic Equal
+Message_1_Responses 2
+Message_1_Response_0 1
+Message_1_Response_1 13
+
+// Operation 2
+Message_2_Pages 1
+Message_2_Conditions 3
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 27000
+Message_2_Condition_0_Value 40
+Message_2_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_2_Condition_1_Type Quest
+Message_2_Condition_1_ID 27021
+Message_2_Condition_1_Status None
+Message_2_Condition_1_Logic Equal
+Message_2_Condition_2_Type Quest
+Message_2_Condition_2_ID 27020
+Message_2_Condition_2_Status Completed
+Message_2_Condition_2_Logic Equal
+Message_2_Responses 2
+Message_2_Response_0 2
+Message_2_Response_1 13
+
+// Operation 3
+Message_3_Pages 1
+Message_3_Conditions 3
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 27000
+Message_3_Condition_0_Value 75
+Message_3_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_3_Condition_1_Type Quest
+Message_3_Condition_1_ID 27022
+Message_3_Condition_1_Status None
+Message_3_Condition_1_Logic Equal
+Message_3_Condition_2_Type Quest
+Message_3_Condition_2_ID 27021
+Message_3_Condition_2_Status Completed
+Message_3_Condition_2_Logic Equal
+Message_3_Responses 2
+Message_3_Response_0 3
+Message_3_Response_1 13
+
+// Randomized 1
+Message_4_Pages 1
+Message_4_Conditions 1
+Message_4_Condition_0_Type Flag_Short
+Message_4_Condition_0_ID 27002
+Message_4_Condition_0_Value 0
+Message_4_Condition_0_Logic Equal
+// Randomize Again.
+Message_4_Rewards 1
+Message_4_Reward_0_Type Flag_Short_Random
+Message_4_Reward_0_ID 27002
+Message_4_Reward_0_Min_Value 0
+Message_4_Reward_0_Max_Value 2
+Message_4_Reward_0_Modification Assign
+
+// Randomized 2
+Message_5_Pages 1
+Message_5_Conditions 1
+Message_5_Condition_0_Type Flag_Short
+Message_5_Condition_0_ID 27002
+Message_5_Condition_0_Value 1
+Message_5_Condition_0_Logic Equal
+// Randomize Again.
+Message_5_Rewards 1
+Message_5_Reward_0_Type Flag_Short_Random
+Message_5_Reward_0_ID 27002
+Message_5_Reward_0_Min_Value 0
+Message_5_Reward_0_Max_Value 2
+Message_5_Reward_0_Modification Assign
+
+// Randomized 3
+Message_6_Pages 1
+Message_6_Conditions 1
+Message_6_Condition_0_Type Flag_Short
+Message_6_Condition_0_ID 27002
+Message_6_Condition_0_Value 2
+Message_6_Condition_0_Logic Equal
+// Randomize Again.
+Message_6_Rewards 1
+Message_6_Reward_0_Type Flag_Short_Random
+Message_6_Reward_0_ID 27002
+Message_6_Reward_0_Min_Value 0
+Message_6_Reward_0_Max_Value 2
+Message_6_Reward_0_Modification Assign
+
+Responses 14
+
+Response_0_Dialogue 27002
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Rewards 2
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 27001
+Response_0_Reward_0_Value True
+Response_0_Reward_1_Type Flag_Short_Random
+Response_0_Reward_1_ID 27051
+Response_0_Reward_1_Min_Value 0
+Response_0_Reward_1_Max_Value 2
+Response_0_Reward_1_Modification Assign
+
+// Operation 1
+Response_1_Dialogue 27003
+Response_1_Quest 27020
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 27020
+Response_1_Condition_0_Status None
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 27020
+Response_1_Messages 1
+Response_1_Message_0 1
+
+// Operation 2
+Response_2_Dialogue 27005
+Response_2_Quest 27021
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 27021
+Response_2_Condition_0_Status None
+Response_2_Rewards 1
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 27021
+Response_2_Messages 1
+Response_2_Message_0 2
+
+// Operation 3
+Response_3_Dialogue 27007
+Response_3_Quest 27022
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 27022
+Response_3_Condition_0_Status None
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 27022
+Response_3_Messages 1
+Response_3_Message_0 3
+
+// Operation 1 Complete. Reward for Quest activates flag that allows for higher-level quests from other NPCs.
+Response_4_Dialogue 27004
+Response_4_Quest 27020
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_ID 27020
+Response_4_Condition_0_Status Ready	
+Response_4_Condition_0_Reset
+
+// Operation 2 Complete
+Response_5_Dialogue 27006
+Response_5_Quest 27021
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_ID 27021
+Response_5_Condition_0_Status Ready	
+Response_5_Condition_0_Reset
+
+// Operation 3 Complete
+Response_6_Dialogue 27008
+Response_6_Quest 27022
+Response_6_Conditions 1
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_ID 27022
+Response_6_Condition_0_Status Ready	
+Response_6_Condition_0_Reset
+
+// Information
+Response_7_Dialogue 27009
+
+// Explain Ops
+Response_8_Dialogue 27010
+
+// Illicit Reward
+Response_9_Dialogue 27011
+Response_9_Conditions 2
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_ID 27022
+Response_9_Condition_0_Status Completed	
+Response_9_Condition_1_Type Flag_Bool
+Response_9_Condition_1_ID 27003
+Response_9_Condition_1_Value False
+Response_9_Condition_1_Logic Equal
+
+// Borrowed tools?
+Response_10_Dialogue 27013
+Response_10_Conditions 2
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_ID 27210
+Response_10_Condition_0_Status Active
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_1_Type Flag_Bool
+Response_10_Condition_1_ID 27014
+Response_10_Condition_1_Value False
+Response_10_Condition_1_Logic Equal
+Response_10_Condition_1_Allow_Unset
+Response_10_Rewards 1
+Response_10_Reward_0_Type Flag_Bool
+Response_10_Reward_0_ID 27014
+Response_10_Reward_0_Value True
+
+// Coalition?
+Response_11_Dialogue 27015
+Response_11_Conditions 2
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_ID 26512
+Response_11_Condition_0_Status Active
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_1_Type Flag_Bool
+Response_11_Condition_1_ID 26513
+Response_11_Condition_1_Value False
+Response_11_Condition_1_Logic Equal
+Response_11_Condition_1_Allow_Unset
+Response_11_Rewards 1
+Response_11_Reward_0_Type Flag_Bool
+Response_11_Reward_0_ID 26513
+Response_11_Reward_0_Value True
+
+// If you're copying things, at least credit NSTM.
+Response_13_Messages 3
+Response_13_Message_0 1
+Response_13_Message_1 2
+Response_13_Message_2 3

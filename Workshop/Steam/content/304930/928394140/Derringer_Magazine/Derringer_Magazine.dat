@@ -1,0 +1,25 @@
+GUID 763945ac391948969a53d75388cf5183
+Type Magazine
+Rarity Uncommon
+ID 51111
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 2
+Count_Min 2
+Count_Max 2
+
+Calibers 1
+Caliber_0 51110
+
+Tracer 48
+
+Delete_Empty
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51111
+Blueprint_0_Build 30

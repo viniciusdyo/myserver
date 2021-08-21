@@ -1,0 +1,28 @@
+GUID aa266c814b244cdf920db36355351608
+Type Vendor
+ID 28755
+
+Buying 2
+// Items to be bought. Cost = EXP
+// Eggs
+Buying_0_ID 5217 
+Buying_0_Cost 15
+// Dough
+Buying_1_ID 5253  
+Buying_1_Cost 15
+
+Selling 4
+// Cooked Fish
+Selling_0_ID 5248 
+Selling_0_Cost 30
+// Wheat
+Selling_1_ID 5215
+Selling_1_Cost 20
+// Cake
+Selling_2_ID 5252
+Selling_2_Cost 80
+// Milk Box
+Selling_3_ID 5237 
+Selling_3_Cost 40
+
+Currency b76b37b2d40c4054b850458e135408c6

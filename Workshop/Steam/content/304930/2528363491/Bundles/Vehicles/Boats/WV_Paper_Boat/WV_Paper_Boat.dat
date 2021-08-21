@@ -1,0 +1,35 @@
+GUID 5fa391b8d4854c1dad165659c063406e
+Type Vehicle
+Rarity Epic
+ID 46553
+
+Speed_Min -6
+Speed_Max 18
+
+Steer_Min 32
+Steer_Max 16
+
+Fuel_Min 5000
+Fuel_Max 5000
+Fuel 5000
+
+Health_Min 10
+Health_Max 10
+Health 20
+
+Explosion_Min_Force_X -16
+Explosion_Min_Force_Y 128
+Explosion_Min_Force_Z -16
+Explosion_Max_Force_X 16
+Explosion_Max_Force_Y 128
+Explosion_Max_Force_Z 16
+
+Exit 3
+
+Tires_Invulnerable
+
+Stamina_Boost 0.6
+Stamina_Powered
+
+Trunk_Storage_X 0
+Trunk_Storage_Y 0

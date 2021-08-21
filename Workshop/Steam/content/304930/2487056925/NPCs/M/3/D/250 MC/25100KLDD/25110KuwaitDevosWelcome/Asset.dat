@@ -1,0 +1,43 @@
+GUID da0298a112e24e2fac000fd707e4e3e1
+Type Dialogue
+ID 25110
+
+Messages 2
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 25112
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 1
+Message_0_Response_0 0
+
+Message_1_Pages 1
+
+Responses 6
+
+Response_0_Dialogue 25111
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 25112
+Response_0_Reward_0_Value True
+Response_0_Messages 1
+Response_0_Message_0 0
+
+Response_1_Dialogue 25113
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 25040
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Not_Equal
+
+Response_2_Dialogue 25115
+
+Response_3_Dialogue 25116
+Response_3_Rewards 1
+Response_3_Reward_0_Type Flag_Bool
+Response_3_Reward_0_ID 25118
+Response_3_Reward_0_Value True
+
+Response_4_Dialogue 25117

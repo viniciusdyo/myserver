@@ -1,0 +1,32 @@
+GUID 1e6089d4732e4689b87c15c73646c468
+Type Vehicle
+Rarity Rare
+ID 709
+
+Speed_Min -6
+Speed_Max 15
+
+Steer_Min 18
+Steer_Max 36
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2000
+
+Health_Min 450
+Health_Max 550
+Health 650
+
+Exit 4
+
+Cam_Follow_Distance 10.5
+
+Traction
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Explosion 20
+Tires_Invulnerable

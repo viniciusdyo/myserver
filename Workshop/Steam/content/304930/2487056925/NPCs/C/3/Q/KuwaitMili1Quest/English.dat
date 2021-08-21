@@ -1,0 +1,5 @@
+Name <color=#b8b188>Concord: </color>Defensive Measures
+Description A good offense is the best defense. Get Julius some weapons so that he can help defend against what may come his way.
+
+Condition_0 Find Catalyst {0}/1
+Condition_1 Find Full Catalyst Magazines {0}/2

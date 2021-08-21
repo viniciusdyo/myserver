@@ -1,0 +1,15 @@
+GUID ac5b8c196f7e44f284b3d7075979094b
+Type Dialogue
+ID 27002
+
+Messages 1
+
+Message_0_Pages 3
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 27051
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 2
+Message_0_Reward_0_Modification Assign
+
+// If you're copying things, at least credit NSTM.

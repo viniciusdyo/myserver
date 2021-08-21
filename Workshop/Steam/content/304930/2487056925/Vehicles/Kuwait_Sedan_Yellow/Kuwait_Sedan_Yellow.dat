@@ -1,0 +1,36 @@
+GUID 42065da4ee124e42a1e7aff16340ea12
+Type Vehicle
+Rarity Common
+ID 5030
+
+Speed_Min -6
+Speed_Max 16.5
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1500
+
+Health_Min 350
+Health_Max 450
+Health 600
+
+Can_Be_Locked False
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Physics_Profile 0be1cede92404d57999e4a848fc8f996
+
+Valid_Speed_Horizontal 150
+
+ShouldExplosionCauseDamage True
+ShouldExplosionBurnMaterials True
+
+Asset_Bundle_Version 3

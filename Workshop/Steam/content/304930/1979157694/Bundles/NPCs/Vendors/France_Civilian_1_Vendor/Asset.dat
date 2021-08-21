@@ -1,0 +1,10 @@
+GUID 9b11b14f928c4688b575ed2f99d759f4
+Type Vendor
+ID 4181
+
+Buying 0
+
+Selling 1
+// Crossbow Bolt
+Selling_0_ID 3101
+Selling_0_Cost 15

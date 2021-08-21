@@ -1,0 +1,85 @@
+GUID d054301263164802aa3c6e344802c443
+Type Dialogue
+ID 29351
+
+Messages 1
+ 
+Message_0_Pages 1
+
+Responses 8
+
+Response_0_Dialogue 29352
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Short_Random
+Response_0_Reward_0_ID 29375
+Response_0_Reward_0_Min_Value 0
+Response_0_Reward_0_Max_Value 4
+Response_0_Reward_0_Modification Assign
+
+Response_1_Dialogue 29353
+Response_1_Quest 29355
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 29355
+Response_1_Condition_0_Status None
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 29355
+
+Response_2_Dialogue 29353
+Response_2_Quest 29356
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 29355
+Response_2_Condition_0_Status Completed
+Response_2_Condition_1_Type Quest
+Response_2_Condition_1_Logic Equal
+Response_2_Condition_1_ID 29356
+Response_2_Condition_1_Status None
+Response_2_Rewards 1
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 29356
+
+Response_3_Dialogue 29353
+Response_3_Quest 29357
+Response_3_Conditions 2
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 29356
+Response_3_Condition_0_Status Completed
+Response_3_Condition_1_Type Quest
+Response_3_Condition_1_Logic Equal
+Response_3_Condition_1_ID 29357
+Response_3_Condition_1_Status None
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 29357
+
+Response_4_Dialogue 29354
+Response_4_Quest 29355
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_ID 29355
+Response_4_Condition_0_Status Ready
+Response_4_Condition_0_Reset
+
+Response_5_Dialogue 29354
+Response_5_Quest 29356
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_ID 29356
+Response_5_Condition_0_Status Ready
+Response_5_Condition_0_Reset
+
+Response_6_Dialogue 29354
+Response_6_Quest 29357
+Response_6_Conditions 1
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_ID 29357
+Response_6_Condition_0_Status Ready
+Response_6_Condition_0_Reset

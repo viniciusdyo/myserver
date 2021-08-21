@@ -1,0 +1,33 @@
+Message_0_Page_0 Sorry bud, no tunnels open yet! I'll need some more tools and such to do so.
+Message_1_Page_0 Hm, looks like you don't exactly have the fare to go anywhere. Come back when you do, y'hear?
+Message_2_Page_0 Sure thing bud! Where you want to go?
+
+// Southern End
+Response_0 Southern End (10 EXP)
+Response_1 Southern End (10 EXP)
+Response_2 Southern End (10 EXP)
+Response_3 Southern End (10 EXP)
+Response_4 Southern End (10 EXP)
+
+// Central End
+Response_5 Central End (25 EXP)
+Response_6 Central End (25 EXP)
+Response_7 Central End (25 EXP)
+Response_8 Central End (25 EXP)
+Response_9 Central End (25 EXP)
+
+// Northern End
+Response_10 Northern End (50 EXP)
+Response_11 Northern End (50 EXP)
+Response_12 Northern End (50 EXP)
+Response_13 Northern End (50 EXP)
+Response_14 Northern End (50 EXP)
+
+// No tunnels unlocked
+Response_15 I'll get you some tools, then.
+
+// Not enough EXP
+Response_16 I'll come back with EXP, then.
+
+// Never mind.
+Response_17 Actually, nevermind.

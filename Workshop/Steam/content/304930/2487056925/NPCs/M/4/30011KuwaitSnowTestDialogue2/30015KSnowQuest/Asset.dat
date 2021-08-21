@@ -1,0 +1,23 @@
+GUID 8d16b53f48434fc393e9a80c08fa35ce
+Type Quest
+ID 30015
+
+Conditions 2
+Condition_0_Type Currency
+Condition_0_Value 25
+Condition_0_GUID 5150ca8f765d4a68bfe54912146da410
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_0_Reset
+Condition_1_Type Time_Of_Day
+Condition_1_Second 54000
+Condition_1_Logic Greater_Than_Or_Equal_To
+
+Rewards 2
+Reward_0_Type Item
+Reward_0_ID 18
+Reward_0_Amount 1
+Reward_1_Type Flag_Bool
+Reward_1_ID 30016
+Reward_1_Value False
+
+// If you're copying things, at least credit NSTM.

@@ -1,0 +1,106 @@
+GUID e6ca0ea1f3154a8a9e883cdb945cee03
+Type Gun
+Rarity Uncommon
+Useable Gun
+Slot Secondary
+ID 5026
+
+Size_X 3
+Size_Y 2
+Size_Z 0.4
+
+Barrel 1338
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+
+Semi
+Auto
+
+Caliber 30
+
+Range 150
+Firerate 9
+Unplace 0.15
+Replace 0.725
+Action Trigger
+Delete_Empty_Magazines
+
+Player_Damage 5
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 10
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 10
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 2
+Structure_Damage 2
+Vehicle_Damage 2
+Resource_Damage 2
+Object_Damage 3
+
+Durability 0.2
+
+Spread_Aim 0.2
+Spread_Hip 0.075
+
+Ballistic_Steps 50
+Ballistic_Travel 3
+Ballistic_Drop 0.004
+
+Recoil_Min_X -0.2
+Recoil_Min_Y 2
+Recoil_Max_X 0.2
+Recoil_Max_Y 4	
+
+Recover_X 0.7
+Recover_Y 0.7
+
+Shake_Min_X -0.02
+Shake_Min_Y 0.02
+Shake_Min_Z -0.1
+Shake_Max_X 0.02
+Shake_Max_Y -0.02
+Shake_Max_Z -0.15
+
+Blueprints 3
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Item
+Blueprint_0_Condition_0_ID 5112
+Blueprint_0_Condition_0_Amount 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5026
+Blueprint_1_Product 67
+Blueprint_1_Products 1
+Blueprint_1_Build 27
+Blueprint_2_Type Repair
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 67
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Tool 5112
+Blueprint_2_Tool_Critical
+Blueprint_2_Build 27
+
+Shared_Skin_Lookup_ID 1337
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Guns/Paintballgun

@@ -1,0 +1,20 @@
+GUID 76c185f2d10941b2b67bd95f70141cc2
+Type Supply
+ID 10359
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 10358
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10359
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 10358
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27

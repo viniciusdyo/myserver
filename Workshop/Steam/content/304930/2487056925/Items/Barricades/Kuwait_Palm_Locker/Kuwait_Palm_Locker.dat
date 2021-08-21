@@ -1,0 +1,47 @@
+GUID 19ec35ce438a4184941d45030dc6b78f
+Type Storage
+Useable Barricade
+Build Storage
+ID 5476
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 250
+Range 4
+Radius 0.5
+Offset 0.75
+
+Storage_X 6
+Storage_Y 6
+
+Explosion 28
+
+Vulnerable
+Locked
+Should_Close_When_Outside_Range true
+
+Blueprints 2
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5501
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Supply_1_ID 67
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Furniture
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 5501
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 67
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 5402
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Supply_Critical
+Blueprint_1_Products 1
+Blueprint_1_Product_0_ID 5476
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+

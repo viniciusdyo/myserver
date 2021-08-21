@@ -1,0 +1,19 @@
+GUID 2e0ea00bf9424304bd8e15b8db44dc3a
+Type Spawn
+ID 2099
+
+Tables 7
+Table_0_Spawn_ID 2090
+Table_0_Weight 900
+Table_1_Spawn_ID 2100
+Table_1_Weight 35
+Table_2_Spawn_ID 2104
+Table_2_Weight 30
+Table_3_Spawn_ID 2101
+Table_3_Weight 30
+Table_4_Spawn_ID 2102
+Table_4_Weight 15
+Table_5_Spawn_ID 659
+Table_5_Weight 10
+Table_6_Spawn_ID 2103
+Table_6_Weight 10

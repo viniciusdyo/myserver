@@ -1,0 +1,26 @@
+GUID edcc3888c1d54f9fb897eede04a896df
+Type NPC
+ID 29690
+
+Hat 971 
+Glasses 680
+Mask 570
+Shirt 664
+Pants 538
+
+Face 12
+Hair 9
+Beard 5
+Color_Skin #94764B
+Color_Hair #473928
+
+Primary 5022
+Equipped Primary
+
+Dialogue 29691
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 29321
+Condition_0_Value True
+Condition_0_Logic Equal

@@ -1,0 +1,29 @@
+GUID d2f7ef4aabfc43b1bb688b71c630da4c
+Type Vehicle
+Rarity Epic
+ID 46558
+
+Speed_Min -6
+Speed_Max 22
+
+Steer_Min 32
+Steer_Max 16
+
+Fuel_Min 250
+Fuel_Max 500
+Fuel 2500
+
+Health_Min 500
+Health_Max 600
+Health 950
+
+Exit 3
+
+Tires_Invulnerable
+
+Engine Boat
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Explosion 20

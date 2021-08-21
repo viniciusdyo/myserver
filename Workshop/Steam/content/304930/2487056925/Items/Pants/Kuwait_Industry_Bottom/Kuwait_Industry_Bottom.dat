@@ -1,0 +1,26 @@
+GUID 1fff2e367ff84b428f6126d91aa3a7de
+Type Pants
+Rarity Uncommon
+Useable Clothing
+ID 5332
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 2
+
+Armor 0.9
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 5332
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32

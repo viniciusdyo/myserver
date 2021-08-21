@@ -1,0 +1,17 @@
+GUID 83b0f24982ca4339affc760c547f584b
+Type Medical
+Useable Consumeable
+ID 5527
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Aid
+Health 5
+Disinfectant 20
+
+ConsumeAudioClip Sounds/DrinkSwallow.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Syrup_Cough

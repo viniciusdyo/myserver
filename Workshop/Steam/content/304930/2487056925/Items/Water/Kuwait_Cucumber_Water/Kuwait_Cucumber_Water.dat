@@ -1,0 +1,28 @@
+GUID d0c334a5857b4fa78fff57e719f95238
+Type Water
+Rarity Rare
+Useable Consumeable
+ID 5207
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Food 15
+Water 75
+Disinfectant 5
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5236
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5201
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 5270
+Quest_Reward_0_Amount 1
+

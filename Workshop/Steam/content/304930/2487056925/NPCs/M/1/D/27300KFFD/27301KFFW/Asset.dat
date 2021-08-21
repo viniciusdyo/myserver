@@ -1,0 +1,58 @@
+GUID ee481c1533e148f0985f2d6c29e1c47d
+Type Dialogue
+ID 27301
+
+// Flora sells food.
+Messages 2
+// Talk to Issac - Intro
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 27001
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 1
+Message_0_Response_0 0
+
+Message_1_Pages 1
+Message_1_Responses 4
+Message_1_Response_0 1
+Message_1_Response_1 2
+Message_1_Response_2 3
+Message_1_Response_3 4
+
+Responses 5
+
+// Talk to Issac/Operations
+Response_0_Messages 1
+Response_0_Message_0 1
+
+// Who are ye?
+Response_1_Dialogue 27302
+
+// Food Time
+Response_2_Dialogue 27304
+Response_2_Vendor 27303
+
+// Borrowed Tools?
+Response_3_Dialogue 27305
+Response_3_Conditions 2
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 27210
+Response_3_Condition_0_Status Active
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_1_Type Flag_Bool
+Response_3_Condition_1_ID 27306
+Response_3_Condition_1_Value False
+Response_3_Condition_1_Logic Equal
+Response_3_Condition_1_Allow_Unset
+Response_3_Rewards 2
+Response_3_Reward_0_Type Flag_Bool
+Response_3_Reward_0_ID 27306
+Response_3_Reward_0_Value True
+Response_3_Reward_1_Type Flag_Bool
+Response_3_Reward_1_ID 27221
+Response_3_Reward_1_Value True
+
+// If you're copying things, at least credit NSTM.

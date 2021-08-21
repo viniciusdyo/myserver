@@ -1,0 +1,15 @@
+GUID ce7f030d26bd4a0d922683dac85dd1eb
+Type NPC
+ID 4012
+
+Shirt 179
+Pants 548
+
+Face 1
+Hair 16
+Color_Skin #DEBC99
+Color_Hair #533D32
+
+Pose Sit
+
+Dialogue 4183

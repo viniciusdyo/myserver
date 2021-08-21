@@ -1,0 +1,83 @@
+GUID ebf3bfe38ed54afda13b28484ebbc5eb
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 5180
+
+Size_X 5
+Size_Y 2
+Size_Z 0.375
+Size2_Z 0.7
+
+Sight 5020
+Barrel 5125
+Magazine 5121
+
+Ammo_Min 7
+Ammo_Max 7
+
+Safety
+Semi
+Auto
+
+Magazine_Calibers 1
+Magazine_Caliber_0 36
+
+Attachment_Calibers 1
+Attachment_Caliber_0 1
+
+Range 1000
+Firerate 5
+Replace 0.75
+Action Trigger
+
+// Ballistic_Steps 20
+// Ballistic_Travel 15
+
+Ballistic_Steps 50
+Ballistic_Travel 20
+
+Player_Damage 1000
+Player_Leg_Multiplier 1
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1
+Instakill_Headshots True
+
+Zombie_Damage 1000
+Zombie_Leg_Multiplier 1
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 1
+
+Animal_Damage 1000
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 1000
+Structure_Damage 1000
+Vehicle_Damage 1000
+Resource_Damage 1000
+Object_Damage 1000
+
+Invulnerable
+
+Durability 0
+
+Spread_Aim 0.001
+Spread_Hip 0.25
+
+Infinite_Ammo True
+Allow_Magazine_Change False
+
+Muzzle 4
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5180
+Blueprint_0_Product 5206
+Blueprint_0_Products 1
+Blueprint_0_Build 27

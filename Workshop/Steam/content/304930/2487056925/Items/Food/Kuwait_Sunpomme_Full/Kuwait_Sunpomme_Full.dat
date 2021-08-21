@@ -1,0 +1,25 @@
+GUID 5b8fc1f5ad8c4a6ba196ee2823340d4e
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 5271
+
+Size_X 1
+Size_Y 1
+Size_Z 0.325
+
+Food 15
+Water 16
+Health 10
+Disinfectant 10
+
+Quality_Min 100
+
+Bleeding
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 5274
+Quest_Reward_0_Amount 1
+
+Use_Auto_Icon_Measurements False

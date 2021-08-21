@@ -1,0 +1,25 @@
+GUID beed9de1e1e34d12afeeb505bf67aa3d
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 5279
+
+Size_X 2
+Size_Y 1
+Size_Z 0.45
+
+Food 5
+Virus 50
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5279
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 5247
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 5224
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

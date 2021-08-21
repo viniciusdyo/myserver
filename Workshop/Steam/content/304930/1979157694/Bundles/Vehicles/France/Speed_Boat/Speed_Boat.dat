@@ -1,0 +1,27 @@
+GUID 6dd77f129846408d9fdf800247d8623d
+Type Vehicle
+Rarity Rare
+ID 712
+
+Speed_Min -6
+Speed_Max 18
+
+Steer_Min 42
+Steer_Max 26
+
+Fuel_Min 250
+Fuel_Max 500
+Fuel 1500
+
+Health_Min 200
+Health_Max 400
+Health 600
+
+Exit 3
+
+Engine Boat
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 3
+
+Explosion 20

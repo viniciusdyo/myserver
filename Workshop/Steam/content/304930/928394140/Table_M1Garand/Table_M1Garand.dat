@@ -1,0 +1,14 @@
+GUID c602ce79ba1143609ca63b7d8f6b6d82
+Type Spawn
+ID 51515
+Roots 2
+Root_0_Spawn_ID 216
+Root_0_Weight 20
+Root_1_Spawn_ID 2016
+Root_1_Weight 1
+
+Tables 2
+Table_0_Asset_ID 51515
+Table_0_Weight 10
+Table_1_Asset_ID 51516
+Table_1_Weight 20

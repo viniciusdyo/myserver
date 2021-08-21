@@ -1,0 +1,114 @@
+GUID 0cd00a7f66d74feb9cb44697a6bc7820
+Type Melee
+Rarity Epic
+Useable Melee
+Slot Any
+ID 5112
+
+Size_X 1
+Size_Y 2
+Size_Z 0.7
+
+Range 3
+Firerate 6
+Alert_Radius 8
+
+Player_Damage 7
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 7
+Zombie_Leg_Multiplier 0.2
+Zombie_Arm_Multiplier 0.2
+Zombie_Spine_Multiplier 0.5
+Zombie_Skull_Multiplier 1.0
+
+Animal_Damage 7
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 25
+Structure_Damage 25
+Vehicle_Damage 25
+Resource_Damage 10
+Object_Damage 10
+
+Durability 0.15
+
+Blueprints 7
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5548
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 76
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 67
+Blueprint_0_Supply_2_Amount 3
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Supply_1_ID 5548
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 5112
+Blueprint_2_Product 67
+Blueprint_2_Products 1
+Blueprint_2_Build 27
+Blueprint_2_Map Kuwait
+
+// Added blueprints to allow replacing blowtorch.
+Blueprint_3_Type Gear
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 67
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Products 2
+Blueprint_3_Product 285
+Blueprint_3_Tool 5112
+Blueprint_3_Tool_Critical
+Blueprint_3_Build 27
+Blueprint_3_Map Kuwait
+
+Blueprint_4_Type Gear
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 285
+Blueprint_4_Supply_0_Amount 2
+Blueprint_4_Products 1
+Blueprint_4_Product 67
+Blueprint_4_Tool 5112
+Blueprint_4_Tool_Critical
+Blueprint_4_Build 27
+Blueprint_4_Map Kuwait
+
+Blueprint_5_Type Gear
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 285
+Blueprint_5_Supply_0_Amount 3
+Blueprint_5_Products 1
+Blueprint_5_Product 65
+Blueprint_5_Tool 5112
+Blueprint_5_Tool_Critical
+Blueprint_5_Build 27
+Blueprint_5_Map Kuwait
+
+Blueprint_6_Type Gear
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 65
+Blueprint_6_Supply_0_Amount 1
+Blueprint_6_Products 3
+Blueprint_6_Product 285
+Blueprint_6_Tool 5112
+Blueprint_6_Tool_Critical
+Blueprint_6_Build 27
+Blueprint_6_Map Kuwait
+
+Repair
+Repeated

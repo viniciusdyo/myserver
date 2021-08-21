@@ -1,0 +1,20 @@
+GUID 8cc9f8804bba4abfbccb1f66111d5aee
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 5114
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5114
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+
+Asset_Bundle_Version 3

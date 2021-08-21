@@ -1,0 +1,29 @@
+GUID 75143deeb3fc4a0e837361702621f3e3
+Type NPC
+ID 29710
+
+Hat 723
+Shirt 724
+Pants 214
+
+Face 16
+Hair 14
+Beard 11
+Color_Skin #9D886B
+Color_Hair #191919
+
+Dialogue 29711
+
+Pose Asleep
+
+Conditions 2
+Condition_0_Type Flag_Short
+Condition_0_ID 29706
+Condition_0_Value 3
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 29800
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+

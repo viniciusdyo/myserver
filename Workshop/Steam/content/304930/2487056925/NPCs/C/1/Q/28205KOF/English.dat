@@ -1,0 +1,12 @@
+Name <color=#b8b188>Concord: </color>Master Farmer
+Description Oney and Rosa are trying to grow crops for the survivors. However, he is short on plants. Get him some seeds in order to grow more.
+
+Condition_0 Find {0}/{1} {2}
+Condition_1 Find {0}/{1} {2}
+Condition_2 Find {0}/{1} {2}
+Condition_3 Find {0}/{1} {2}
+Condition_4 Find {0}/{1} {2}
+Condition_5 Find {0}/{1} {2}
+
+Reward_0 50 Experience
+Reward_1 5 Reputation

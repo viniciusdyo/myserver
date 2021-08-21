@@ -1,0 +1,16 @@
+Message_0_Page_0 Who're you? What do you want?
+Message_1_Page_0 I saved a few people. Go talk to them and see if they need anything.
+Message_2_Page_0 I saved some more people. Make sure they're okay.
+Message_3_Page_0 I saved... someone. Scraggly beard and hair. Check if he's okay, he doesn't seem exactly right in the head.
+Message_4_Page_0 What?
+Message_5_Page_0 What is it?
+Message_6_Page_0 What do you need?
+
+// Intro
+Response_0 I'm <name_char>.
+// Need any help?
+Response_1 Do you need any help?
+// Standard Nothing
+Response_2 Nothing...
+// Help
+Response_3 Got it.

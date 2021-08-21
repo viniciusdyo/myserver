@@ -1,0 +1,24 @@
+GUID 5c06825c9c2a42209124065fe4653b71
+Type Dialogue
+ID 25660
+
+Messages 1
+Message_0_Pages 1
+
+Responses 4
+
+// Uniforms
+Response_0_Dialogue 25661
+Response_0_Vendor 25680
+
+// Uniforms
+Response_1_Dialogue 25661
+Response_1_Vendor 25681
+
+// Response 1 when the questioning begins.
+Response_2_Dialogue 25662
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 25040
+Response_2_Condition_0_Status None
+Response_2_Condition_0_Logic Not_Equal

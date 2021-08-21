@@ -1,0 +1,25 @@
+GUID ec07f588537348f399729438b102d1fb
+Type Grip
+Rarity Epic
+ID 5063
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Recoil_X 0.80
+Recoil_Y 0.85
+
+Spread 0.85
+Sway 0.75
+Shake 0.8
+
+Bipod
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5063
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27

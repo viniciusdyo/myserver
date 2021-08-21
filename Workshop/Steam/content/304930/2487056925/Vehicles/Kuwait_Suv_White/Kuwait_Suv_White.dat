@@ -1,0 +1,38 @@
+GUID aca88da4a9db4079bcef2666bcaaf063
+Type Vehicle
+Rarity Uncommon
+ID 5019
+
+Speed_Min -5
+Speed_Max 12
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1250
+
+Health_Min 300
+Health_Max 400
+Health 500
+
+Can_Be_Locked False
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 4
+
+Explosion 20
+
+Physics_Profile 0be1cede92404d57999e4a848fc8f996
+
+Valid_Speed_Horizontal 150
+
+Traction
+
+ShouldExplosionCauseDamage True
+ShouldExplosionBurnMaterials True
+
+Asset_Bundle_Version 3

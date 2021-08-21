@@ -1,0 +1,92 @@
+GUID 831e03ffacec455d95cccaf92aa2a91b
+Type Dialogue
+ID 27521
+
+// Eric.
+
+Messages 4
+// Randomized 1
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 2
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 27529
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_0_Condition_0_Allow_Unset
+Message_0_Condition_1_Type Flag_Short
+Message_0_Condition_1_ID 27529
+Message_0_Condition_1_Value 33
+Message_0_Condition_1_Logic Less_Than
+Message_0_Condition_1_Allow_Unset
+// Randomize Again.
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 27529
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 99
+Message_0_Reward_0_Modification Assign
+
+// Randomized 2
+Message_1_Pages 1
+Message_1_Responses 1
+Message_1_Response_0 0
+Message_1_Conditions 2
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 27529
+Message_1_Condition_0_Value 33
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Flag_Short
+Message_1_Condition_1_ID 27529
+Message_1_Condition_1_Value 66
+Message_1_Condition_1_Logic Less_Than
+// Randomize Again.
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short_Random
+Message_1_Reward_0_ID 27529
+Message_1_Reward_0_Min_Value 0
+Message_1_Reward_0_Max_Value 99
+Message_1_Reward_0_Modification Assign
+
+// Randomized 3
+Message_2_Pages 1
+Message_2_Responses 1
+Message_2_Response_0 0
+Message_2_Conditions 2
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 27529
+Message_2_Condition_0_Value 66
+Message_2_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_2_Condition_1_Type Flag_Short
+Message_2_Condition_1_ID 27529
+Message_2_Condition_1_Value 99
+Message_2_Condition_1_Logic Less_Than
+// Randomize Again.
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short_Random
+Message_2_Reward_0_ID 27529
+Message_2_Reward_0_Min_Value 0
+Message_2_Reward_0_Max_Value 99
+Message_2_Reward_0_Modification Assign
+
+// Randomized 4
+Message_3_Pages 1
+Message_3_Responses 1
+Message_3_Response_0 1
+Message_3_Conditions 1
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 27529
+Message_3_Condition_0_Value 99
+Message_3_Condition_0_Logic Equal
+// Randomize Again.
+Message_3_Rewards 1
+Message_3_Reward_0_Type Flag_Short_Random
+Message_3_Reward_0_ID 27529
+Message_3_Reward_0_Min_Value 0
+Message_3_Reward_0_Max_Value 99
+Message_3_Reward_0_Modification Assign
+
+Responses 2
+
+// If you're copying things, at least credit NSTM.

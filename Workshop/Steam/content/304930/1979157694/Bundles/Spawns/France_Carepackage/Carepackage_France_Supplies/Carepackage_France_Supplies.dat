@@ -1,0 +1,42 @@
+GUID f7421dff4d3e4eb58b93c2eaa898a0c6
+Type Spawn
+ID 2165
+
+Tables 17
+//Food and Water
+Table_0_Asset_ID 14
+Table_0_Weight 100
+Table_1_Asset_ID 13
+Table_1_Weight 10
+Table_2_Asset_ID 77
+Table_2_Weight 10
+Table_3_Asset_ID 78
+Table_3_Weight 10
+Table_4_Asset_ID 79
+Table_4_Weight 10
+Table_5_Asset_ID 80
+Table_5_Weight 10
+Table_6_Asset_ID 87
+Table_6_Weight 10
+Table_7_Asset_ID 88
+Table_7_Weight 10
+Table_8_Asset_ID 89
+Table_8_Weight 10
+Table_9_Asset_ID 90
+Table_9_Weight 10
+Table_10_Asset_ID 469
+Table_10_Weight 10
+Table_11_Asset_ID 81
+Table_11_Weight 40
+
+//Medical Supplies
+Table_12_Asset_ID 390
+Table_12_Weight 40
+Table_13_Asset_ID 392
+Table_13_Weight 20
+Table_14_Asset_ID 395
+Table_14_Weight 20
+Table_15_Asset_ID 15
+Table_15_Weight 10
+Table_16_Asset_ID 269
+Table_16_Weight 10

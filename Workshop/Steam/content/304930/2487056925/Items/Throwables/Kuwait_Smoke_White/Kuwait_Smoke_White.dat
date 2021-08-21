@@ -1,0 +1,20 @@
+GUID 772b283aa9494253bc9dca8f36628ebe
+Type Throwable
+Rarity Uncommon
+Useable Throwable
+ID 5117
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5117
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+
+Asset_Bundle_Version 3

@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=#d7ebff>Gift</color>
+Description <color=legendary>General Issac</color> wants you to give a gift to <color=legendary>Snow</color>. Don't tell her it's from him.
+
+Condition_0 Give gift {0}/1

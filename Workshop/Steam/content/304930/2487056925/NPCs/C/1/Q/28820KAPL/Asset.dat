@@ -1,0 +1,21 @@
+GUID 382150b593964bcf8140659e1be9436a
+Type Quest
+ID 28820
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 28822
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 28821
+Condition_1_Value True
+Condition_1_Logic Equal
+
+Rewards 2
+Reward_0_Type Experience
+Reward_0_Value 75
+Reward_1_Type Reputation
+Reward_1_Value 5
+
+// If you're copying things, at least credit NSTM.

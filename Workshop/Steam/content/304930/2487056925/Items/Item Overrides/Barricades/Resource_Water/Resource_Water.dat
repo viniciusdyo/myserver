@@ -1,0 +1,52 @@
+GUID 89aaccd521774ca3b1c7479afbce9bd1
+Type Tank
+Rarity Epic
+Useable Barricade
+Build Tank
+ID 5792
+
+Size_X 3
+Size_Y 3
+Size_Z 0.4
+
+Health 500
+Range 4
+Radius 0.75
+Offset 1
+
+Source Water
+Resource 5
+
+Explosion 36
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Supply_1_ID 5538
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 5537
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 7
+Blueprint_1_Supply_1_ID 5538
+Blueprint_1_Supply_1_Amount 3
+Blueprint_1_Supply_2_ID 5537
+Blueprint_1_Supply_2_Amount 2
+Blueprint_1_Tool 5112
+Blueprint_1_Tool_Critical
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Resource_Water

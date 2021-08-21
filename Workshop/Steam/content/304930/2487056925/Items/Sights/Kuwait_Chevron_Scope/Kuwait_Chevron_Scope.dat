@@ -1,0 +1,21 @@
+GUID b703fd96fe8042fc9e0133ffdf98b074
+Type Sight
+Rarity Uncommon
+ID 5068
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Spread 0.8
+Zoom 4
+
+Paintable
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5068
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27

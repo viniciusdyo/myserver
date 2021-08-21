@@ -1,0 +1,24 @@
+GUID 5d6486feacf549d3a1a281521ebb8e7d
+Type Spawn
+ID 51102
+Roots 7
+Root_0_Spawn_ID 94
+Root_0_Weight 60
+Root_1_Spawn_ID 549
+Root_1_Weight 38
+Root_2_Spawn_ID 547
+Root_2_Weight 38
+Root_3_Spawn_ID 686
+Root_3_Weight 38
+Root_4_Spawn_ID 687
+Root_4_Weight 38
+Root_5_Spawn_ID 2078
+Root_5_Weight 2
+Root_6_Spawn_ID 2073
+Root_6_Weight 2
+
+Tables 2
+Table_0_Asset_ID 51102
+Table_0_Weight 10
+Table_1_Asset_ID 51103
+Table_1_Weight 10

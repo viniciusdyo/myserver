@@ -1,0 +1,26 @@
+GUID f2e8fdaa6dc242cf8cddceafb9bbbfe2
+Type Food
+Useable Consumeable
+ID 5213
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Quality_Max 50
+
+Food 20
+Water 5
+Food_Constrains_Water
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 5265
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Potato
+
+ConsumeAudioClip Sounds/EatSquishy.mp3

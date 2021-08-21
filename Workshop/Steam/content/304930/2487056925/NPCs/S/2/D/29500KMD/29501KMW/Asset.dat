@@ -1,0 +1,31 @@
+GUID d0765ce6293542d49a83c31e5a300640
+Type Dialogue
+ID 29501
+
+Messages 1
+ 
+Message_0_Pages 1
+
+Responses 4
+
+Response_0_Dialogue 29504
+
+Response_1_Dialogue 29502
+Response_1_Quest 29505
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 29505
+Response_1_Condition_0_Status None
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 29505
+
+Response_2_Dialogue 29503
+Response_2_Quest 29505
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 29505
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Reset

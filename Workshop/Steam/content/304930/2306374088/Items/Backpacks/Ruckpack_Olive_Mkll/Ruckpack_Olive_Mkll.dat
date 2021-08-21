@@ -1,0 +1,51 @@
+GUID 24cb1f6d85ef45558f3e37e3d112368e
+
+Type Backpack
+Rarity Epic
+Useable Clothing
+ID 25260
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 10
+Height 12
+
+Blueprints 3
+
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 25260
+Blueprint_0_Product 66
+Blueprint_0_Products 15
+Blueprint_0_Build 32
+Blueprint_0_Map California
+
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 25899
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32
+Blueprint_1_Map California
+
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 4
+Blueprint_2_Supply_0_ID 4065
+Blueprint_2_Supply_0_Amount 2
+Blueprint_2_Supply_1_ID 25891
+Blueprint_2_Supply_1_Amount 4
+Blueprint_2_Supply_2_ID 70
+Blueprint_2_Supply_2_Amount 5
+Blueprint_2_Supply_3_ID 25892
+Blueprint_2_Supply_3_Amount 2
+Blueprint_2_Product 25260
+Blueprint_2_Products 1
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+Blueprint_2_Map California
+
+
+
+
+

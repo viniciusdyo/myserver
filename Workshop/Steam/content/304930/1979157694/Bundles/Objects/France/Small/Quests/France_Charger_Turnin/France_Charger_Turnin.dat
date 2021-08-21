@@ -1,0 +1,12 @@
+GUID 89de269405b84b7b9bc271c4029c8718
+Type Small
+ID 35201
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4207
+Condition_0_Value 2
+Condition_0_Logic Equal
+
+Bundle_Override_Path /Objects/France/Small/Quests/France_Charger
+Master_Bundle_Override france.masterbundle

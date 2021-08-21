@@ -1,0 +1,23 @@
+GUID b0141c1894a54c3a909ac941dcb1a286
+Type Structure
+Useable Structure
+Construct Floor_Poly
+ID 5413
+
+Size_X 2
+Size_Y 2
+Size_Z 0.325
+
+Health 400
+Range 8
+
+Explosion 28
+
+Foliage_Cut_Radius 4
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5501
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27

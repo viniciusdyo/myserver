@@ -1,0 +1,31 @@
+GUID 8833501a5de047e692d0f012ebcd8f51
+Type Quest
+ID 4023
+
+Conditions 1
+Condition_0_Type Item
+Condition_0_ID 70
+Condition_0_Amount 2
+Condition_0_Reset
+
+Rewards 5
+Reward_0_Type Experience
+Reward_0_Value 5
+Reward_1_Type Reputation
+Reward_1_Value 1
+// Scrap quests completed
+Reward_2_Type Flag_Short
+Reward_2_ID 4016
+Reward_2_Value 1
+Reward_2_Modification Increment
+// Scrap Points
+Reward_3_Type Flag_Short
+Reward_3_ID 4015
+Reward_3_Value 1
+Reward_3_Modification Increment
+// Set Random Scrap Quest
+Reward_4_Type Flag_Short_Random
+Reward_4_ID 4019
+Reward_4_Min_Value 1
+Reward_4_Max_Value 10
+Reward_4_Modification Assign

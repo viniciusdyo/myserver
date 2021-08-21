@@ -1,0 +1,15 @@
+GUID 201926f9117542d6810ca21a1f0dd665
+Type Quest
+ID 4227
+
+Conditions 1
+Condition_0_Type Item
+Condition_0_ID 466
+Condition_0_Amount 1
+Condition_0_Reset
+
+Rewards 2
+Reward_0_Type Experience
+Reward_0_Value 5
+Reward_1_Type Reputation
+Reward_1_Value 1

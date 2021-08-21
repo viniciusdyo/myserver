@@ -1,0 +1,48 @@
+GUID 86b4b6d3a31744ddb433517d9d67ddf4
+Type Vehicle
+Rarity Legendary
+ID 46565
+
+Speed_Min -16
+Speed_Max 46
+
+Steer_Min 8
+Steer_Max 24
+
+Brake 48
+Lift 5
+
+Fuel 1200
+
+Health_Min 600
+Health_Max 800
+Health 1000
+
+LockMouse
+Engine Plane
+Sleds
+Traction
+
+Cam_Follow_Distance 13
+
+Air_Turn_Responsiveness 4
+Air_Steer_Min 16
+Air_Steer_Max 32
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Pitch_Drive 0.008
+
+Turrets 1
+Turret_0_Seat_Index 0
+Turret_0_Ignore_Aim_Camera
+Turret_0_Yaw_Min 0
+Turret_0_Yaw_Max 0
+Turret_0_Pitch_Min 90
+Turret_0_Pitch_Max 90
+Turret_0_Item_ID 46564

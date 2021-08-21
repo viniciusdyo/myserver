@@ -1,0 +1,4 @@
+Name <color=#567DBC>Coalition: </color>Morale Booster
+Description <color=rare>Lieutenant Laurence</color> has noticed that the coalition has been feeling a bit down - so he wants you to raise the morale of the Coalition. <color=uncommon>Ensign Astrid</color> may know about some of the problems.
+
+Condition_0 Raise the morale of the <color=#567DBC>Coalition</color> {0}/5

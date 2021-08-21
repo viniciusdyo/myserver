@@ -1,0 +1,37 @@
+GUID feb832cb24b54b74a67d86fe69e30d4e
+Type Refill
+Rarity Rare
+Useable Refill
+ID 5261
+
+Size_X 1
+Size_Y 1
+Size_Z 0.345
+
+Quality_Min 100
+Quality_Max 100
+
+Water 55
+
+Dirty_Virus -2
+Dirty_Water 40
+
+Salty_Virus -7
+Salty_Water 20
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5507
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 67
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Map Kuwait
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supply_0_ID 5528
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait

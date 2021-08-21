@@ -1,0 +1,72 @@
+GUID b29cff69098a48eba67b2f9bf4adc213
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Secondary
+ID 51411
+
+Size_X 2
+Size_Y 2
+Size_Z 0.31
+
+Magazine 51412
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 51411
+
+Range 2
+Firerate 50
+Action Rocket
+
+Player_Damage 10
+Zombie_Damage 100
+Animal_Damage 100
+Barricade_Damage 10
+Structure_Damage 10
+Vehicle_Damage 10
+Resource_Damage 50
+Object_Damage 50
+
+Explosion 1411
+Ballistic_Force 10000
+
+Durability 0.3
+
+Spread_Aim 0.1
+Spread_Hip 0.1
+
+Recoil_Min_X -2
+Recoil_Min_Y 3
+Recoil_Max_X 2
+Recoil_Max_Y 4
+
+Recover_X 0.7
+Recover_Y 0.6
+
+Shake_Min_X -0.002
+Shake_Min_Y -0.07
+Shake_Min_Z -0.05
+Shake_Max_X 0.002
+Shake_Max_Y -0.06
+Shake_Max_Z -0.06
+
+Muzzle 3
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51411
+Blueprint_1_Product 67
+Blueprint_1_Products 2
+Blueprint_1_Build 27

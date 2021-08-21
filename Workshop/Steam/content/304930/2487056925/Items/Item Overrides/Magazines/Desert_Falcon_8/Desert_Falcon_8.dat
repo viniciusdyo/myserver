@@ -1,0 +1,32 @@
+GUID 40da03cbb7194a37894b5846fc2f23b4
+Type Magazine
+Rarity Epic
+ID 5119
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 8
+Count_Min 1
+Count_Max 7
+
+Calibers 1
+Caliber_0 19
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5119
+Blueprint_1_Build 30
+
+Paintable
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Magazines/Desert_Falcon_7

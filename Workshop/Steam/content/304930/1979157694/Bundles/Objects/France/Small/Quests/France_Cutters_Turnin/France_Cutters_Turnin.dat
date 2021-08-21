@@ -1,0 +1,12 @@
+GUID a645d363a63947d196debd59c4756827
+Type Small
+ID 35181
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4018
+Condition_0_Value 4
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Bundle_Override_Path /Objects/France/Small/Quests/France_Cutters
+Master_Bundle_Override france.masterbundle

@@ -1,0 +1,4 @@
+Name <color=legendary>Lost Documents</color>
+Description Colonel Jourdon has some important documents that were left behind during his hasty evacuation. Recover them for him.
+
+Condition_0 Recover <color=legendary>Documents</color> {0}/1 

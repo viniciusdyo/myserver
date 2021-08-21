@@ -1,0 +1,261 @@
+GUID 312b65ebb9b14a6aa0fda9a505b9c7c3
+Type Dialogue
+ID 28801
+
+Messages 10
+ 
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 28805
+Message_0_Condition_0_Status None
+Message_0_Condition_0_Logic Equal
+Message_0_Responses 3
+Message_0_Response_0 0
+Message_0_Response_1 1
+Message_0_Response_2 2
+
+Message_1_Pages 1
+Message_1_Conditions 2
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 28805
+Message_1_Condition_0_Status None
+Message_1_Condition_0_Logic Not_Equal
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_ID 28805
+Message_1_Condition_1_Status Completed
+Message_1_Condition_1_Logic Not_Equal
+Message_1_Responses 2
+Message_1_Response_0 3
+Message_1_Response_1 4
+
+Message_2_Pages 1
+Message_2_Conditions 2
+Message_2_Condition_0_Type Quest
+Message_2_Condition_0_ID 28805
+Message_2_Condition_0_Status Completed
+Message_2_Condition_0_Logic Equal
+Message_2_Condition_1_Type Quest
+Message_2_Condition_1_ID 28810
+Message_2_Condition_1_Status None
+Message_2_Condition_1_Logic Equal
+Message_2_Responses 2
+Message_2_Response_0 5
+Message_2_Response_1 7
+
+Message_3_Pages 1
+Message_3_Conditions 2
+Message_3_Condition_0_Type Quest
+Message_3_Condition_0_ID 28810
+Message_3_Condition_0_Status None
+Message_3_Condition_0_Logic Not_Equal
+Message_3_Condition_1_Type Quest
+Message_3_Condition_1_ID 28810
+Message_3_Condition_1_Status Completed
+Message_3_Condition_1_Logic Not_Equal
+Message_3_Responses 2
+Message_3_Response_0 6
+Message_3_Response_1 7
+
+Message_4_Pages 1
+Message_4_Conditions 2
+Message_4_Condition_0_Type Quest
+Message_4_Condition_0_ID 28810
+Message_4_Condition_0_Status Completed
+Message_4_Condition_0_Logic Equal
+Message_4_Condition_1_Type Quest
+Message_4_Condition_1_ID 28815
+Message_4_Condition_1_Status None
+Message_4_Condition_1_Logic Equal
+Message_4_Responses 2
+Message_4_Response_0 8
+Message_4_Response_1 11
+
+Message_5_Pages 1
+Message_5_Conditions 2
+Message_5_Condition_0_Type Quest
+Message_5_Condition_0_ID 28815
+Message_5_Condition_0_Status None
+Message_5_Condition_0_Logic Not_Equal
+Message_5_Condition_1_Type Quest
+Message_5_Condition_1_ID 28815
+Message_5_Condition_1_Status Completed
+Message_5_Condition_1_Logic Not_Equal
+Message_5_Responses 2
+Message_5_Response_0 9
+Message_5_Response_1 10
+
+Message_6_Pages 1
+Message_6_Conditions 2
+Message_6_Condition_0_Type Quest
+Message_6_Condition_0_ID 28815
+Message_6_Condition_0_Status Completed
+Message_6_Condition_0_Logic Equal
+Message_6_Condition_1_Type Quest
+Message_6_Condition_1_ID 28820
+Message_6_Condition_1_Status None
+Message_6_Condition_1_Logic Equal
+Message_6_Responses 2
+Message_6_Response_0 12
+Message_6_Response_1 15
+
+Message_7_Pages 1
+Message_7_Conditions 2
+Message_7_Condition_0_Type Quest
+Message_7_Condition_0_ID 28820
+Message_7_Condition_0_Status None
+Message_7_Condition_0_Logic Not_Equal
+Message_7_Condition_1_Type Quest
+Message_7_Condition_1_ID 28820
+Message_7_Condition_1_Status Completed
+Message_7_Condition_1_Logic Not_Equal
+Message_7_Responses 2
+Message_7_Response_0 13
+Message_7_Response_1 15
+
+Message_8_Pages 1
+Message_8_Conditions 2
+Message_8_Condition_0_Type Quest
+Message_8_Condition_0_ID 28820
+Message_8_Condition_0_Status Completed
+Message_8_Condition_0_Logic Equal
+Message_8_Condition_1_Type Flag_Bool
+Message_8_Condition_1_ID 28819
+Message_8_Condition_1_Value False
+Message_8_Condition_1_Logic Equal
+Message_8_Condition_1_Allow_Unset
+Message_8_Responses 2
+Message_8_Response_0 14
+Message_8_Response_1 15
+
+Message_9_Pages 1
+Message_9_Conditions 1
+Message_9_Condition_0_Type Flag_Bool
+Message_9_Condition_0_ID 28819
+Message_9_Condition_0_Value True
+Message_9_Condition_0_Logic Equal
+Message_9_Responses 1
+Message_9_Response_0 16
+
+Responses 17
+
+Response_0_Dialogue 28802
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 28840
+Response_0_Reward_0_Value True
+
+Response_1_Dialogue 28803
+Response_1_Quest 28805
+Response_1_Conditions 2
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 28805
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_1_Type Flag_Bool
+Response_1_Condition_1_ID 28840
+Response_1_Condition_1_Value True
+Response_1_Condition_1_Logic Equal
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 28805
+
+// Response 2 None
+
+Response_3_Dialogue 28804
+Response_3_Quest 28805
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 28805
+Response_3_Condition_0_Status Ready
+Response_3_Condition_0_Reset
+
+// Response 4 None
+
+Response_5_Dialogue 28807
+Response_5_Quest 28810
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_ID 28810
+Response_5_Condition_0_Status None
+Response_5_Rewards 2
+Response_5_Reward_0_Type Quest
+Response_5_Reward_0_ID 28810
+Response_5_Reward_1_Type Flag_Bool
+Response_5_Reward_1_ID 28811
+Response_5_Reward_1_Value False
+
+Response_6_Dialogue 28808
+Response_6_Quest 28810
+Response_6_Conditions 1
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_ID 28810
+Response_6_Condition_0_Status Ready
+Response_6_Condition_0_Reset
+
+// Response 7 None
+
+Response_8_Dialogue 28812
+Response_8_Quest 28815
+Response_8_Conditions 1
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_ID 28815
+Response_8_Condition_0_Status None
+Response_8_Rewards 1
+Response_8_Reward_0_Type Quest
+Response_8_Reward_0_ID 28815
+
+Response_9_Dialogue 28813
+Response_9_Quest 28815
+Response_9_Conditions 1
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_ID 28815
+Response_9_Condition_0_Status Ready
+Response_9_Condition_0_Reset
+
+// Response 10 and 11 None
+
+Response_12_Dialogue 28817
+Response_12_Quest 28820
+Response_12_Conditions 1
+Response_12_Condition_0_Type Quest
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_0_ID 28820
+Response_12_Condition_0_Status None
+Response_12_Rewards 2
+Response_12_Reward_0_Type Quest
+Response_12_Reward_0_ID 28820
+Response_12_Reward_1_Type Flag_Bool
+Response_12_Reward_1_ID 28821
+Response_12_Reward_1_Value False
+
+Response_13_Dialogue 28818
+Response_13_Quest 28820
+Response_13_Conditions 1
+Response_13_Condition_0_Type Quest
+Response_13_Condition_0_Logic Equal
+Response_13_Condition_0_ID 28820
+Response_13_Condition_0_Status Ready
+Response_13_Condition_0_Reset
+
+Response_14_Conditions 2
+Response_14_Condition_0_Type Quest
+Response_14_Condition_0_Logic Equal
+Response_14_Condition_0_ID 28820
+Response_14_Condition_0_Status Completed
+Response_14_Condition_1_Type Flag_Bool
+Response_14_Condition_1_ID 28819
+Response_14_Condition_1_Value False
+Response_14_Condition_1_Logic Equal
+Response_14_Condition_1_Allow_Unset
+Response_14_Rewards 1
+Response_14_Reward_0_Type Flag_Bool
+Response_14_Reward_0_ID 28819
+Response_14_Reward_0_Value True
+
+// Response 15, 16 none.

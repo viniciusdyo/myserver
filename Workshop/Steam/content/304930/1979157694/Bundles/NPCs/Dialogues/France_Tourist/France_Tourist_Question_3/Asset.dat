@@ -1,0 +1,23 @@
+GUID ca5dd0153f984049929db5619be01cb7
+Type Dialogue
+ID 4197
+
+Messages 1
+Message_0_Pages 3
+
+Responses 2
+
+// I'm ready
+Response_0_Dialogue 4201
+Response_0_Quest 4199
+Response_0_Rewards 2
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 4199
+Response_0_Reward_0_Status Active
+Response_0_Reward_1_Type Flag_Short
+Response_0_Reward_1_ID 4200
+Response_0_Reward_1_Value 0
+Response_0_Reward_1_Modification Assign
+
+// Later
+Response_1_Dialogue 4193

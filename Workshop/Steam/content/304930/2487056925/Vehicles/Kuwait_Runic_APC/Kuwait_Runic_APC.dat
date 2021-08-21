@@ -1,0 +1,47 @@
+GUID 0c7b063b71e64fdfb7b6f663e0cbd329
+Type Vehicle
+Rarity Legendary
+ID 5010
+
+Speed_Min -6
+Speed_Max 13
+
+Steer_Min 12
+Steer_Max 24
+
+Brake 24
+
+Fuel_Min 300
+Fuel_Max 500
+Fuel 5
+
+Health_Min 800
+Health_Max 900
+Health 1000
+
+Exit 3.5
+
+Passenger_Explosion_Armor 0.2
+
+Traction
+Invulnerable
+Tires_Invulnerable
+Bumper_Invulnerable
+Bumper_Multiplier 40
+Environment_Invulnerable
+
+Battery_Powered
+
+Cam_Follow_Distance 7.5
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 2
+
+Explosion 5273
+
+Valid_Speed_Horizontal 200
+
+ShouldExplosionCauseDamage True
+ShouldExplosionBurnMaterials True
+
+Asset_Bundle_Version 3

@@ -1,0 +1,15 @@
+GUID 3eea09eecba147dda11b3946adf7b24e
+Type Dialogue
+ID 28351
+
+Messages 1
+ 
+Message_0_Pages 1
+
+Responses 1
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 28261
+Response_0_Reward_0_Value False
+

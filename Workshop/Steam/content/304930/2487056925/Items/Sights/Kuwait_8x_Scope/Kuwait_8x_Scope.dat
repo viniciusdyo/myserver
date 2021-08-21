@@ -1,0 +1,19 @@
+GUID 75a775ffb0a04b68aaac0d4f0c2a2fd9
+Type Sight
+Rarity Rare
+ID 5070
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Spread 0.7
+Zoom 8
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5070
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27

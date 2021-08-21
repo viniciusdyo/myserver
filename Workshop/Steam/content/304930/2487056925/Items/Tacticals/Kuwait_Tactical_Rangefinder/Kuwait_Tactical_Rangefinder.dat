@@ -1,0 +1,18 @@
+GUID 64b77cff893f4bb294719b9a8e08b2ee
+Type Tactical
+Rarity Epic
+ID 5058
+
+Size_X 1
+Size_Y 1
+Size_Z 0.075
+
+Rangefinder
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5058
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27

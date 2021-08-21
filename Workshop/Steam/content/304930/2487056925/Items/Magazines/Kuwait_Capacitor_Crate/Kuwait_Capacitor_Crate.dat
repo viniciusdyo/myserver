@@ -1,0 +1,27 @@
+GUID 94d8b884f02941469e74deda94d6c23a
+Type Magazine
+Rarity Epic
+ID 5556
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Calibers 1
+Caliber_0 5275
+
+Amount 100
+Count_Min 0
+Count_Max 0
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5556
+Blueprint_0_Build 30
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5508
+Blueprint_1_Build 30
+Blueprint_1_Map Kuwait

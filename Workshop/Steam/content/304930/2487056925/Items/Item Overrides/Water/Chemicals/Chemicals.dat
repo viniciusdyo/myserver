@@ -1,0 +1,15 @@
+GUID 42c09749db274cc8b018827bc7209a42
+Type Water
+Useable Consumeable
+ID 5260
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Virus 100
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Water/Chemicals
+
+ConsumeAudioClip Sounds/DrinkSwallow.mp3

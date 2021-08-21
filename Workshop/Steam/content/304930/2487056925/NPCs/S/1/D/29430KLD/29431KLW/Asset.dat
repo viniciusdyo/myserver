@@ -1,0 +1,31 @@
+GUID 568ee1a4b40042bbb8caafcfbabbe698
+Type Dialogue
+ID 29431
+
+Messages 1
+ 
+Message_0_Pages 1
+
+Responses 4
+
+Response_0_Dialogue 29434
+
+Response_1_Dialogue 29432
+Response_1_Quest 29435
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 29435
+Response_1_Condition_0_Status None
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 29435
+
+Response_2_Dialogue 29433
+Response_2_Quest 29435
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 29435
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Reset

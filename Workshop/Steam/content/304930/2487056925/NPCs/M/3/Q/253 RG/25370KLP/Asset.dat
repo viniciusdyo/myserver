@@ -1,0 +1,31 @@
+GUID fd6e9213c64f45d0846b0cedeb24b11f
+Type Quest
+ID 25370
+
+Conditions 4
+Condition_0_Type Item
+Condition_0_ID 5507
+Condition_0_Amount 10
+Condition_0_Reset
+Condition_1_Type Item
+Condition_1_ID 66
+Condition_1_Amount 5
+Condition_1_Reset
+Condition_2_Type Item
+Condition_2_ID 5537
+Condition_2_Amount 5
+Condition_2_Reset
+Condition_3_Type Item
+Condition_3_ID 67 
+Condition_3_Amount 10
+Condition_3_Reset
+
+// Totally not Supply Run.
+
+Rewards 2
+Reward_0_Type Experience
+Reward_0_Value 75
+Reward_1_Type Reputation
+Reward_1_Value 5
+
+// If you're copying things, at least credit NSTM.

@@ -1,0 +1,7 @@
+Name <color=#FF69B4>Survivors: </color>Better Run Away
+Description Tina barely escaped the zombies that sprinted after her while trying to escape the city. She wants you to kill them such that no one else will have to deal with them. You can keep your distance up to 100 meters.
+
+Condition_0 Defeat {0}/{1} Sprinter Zombies
+
+Reward_0 50 Experience
+Reward_1 5 Reputation

@@ -1,0 +1,28 @@
+GUID b3767e7c57904aa4ba2890b9e8b7f01c
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Wall
+ID 29999
+
+Exclude_From_Master_Bundle
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 2200
+Range 8
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 371
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Armor_Tier High

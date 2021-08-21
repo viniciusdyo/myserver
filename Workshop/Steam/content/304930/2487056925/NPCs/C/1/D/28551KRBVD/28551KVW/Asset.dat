@@ -1,0 +1,45 @@
+GUID f68dc8e174da4729bb019b6a0ab04381
+Type Dialogue
+ID 28551
+
+Messages 1
+Message_0_Pages 1
+
+Responses 6
+
+Response_0_Vendor 28552
+Response_0_Dialogue 28553
+
+Response_1_Dialogue 28555
+Response_1_Conditions 2
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 28556
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_1_Type Quest
+Response_1_Condition_1_ID 28205
+Response_1_Condition_1_Status Completed
+Response_1_Condition_1_Logic Equal
+
+Response_2_Dialogue 28555
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 28556
+Response_2_Condition_0_Status Completed
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Reset
+Response_2_Condition_1_Type Quest
+Response_2_Condition_1_ID 28205
+Response_2_Condition_1_Status Completed
+Response_2_Condition_1_Logic Equal
+
+Response_3_Dialogue 28558
+Response_3_Quest 28556
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 28556
+Response_3_Condition_0_Status Ready	
+Response_3_Condition_0_Reset
+
+Response_4_Dialogue 28554

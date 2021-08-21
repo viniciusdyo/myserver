@@ -1,0 +1,59 @@
+GUID 01c0dec73ebe4ca682754409883bc49c
+Type Dialogue
+ID 28501
+
+Messages 3
+
+// Can talk.
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Time_Of_Day
+Message_0_Condition_0_Second 21600
+Message_0_Condition_0_Logic Less_Than_Or_Equal_To
+Message_0_Responses 3
+Message_0_Response_0 0
+Message_0_Response_1 1
+Message_0_Response_2 2
+
+// Can talk.
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Time_Of_Day
+Message_1_Condition_0_Second 64800
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Responses 3
+Message_1_Response_0 0
+Message_1_Response_1 1
+Message_1_Response_2 2
+
+// Can't talk.
+Message_2_Pages 1
+Message_2_Conditions 2
+Message_2_Condition_0_Type Time_Of_Day
+Message_2_Condition_0_Second 21600
+Message_2_Condition_0_Logic Greater_Than
+Message_2_Condition_1_Type Time_Of_Day
+Message_2_Condition_1_Second 64800
+Message_2_Condition_1_Logic Less_Than
+Message_2_Responses 1
+Message_2_Response_0 3
+
+Responses 4
+
+Response_0_Vendor 28502
+Response_0_Dialogue 28503
+Response_0_Messages 1
+Response_0_Message_0 2
+
+Response_1_Dialogue 28504
+Response_1_Messages 1
+Response_1_Message_0 2
+
+// Response 2 for can talk to.
+Response_2_Messages 2
+Response_2_Message_0 0
+Response_2_Message_1 1
+
+// Response 3 if can't talk to.
+Response_3_Messages 1
+Response_3_Message_0 2

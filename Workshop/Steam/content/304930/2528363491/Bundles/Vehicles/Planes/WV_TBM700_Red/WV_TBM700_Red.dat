@@ -1,0 +1,41 @@
+GUID 0cc6a71e60d8495fbea673f73179245b
+Type Vehicle
+Rarity Epic
+ID 46506
+
+BatteryMode_Sirens None
+
+Speed_Min -15
+Speed_Max 32
+
+Steer_Min 32
+Steer_Max 48
+
+Air_Turn_Responsiveness 3
+
+Air_Steer_Min 16
+
+Air_Steer_Max 48
+
+Cam_Follow_Distance 15
+
+Asset_Bundle_Version 3
+
+Brake 64
+Lift 5
+Sleds
+
+Fuel 2500
+
+Health_Min 600
+Health_Max 700
+Health 750
+
+LockMouse
+Engine Plane
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+Tires_Invulnerable

@@ -1,0 +1,22 @@
+GUID d037e416fe06473f918bb106bed5b207
+Type NPC
+ID 29520
+
+Shirt 1386
+Pants 1387
+
+Face 13
+Hair 12
+Beard 0
+Color_Skin #BEA582
+Color_Hair #AC6A39
+
+Dialogue 29521
+
+Backward
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 29320
+Condition_0_Value True
+Condition_0_Logic Equal

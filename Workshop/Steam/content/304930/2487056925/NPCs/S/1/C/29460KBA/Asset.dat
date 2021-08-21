@@ -1,0 +1,22 @@
+GUID 0b0ffa0d6cec41de9cb5755d357a914c
+Type NPC
+ID 29460
+
+Shirt 5301 
+Vest 5303
+Pants 5302
+Backpack 5304
+
+Face 20
+Hair 20
+Beard 0
+Color_Skin #BEA582
+Color_Hair #352C22
+
+Dialogue 29461
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 28821
+Condition_0_Value True
+Condition_0_Logic Equal

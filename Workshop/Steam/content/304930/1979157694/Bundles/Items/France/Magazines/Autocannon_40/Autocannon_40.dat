@@ -1,0 +1,36 @@
+GUID ee61dd16eff2496c9c509f2b9065df22
+Type Magazine
+Rarity Epic
+ID 3062
+
+Size_X 4
+Size_Y 2
+Size_Z 0.3
+
+Amount 40
+Count_Min 30
+Count_Max 40
+
+Calibers 1
+Caliber_0 72
+
+Tracer 48
+
+Range 1
+Player_Damage 
+Zombie_Damage 60
+Animal_Damage 0
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 3062
+Blueprint_0_Build 30
+
+Delete_Empty

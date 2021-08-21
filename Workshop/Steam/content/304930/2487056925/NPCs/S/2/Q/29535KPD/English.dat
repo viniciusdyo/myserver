@@ -1,0 +1,7 @@
+Name <color=#FF69B4>Survivors: </color>Dead Or Alive?
+Description While attempting to salvage supplies from Sulaibiya, Pete ran into many zombies that laid on the ground, seemingly dead. However, they were still quite alive. You need to get rid of these zombies so that other survivors won't succumb to the facade.
+
+Condition_0 Defeat {0}/{1} Crawler Zombies
+
+Reward_0 75 Experience
+Reward_1 7 Reputation

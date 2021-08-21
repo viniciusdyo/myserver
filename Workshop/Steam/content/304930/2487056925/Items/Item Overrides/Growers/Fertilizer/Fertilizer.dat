@@ -1,0 +1,12 @@
+GUID a9ff1e2c31a444a0baf2d883db815134
+Type Grower
+Rarity Uncommon
+Useable Grower
+ID 5559
+
+Size_X 1
+Size_Y 2
+Size_Z 0.45
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Growers/Fertilizer

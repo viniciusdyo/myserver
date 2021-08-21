@@ -1,0 +1,16 @@
+GUID 53bdc1f27bb74ef39e4c366c9acb514b
+Type Dialogue
+ID 29731
+
+Messages 1
+ 
+Message_0_Pages 1
+Message_0_Rewards 2
+Message_0_Reward_0_Type Flag_Bool
+Message_0_Reward_0_ID 28822
+Message_0_Reward_0_Value True
+Message_0_Reward_1_Type Flag_Bool
+Message_0_Reward_1_ID 27421
+Message_0_Reward_1_Value True
+
+Responses 1

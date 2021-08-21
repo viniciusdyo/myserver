@@ -1,0 +1,93 @@
+GUID 201347be20804c62ac80a858e32966e5
+Type Dialogue
+ID 29321
+
+// Weston is the Cynthia equivalent for the survivor camp.
+// I could never spend a day without you, Amy! Please let me be on the island with you!
+Messages 3
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 29302
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+// Randomize Again.
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 29302
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 2
+Message_0_Reward_0_Modification Assign
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 29302
+Message_1_Condition_0_Value 1
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_Allow_Unset
+// Randomize Again.
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short_Random
+Message_1_Reward_0_ID 29302
+Message_1_Reward_0_Min_Value 0
+Message_1_Reward_0_Max_Value 2
+Message_1_Reward_0_Modification Assign
+
+Message_2_Pages 1
+Message_2_Conditions 1
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 29302
+Message_2_Condition_0_Value 2
+Message_2_Condition_0_Logic Equal
+Message_2_Condition_0_Allow_Unset
+// Randomize Again.
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short_Random
+Message_2_Reward_0_ID 29302
+Message_2_Reward_0_Min_Value 0
+Message_2_Reward_0_Max_Value 2
+Message_2_Reward_0_Modification Assign
+
+Responses 6
+
+Response_0_Dialogue 29322
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 29320
+Response_0_Condition_0_Value False
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Allow_Unset
+
+Response_1_Vendor 29323
+Response_1_Dialogue 29325
+Response_1_Conditions 1
+Response_1_Condition_0_Type Flag_Bool
+Response_1_Condition_0_ID 29320
+Response_1_Condition_0_Value True
+Response_1_Condition_0_Logic Equal
+
+Response_2_Vendor 29324
+Response_2_Dialogue 29325
+Response_2_Conditions 1
+Response_2_Condition_0_Type Flag_Bool
+Response_2_Condition_0_ID 29320
+Response_2_Condition_0_Value True
+Response_2_Condition_0_Logic Equal
+
+Response_3_Vendor 29328
+Response_3_Dialogue 29325
+Response_3_Conditions 1
+Response_3_Condition_0_Type Flag_Bool
+Response_3_Condition_0_ID 29320
+Response_3_Condition_0_Value True
+Response_3_Condition_0_Logic Equal
+
+Response_4_Dialogue 29326
+Response_4_Conditions 1
+Response_4_Condition_0_Type Flag_Bool
+Response_4_Condition_0_ID 29717
+Response_4_Condition_0_Value True
+Response_4_Condition_0_Logic Equal

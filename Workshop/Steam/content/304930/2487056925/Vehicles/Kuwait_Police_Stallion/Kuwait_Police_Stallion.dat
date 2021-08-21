@@ -1,0 +1,38 @@
+GUID 829127c071c148d9b4333e1ae5665537
+Type Vehicle
+Rarity Rare
+ID 5009
+
+Speed_Min -6
+Speed_Max 24
+
+Steer_Min 14
+Steer_Max 28
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1750
+
+Health_Min 400
+Health_Max 500
+Health 600
+
+Traction
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 4
+
+Explosion 20
+
+Physics_Profile 5e35b07cf1af44ca9017c0b23d4a1e28
+
+Valid_Speed_Horizontal 200
+
+Wheel_Collider_Mass_Override 5
+
+ShouldExplosionCauseDamage True
+ShouldExplosionBurnMaterials True
+
+Asset_Bundle_Version 3

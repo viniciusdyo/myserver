@@ -1,0 +1,235 @@
+GUID 537c047276e14cf28c70b187be950419
+Type Dialogue
+ID 4136
+
+Messages 7
+
+// Not met Colonel
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 4013
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+
+// Colonel Aid Reward Ready
+Message_1_Pages 1
+Message_1_Conditions 6
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 4014
+Message_1_Condition_0_Value 4
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_Logic Equal
+Message_1_Condition_1_ID 4042
+Message_1_Condition_1_Status Completed
+Message_1_Condition_2_Type Quest
+Message_1_Condition_2_Logic Equal
+Message_1_Condition_2_ID 4131
+Message_1_Condition_2_Status Completed
+Message_1_Condition_3_Type Quest
+Message_1_Condition_3_Logic Equal
+Message_1_Condition_3_ID 4144
+Message_1_Condition_3_Status Completed
+Message_1_Condition_4_Type Quest
+Message_1_Condition_4_Logic Equal
+Message_1_Condition_4_ID 4156
+Message_1_Condition_4_Status Completed
+Message_1_Condition_5_Type Flag_Bool
+Message_1_Condition_5_ID 4093
+Message_1_Condition_5_Value False
+Message_1_Condition_5_Logic Equal
+Message_1_Condition_5_Allow_Unset
+
+// Food aid given not used
+Message_2_Pages 1
+Message_2_Conditions 3
+Message_2_Condition_0_Type Player_Life_Food
+Message_2_Condition_0_Value 11
+Message_2_Condition_0_Logic Less_Than
+Message_2_Condition_1_Type Flag_Bool
+Message_2_Condition_1_ID 4093
+Message_2_Condition_1_Value True
+Message_2_Condition_1_Logic Equal
+Message_2_Condition_2_Type Flag_Bool
+Message_2_Condition_2_ID 4094
+Message_2_Condition_2_Value False
+Message_2_Condition_2_Logic Equal
+
+// Food aid given and used
+Message_3_Pages 1
+Message_3_Responses 1
+Message_3_Response_0 10
+Message_3_Conditions 3
+Message_3_Condition_0_Type Player_Life_Food
+Message_3_Condition_0_Value 11
+Message_3_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_3_Condition_1_Type Flag_Bool
+Message_3_Condition_1_ID 4093
+Message_3_Condition_1_Value True
+Message_3_Condition_1_Logic Equal
+Message_3_Condition_2_Type Flag_Bool
+Message_3_Condition_2_ID 4094
+Message_3_Condition_2_Value False
+Message_3_Condition_2_Logic Equal
+
+// Water aid given not used
+Message_4_Pages 1
+Message_4_Conditions 3
+Message_4_Condition_0_Type Player_Life_Water
+Message_4_Condition_0_Value 11
+Message_4_Condition_0_Logic Less_Than
+Message_4_Condition_1_Type Flag_Bool
+Message_4_Condition_1_ID 4093
+Message_4_Condition_1_Value True
+Message_4_Condition_1_Logic Equal
+Message_4_Condition_2_Type Flag_Bool
+Message_4_Condition_2_ID 4095
+Message_4_Condition_2_Value False
+Message_4_Condition_2_Logic Equal
+
+// Water aid given and used
+Message_5_Pages 1
+Message_5_Responses 1
+Message_5_Response_0 11
+Message_5_Conditions 3
+Message_5_Condition_0_Type Player_Life_Water
+Message_5_Condition_0_Value 11
+Message_5_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_5_Condition_1_Type Flag_Bool
+Message_5_Condition_1_ID 4093
+Message_5_Condition_1_Value True
+Message_5_Condition_1_Logic Equal
+Message_5_Condition_2_Type Flag_Bool
+Message_5_Condition_2_ID 4095
+Message_5_Condition_2_Value False
+Message_5_Condition_2_Logic Equal
+
+
+// Welcome
+Message_6_Pages 1
+
+
+Responses 12
+
+// Not met Colonel
+Response_0_Messages 1
+Response_0_Message_0 0
+
+// Food aid 0-10 Baguette
+Response_1_Dialogue 4125
+Response_1_Conditions 3
+Response_1_Condition_0_Type Flag_Bool
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 4093
+Response_1_Condition_0_Value True
+Response_1_Condition_1_Type Flag_Bool
+Response_1_Condition_1_ID 4094
+Response_1_Condition_1_Value True
+Response_1_Condition_1_Logic Equal
+Response_1_Condition_2_Type Player_Life_Food
+Response_1_Condition_2_Value 10
+Response_1_Condition_2_Logic Less_Than_Or_Equal_To
+Response_1_Rewards 2
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 4094
+Response_1_Reward_0_Value False
+Response_1_Reward_1_Type Item
+Response_1_Reward_1_Amount 1
+Response_1_Reward_1_ID 3084
+
+// Water Aid 0-10 Bottled Water
+Response_2_Dialogue 4125
+Response_2_Conditions 3
+Response_2_Condition_0_Type Flag_Bool
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 4093
+Response_2_Condition_0_Value True
+Response_2_Condition_1_Type Flag_Bool
+Response_2_Condition_1_ID 4095
+Response_2_Condition_1_Value True
+Response_2_Condition_1_Logic Equal
+Response_2_Condition_2_Type Player_Life_Water
+Response_2_Condition_2_Value 10
+Response_2_Condition_2_Logic Less_Than_Or_Equal_To
+Response_2_Rewards 2
+Response_2_Reward_0_Type Flag_Bool
+Response_2_Reward_0_ID 4095
+Response_2_Reward_0_Value False
+Response_2_Reward_1_Type Item
+Response_2_Reward_1_Amount 1
+Response_2_Reward_1_ID 14
+
+// Pan Collection Accept
+Response_3_Dialogue 4146
+Response_3_Quest 4144
+Response_3_Conditions 2
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 4144
+Response_3_Condition_0_Status None
+Response_3_Condition_1_Type Flag_Bool
+Response_3_Condition_1_Logic Equal
+Response_3_Condition_1_ID 4143
+Response_3_Condition_1_Value True
+Response_3_Rewards 2
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 4144
+Response_3_Reward_0_Status Active
+Response_3_Reward_1_Type Flag_Short
+Response_3_Reward_1_ID 4145
+Response_3_Reward_1_Value 0
+Response_3_Reward_1_Modification Assign
+
+// Pan Collection In
+Response_4_Dialogue 4147
+Response_4_Quest 4144
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_ID 4144
+Response_4_Condition_0_Status Ready
+Response_4_Condition_0_Reset
+
+// Trade
+Response_5_Dialogue 4149
+Response_5_Vendor 4148
+
+// Questions
+Response_6_Dialogue 4139
+
+//Aid not accepted
+Response_7_Messages 2
+Response_7_Message_0 2
+Response_7_Message_1 4
+
+//Nothing Unusual
+Response_8_Messages 3
+Response_8_Message_0 3
+Response_8_Message_1 5
+Response_8_Message_2 6
+
+//Aid possible
+Response_9_Messages 1
+Response_9_Message_0 1
+
+//Food Recharge
+Response_10_Dialogue 4136
+Response_10_Messages 1
+Response_10_Message_0 3
+Response_10_Rewards 1
+Response_10_Reward_0_Type Flag_Bool
+Response_10_Reward_0_ID 4094
+Response_10_Reward_0_Value True
+
+//Water Recharge
+Response_11_Dialogue 4136
+Response_11_Messages 1
+Response_11_Message_0 5
+Response_11_Rewards 1
+Response_11_Reward_0_Type Flag_Bool
+Response_11_Reward_0_ID 4095
+Response_11_Reward_0_Value True

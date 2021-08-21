@@ -1,0 +1,51 @@
+GUID 1c2771a2d4434bffbacbeffd96b12b0d
+Type Library
+Rarity Epic
+Useable Barricade
+Build Library
+ID 5783
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 600
+Range 4
+Radius 0.25
+Offset 1.3
+
+Capacity 1200
+Tax 10
+
+Locked
+
+Explosion 36
+
+Blueprints 2
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 12
+Blueprint_0_Supply_1_ID 5536
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Furniture
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 10
+Blueprint_1_Supply_1_ID 5536
+Blueprint_1_Supply_1_Amount 5
+Blueprint_1_Tool 5112
+Blueprint_1_Tool_Critical
+Blueprint_1_Level 3
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Library_Metal

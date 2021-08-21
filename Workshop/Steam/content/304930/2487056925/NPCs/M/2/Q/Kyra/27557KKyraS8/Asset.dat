@@ -1,0 +1,31 @@
+GUID 394319ae916d4480b5526f96ddaa39f0
+Type Quest
+ID 27557
+
+Conditions 3
+Condition_0_Type Item
+Condition_0_ID 5465
+Condition_0_Amount 3
+Condition_0_Reset
+Condition_1_Type Item
+Condition_1_ID 5507
+Condition_1_Amount 3
+Condition_1_Reset
+Condition_2_Type Item
+Condition_2_ID 5208
+Condition_2_Amount 3
+Condition_2_Reset
+
+Rewards 4
+Reward_0_Type Experience
+Reward_0_Value 100
+Reward_1_Type Reputation
+Reward_1_Value 10
+Reward_2_Type Flag_Short_Random
+Reward_2_ID 27535
+Reward_2_Min_Value 0
+Reward_2_Max_Value 7
+Reward_2_Modification Assign
+Reward_3_Type Item_Random
+Reward_3_ID 7280
+Reward_3_Amount 1

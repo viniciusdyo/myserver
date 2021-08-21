@@ -1,0 +1,28 @@
+GUID 051453275d6e4b7088e997cb7c31e23d
+Type Vehicle
+Rarity Rare
+ID 713
+
+Speed_Min -6
+Speed_Max 13.5
+
+Steer_Min 16
+Steer_Max 36
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2500
+
+Health_Min 450
+Health_Max 550
+Health 750
+
+Traction
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Explosion 20
+Tires_Invulnerable

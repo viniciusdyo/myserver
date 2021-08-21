@@ -1,0 +1,30 @@
+GUID a68c3fbfced54de3b5401da57549649c
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 5256
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 65
+Energy 40
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5237
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5217
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 5257
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Pancake
+
+ConsumeAudioClip Sounds/EatCrunchy.mp3

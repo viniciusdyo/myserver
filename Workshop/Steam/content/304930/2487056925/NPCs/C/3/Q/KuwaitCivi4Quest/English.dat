@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color>Lunch Time!
+Description Hasna's hasn't eaten much, as most of the food is being rationed. Rations aren't enough though. Bring her some good food.
+
+Condition_0 Find {0}/{1} {2}

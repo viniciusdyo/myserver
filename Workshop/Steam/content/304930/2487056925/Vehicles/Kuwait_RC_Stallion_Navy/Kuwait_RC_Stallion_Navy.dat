@@ -1,0 +1,38 @@
+GUID 3098e54d58f445d8a62a6ef9484df677
+Type Vehicle
+Rarity Legendary
+ID 5041
+
+Speed_Min -6
+Speed_Max 32
+
+Steer_Min 12
+Steer_Max 24
+
+Brake 42
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1750
+
+Health_Min 300
+Health_Max 400
+Health 500
+
+Can_Be_Locked True
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Physics_Profile c6d835a711994c0cafb332b1106f2311
+
+Wheel_Collider_Mass_Override 5
+
+Valid_Speed_Horizontal 350
+
+ShouldExplosionCauseDamage True
+ShouldExplosionBurnMaterials True
+
+Asset_Bundle_Version 3

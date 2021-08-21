@@ -1,0 +1,4 @@
+Name <color=Mythical>Groundpounder in Bordeaux</color>
+Description A huge mutant has been spotted in Bordeaux. Take it out.
+
+Condition_0 Defeat {0}/{1} <color=mythical>Groundpounder Boss</color>

@@ -1,0 +1,17 @@
+GUID ed744ce3179f42818843b9b481ca016b
+Type NPC
+ID 4006
+
+Shirt 3015
+Pants 3016
+Vest 3019
+Hat 3020
+
+Face 6
+Color_Skin #a57b67
+
+Primary 3023
+Secondary 1021
+Equipped Primary
+
+Dialogue 4216

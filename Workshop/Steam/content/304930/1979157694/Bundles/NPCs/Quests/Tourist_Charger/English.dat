@@ -1,0 +1,4 @@
+Name <color=rare>Battery Hunt</color>
+Description <color=uncommon>Jack</color> would like you to find a <color=legendary>Solar Charger</color> to charge his Smartphone. <color=uncommon>Jack</color> suggests that <color=rare>Corporal Matthieu</color> may know about the Rula Facility it lies in.
+
+Condition_0 <color=legendary>Solar Charger</color> {0}/1

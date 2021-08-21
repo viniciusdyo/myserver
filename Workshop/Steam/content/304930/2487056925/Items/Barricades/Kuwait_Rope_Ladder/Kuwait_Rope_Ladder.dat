@@ -1,0 +1,26 @@
+GUID 25e23f2d2b804beaaa52e0ab32bbdb98
+Type Barricade
+Useable Barricade
+Build Ladder
+ID 5401
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Health 25
+Range 8
+Offset 0.5
+
+Vulnerable
+Bypass_Claim
+Unrepairable
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 5536
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

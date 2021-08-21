@@ -1,0 +1,36 @@
+GUID 48adead4907b41f3942576d61ef03a38
+Type Vehicle
+Rarity Epic
+ID 720
+
+Speed_Min -6
+Speed_Max 13.5
+
+Steer_Min 16
+Steer_Max 36
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2500
+
+Health_Min 450
+Health_Max 550
+Health 750
+
+Traction
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Explosion 20
+Tires_Invulnerable
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 3058
+Turret_0_Yaw_Min -45
+Turret_0_Yaw_Max 45
+Turret_0_Pitch_Min 40
+Turret_0_Pitch_Max 97

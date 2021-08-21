@@ -1,0 +1,259 @@
+GUID 08ebb9454dc84d3ea4568bbd24a0502e
+Type Dialogue
+ID 27101
+
+// Cynthia sells weapons - need OP 1 completed
+Messages 7
+// Talk to Issac - Intro
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 27001
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 1
+Message_0_Response_0 0
+
+// Operation 1
+Message_1_Pages 1
+Message_1_Conditions 2
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 27000
+Message_1_Condition_0_Value 15
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_ID 27020
+Message_1_Condition_1_Status None
+Message_1_Condition_1_Logic Equal
+Message_1_Responses 1
+Message_1_Response_0 0
+
+// Operation 2
+Message_2_Pages 1
+Message_2_Conditions 2
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 27000
+Message_2_Condition_0_Value 40
+Message_2_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_2_Condition_1_Type Quest
+Message_2_Condition_1_ID 27021
+Message_2_Condition_1_Status None
+Message_2_Condition_1_Logic Equal
+Message_2_Responses 1
+Message_2_Response_0 0
+
+// Operation 3
+Message_3_Pages 1
+Message_3_Conditions 2
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 27000
+Message_3_Condition_0_Value 75
+Message_3_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_3_Condition_1_Type Quest
+Message_3_Condition_1_ID 27022
+Message_3_Condition_1_Status None
+Message_3_Condition_1_Logic Equal
+Message_3_Responses 1
+Message_3_Response_0 0
+
+// Randomized 1
+Message_4_Pages 1
+Message_4_Conditions 1
+Message_4_Condition_0_Type Flag_Short
+Message_4_Condition_0_ID 27100
+Message_4_Condition_0_Value 0
+Message_4_Condition_0_Logic Equal
+Message_4_Condition_0_Allow_Unset
+// Randomize Again.
+Message_4_Rewards 1
+Message_4_Reward_0_Type Flag_Short_Random
+Message_4_Reward_0_ID 27100
+Message_4_Reward_0_Min_Value 0
+Message_4_Reward_0_Max_Value 2
+Message_4_Reward_0_Modification Assign
+
+// Randomized 2
+Message_5_Pages 1
+Message_5_Conditions 1
+Message_5_Condition_0_Type Flag_Short
+Message_5_Condition_0_ID 27100
+Message_5_Condition_0_Value 1
+Message_5_Condition_0_Logic Equal
+// Randomize Again.
+Message_5_Rewards 1
+Message_5_Reward_0_Type Flag_Short_Random
+Message_5_Reward_0_ID 27100
+Message_5_Reward_0_Min_Value 0
+Message_5_Reward_0_Max_Value 2
+Message_5_Reward_0_Modification Assign
+
+// Randomized 3 
+Message_6_Pages 1
+Message_6_Conditions 1
+Message_6_Condition_0_Type Flag_Short
+Message_6_Condition_0_ID 27100
+Message_6_Condition_0_Value 2
+Message_6_Condition_0_Logic Equal
+// Randomize Again.
+Message_6_Rewards 1
+Message_6_Reward_0_Type Flag_Short_Random
+Message_6_Reward_0_ID 27100
+Message_6_Reward_0_Min_Value 0
+Message_6_Reward_0_Max_Value 2
+Message_6_Reward_0_Modification Assign
+
+Responses 14
+
+// Talk to Issac/Operations
+Response_0_Messages 1
+Response_0_Message_0 1
+
+// What do you do?
+Response_1_Dialogue 27102
+
+// Can I?
+Response_2_Dialogue 27103
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Not_Equal
+Response_2_Condition_0_ID 27020
+Response_2_Condition_0_Status Completed
+Response_2_Condition_0_Allow_Unset
+Response_2_Condition_1_Type Flag_Bool
+Response_2_Condition_1_ID 27114
+Response_2_Condition_1_Value True
+Response_2_Condition_1_Logic Equal
+
+// May I?
+Response_3_Dialogue 27105
+Response_3_Vendor 27104
+Response_3_Rewards 1
+Response_3_Reward_0_Type Flag_Bool
+Response_3_Reward_0_ID 27114
+Response_3_Reward_0_Value True
+// Previous lock method.
+// Response_3_Conditions 1
+// Response_3_Condition_0_Type Quest
+// Response_3_Condition_0_Logic Equal
+// Response_3_Condition_0_ID 27020
+// Response_3_Condition_0_Status Completed
+
+// Second Shop
+Response_4_Dialogue 27105
+Response_4_Vendor 27113
+// Response_4_Conditions 1
+// Response_4_Condition_0_Type Quest
+// Response_4_Condition_0_Logic Equal
+// Response_4_Condition_0_ID 27020
+// Response_4_Condition_0_Status Completed
+
+// Need Help Pre OP-1
+Response_5_Dialogue 27106
+Response_5_Quest 27108
+Response_5_Conditions 2
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_ID 27020
+Response_5_Condition_0_Status None
+Response_5_Condition_1_Type Quest
+Response_5_Condition_1_Logic Equal
+Response_5_Condition_1_ID 27108
+Response_5_Condition_1_Status None
+Response_5_Rewards 1
+Response_5_Reward_0_Type Quest
+Response_5_Reward_0_ID 27108
+
+// Need Help Pre OP-2
+Response_6_Dialogue 27106
+Response_6_Quest 27109
+Response_6_Conditions 3
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_ID 27021
+Response_6_Condition_0_Status None
+Response_6_Condition_1_Type Quest
+Response_6_Condition_1_Logic Equal
+Response_6_Condition_1_ID 27020
+Response_6_Condition_1_Status Completed
+Response_6_Condition_2_Type Quest
+Response_6_Condition_2_Logic Equal
+Response_6_Condition_2_ID 27109
+Response_6_Condition_2_Status None
+Response_6_Rewards 1
+Response_6_Reward_0_Type Quest
+Response_6_Reward_0_ID 27109
+
+// Need Help Pre OP-3
+Response_7_Dialogue 27106
+Response_7_Quest 27110
+Response_7_Conditions 3
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_ID 27022
+Response_7_Condition_0_Status None
+Response_7_Condition_1_Type Quest
+Response_7_Condition_1_Logic Equal
+Response_7_Condition_1_ID 27021
+Response_7_Condition_1_Status Completed
+Response_7_Condition_2_Type Quest
+Response_7_Condition_2_Logic Equal
+Response_7_Condition_2_ID 27110
+Response_7_Condition_2_Status None
+Response_7_Rewards 1
+Response_7_Reward_0_Type Quest
+Response_7_Reward_0_ID 27110
+
+Response_8_Dialogue 27107
+Response_8_Quest 27108
+Response_8_Conditions 1
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_ID 27108
+Response_8_Condition_0_Status Ready	
+Response_8_Condition_0_Reset
+
+Response_9_Dialogue 27107
+Response_9_Quest 27109
+Response_9_Conditions 1
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_ID 27109
+Response_9_Condition_0_Status Ready	
+Response_9_Condition_0_Reset
+
+Response_10_Dialogue 27107
+Response_10_Quest 27110
+Response_10_Conditions 1
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_0_ID 27110
+Response_10_Condition_0_Status Ready	
+Response_10_Condition_0_Reset
+
+// Need Help Post-Ops
+Response_11_Dialogue 27111
+Response_11_Conditions 1
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_0_ID 27022
+Response_11_Condition_0_Status Completed
+
+// Borrowed tools?
+Response_12_Dialogue 27112
+Response_12_Conditions 2
+Response_12_Condition_0_Type Quest
+Response_12_Condition_0_ID 27210
+Response_12_Condition_0_Status Active
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_1_Type Flag_Bool
+Response_12_Condition_1_ID 27113
+Response_12_Condition_1_Value False
+Response_12_Condition_1_Logic Equal
+Response_12_Condition_1_Allow_Unset
+Response_12_Rewards 1
+Response_12_Reward_0_Type Flag_Bool
+Response_12_Reward_0_ID 27113
+Response_12_Reward_0_Value True
+
+// If you're copying things, at least credit NSTM.

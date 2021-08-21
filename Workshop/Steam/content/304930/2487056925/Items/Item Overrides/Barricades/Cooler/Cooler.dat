@@ -1,0 +1,45 @@
+GUID c7dd7295e9a742be8199546f65cb1487
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 5761
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 200
+Range 4
+Radius 0.4
+Offset 0.5
+
+Storage_X 4
+Storage_Y 3
+
+Explosion 36
+
+Blueprints 2
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Tool 76
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Furniture
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Tool 5112
+Blueprint_1_Tool_Critical
+Blueprint_1_Level 1
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Cooler

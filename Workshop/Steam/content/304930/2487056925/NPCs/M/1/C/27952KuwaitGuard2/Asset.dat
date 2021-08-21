@@ -1,0 +1,23 @@
+GUID c434035355ce482281122232cd9659d2
+Type NPC
+ID 27952
+
+Shirt 5301
+Pants 5302
+
+Face 20
+Hair 18
+Beard 2
+Color_Skin #BEA582
+Color_Hair #473928
+
+Primary 5003
+Secondary 5008
+
+Pose Rest
+
+Dialogue 27950
+
+// Suncrack, Avenger.
+// Turret Mounted.
+// If you're copying things, at least credit NSTM.

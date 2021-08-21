@@ -1,0 +1,20 @@
+Message_0_Page_0 You should go talk to <color=legendary>Issac</color> on the east side of the island first.
+Message_1_Page_0 We've got an operation on our hands, talk to <color=legendary>Issac</color>.
+Message_2_Page_0 We have got an operation <name_char>, go talk to <color=legendary>Issac</color>.
+Message_3_Page_0 We have one more operation, go talk to <color=legendary>Issac</color>.
+Message_4_Page_0 Hello.
+Message_5_Page_0 Hello there <name_char>.
+Message_6_Page_0 Mon bon ami <name_char>, do you need something?
+
+Response_0 Alright.
+// Post talked to Issac
+Response_1 Who are you?
+Response_2 Need any help?
+Response_3 Need any help?
+Response_4 Need any help?
+Response_5 Got your stuff.
+Response_6 Got your clothes.
+Response_7 Got your gun.
+Response_8 Need any help?
+Response_9 Do you have any borrowed tools?
+Response_10 Goodbye.

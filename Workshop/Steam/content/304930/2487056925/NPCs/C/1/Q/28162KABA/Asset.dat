@@ -1,0 +1,26 @@
+GUID 04b09a44d71643ed9c1d79883f33e767
+Type Quest
+ID 28162
+
+Conditions 1
+Condition_0_Type Item
+Condition_0_ID 5505
+Condition_0_Amount 1
+Condition_0_Reset
+
+Rewards 4
+Reward_0_Type Experience
+Reward_0_Value 25
+Reward_1_Type Item_Random
+Reward_1_ID 7178 
+Reward_1_Amount 1
+Reward_2_Type Item_Random
+Reward_2_ID 7179
+Reward_2_Amount 2
+Reward_3_Type Flag_Short_Random
+Reward_3_ID 28163
+Reward_3_Min_Value 0
+Reward_3_Max_Value 9
+Reward_3_Modification Assign
+
+// If you're copying things, at least credit NSTM.

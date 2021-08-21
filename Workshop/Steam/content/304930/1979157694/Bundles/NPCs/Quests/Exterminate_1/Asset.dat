@@ -1,0 +1,28 @@
+GUID db8e49d694e542b29a1efe4d8e96fbef
+Type Quest
+ID 4039
+
+Conditions 1
+Condition_0_Type Kills_Zombie
+Condition_0_Zombie None
+Condition_0_ID 4085
+Condition_0_Value 40
+Condition_0_Nav 26
+
+Rewards 4
+Reward_0_Type Experience
+Reward_0_Value 40
+Reward_1_Type Reputation
+Reward_1_Value 10
+
+// Fort quests completed
+Reward_2_Type Flag_Short
+Reward_2_ID 4014
+Reward_2_Value 1
+Reward_2_Modification Increment
+
+// Exterminate campaign progression
+Reward_3_Type Flag_Short
+Reward_3_ID 4038
+Reward_3_Value 1
+Reward_3_Modification Increment

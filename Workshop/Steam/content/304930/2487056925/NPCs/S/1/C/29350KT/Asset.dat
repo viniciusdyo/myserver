@@ -1,0 +1,17 @@
+GUID 5d2715c1fe664a98b83dc24ad33d7985
+Type NPC
+ID 29350
+
+Shirt 1391 
+Pants 1392
+Glasses 502
+
+Secondary 1031
+
+Face 13
+Hair 21
+Beard 0
+Color_Skin #4b3d31
+Color_Hair #191919
+
+Dialogue 29351

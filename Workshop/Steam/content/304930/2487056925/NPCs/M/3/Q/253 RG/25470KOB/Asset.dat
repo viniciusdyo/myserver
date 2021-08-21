@@ -1,0 +1,21 @@
+GUID 4fe6ad0d41b64d489716fab227728a04
+Type Quest
+ID 25470
+
+Conditions 2
+Condition_0_Type Item
+Condition_0_ID 5469
+Condition_0_Amount 1
+Condition_0_Reset
+Condition_1_Type Item
+Condition_1_ID 5470
+Condition_1_Amount 1
+Condition_1_Reset
+
+Rewards 2
+Reward_0_Type Experience
+Reward_0_Value 100
+Reward_1_Type Reputation
+Reward_1_Value 5
+
+// If you're copying things, at least credit NSTM.

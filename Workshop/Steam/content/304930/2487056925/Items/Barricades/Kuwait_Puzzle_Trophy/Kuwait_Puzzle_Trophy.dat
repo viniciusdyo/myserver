@@ -1,0 +1,29 @@
+GUID 7ec83c9c2bb74f90bd3185f92f6936d9
+Type Barricade
+Useable Barricade
+Build Barricade
+Rarity Rare
+ID 5405
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Health 50
+Range 7
+Offset 0.03
+
+Explosion 28
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 5507
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Map Kuwait
+Blueprint_0_Rewards 1
+Blueprint_0_Reward_0_Type Achievement
+Blueprint_0_Reward_0_ID Kuwait_HomeDecor

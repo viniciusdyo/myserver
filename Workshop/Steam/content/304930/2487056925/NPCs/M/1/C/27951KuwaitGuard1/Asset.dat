@@ -1,0 +1,21 @@
+GUID 75cb0363de3a49b28eee583d44861e23
+Type NPC
+ID 27951
+
+Shirt 5301
+Pants 5302
+Vest 5304
+
+Face 5
+Hair 12
+Color_Skin #BEA582
+Color_Hair #473928
+
+Primary 5003
+Secondary 5008
+Equipped Primary
+
+Dialogue 27950
+
+// Suncrack, Avenger.
+// If you're copying things, at least credit NSTM.

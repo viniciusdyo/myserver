@@ -1,0 +1,47 @@
+"Metadata"
+{
+	"GUID" "f79d763d2eaa4afe97683a2d74ed66ad"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Carpets/Kuwait_Traditional_Carpet_0.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Carpets/Kuwait_Traditional_Carpet_1.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Carpets/Kuwait_Traditional_Carpet_2.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Carpets/Kuwait_Carpet_Black.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Carpets/Kuwait_Carpet_Blue.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Carpets/Kuwait_Carpet_Green.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Carpets/Kuwait_Carpet_Orange.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Carpets/Kuwait_Carpet_Purple.mat"
+		}
+		{
+			"Name" "kuwait.content"
+			"Path" "Assets/KuwaitSource/Material_Palettes/Kuwait_Carpets/Kuwait_Carpet_Red.mat"
+		}
+}

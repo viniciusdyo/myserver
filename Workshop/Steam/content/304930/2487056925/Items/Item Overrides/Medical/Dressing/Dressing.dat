@@ -1,0 +1,23 @@
+GUID 77939efe8a114cd1b3692d2c948c217b
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 5522
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Aid
+Bleeding
+Health 35
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 5521
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+Blueprint_0_Map Kuwait
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Dressing

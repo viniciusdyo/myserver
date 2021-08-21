@@ -1,0 +1,91 @@
+GUID 8435b10c51e548b4b2ceb197e5b40eb4
+Type Gun
+Rarity Uncommon
+Useable Gun
+Slot Primary
+ID 5029
+
+Size_X 4
+Size_Y 2
+Size_Z 0.4
+Size2_Z 0.7
+
+Barrel 350
+Sight 5030
+Magazine 5031
+
+Hook_Sight
+Hook_Tactical
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Semi
+
+Caliber 15
+
+Range 300
+Firerate 50
+Replace 0.6
+Action String
+
+Player_Damage 60
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 99
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Durability 0.8
+
+Spread_Aim 0.001
+Spread_Hip 0.2
+
+Ballistic_Steps 40
+Ballistic_Travel 7.5
+Ballistic_Drop 0.00125
+
+Recoil_Aim 0.25
+Recoil_Min_X -5
+Recoil_Min_Y 5
+Recoil_Max_X 5
+Recoil_Max_Y 10
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.05
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.1
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Item
+Blueprint_0_Condition_0_ID 5112
+Blueprint_0_Condition_0_Amount 0
+Blueprint_0_Condition_0_Logic Equal
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5029
+Blueprint_1_Product 67
+Blueprint_1_Products 3
+Blueprint_1_Build 27

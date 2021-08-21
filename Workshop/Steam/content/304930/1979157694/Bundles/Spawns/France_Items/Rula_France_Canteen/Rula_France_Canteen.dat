@@ -1,0 +1,9 @@
+GUID 5e67ad480d464329919c6fd7854a083f
+Type Spawn
+ID 2167
+
+Tables 2
+Table_0_Spawn_ID 2166
+Table_0_Weight 80
+Table_1_Spawn_ID 2151
+Table_1_Weight 20

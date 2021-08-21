@@ -1,0 +1,33 @@
+GUID f1f00eb3b6dc4dad9f0f7ec72ad78bf1
+Type Quest
+ID 27210
+
+Conditions 4
+// Needle-Nose Pliers, Maria
+Condition_0_Type Flag_Bool
+Condition_0_ID 27220
+Condition_0_Value True
+Condition_0_Logic Equal
+// Multimeter, Flora
+Condition_1_Type Flag_Bool
+Condition_1_ID 27221
+Condition_1_Value True
+Condition_1_Logic Equal
+// Fish Tape, Snow
+Condition_2_Type Flag_Bool
+Condition_2_ID 27222
+Condition_2_Value True
+Condition_2_Logic Equal
+// Hexagonal Wrench, Phillip
+Condition_3_Type Flag_Bool
+Condition_3_ID 27223
+Condition_3_Value True
+Condition_3_Logic Equal
+
+Rewards 2
+Reward_0_Type Experience
+Reward_0_Value 10
+Reward_1_Type Reputation
+Reward_1_Value 1
+
+// If you're copying things, at least credit NSTM.

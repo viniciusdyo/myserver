@@ -1,0 +1,20 @@
+GUID 636c24681ee44339a038b55ef3bf0669
+Type Resource
+ID 161
+
+Health 1200
+Radius 5
+Scale 0.3
+
+Explosion 23
+Reward_ID 517
+Reward_XP 6
+Reward_Min 5
+Reward_Max 8
+
+Reset 750
+
+Asset_Bundle_Version 3
+SpeedTree
+Auto_Skybox
+SpeedTree_Default_LOD_Weights

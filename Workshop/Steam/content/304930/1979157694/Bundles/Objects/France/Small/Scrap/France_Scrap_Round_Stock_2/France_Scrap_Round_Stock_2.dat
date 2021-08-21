@@ -1,0 +1,12 @@
+GUID cf31ccf4e6d74d929dfb475d96c0921f
+Type Small
+ID 35273
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4015
+Condition_0_Value 43
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Bundle_Override_Path /Objects/France/Small/Scrap/France_Scrap_Round_Stock
+Master_Bundle_Override france.masterbundle

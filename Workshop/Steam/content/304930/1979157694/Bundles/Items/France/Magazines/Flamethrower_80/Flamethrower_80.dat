@@ -1,0 +1,23 @@
+GUID ad27369dfd2a4a499ecb3f14902e1cb6
+Type Magazine
+Rarity Legendary
+ID 3057
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Amount 80
+Count_Min 60
+Count_Max 80
+
+Calibers 1
+Caliber_0 70
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 3057
+Blueprint_0_Build 30
+
+Delete_Empty

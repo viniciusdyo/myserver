@@ -1,0 +1,86 @@
+GUID 4d12e4f34dc7446da974e37124cc0a83
+Type Dialogue
+ID 28104
+
+Messages 6
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_Logic Not_Equal
+Message_0_Condition_0_ID 28105
+Message_0_Condition_0_Status Completed
+Message_0_Condition_0_Allow_Unset
+
+Message_1_Pages 2
+Message_1_Conditions 3
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_ID 28105
+Message_1_Condition_0_Status Completed
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_Logic Equal
+Message_1_Condition_1_ID 28805
+Message_1_Condition_1_Status Active
+Message_1_Condition_2_Type Time_Of_Day
+Message_1_Condition_2_Second 64800
+Message_1_Condition_2_Logic Greater_Than
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Bool
+Message_1_Reward_0_ID 28806
+Message_1_Reward_0_Value True
+
+Message_2_Pages 2
+Message_2_Conditions 3
+Message_2_Condition_0_Type Quest
+Message_2_Condition_0_Logic Equal
+Message_2_Condition_0_ID 28105
+Message_2_Condition_0_Status Completed
+Message_2_Condition_1_Type Quest
+Message_2_Condition_1_Logic Equal
+Message_2_Condition_1_ID 28805
+Message_2_Condition_1_Status Active
+Message_2_Condition_2_Type Time_Of_Day
+Message_2_Condition_2_Second 14400
+Message_2_Condition_2_Logic Less_Than_Or_Equal_To
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Bool
+Message_2_Reward_0_ID 28806
+Message_2_Reward_0_Value True
+
+// Before 0600
+Message_3_Pages 1
+Message_3_Conditions 2
+Message_3_Condition_0_Type Quest
+Message_3_Condition_0_Logic Equal
+Message_3_Condition_0_ID 28105
+Message_3_Condition_0_Status Completed
+Message_3_Condition_1_Type Time_Of_Day
+Message_3_Condition_1_Second 21600
+Message_3_Condition_1_Logic Less_Than_Or_Equal_To
+
+// 0600 to 1800
+Message_4_Pages 1
+Message_4_Conditions 3
+Message_4_Condition_0_Type Quest
+Message_4_Condition_0_Logic Equal
+Message_4_Condition_0_ID 28105
+Message_4_Condition_0_Status Completed
+Message_4_Condition_1_Type Time_Of_Day
+Message_4_Condition_1_Second 21600
+Message_4_Condition_1_Logic Greater_Than
+Message_4_Condition_2_Type Time_Of_Day
+Message_4_Condition_2_Second 64800
+Message_4_Condition_2_Logic Less_Than_Or_Equal_To
+
+// 1800 to 2399
+Message_5_Pages 1
+Message_5_Conditions 2
+Message_5_Condition_0_Type Quest
+Message_5_Condition_0_Logic Equal
+Message_5_Condition_0_ID 28105
+Message_5_Condition_0_Status Completed
+Message_5_Condition_1_Type Time_Of_Day
+Message_5_Condition_1_Second 64800
+Message_5_Condition_1_Logic Greater_Than
+
+// If you're copying things, at least credit NSTM.

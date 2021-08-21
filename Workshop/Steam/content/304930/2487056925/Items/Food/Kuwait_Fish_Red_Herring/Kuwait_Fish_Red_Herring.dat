@@ -1,0 +1,21 @@
+GUID 8597d2be0aa6459a94921a6160680fd3
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 5277
+
+Size_X 2
+Size_Y 1
+Size_Z 0.45
+
+Food 5
+Virus 50
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 5277
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Products 1
+Blueprint_0_Product 5247
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

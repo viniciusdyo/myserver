@@ -1,0 +1,33 @@
+GUID 77e9c649262647e897407e0de96ed0fc
+Type Dialogue
+ID 25980
+
+// Hello!
+Messages 1
+Message_0_Pages 1
+
+Responses 4
+
+// Response 0 when no quest.
+Response_0_Dialogue 25981
+Response_0_Quest 25975
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_ID 25975
+Response_0_Condition_0_Status Ready	
+Response_0_Condition_0_Reset
+
+// Response 1 when the questioning begins.
+Response_1_Dialogue 25973
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 25040
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Not_Equal
+
+Response_2_Dialogue 25976
+
+// Response 3 exit
+
+// If you're copying things, at least credit NSTM.

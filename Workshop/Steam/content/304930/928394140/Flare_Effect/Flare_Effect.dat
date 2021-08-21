@@ -1,0 +1,10 @@
+GUID 74dce8cf28c442fd9721832f54c5a7e0
+Type Effect
+ID 1411
+
+Lifetime 8
+Lifetime_Spread 0
+
+Splatter_Temperature Burning
+Splatter_Lifetime 8
+Splatter_Lifetime_Spread 1

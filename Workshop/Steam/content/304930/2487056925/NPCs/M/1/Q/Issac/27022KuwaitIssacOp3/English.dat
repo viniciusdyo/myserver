@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=mythical>All Necessary Means</color>
+Description <color=legendary>Major General Issac</color><br>With the last remaining military and civilians fleeing to the town of Kuwait City in order to escape to the island, they've brought the hordes that they tried escaping from. You will need to save them from these hordes. <i>You will need a lot of ammo.</i>
+
+Condition_0 Liberate Kuwait City From Hordes {0}/3

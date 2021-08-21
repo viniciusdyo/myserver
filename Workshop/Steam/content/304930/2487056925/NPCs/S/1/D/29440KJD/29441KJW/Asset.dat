@@ -1,0 +1,31 @@
+GUID 394475f45edc41969588fb79c28c5475
+Type Dialogue
+ID 29441
+
+Messages 1
+ 
+Message_0_Pages 1
+
+Responses 4
+
+Response_0_Dialogue 29444
+
+Response_1_Dialogue 29442
+Response_1_Quest 29445
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 29445
+Response_1_Condition_0_Status None
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 29445
+
+Response_2_Dialogue 29443
+Response_2_Quest 29445
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 29445
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Reset

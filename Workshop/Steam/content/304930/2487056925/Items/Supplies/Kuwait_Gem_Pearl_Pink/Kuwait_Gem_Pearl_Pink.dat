@@ -1,0 +1,17 @@
+GUID 25bc0acbd74849c3a1f6d561adf8c418
+Type Supply
+Rarity Rare
+ID 5566
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5566
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product 5540
+Blueprint_0_Products 2
+Blueprint_0_Map Kuwait

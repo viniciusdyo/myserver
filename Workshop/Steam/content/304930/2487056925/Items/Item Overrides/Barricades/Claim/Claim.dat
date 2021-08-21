@@ -1,0 +1,57 @@
+GUID c732510d03ae4033bf2cf4514c911d77
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Claim
+ID 5759
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 50
+Range 4
+Radius 0.5
+Offset 1.12
+
+Explosion 36
+Vulnerable
+Proof_Explosion
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 66
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 5259
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 5260
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Supply_1_ID 67
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 5259
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Supply_3_ID 5260
+Blueprint_1_Supply_3_Amount 1
+Blueprint_1_Tool 5112
+Blueprint_1_Tool_Critical
+Blueprint_1_Level 3
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Claim

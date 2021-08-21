@@ -1,0 +1,12 @@
+GUID 1ac40b24a72d464c8915dc82df7d200c
+Type Small
+ID 35239
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4015
+Condition_0_Value 9
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Bundle_Override_Path /Objects/France/Small/Scrap/France_Scrap_Crate_0
+Master_Bundle_Override france.masterbundle

@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=mythical>Desert Shield</color>
+Description <color=legendary>Major General Issac</color><br>A few scouts have located a survivor camp in the midst of the desert, and Issac seeks the means to bring them to safety. However, the nearby port town of Salmiya is infested with zombies. You will need to clear this horde such that they can escape. <i>You will need quite a bit of ammo.</i>
+
+Condition_0 Clear Horde at Salmiya

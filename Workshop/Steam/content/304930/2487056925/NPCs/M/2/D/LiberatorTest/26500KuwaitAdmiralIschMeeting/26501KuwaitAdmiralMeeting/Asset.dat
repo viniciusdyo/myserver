@@ -1,0 +1,62 @@
+GUID a0efa01b01d5460093341b6693fc123e
+Type Dialogue
+ID 26501
+
+// WIP!
+Messages 3
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 25010
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 1
+Message_0_Response_0 0
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 26512
+Message_1_Condition_0_Status Completed
+Message_1_Condition_0_Logic Not_Equal
+Message_1_Condition_0_Allow_Unset
+Message_1_Responses 3
+Message_1_Response_0 1
+Message_1_Response_1 2
+Message_1_Response_2 3
+
+Message_2_Pages 1
+Message_2_Responses 1
+Message_2_Response_0 3
+
+Responses 4
+
+Response_0_Dialogue 26502
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 25010
+Response_0_Reward_0_Value True
+
+Response_1_Dialogue 26503
+Response_1_Quest 26512
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 26512
+Response_1_Condition_0_Status None
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 26512
+
+Response_2_Dialogue 26504
+Response_2_Quest 26512
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 26512
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Reset
+
+// If you're copying things, at least credit NSTM.

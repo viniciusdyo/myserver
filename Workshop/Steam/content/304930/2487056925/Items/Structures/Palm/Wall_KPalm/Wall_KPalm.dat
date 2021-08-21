@@ -1,0 +1,21 @@
+GUID 5fd3a66a733d43108f98254d0d15d671
+Type Structure
+Useable Structure
+Construct Wall
+ID 5417
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 300
+Range 8
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5501
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27

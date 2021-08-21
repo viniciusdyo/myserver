@@ -1,0 +1,16 @@
+GUID c0f9bbbd09954193bff9f22e91c903a1
+Type NPC
+ID 29410
+
+Shirt 182 
+Pants 214
+
+Face 24
+Hair 17
+Beard 0
+Color_Skin #D9CAB4
+Color_Hair #CDC08C
+
+Dialogue 29411
+
+Pose Asleep

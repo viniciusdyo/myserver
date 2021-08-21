@@ -1,0 +1,17 @@
+GUID 5d78d605839c42b9b1e0ea76483603d9
+Type Dialogue
+ID 29461
+
+Messages 1
+Message_0_Pages 1
+
+Responses 4
+
+Response_0_Vendor 29323
+Response_0_Dialogue 29462
+
+Response_1_Vendor 29324
+Response_1_Dialogue 29462
+
+Response_2_Vendor 29328
+Response_2_Dialogue 29462

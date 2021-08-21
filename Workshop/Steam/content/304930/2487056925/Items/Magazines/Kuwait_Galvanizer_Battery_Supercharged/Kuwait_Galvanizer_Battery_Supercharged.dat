@@ -1,0 +1,35 @@
+GUID b958e8645d654338b88a580bfe9edc66
+Type Magazine
+Rarity Mythical
+ID 5040
+
+Size_X 2
+Size_Y 2
+Size_Z 0.275
+
+Amount 25
+Count_Min 1
+Count_Max 5
+
+Calibers 1
+Caliber_0 5003
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5040
+Blueprint_0_Build 27
+
+Range 5
+Player_Damage 25
+Zombie_Damage 75
+Animal_Damage 10
+Barricade_Damage 10
+Structure_Damage 10
+Vehicle_Damage 25
+Resource_Damage 65
+Object_Damage 10
+Explosion 5277
+Explosive
+
+Delete_Empty

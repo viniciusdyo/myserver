@@ -1,0 +1,41 @@
+GUID c1cb84a0582b4178a64f601d2f038adc
+Type Magazine
+Rarity Epic
+ID 3091
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Amount 60
+Count_Min 60
+Count_Max 60
+
+Calibers 1
+Caliber_0 70
+
+Projectile_Damage_Multiplier 0.8
+Projectile_Launch_Force_Multiplier 0.8
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 3091
+Blueprint_0_Build 30
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 75
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 72
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 70
+Blueprint_1_Supply_2_Amount 3
+Blueprint_1_Supply_3_ID 397
+Blueprint_1_Supply_3_Amount 2
+Blueprint_1_Tool 3090
+Blueprint_1_Tool_Critical
+Blueprint_1_Level 3
+Blueprint_1_Skill Cook
+Blueprint_1_Build 27
+
+Delete_Empty

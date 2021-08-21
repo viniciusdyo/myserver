@@ -1,0 +1,59 @@
+GUID 770b5c73b977492aad40fa6bc33840d4
+Type Dialogue
+ID 27209
+
+Messages 2
+
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 27210
+Message_0_Condition_0_Status Completed
+Message_0_Condition_0_Logic Not_Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 2
+Message_0_Response_0 0
+Message_0_Response_1 1
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 27210
+Message_1_Condition_0_Status Completed
+Message_1_Condition_0_Logic Equal
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Bool
+Message_1_Reward_0_ID 28816
+Message_1_Reward_0_Value True
+Message_1_Responses 1
+Message_1_Response_0 2
+
+Responses 3
+
+Response_0_Quest 27210
+Response_0_Dialogue 27203
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_ID 27210
+Response_0_Condition_0_Status None
+Response_0_Rewards 5
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 27210
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 27220
+Response_0_Reward_1_Value False
+Response_0_Reward_2_Type Flag_Bool
+Response_0_Reward_2_ID 27221
+Response_0_Reward_2_Value False
+Response_0_Reward_3_Type Flag_Bool
+Response_0_Reward_3_ID 27222
+Response_0_Reward_3_Value False
+Response_0_Reward_4_Type Flag_Bool
+Response_0_Reward_4_ID 27223
+Response_0_Reward_4_Value False
+
+Response_1_Dialogue 27201
+Response_2_Dialogue 27201
+
+// If you're copying things, at least credit NSTM.

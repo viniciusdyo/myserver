@@ -1,0 +1,12 @@
+GUID 1eb3b1293cc442da83236c13ecc8ecfb
+Type Small
+ID 35245
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4015
+Condition_0_Value 15
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Bundle_Override_Path /Objects/France/Small/Scrap/France_Scrap_Chemicals
+Master_Bundle_Override france.masterbundle

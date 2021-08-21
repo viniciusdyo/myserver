@@ -1,0 +1,61 @@
+GUID a2270beb28a64bb99e7caaf4246104d7
+Type Dialogue
+ID 4183
+
+Messages 2
+
+// Not met Colonel
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 4013
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+
+// Nothing Special
+Message_1_Pages 1
+
+
+Responses 5
+
+// Not met Colonel
+Response_0_Messages 1
+Response_0_Message_0 0
+
+// Quest Accept
+Response_1_Dialogue 4191
+Response_1_Quest 4189
+Response_1_Conditions 2
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 4189
+Response_1_Condition_0_Status None
+Response_1_Condition_1_Type Flag_Bool
+Response_1_Condition_1_Logic Equal
+Response_1_Condition_1_ID 4188
+Response_1_Condition_1_Value True
+Response_1_Rewards 2
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 4189
+Response_1_Reward_0_Status Active
+Response_1_Reward_1_Type Flag_Short
+Response_1_Reward_1_ID 4190
+Response_1_Reward_1_Value 0
+Response_1_Reward_1_Modification Assign
+
+// Quest Turn In
+Response_2_Dialogue 4192
+Response_2_Quest 4189
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 4189
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Reset
+
+// Questions
+Response_3_Dialogue 4184
+

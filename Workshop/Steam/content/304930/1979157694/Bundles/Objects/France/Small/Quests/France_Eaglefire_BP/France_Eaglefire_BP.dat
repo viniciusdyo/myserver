@@ -1,0 +1,23 @@
+GUID cd0635af435a4da68da5499103f3c322
+Type Small
+ID 35168
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 4078
+Condition_0_Value False
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Effect 7
+Interactability_Rewards 2
+Interactability_Reward_0_Type Flag_Bool
+Interactability_Reward_0_ID 4078
+Interactability_Reward_0_Value True
+Interactability_Reward_1_Type Flag_Short
+Interactability_Reward_1_ID 4084
+Interactability_Reward_1_Value 1
+Interactability_Reward_1_Modification Increment
+
+Bundle_Override_Path /Objects/France/Small/Quests/France_Weapon_BP
+Master_Bundle_Override france.masterbundle

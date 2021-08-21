@@ -1,0 +1,15 @@
+GUID 863d19df705149b28aae2694a4961cd0
+Type Dialogue
+ID 4128
+
+Messages 2
+Message_0_Pages 4
+Message_0_Prev 4126
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 4093
+Message_0_Condition_0_Value True
+Message_0_Condition_0_Logic Equal
+
+Message_1_Pages 4
+Message_1_Prev 4126

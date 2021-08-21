@@ -1,0 +1,4 @@
+Name <color=#FF69B4>Survivors: </color><color=#1e1e1e>The Eye</color>
+Description Find the "eye" - or at least, evidence of it.
+
+Condition_0 Find Evidence {0}/3

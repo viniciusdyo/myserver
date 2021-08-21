@@ -1,0 +1,58 @@
+GUID 0c6ef33b1b9b4fcb9684fe357adadfbb
+Type Sentry
+Rarity Epic
+Useable Barricade
+Build Sentry
+ID 5796
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Health 75
+Range 4
+Radius 0.5
+Offset 1
+
+Storage_X 5
+Storage_Y 2
+Display
+Locked
+Mode Hostile
+
+Explosion 36
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5800
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5790
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 5058
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 5800
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 5790
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 5058
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Tool 5112
+Blueprint_1_Tool_Critical
+Blueprint_1_Level 3
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+
+Should_Close_When_Outside_Range true
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Sentry_Hostile

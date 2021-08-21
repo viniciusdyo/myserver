@@ -1,0 +1,229 @@
+GUID 2ae7a36f73fa419aa4556fb34faed51c
+Type Dialogue
+ID 27151
+
+// Phillip's one of your quest givers.
+Messages 7
+// Talk to Issac - Intro
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 27001
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 1
+Message_0_Response_0 0
+
+// Operation 1
+Message_1_Pages 1
+Message_1_Conditions 2
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 27000
+Message_1_Condition_0_Value 15
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_ID 27020
+Message_1_Condition_1_Status None
+Message_1_Condition_1_Logic Equal
+Message_1_Responses 1
+Message_1_Response_0 0
+
+// Operation 2
+Message_2_Pages 1
+Message_2_Conditions 2
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 27000
+Message_2_Condition_0_Value 40
+Message_2_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_2_Condition_1_Type Quest
+Message_2_Condition_1_ID 27021
+Message_2_Condition_1_Status None
+Message_2_Condition_1_Logic Equal
+Message_2_Responses 1
+Message_2_Response_0 0
+
+// Operation 3
+Message_3_Pages 1
+Message_3_Conditions 2
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 27000
+Message_3_Condition_0_Value 75
+Message_3_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_3_Condition_1_Type Quest
+Message_3_Condition_1_ID 27022
+Message_3_Condition_1_Status None
+Message_3_Condition_1_Logic Equal
+Message_3_Responses 1
+Message_3_Response_0 0
+
+// Randomized 1
+Message_4_Pages 1
+Message_4_Conditions 1
+Message_4_Condition_0_Type Flag_Short
+Message_4_Condition_0_ID 27150
+Message_4_Condition_0_Value 0
+Message_4_Condition_0_Logic Equal
+Message_4_Condition_0_Allow_Unset
+// Randomize Again.
+Message_4_Rewards 1
+Message_4_Reward_0_Type Flag_Short_Random
+Message_4_Reward_0_ID 27150
+Message_4_Reward_0_Min_Value 0
+Message_4_Reward_0_Max_Value 2
+Message_4_Reward_0_Modification Assign
+
+// Randomized 2
+Message_5_Pages 1
+Message_5_Conditions 1
+Message_5_Condition_0_Type Flag_Short
+Message_5_Condition_0_ID 27150
+Message_5_Condition_0_Value 1
+Message_5_Condition_0_Logic Equal
+// Randomize Again.
+Message_5_Rewards 1
+Message_5_Reward_0_Type Flag_Short_Random
+Message_5_Reward_0_ID 27150
+Message_5_Reward_0_Min_Value 0
+Message_5_Reward_0_Max_Value 2
+Message_5_Reward_0_Modification Assign
+
+// Randomized 3 
+Message_6_Pages 1
+Message_6_Conditions 1
+Message_6_Condition_0_Type Flag_Short
+Message_6_Condition_0_ID 27150
+Message_6_Condition_0_Value 2
+Message_6_Condition_0_Logic Equal
+// Randomize Again.
+Message_6_Rewards 1
+Message_6_Reward_0_Type Flag_Short_Random
+Message_6_Reward_0_ID 27150
+Message_6_Reward_0_Min_Value 0
+Message_6_Reward_0_Max_Value 2
+Message_6_Reward_0_Modification Assign
+
+Responses 11
+
+// Talk to Issac/Operations
+Response_0_Messages 1
+Response_0_Message_0 1
+
+// What do you do?
+Response_1_Dialogue 27152
+
+// Need Help Pre OP-1
+Response_2_Dialogue 27153
+Response_2_Quest 27156
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 27020
+Response_2_Condition_0_Status None
+Response_2_Condition_1_Type Quest
+Response_2_Condition_1_Logic Equal
+Response_2_Condition_1_ID 27156
+Response_2_Condition_1_Status None
+Response_2_Rewards 1
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 27156
+
+// Need Help Pre OP-2
+Response_3_Dialogue 27153
+Response_3_Quest 27157
+Response_3_Conditions 3
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 27021
+Response_3_Condition_0_Status None
+Response_3_Condition_1_Type Quest
+Response_3_Condition_1_Logic Equal
+Response_3_Condition_1_ID 27020
+Response_3_Condition_1_Status Completed
+Response_3_Condition_2_Type Quest
+Response_3_Condition_2_Logic Equal
+Response_3_Condition_2_ID 27157
+Response_3_Condition_2_Status None
+Response_3_Rewards 2
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 27157
+Response_3_Reward_1_Type Flag_Bool
+Response_3_Reward_1_ID 6211
+Response_3_Reward_1_Value False
+
+// Need Help Pre OP-3
+Response_4_Dialogue 27153
+Response_4_Quest 27158
+Response_4_Conditions 3
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_ID 27022
+Response_4_Condition_0_Status None
+Response_4_Condition_1_Type Quest
+Response_4_Condition_1_Logic Equal
+Response_4_Condition_1_ID 27021
+Response_4_Condition_1_Status Completed
+Response_4_Condition_2_Type Quest
+Response_4_Condition_2_Logic Equal
+Response_4_Condition_2_ID 27158
+Response_4_Condition_2_Status None
+Response_4_Rewards 1
+Response_4_Reward_0_Type Quest
+Response_4_Reward_0_ID 27158
+
+Response_5_Dialogue 27154
+Response_5_Quest 27156
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_ID 27156
+Response_5_Condition_0_Status Ready	
+Response_5_Condition_0_Reset
+
+Response_6_Dialogue 27154
+Response_6_Quest 27157
+Response_6_Conditions 1
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_ID 27157
+Response_6_Condition_0_Status Ready	
+Response_6_Condition_0_Reset
+
+Response_7_Dialogue 27154
+Response_7_Quest 27158
+Response_7_Conditions 1
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_ID 27158
+Response_7_Condition_0_Status Ready	
+Response_7_Condition_0_Reset
+
+// Need Help Post-Ops
+Response_8_Dialogue 27155
+Response_8_Conditions 1
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_ID 27022
+Response_8_Condition_0_Status Completed
+
+// Borrowed tools?
+Response_9_Dialogue 27160
+Response_9_Conditions 2
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_ID 27210
+Response_9_Condition_0_Status Active
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_1_Type Flag_Bool
+Response_9_Condition_1_ID 27161
+Response_9_Condition_1_Value False
+Response_9_Condition_1_Logic Equal
+Response_9_Condition_1_Allow_Unset
+Response_9_Rewards 2
+Response_9_Reward_0_Type Flag_Bool
+Response_9_Reward_0_ID 27161
+Response_9_Reward_0_Value True
+Response_9_Reward_1_Type Flag_Bool
+Response_9_Reward_1_ID 27223
+Response_9_Reward_1_Value True
+
+// If you're copying things, at least credit NSTM.

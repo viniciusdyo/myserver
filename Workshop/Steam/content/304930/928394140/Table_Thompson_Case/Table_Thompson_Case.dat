@@ -1,0 +1,22 @@
+GUID b54ecb3caa1c4a02a1af68fe1667b524
+Type Spawn
+ID 51324
+Roots 7
+Root_0_Spawn_ID 240
+Root_0_Weight 3
+Root_1_Spawn_ID 572
+Root_1_Weight 3
+Root_2_Spawn_ID 381
+Root_2_Weight 2
+Root_3_Spawn_ID 683
+Root_3_Weight 3
+Root_4_Spawn_ID 580
+Root_4_Weight 2
+Root_5_Spawn_ID 2089
+Root_5_Weight 1
+Root_6_Spawn_ID 2084
+Root_6_Weight 1
+
+Tables 1
+Table_0_Asset_ID 51324
+Table_0_Weight 10

@@ -1,0 +1,25 @@
+GUID 68bab932119c4acc802d282aabc3c892
+Type Magazine
+Rarity Epic
+ID 3097
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 40
+Count_Min 15
+Count_Max 40
+
+Calibers 1
+Caliber_0 75
+
+Tracer 702
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 3097
+Blueprint_0_Build 30
+
+Delete_Empty

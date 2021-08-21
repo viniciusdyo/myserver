@@ -1,0 +1,25 @@
+GUID cee0ce9c8f7645759eb01273672a38e1
+Type Food
+Useable Consumeable
+ID 5212
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Quality_Max 50
+
+Food 15
+Water 15
+Food_Constrains_Water
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 5264
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Food/Lettuce
+ConsumeAudioClip Sounds/EatCrunchy.mp3

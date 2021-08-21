@@ -1,0 +1,36 @@
+GUID d12795fa740a4469b1e19bc1fbeceb9d
+Type Vehicle
+Rarity Legendary
+ID 46566
+
+BatteryMode_Sirens None
+
+Speed_Min -6
+Speed_Max 25
+
+Steer_Min 32
+Steer_Max 16
+
+Fuel 1750
+
+Health_Min 400
+Health_Max 800
+Health 850
+
+Exit 3
+
+Cam_Follow_Distance 18
+
+Asset_Bundle_Version 3
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 6
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Air_Turn_Responsiveness 3

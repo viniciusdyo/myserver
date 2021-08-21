@@ -1,0 +1,21 @@
+GUID bd61296e65a148e9bbadc64f1452d0b3
+Type Resource
+ID 3055
+
+Health 9999
+Radius 3
+Scale 1
+
+Explosion 5257
+Reward_ID 7143
+Reward_XP 4
+Reward_Min 7
+Reward_Max 10
+
+Reset 450
+
+Auto_Skybox
+
+Asset_Bundle_Version 2
+
+Holiday_Restriction CHRISTMAS

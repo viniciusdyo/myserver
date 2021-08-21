@@ -1,0 +1,29 @@
+GUID fdc7ab4d3ab54accab56940f36fc96d8
+Type Dialogue
+ID 29071
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 3
+
+Response_0_Dialogue 29073
+Response_0_Quest 29072
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 29072
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 29072
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+
+Response_1_Dialogue 29074
+Response_1_Quest 29072
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 29072
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Reset

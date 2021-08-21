@@ -1,0 +1,158 @@
+GUID a0c80cab341b45e0bbec9b96bdb38759
+Type Vendor
+ID 27104
+
+Disable_Sorting
+
+Buying 11
+// 1911
+Buying_0_ID 5021
+Buying_0_Cost 25
+// Ace
+Buying_1_ID 5025 
+Buying_1_Cost 40
+// Catalyst
+Buying_2_ID 5009 
+Buying_2_Cost 40
+// Avenger
+Buying_3_ID 5008 
+Buying_3_Cost 40
+// Desert Falcon
+Buying_4_ID 5024 
+Buying_4_Cost 100
+// Colonizer
+Buying_5_ID 5032 
+Buying_5_Cost 50
+// Viper
+Buying_6_ID 5022 
+Buying_6_Cost 60
+// Suncrack
+Buying_7_ID 5003 
+Buying_7_Cost 100
+// Monarchist
+Buying_8_ID 5000 
+Buying_8_Cost 200
+// Mirage
+Buying_9_ID 5005 
+Buying_9_Cost 200
+// Hanlon-Reach
+Buying_10_ID 5126 
+Buying_10_Cost 200
+
+Selling 14
+// Military Knife
+Selling_0_ID 5096
+Selling_0_Cost 20
+Selling_0_Conditions 1
+Selling_0_Condition_0_Type Quest
+Selling_0_Condition_0_ID 27020
+Selling_0_Condition_0_Status Completed
+Selling_0_Condition_0_Logic Equal
+// 1911
+Selling_1_ID 5021
+Selling_1_Cost 50
+Selling_1_Conditions 1
+Selling_1_Condition_0_Type Quest
+Selling_1_Condition_0_ID 27020
+Selling_1_Condition_0_Status Completed
+Selling_1_Condition_0_Logic Equal
+// 1911 Magazine
+Selling_2_ID 98
+Selling_2_Cost 20
+Selling_2_Conditions 1
+Selling_2_Condition_0_Type Quest
+Selling_2_Condition_0_ID 27020
+Selling_2_Condition_0_Status Completed
+Selling_2_Condition_0_Logic Equal
+// Tactical Laser
+Selling_3_ID 5057
+Selling_3_Cost 40
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Quest
+Selling_3_Condition_0_ID 27020
+Selling_3_Condition_0_Status Completed
+Selling_3_Condition_0_Logic Equal
+// Op 2 Done
+// Viper
+Selling_4_ID 5022
+Selling_4_Cost 125
+Selling_4_Conditions 1
+Selling_4_Condition_0_Type Quest
+Selling_4_Condition_0_ID 27021
+Selling_4_Condition_0_Status Completed
+Selling_4_Condition_0_Logic Equal
+// Viper Magazine
+Selling_5_ID 1029
+Selling_5_Cost 50
+Selling_5_Conditions 1
+Selling_5_Condition_0_Type Quest
+Selling_5_Condition_0_ID 27021
+Selling_5_Condition_0_Status Completed
+Selling_5_Condition_0_Logic Equal
+// Civilian Ammo Box
+Selling_6_ID 44
+Selling_6_Cost 80
+Selling_6_Conditions 1
+Selling_6_Condition_0_Type Quest
+Selling_6_Condition_0_ID 27021
+Selling_6_Condition_0_Status Completed
+Selling_6_Condition_0_Logic Equal
+// Dot Sight
+Selling_7_ID 5066
+Selling_7_Cost 40
+Selling_7_Conditions 1
+Selling_7_Condition_0_Type Quest
+Selling_7_Condition_0_ID 27021
+Selling_7_Condition_0_Status Completed
+Selling_7_Condition_0_Logic Equal
+// Chevron Scope
+Selling_8_ID 5068
+Selling_8_Cost 80
+Selling_8_Conditions 1
+Selling_8_Condition_0_Type Quest
+Selling_8_Condition_0_ID 27021
+Selling_8_Condition_0_Status Completed
+Selling_8_Condition_0_Logic Equal
+// Op 3 Done
+// Suncrack
+Selling_9_ID 5003
+Selling_9_Cost 200
+Selling_9_Conditions 1
+Selling_9_Condition_0_Type Quest
+Selling_9_Condition_0_ID 27022
+Selling_9_Condition_0_Status Completed
+Selling_9_Condition_0_Logic Equal
+// Military Mag
+Selling_10_ID 6
+Selling_10_Cost 80
+Selling_10_Conditions 1
+Selling_10_Condition_0_Type Quest
+Selling_10_Condition_0_ID 27022
+Selling_10_Condition_0_Status Completed
+Selling_10_Condition_0_Logic Equal
+// Military Ammo
+Selling_11_ID 43
+Selling_11_Cost 100
+Selling_11_Conditions 1
+Selling_11_Condition_0_Type Quest
+Selling_11_Condition_0_ID 27022
+Selling_11_Condition_0_Status Completed
+Selling_11_Condition_0_Logic Equal
+// Vertical Grip
+Selling_12_ID 5061
+Selling_12_Cost 80
+Selling_12_Conditions 1
+Selling_12_Condition_0_Type Quest
+Selling_12_Condition_0_ID 27022
+Selling_12_Condition_0_Status Completed
+Selling_12_Condition_0_Logic Equal
+// 8x Scope
+Selling_13_ID 5070
+Selling_13_Cost 100
+Selling_13_Conditions 1
+Selling_13_Condition_0_Type Quest
+Selling_13_Condition_0_ID 27022
+Selling_13_Condition_0_Status Completed
+Selling_13_Condition_0_Logic Equal
+
+Currency b76b37b2d40c4054b850458e135408c6

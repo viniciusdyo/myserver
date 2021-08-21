@@ -1,0 +1,25 @@
+GUID 9b5090e18fbe4873adf63bbb7752249d
+Type NPC
+ID 27956
+
+Shirt 5301
+Pants 5302
+
+Primary 5003
+Secondary 5008
+Tertiary 1446
+Equipped Tertiary
+
+Face 9
+Hair 0
+Beard 10
+Color_Skin #BEA582
+Color_Hair #352C22
+
+Pose_Pitch 105
+
+Dialogue 27950
+
+// Suncrack, Avenger, Earpiece.
+// Turret Mount.
+// If you're copying things, at least credit NSTM.

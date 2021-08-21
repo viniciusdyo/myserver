@@ -1,0 +1,47 @@
+GUID 5eb96e99540d4fa797b2e08c55c4d16d
+Type Vehicle
+Rarity Uncommon
+ID 5012
+
+Speed_Min -6
+Speed_Max 14
+
+Steer_Min 72
+Steer_Max 144
+
+Fuel_Min 1500
+Fuel_Max 1500
+Fuel 1500
+
+Health_Min 500
+Health_Max 875
+Health 1000
+
+Exit 1.25
+
+Explosion_Min_Force_X 0
+Explosion_Min_Force_Y 0
+Explosion_Min_Force_Z 0
+Explosion_Max_Force_X 0
+Explosion_Max_Force_Y 0
+Explosion_Max_Force_Z 0
+
+Cam_Follow_Distance 16
+
+ShouldExplosionCauseDamage False
+ShouldExplosionBurnMaterials False
+
+Explosion 5256
+
+Stamina_Boost 0.75
+Stamina_Powered
+
+Engine Boat
+
+Can_Be_Locked False
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 8
+
+Asset_Bundle_Version 3
+

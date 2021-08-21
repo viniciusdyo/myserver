@@ -1,0 +1,28 @@
+GUID 03d414c3f44f496cb47a3ec55476fa0a
+Type Dialogue
+ID 4115
+
+Messages 2
+// Quest Completed Welcome
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 
+Message_0_Condition_0_Status Completed
+Message_0_Condition_0_Logic Equal
+
+Message_1_Pages 1
+
+Responses 4
+
+// Who are you?
+Response_0_Dialogue 4116
+
+// Long shifts?
+Response_1_Dialogue 4117
+
+// What gun is that?
+Response_2_Dialogue 4118
+
+// Nvm
+Response_3_Dialogue 4114

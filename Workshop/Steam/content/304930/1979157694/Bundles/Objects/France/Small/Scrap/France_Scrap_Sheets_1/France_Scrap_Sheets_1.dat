@@ -1,0 +1,12 @@
+GUID 11f537e4426748da84c6f98e53ba7619
+Type Small
+ID 35249
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4015
+Condition_0_Value 19
+Condition_0_Logic Greater_Than_Or_Equal_To
+
+Bundle_Override_Path /Objects/France/Small/Scrap/France_Scrap_Sheets
+Master_Bundle_Override france.masterbundle

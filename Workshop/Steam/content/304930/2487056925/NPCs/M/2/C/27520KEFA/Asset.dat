@@ -1,0 +1,22 @@
+GUID b0ab8e404f0240db83d23d0e57e64733
+Type NPC
+ID 27520
+
+Shirt 420
+Pants 1679
+
+Face 4
+Hair 1
+Beard 0
+Color_Skin #BEA582
+Color_Hair #352C22
+
+Primary 1369
+
+Dialogue 27521
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 28821
+Condition_0_Value True
+Condition_0_Logic Equal

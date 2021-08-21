@@ -1,0 +1,57 @@
+GUID 4b7ddb6c4f9641f697521d8f2582613e
+Type Dialogue
+ID 29711
+
+Messages 2
+ 
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 29705
+Message_0_Condition_0_Status Completed
+Message_0_Condition_0_Logic Not_Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 3
+Message_0_Response_0 1
+Message_0_Response_1 2
+Message_0_Response_2 3
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 29705
+Message_1_Condition_0_Status Completed
+Message_1_Condition_0_Logic Equal
+Message_1_Responses 2
+Message_1_Response_0 0
+Message_1_Response_1 4
+
+Responses 5
+
+Response_0_Dialogue 29714
+Response_0_Rewards 1
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 29717
+Response_0_Reward_0_Value True
+
+Response_1_Dialogue 29712
+Response_1_Quest 29705
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 29705
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Equal
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 29705
+
+Response_2_Dialogue 29713
+Response_2_Quest 29705
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 29705
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Reset
+
+// Response 3,4 None

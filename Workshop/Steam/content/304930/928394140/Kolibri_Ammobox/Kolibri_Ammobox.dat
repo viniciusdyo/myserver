@@ -1,0 +1,18 @@
+GUID cf5d9633c89f41f7946233a14211f5be
+Type Supply
+Rarity Epic
+ID 51144
+
+Size_X 1
+Size_Y 1
+Size_Z 0.09
+
+Amount 200
+Count_Min 200
+Count_Max 200
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51144
+Blueprint_0_Build 30

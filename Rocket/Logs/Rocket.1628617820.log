@@ -1,0 +1,1513 @@
+[08/10/2021 01:45:33] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[08/10/2021 01:45:33] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[08/10/2021 01:45:33] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[08/10/2021 01:45:33] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[08/10/2021 01:45:33] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[08/10/2021 01:45:33] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[08/10/2021 01:45:33] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[08/10/2021 01:45:33] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[08/10/2021 01:45:33] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[08/10/2021 01:45:33] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[08/10/2021 01:45:33] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[08/10/2021 01:45:33] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[08/10/2021 01:45:33] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[08/10/2021 01:45:33] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[08/10/2021 01:45:33] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[08/10/2021 01:45:33] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[08/10/2021 01:45:33] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[08/10/2021 01:45:33] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[08/10/2021 01:45:33] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[08/10/2021 01:45:33] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[08/10/2021 01:45:33] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[08/10/2021 01:45:33] [Info] Loading MaxPlayer from /home/steam/unturned/Servers/myserver/Rocket/Plugins/MaxPlayer.dll
+[08/10/2021 01:45:33] [Info] Loading WebsiteCommand from /home/steam/unturned/Servers/myserver/Rocket/Plugins/WebsiteCommand.dll
+[08/10/2021 01:45:34] [Info] Loading uEssentials from /home/steam/unturned/Servers/myserver/Rocket/Plugins/uEssentials.dll
+[08/10/2021 01:45:34] [Info] 
+[loading] MaxPlayer
+[08/10/2021 01:45:34] [Info] [registered] /checkmaxplayers (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/checkmaxplayers)
+[08/10/2021 01:45:34] [Info] [registered] /checkmp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/checkmp)
+[08/10/2021 01:45:34] [Info] [registered] /mps (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/mps)
+[08/10/2021 01:45:34] [Info] [registered] /setmaxplayers (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/setmaxplayers)
+[08/10/2021 01:45:34] [Info] [registered] /setmp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/setmp)
+[08/10/2021 01:45:34] [Info] [registered] /mp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/mp)
+[08/10/2021 01:45:34] [Info] MaxPlayer >> MaxplayerModifier has been loaded!
+[08/10/2021 01:45:34] [Info] MaxPlayer >> MaxplayerModifier 1.0.7
+[08/10/2021 01:45:34] [Info] MaxPlayer >> Made by Tortellio
+[08/10/2021 01:45:34] [Info] 
+[loading] WebsiteCommand
+[08/10/2021 01:45:34] [Info] WebsiteCommand >> WebsiteCommand has loaded!
+[08/10/2021 01:45:34] [Info] [registered] /discord (WebsiteCommand.RocketWebsiteCommand/Discord)
+[08/10/2021 01:45:34] [Info] 
+[loading] uEssentials
+[08/10/2021 01:45:34] [Info] This server will automatically save every 1800 seconds
+[08/10/2021 01:45:34] [Info] Steam servers ready!
+[08/10/2021 01:45:34] [Info] Workshop install folder: /home/steam/unturned/Servers/myserver/Workshop/Steam
+[08/10/2021 01:45:34] [Info] 12 workshop item(s) requested
+[08/10/2021 01:45:34] [Info] Submitting workshop query for 12 item(s)...
+[08/10/2021 01:45:34] [Info] Workshop query yielded 12 result(s)
+[08/10/2021 01:46:02] [Info] This server's allowed IP for Workshop downloads: 152.67.60.193
+[08/10/2021 01:46:02] [Info] 1232252658 'More Farming Mod' queued for download
+[08/10/2021 01:46:03] [Info] 928394140 'Oldie Firearm Pack' queued for download
+[08/10/2021 01:46:03] [Info] 2306374088 'MilitaryMkll' queued for download
+[08/10/2021 01:46:03] [Info] 2528363491 'Wind Vehicles' queued for download
+[08/10/2021 01:46:03] [Info] 2435496165 'Vanilla Vehicles 2: Military Transport' queued for download
+[08/10/2021 01:46:03] [Info] 2451595662 'Vanilla Vehicles 2: Air Transport' queued for download
+[08/10/2021 01:46:03] [Info] 1979157694 'France Bundles' queued for download
+[08/10/2021 01:46:03] [Info] 2487056925 'Kuwait Assets (Always Updated)' queued for download
+[08/10/2021 01:46:03] [Info] 2175483644 'Metal Upgrades v5 Edited' queued for download
+[08/10/2021 01:46:03] [Info] 1441131424 '[METAL] Building Assets by roll4charm' queued for download
+[08/10/2021 01:46:03] [Info] 2425744483 ' Hard stack 2021' queued for download
+[08/10/2021 01:46:03] [Info] 939083944 'GoldGaming's Locker Pack' queued for download
+[08/10/2021 01:46:03] [Info] 12 workshop item(s) to download...
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 1232252658
+[08/10/2021 01:46:03] [Info] Installing workshop item: 1232252658
+[08/10/2021 01:46:03] [Info] Installed workshop item: 1232252658
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 928394140
+[08/10/2021 01:46:03] [Info] Installing workshop item: 928394140
+[08/10/2021 01:46:03] [Info] Installed workshop item: 928394140
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 2306374088
+[08/10/2021 01:46:03] [Info] Installing workshop item: 2306374088
+[08/10/2021 01:46:03] [Info] Installed workshop item: 2306374088
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 2528363491
+[08/10/2021 01:46:03] [Info] Installing workshop item: 2528363491
+[08/10/2021 01:46:03] [Info] Installed workshop item: 2528363491
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 2435496165
+[08/10/2021 01:46:03] [Info] Installing workshop item: 2435496165
+[08/10/2021 01:46:03] [Info] Installed workshop item: 2435496165
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 2451595662
+[08/10/2021 01:46:03] [Info] Installing workshop item: 2451595662
+[08/10/2021 01:46:03] [Info] Installed workshop item: 2451595662
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 1979157694
+[08/10/2021 01:46:03] [Info] Installing workshop item: 1979157694
+[08/10/2021 01:46:03] [Info] Installed workshop item: 1979157694
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 2487056925
+[08/10/2021 01:46:03] [Info] Installing workshop item: 2487056925
+[08/10/2021 01:46:03] [Info] Installed workshop item: 2487056925
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 2175483644
+[08/10/2021 01:46:03] [Info] Installing workshop item: 2175483644
+[08/10/2021 01:46:03] [Info] Installed workshop item: 2175483644
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 1441131424
+[08/10/2021 01:46:03] [Info] Installing workshop item: 1441131424
+[08/10/2021 01:46:03] [Info] Installed workshop item: 1441131424
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 2425744483
+[08/10/2021 01:46:03] [Info] Installing workshop item: 2425744483
+[08/10/2021 01:46:03] [Info] Installed workshop item: 2425744483
+[08/10/2021 01:46:03] [Info] Workshop item found in cache: 939083944
+[08/10/2021 01:46:03] [Info] Installing workshop item: 939083944
+[08/10/2021 01:46:03] [Info] Installed workshop item: 939083944
+[08/10/2021 01:46:03] [Info] Loading level: 8%
+[08/10/2021 01:46:06] [Info] Loading level: 16%
+[08/10/2021 01:46:07] [Info] Loading level: 25%
+[08/10/2021 01:46:07] [Info] Loading level: 33%
+[08/10/2021 01:46:07] [Info] Loading level: 41%
+[08/10/2021 01:46:07] [Info] Loading level: 50%
+[08/10/2021 01:46:07] [Info] Loading level: 58%
+[08/10/2021 01:46:07] [Info] Loading level: 66%
+[08/10/2021 01:46:07] [Info] Loading level: 75%
+[08/10/2021 01:46:07] [Info] Loading level: 83%
+[08/10/2021 01:46:07] [Info] Loading level: 91%
+[08/10/2021 01:46:07] [Info] Loading level: 100%
+[08/10/2021 01:47:15] [Info] Connecting: PlayerID: 76561198942031373 Name: Eu kimetsu no teu rayba Character: Eu kimetsu no teu rayba
+[08/10/2021 01:47:16] [Info] Connecting: PlayerID: 76561198258953283 Name: BOT Ardo Character: Maiklitoris
+[08/10/2021 01:47:21] [Info] Connecting: PlayerID: 76561198350724813 Name: Manaos de Uva Character: Manaos de Uva
+[08/10/2021 01:47:44] [Info] Manaos de Uva [Manaos de Uva] was mauled by a zombie!
+[08/10/2021 01:47:48] [Info] Connecting: PlayerID: 76561199026720253 Name: joji Character: joji
+[08/10/2021 01:47:52] [Info] Connecting: PlayerID: 76561198317830253 Name: AlonSempai Character: AlonSempai
+[08/10/2021 01:48:02] [Info] Manaos de Uva [Manaos de Uva] killed themself.
+[08/10/2021 01:48:13] [Info] Manaos de Uva [Manaos de Uva] killed themself.
+[08/10/2021 01:48:28] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kit inicial"
+[08/10/2021 01:48:42] [Info] Connecting: PlayerID: 76561198883435343 Name: CIRIMAR Character: Espancador de Véia Rica
+[08/10/2021 01:49:38] [Info] Connecting: PlayerID: 76561198259959647 Name: elprofetabr Character: elprofetabr
+[08/10/2021 01:50:11] [Info] Connecting: PlayerID: 76561198320308648 Name: ViRTO Character: vitor_gamer_10
+[08/10/2021 01:51:30] [Info] Connecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/10/2021 01:52:55] [Info] elprofetabr [elprofetabr] was mauled by a zombie!
+[08/10/2021 01:54:04] [Info] [World] joji [joji]: "ae"
+[08/10/2021 01:54:08] [Info] [World] joji [joji]: "quem ja fez base?"
+[08/10/2021 01:54:17] [Info] [World] Zed [Frost]: "ue"
+[08/10/2021 01:54:40] [Info] [World] elprofetabr [elprofetabr]: "chegeui agora"
+[08/10/2021 01:55:31] [Info] Espancador de Véia Rica [CIRIMAR] was shot in the head by Zed [Frost]!
+[08/10/2021 01:55:39] [Info] [World] vitor_gamer_10 [ViRTO]: "/home"
+[08/10/2021 01:56:25] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 01:57:50] [Info] Connecting: PlayerID: 76561198395248298 Name: DarkAngel Character: DarkAngel
+[08/10/2021 01:57:53] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/10/2021 01:57:55] [Info] Eu kimetsu no teu rayba enabled Godmode
+[08/10/2021 01:57:55] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/10/2021 01:58:00] [Info] Eu kimetsu no teu rayba disabled Godmode
+[08/10/2021 01:58:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/unadmin kime"
+[08/10/2021 01:58:58] [Info] Maiklitoris [BOT Ardo] bled to death!
+[08/10/2021 01:59:02] [Info] Connecting: PlayerID: 76561198364735673 Name: Marcelin 2C DA VN Character: marcelosf2003
+[08/10/2021 01:59:18] [Info] [World] Zed [Frost]: "/kit inicial"
+[08/10/2021 01:59:51] [Info] Kicking for inactivity: PlayerID: 76561198258953283 Name: BOT Ardo Character: Maiklitoris
+[08/10/2021 01:59:58] [Info] Disconnecting: PlayerID: 76561198258953283 Name: BOT Ardo Character: Maiklitoris
+[08/10/2021 01:59:58] [Info] [Group] marcelosf2003 [Marcelin 2C DA VN]: "/kits"
+[08/10/2021 02:00:04] [Info] [Group] marcelosf2003 [Marcelin 2C DA VN]: "/kit inicial"
+[08/10/2021 02:00:10] [Info] Connecting: PlayerID: 76561198258953283 Name: BOT Ardo Character: Maiklitoris
+[08/10/2021 02:00:16] [Info] [World] DarkAngel [DarkAngel]: "/kit inicial]"
+[08/10/2021 02:00:21] [Info] [World] DarkAngel [DarkAngel]: "/kit inicial"
+[08/10/2021 02:00:25] [Info] Maiklitoris [BOT Ardo] killed themself.
+[08/10/2021 02:00:32] [Info] [World] DarkAngel [DarkAngel]: "/kits"
+[08/10/2021 02:00:45] [Info] vitor_gamer_10 [ViRTO] killed themself.
+[08/10/2021 02:00:50] [Info] [World] vitor_gamer_10 [ViRTO]: "/home"
+[08/10/2021 02:00:53] [Info] [World] vitor_gamer_10 [ViRTO]: "/home"
+[08/10/2021 02:01:02] [Info] [World] vitor_gamer_10 [ViRTO]: "/tpa espancador"
+[08/10/2021 02:01:03] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "/tpa accept"
+[08/10/2021 02:01:08] [Info] vitor_gamer_10 moved x:-1876.172 y:90.67188(+64.45063) z:444.9297 in the last second (0.2720947)
+[08/10/2021 02:04:14] [Info] Connecting: PlayerID: 76561199176217117 Name: badbot1332 Character: badbot1332
+[08/10/2021 02:04:45] [Info] [World] badbot1332 [badbot1332]: "/kit"
+[08/10/2021 02:04:56] [Info] [World] badbot1332 [badbot1332]: "/kits"
+[08/10/2021 02:05:02] [Info] [World] badbot1332 [badbot1332]: "/kit inicial"
+[08/10/2021 02:05:48] [Info] Connecting: PlayerID: 76561198129779109 Name: Red Character: Red
+[08/10/2021 02:06:08] [Info] elprofetabr [elprofetabr] bled to death!
+[08/10/2021 02:07:06] [Info] Player finished session: 76561199176217117
+[08/10/2021 02:07:07] [Info] Disconnecting: PlayerID: 76561199176217117 Name: badbot1332 Character: badbot1332
+[08/10/2021 02:07:07] [Info] Maiklitoris moved x:1664.901 y:133.0355(+83.3875) z:-710.3563 in the last second (0.1928101)
+[08/10/2021 02:07:17] [Info] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba] was mauled by a zombie!
+[08/10/2021 02:07:24] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit discord"
+[08/10/2021 02:07:28] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tpa joji"
+[08/10/2021 02:07:31] [Info] [World] joji [joji]: "/tpa a"
+[08/10/2021 02:07:53] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit inciial"
+[08/10/2021 02:07:58] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit inicial"
+[08/10/2021 02:08:32] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 02:08:45] [Info] Red [Red] was mauled by a zombie!
+[08/10/2021 02:09:10] [Info] Connecting: PlayerID: 76561199076254944 Name: Mochi Character: Pedro
+[08/10/2021 02:09:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tpa joji"
+[08/10/2021 02:09:25] [Info] [World] joji [joji]: "/tpa a"
+[08/10/2021 02:09:30] [Info] Eu kimetsu no teu rayba moved x:-1422.594 y:119.0391(+68.80562) z:1382.984 in the last second (0.2682724)
+[08/10/2021 02:09:38] [Info] [World] AlonSempai [AlonSempai]: "/kit inicial"
+[08/10/2021 02:09:58] [Info] Red [Red] was mauled by a zombie!
+[08/10/2021 02:10:22] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "/kit inicial"
+[08/10/2021 02:10:23] [Info] elprofetabr [elprofetabr] was shot in the torso by marcelosf2003 [Marcelin 2C DA VN]!
+[08/10/2021 02:10:47] [Info] Red [Red] was mauled by a zombie!
+[08/10/2021 02:13:50] [Info] Player finished session: 76561199029785900
+[08/10/2021 02:14:50] [Info] Disconnecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/10/2021 02:14:50] [Info] Red [Red] was mauled by a zombie!
+[08/10/2021 02:15:03] [Info] Connecting: PlayerID: 76561198169841269 Name: CacatuaHabilodosa Character: CacatuaEscura
+[08/10/2021 02:15:25] [Info] Connecting: PlayerID: 76561198164576516 Name: athosnery08 Character: athosnery08
+[08/10/2021 02:15:34] [Info] Saving server
+[08/10/2021 02:15:37] [Info] Connecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/10/2021 02:15:42] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kit inicial"
+[08/10/2021 02:16:08] [Info] Red [Red] was mauled by a zombie!
+[08/10/2021 02:16:09] [Info] Kicking for inactivity: PlayerID: 76561198320308648 Name: ViRTO Character: vitor_gamer_10
+[08/10/2021 02:16:35] [Info] Disconnecting: PlayerID: 76561198320308648 Name: ViRTO Character: vitor_gamer_10
+[08/10/2021 02:16:35] [Info] Connecting: PlayerID: 76561199039814463 Name: Katsuo Character: Katsuo
+[08/10/2021 02:17:01] [Info] Espancador de Véia Rica [CIRIMAR] was shot in the head by Zed [Frost]!
+[08/10/2021 02:17:05] [Info] Kicking for inactivity: PlayerID: 76561199039814463 Name: Katsuo Character: Katsuo
+[08/10/2021 02:17:15] [Info] Disconnecting: PlayerID: 76561199039814463 Name: Katsuo Character: Katsuo
+[08/10/2021 02:17:15] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "tnc fdp"
+[08/10/2021 02:17:18] [Info] [World] Espancador de Véia Rica [CIRIMAR]: "só pega costa"
+[08/10/2021 02:17:50] [Info] [World] Zed [Frost]: "kkkkkkkkkkkkkkkkk"
+[08/10/2021 02:18:14] [Info] [World] Zed [Frost]: "da tpa ai"
+[08/10/2021 02:18:22] [Info] Player finished session: 76561198883435343
+[08/10/2021 02:18:37] [Info] Disconnecting: PlayerID: 76561198883435343 Name: CIRIMAR Character: Espancador de Véia Rica
+[08/10/2021 02:18:37] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 02:18:43] [Info] Zed moved x:-1957.305 y:155.4519(+58.2784) z:650.2188 in the last second (0.1000061)
+[08/10/2021 02:18:48] [Info] DarkAngel [DarkAngel] was mauled by a zombie!
+[08/10/2021 02:18:53] [Info] [World] DarkAngel [DarkAngel]: "W/kits"
+[08/10/2021 02:19:00] [Info] [World] DarkAngel [DarkAngel]: "/KIT RECRUTA"
+[08/10/2021 02:19:05] [Info] [World] DarkAngel [DarkAngel]: "/kit inicial"
+[08/10/2021 02:19:20] [Info] Connecting: PlayerID: 76561199039814463 Name: Katsuo Character: Katsuo
+[08/10/2021 02:20:23] [Info] [World] Katsuo [Katsuo]: "/kit"
+[08/10/2021 02:20:30] [Info] [World] Katsuo [Katsuo]: "/kit player"
+[08/10/2021 02:20:38] [Info] [World] Katsuo [Katsuo]: "/kits"
+[08/10/2021 02:20:45] [Info] [World] Katsuo [Katsuo]: "/kit inicial"
+[08/10/2021 02:21:44] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/kit inicial"
+[08/10/2021 02:22:01] [Info] Connecting: PlayerID: 76561199007872041 Name: viniciusm378 Character: BolinhoPerdido
+[08/10/2021 02:23:03] [Info] marcelosf2003 [Marcelin 2C DA VN] was mauled by a zombie!
+[08/10/2021 02:23:09] [Info] [World] BolinhoPerdido [viniciusm378]: "/kit inicial"
+[08/10/2021 02:23:10] [Info] [World] Katsuo [Katsuo]: "/tpa"
+[08/10/2021 02:23:23] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa katsuro"
+[08/10/2021 02:23:23] [Info] [World] Katsuo [Katsuo]: "/tpa accept"
+[08/10/2021 02:23:38] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa katsuo"
+[08/10/2021 02:23:46] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa katsuo"
+[08/10/2021 02:24:00] [Info] [World] BolinhoPerdido [viniciusm378]: "/tpa CacatuaEscura"
+[08/10/2021 02:24:05] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa katsuo"
+[08/10/2021 02:24:12] [Info] Zed [Frost] bled to death!
+[08/10/2021 02:24:13] [Info] [World] Katsuo [Katsuo]: "/kit inicial"
+[08/10/2021 02:24:16] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 02:24:16] [Info] [World] Katsuo [Katsuo]: "/tpa accept"
+[08/10/2021 02:24:22] [Info] Zed moved x:-1956.998 y:155.4519(+128.6985) z:649.9694 in the last second (0.1000061)
+[08/10/2021 02:24:26] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa accept"
+[08/10/2021 02:24:30] [Info] [World] Katsuo [Katsuo]: "alo"
+[08/10/2021 02:24:42] [Info] DarkAngel [DarkAngel] was mauled by a zombie!
+[08/10/2021 02:24:53] [Info] marcelosf2003 [Marcelin 2C DA VN] was mauled by a zombie!
+[08/10/2021 02:24:56] [Info] [World] Katsuo [Katsuo]: "/tpa bolinhoperdido"
+[08/10/2021 02:25:05] [Info] [Area] BolinhoPerdido [viniciusm378]: "/tpa accept"
+[08/10/2021 02:25:11] [Info] Katsuo moved x:-557.6875 y:63.39063(+17.72532) z:-1567.898 in the last second (0.2712364)
+[08/10/2021 02:25:11] [Info] DarkAngel [DarkAngel] was mauled by a zombie!
+[08/10/2021 02:25:12] [Info] Player finished session: 76561198395248298
+[08/10/2021 02:25:14] [Info] Disconnecting: PlayerID: 76561198395248298 Name: DarkAngel Character: DarkAngel
+[08/10/2021 02:25:14] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa bolinhoperdido"
+[08/10/2021 02:25:16] [Info] Player finished session: 76561198364735673
+[08/10/2021 02:25:16] [Info] Disconnecting: PlayerID: 76561198364735673 Name: Marcelin 2C DA VN Character: marcelosf2003
+[08/10/2021 02:25:16] [Info] [Area] BolinhoPerdido [viniciusm378]: "/tpa accept"
+[08/10/2021 02:25:55] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa katsuo"
+[08/10/2021 02:25:57] [Info] [Area] BolinhoPerdido [viniciusm378]: "/tpa accept"
+[08/10/2021 02:25:58] [Info] BolinhoPerdido [viniciusm378] was roadkilled by joji [joji]!
+[08/10/2021 02:26:03] [Info] Katsuo [Katsuo] was shot in the arm by joji [joji]!
+[08/10/2021 02:26:14] [Info] [World] Katsuo [Katsuo]: "/kit inicial"
+[08/10/2021 02:26:15] [Info] [Area] BolinhoPerdido [viniciusm378]: "/kit inicial"
+[08/10/2021 02:27:16] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 02:27:26] [Info] CacatuaEscura [CacatuaHabilodosa] was shot in the head by joji [joji]!
+[08/10/2021 02:27:38] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa katsuo"
+[08/10/2021 02:27:46] [Info] [World] Katsuo [Katsuo]: "/tpa accept"
+[08/10/2021 02:28:23] [Info] CacatuaEscura [CacatuaHabilodosa] was shot in the head by Katsuo [Katsuo]!
+[08/10/2021 02:28:32] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa bolinhoperdido"
+[08/10/2021 02:28:38] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/kit inivil"
+[08/10/2021 02:28:44] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/kit inicial"
+[08/10/2021 02:29:11] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa katsuo"
+[08/10/2021 02:29:14] [Info] [World] Katsuo [Katsuo]: "/tpa accept"
+[08/10/2021 02:29:22] [Info] [World] Katsuo [Katsuo]: "/tpa accept"
+[08/10/2021 02:29:28] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa katsuo"
+[08/10/2021 02:29:46] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa katsuo"
+[08/10/2021 02:29:49] [Info] [World] Katsuo [Katsuo]: "/tpa accept"
+[08/10/2021 02:30:20] [Info] Katsuo [Katsuo] was mauled by a zombie!
+[08/10/2021 02:30:29] [Info] [World] Katsuo [Katsuo]: "/kit inicial"
+[08/10/2021 02:30:43] [Info] [World] Katsuo [Katsuo]: "/tpa cacatuaescura"
+[08/10/2021 02:30:53] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa accept"
+[08/10/2021 02:30:56] [Info] BolinhoPerdido [viniciusm378] was mauled by a zombie!
+[08/10/2021 02:31:18] [Info] [Area] BolinhoPerdido [viniciusm378]: "/kit inicial"
+[08/10/2021 02:31:31] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/home"
+[08/10/2021 02:31:35] [Info] [Area] BolinhoPerdido [viniciusm378]: "/tpa CacatuaEscura"
+[08/10/2021 02:31:37] [Info] Eu kimetsu no teu rayba moved x:-802.1875 y:192.868(+74.47287) z:1908.383 in the last second (0.1000061)
+[08/10/2021 02:31:45] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa accept"
+[08/10/2021 02:31:50] [Info] athosnery08 [athosnery08] was mauled by a zombie!
+[08/10/2021 02:32:00] [Info] [Area] BolinhoPerdido [viniciusm378]: "/tpa CacatuaEscura"
+[08/10/2021 02:32:08] [Info] CacatuaEscura [CacatuaHabilodosa] was shot in the head by Katsuo [Katsuo]!
+[08/10/2021 02:32:11] [Info] [Area] BolinhoPerdido [viniciusm378]: "/tpa CacatuaEscura"
+[08/10/2021 02:32:25] [Info] Red [Red] was shot in the torso by joji [joji]!
+[08/10/2021 02:32:26] [Info] [Area] BolinhoPerdido [viniciusm378]: "/tpa Katsuo"
+[08/10/2021 02:32:27] [Info] Pedro [Mochi] bled to death!
+[08/10/2021 02:32:29] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/kit inivial"
+[08/10/2021 02:32:36] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/kit inicial"
+[08/10/2021 02:32:42] [Info] [Area] BolinhoPerdido [viniciusm378]: "/tpa Katsuo"
+[08/10/2021 02:32:48] [Info] [World] Katsuo [Katsuo]: "/tpa accept"
+[08/10/2021 02:33:32] [Info] Player finished session: 76561198129779109
+[08/10/2021 02:33:39] [Info] Disconnecting: PlayerID: 76561198129779109 Name: Red Character: Red
+[08/10/2021 02:33:39] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa katsuo"
+[08/10/2021 02:33:39] [Info] Player finished session: 76561199076254944
+[08/10/2021 02:33:41] [Info] Disconnecting: PlayerID: 76561199076254944 Name: Mochi Character: Pedro
+[08/10/2021 02:33:41] [Info] [World] Katsuo [Katsuo]: "/tpa accept"
+[08/10/2021 02:34:18] [Info] BolinhoPerdido [viniciusm378] bled to death!
+[08/10/2021 02:34:29] [Info] athosnery08 [athosnery08] was dissolved by a zombie!
+[08/10/2021 02:34:35] [Info] [Area] BolinhoPerdido [viniciusm378]: "/tpa Katsuo"
+[08/10/2021 02:34:36] [Info] [World] Katsuo [Katsuo]: "/tpa accept"
+[08/10/2021 02:35:12] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 02:35:13] [Info] Katsuo [Katsuo] was shot in the head by CacatuaEscura [CacatuaHabilodosa]!
+[08/10/2021 02:35:21] [Info] [World] Katsuo [Katsuo]: "/tpa cacatuaescura"
+[08/10/2021 02:35:24] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 02:35:29] [Info] [World] CacatuaEscura [CacatuaHabilodosa]: "/tpa accept"
+[08/10/2021 02:35:32] [Info] [World] Katsuo [Katsuo]: "/kit inicial"
+[08/10/2021 02:36:04] [Info] joji moved x:-440.0469 y:92.53651(+43.3499) z:1062.367 in the last second (0.1837234)
+[08/10/2021 02:37:41] [Info] joji moved x:-1072.516 y:168.8516(+75.82516) z:1793.594 in the last second (0.7464752)
+[08/10/2021 02:38:12] [Info] joji moved x:-1041.359 y:235.0313(+66.75244) z:1981.328 in the last second (0.7493896)
+[08/10/2021 02:38:39] [Info] Connecting: PlayerID: 76561198796517696 Name: Konbo Character: Konbo
+[08/10/2021 02:38:50] [Info] Connecting: PlayerID: 76561198310820487 Name: Andarius Character: Andarius
+[08/10/2021 02:39:13] [Info] [World] Andarius [Andarius]: "/comands"
+[08/10/2021 02:39:16] [Info] joji [joji] was shot in the head by Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]!
+[08/10/2021 02:39:16] [Info] [World] Andarius [Andarius]: "/commands"
+[08/10/2021 02:39:20] [Info] [World] Andarius [Andarius]: "/kits"
+[08/10/2021 02:39:21] [Info] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba] bled to death!
+[08/10/2021 02:39:24] [Info] [World] Andarius [Andarius]: "/kit inicial"
+[08/10/2021 02:39:30] [Info] [World] joji [joji]: "/TPA kime"
+[08/10/2021 02:39:37] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/home"
+[08/10/2021 02:39:43] [Info] Eu kimetsu no teu rayba moved x:-802.1875 y:193.1233(+166.0913) z:1908.383 in the last second (0.3553467)
+[08/10/2021 02:39:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tpa a"
+[08/10/2021 02:39:49] [Info] [World] Manaos de Uva [Manaos de Uva]: "/kit inicial"
+[08/10/2021 02:39:52] [Info] [World] joji [joji]: "/TPA kime"
+[08/10/2021 02:40:04] [Info] [World] joji [joji]: "/TPA kime"
+[08/10/2021 02:40:08] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tpa a"
+[08/10/2021 02:40:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tpa a"
+[08/10/2021 02:40:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tpa a"
+[08/10/2021 02:40:14] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tpa a"
+[08/10/2021 02:40:15] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tpa a"
+[08/10/2021 02:40:26] [Info] joji [joji] killed themself.
+[08/10/2021 02:40:29] [Info] Player finished session: 76561199026720253
+[08/10/2021 02:41:08] [Info] Disconnecting: PlayerID: 76561199026720253 Name: joji Character: joji
+[08/10/2021 02:41:08] [Info] Player finished session: 76561198796517696
+[08/10/2021 02:42:20] [Info] Disconnecting: PlayerID: 76561198796517696 Name: Konbo Character: Konbo
+[08/10/2021 02:42:20] [Info] Player finished session: 76561199029785900
+[08/10/2021 02:43:02] [Info] Disconnecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/10/2021 02:43:02] [Info] Connecting: PlayerID: 76561198796517696 Name: Konbo Character: Konbo
+[08/10/2021 02:43:28] [Info] [World] Konbo [Konbo]: "/kit inicial"
+[08/10/2021 02:43:31] [Info] [World] Konbo [Konbo]: "/kits"
+[08/10/2021 02:44:50] [Info] [World] AlonSempai [AlonSempai]: "/kit incial"
+[08/10/2021 02:44:58] [Info] [World] AlonSempai [AlonSempai]: "/kit inicial"
+[08/10/2021 02:45:02] [Info] Maiklitoris [BOT Ardo] bled to death!
+[08/10/2021 02:45:17] [Info] Maiklitoris [BOT Ardo] killed themself.
+[08/10/2021 02:45:28] [Info] Maiklitoris [BOT Ardo] killed themself.
+[08/10/2021 02:45:34] [Info] Saving server
+[08/10/2021 02:46:48] [Info] Player finished session: 76561198258953283
+[08/10/2021 02:47:22] [Info] Disconnecting: PlayerID: 76561198258953283 Name: BOT Ardo Character: Maiklitoris
+[08/10/2021 02:47:22] [Info] Player finished session: 76561198317830253
+[08/10/2021 02:49:03] [Info] Disconnecting: PlayerID: 76561198317830253 Name: AlonSempai Character: AlonSempai
+[08/10/2021 02:49:03] [Info] Connecting: PlayerID: 76561198093433617 Name: ItsPatao | trade.tf Character: itspatao
+[08/10/2021 02:49:16] [Info] [World] itspatao [ItsPatao | trade.tf]: "/kits"
+[08/10/2021 02:49:30] [Info] [Area] itspatao [ItsPatao | trade.tf]: "/kits lnicial"
+[08/10/2021 02:49:37] [Info] [World] itspatao [ItsPatao | trade.tf]: "/kit lnicial"
+[08/10/2021 02:50:03] [Info] [World] itspatao [ItsPatao | trade.tf]: "/kit Inicial"
+[08/10/2021 02:50:48] [Info] Player finished session: 76561198350724813
+[08/10/2021 02:51:14] [Info] Disconnecting: PlayerID: 76561198350724813 Name: Manaos de Uva Character: Manaos de Uva
+[08/10/2021 02:51:14] [Info] elprofetabr moved x:-43.14844 y:74.02654(+24.83993) z:59.27344 in the last second (0.1015778)
+[08/10/2021 02:51:16] [Info] Connecting: PlayerID: 76561199121588365 Name: I’m_sorry Character: john
+[08/10/2021 02:52:00] [Info] Connecting: PlayerID: 76561198258255783 Name: Blooddrago2202 Character: Blooddrago2202
+[08/10/2021 02:52:06] [Info] [World] itspatao [ItsPatao | trade.tf]: "kit Inicial"
+[08/10/2021 02:52:35] [Info] [World] john [I’m_sorry]: "/kit Inicinl"
+[08/10/2021 02:53:14] [Info] [World] john [I’m_sorry]: "/kit Inical"
+[08/10/2021 02:53:54] [Info] [World] john [I’m_sorry]: "/kit Inicial"
+[08/10/2021 02:54:37] [Info] Konbo [Konbo] was mauled by a zombie!
+[08/10/2021 02:54:43] [Info] Katsuo [Katsuo] bled to death!
+[08/10/2021 02:55:05] [Info] [World] Konbo [Konbo]: "lag"
+[08/10/2021 02:55:06] [Info] Player finished session: 76561199039814463
+[08/10/2021 02:55:08] [Info] Disconnecting: PlayerID: 76561199039814463 Name: Katsuo Character: Katsuo
+[08/10/2021 02:55:08] [Info] Player finished session: 76561198169841269
+[08/10/2021 02:55:11] [Info] Disconnecting: PlayerID: 76561198169841269 Name: CacatuaHabilodosa Character: CacatuaEscura
+[08/10/2021 02:55:11] [Info] Player finished session: 76561199007872041
+[08/10/2021 02:55:16] [Info] Disconnecting: PlayerID: 76561199007872041 Name: viniciusm378 Character: BolinhoPerdido
+[08/10/2021 02:55:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/gom"
+[08/10/2021 02:55:18] [Info] Player finished session: 76561198796517696
+[08/10/2021 02:55:39] [Info] Disconnecting: PlayerID: 76561198796517696 Name: Konbo Character: Konbo
+[08/10/2021 02:55:39] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/home"
+[08/10/2021 02:55:44] [Info] Eu kimetsu no teu rayba moved x:-802.1875 y:193.3116(+60.2486) z:1908.383 in the last second (0.5437012)
+[08/10/2021 02:55:55] [Info] Connecting: PlayerID: 76561198796517696 Name: Konbo Character: Konbo
+[08/10/2021 02:56:06] [Info] [World] elprofetabr [elprofetabr]: "alguem sabe onde é facil encontrar um serrote"
+[08/10/2021 02:56:13] [Info] [World] Konbo [Konbo]: "fazenda"
+[08/10/2021 02:56:27] [Info] [World] elprofetabr [elprofetabr]: "vlw"
+[08/10/2021 02:57:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou deitar"
+[08/10/2021 02:57:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "boa noite"
+[08/10/2021 02:57:16] [Info] [World] Konbo [Konbo]: "flw"
+[08/10/2021 02:57:18] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "boa notie rapeize"
+[08/10/2021 02:57:19] [Info] Player finished session: 76561198310820487
+[08/10/2021 02:57:22] [Info] Disconnecting: PlayerID: 76561198310820487 Name: Andarius Character: Andarius
+[08/10/2021 02:57:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "flww"
+[08/10/2021 02:57:27] [Info] [World] elprofetabr [elprofetabr]: "boa"
+[08/10/2021 02:57:31] [Info] [World] Konbo [Konbo]: "/kits"
+[08/10/2021 02:57:36] [Info] [World] Konbo [Konbo]: "/kit inicial"
+[08/10/2021 02:57:47] [Info] Player finished session: 76561198942031373
+[08/10/2021 02:58:49] [Info] Disconnecting: PlayerID: 76561198942031373 Name: Eu kimetsu no teu rayba Character: Eu kimetsu no teu rayba
+[08/10/2021 02:58:49] [Info] Blooddrago2202 [Blooddrago2202] dehydrated to death!
+[08/10/2021 02:58:49] [Info] [World] Konbo [Konbo]: "alguem perdo da bm?"
+[08/10/2021 02:58:54] [Info] [World] Konbo [Konbo]: "perto*"
+[08/10/2021 03:07:05] [Info] Connecting: PlayerID: 76561199191125191 Name: zieglerkamdyn Character: zieglerkamdyn
+[08/10/2021 03:07:50] [Info] itspatao [ItsPatao | trade.tf] was shot in the torso by john [I’m_sorry]!
+[08/10/2021 03:08:02] [Info] [World] itspatao [ItsPatao | trade.tf]: "/tpa john"
+[08/10/2021 03:08:12] [Info] [World] john [I’m_sorry]: "/tpa a"
+[08/10/2021 03:08:50] [Info] [World] itspatao [ItsPatao | trade.tf]: "/tpa john"
+[08/10/2021 03:08:56] [Info] [World] john [I’m_sorry]: "/tpa a"
+[08/10/2021 03:09:02] [Info] itspatao moved x:687.5938 y:60.11063(+34.14797) z:-717.5781 in the last second (0.1028214)
+[08/10/2021 03:09:04] [Info] zieglerkamdyn [zieglerkamdyn] was mauled by a zombie!
+[08/10/2021 03:10:47] [Info] zieglerkamdyn [zieglerkamdyn] was mauled by a zombie!
+[08/10/2021 03:11:05] [Info] Player finished session: 76561199191125191
+[08/10/2021 03:13:42] [Info] Disconnecting: PlayerID: 76561199191125191 Name: zieglerkamdyn Character: zieglerkamdyn
+[08/10/2021 03:13:42] [Info] [World] Konbo [Konbo]: "/buy"
+[08/10/2021 03:13:46] [Info] [World] Konbo [Konbo]: "/kits"
+[08/10/2021 03:13:57] [Info] [World] Konbo [Konbo]: "/kit inicial"
+[08/10/2021 03:14:48] [Info] athosnery08 [athosnery08] bled to death!
+[08/10/2021 03:15:34] [Info] Saving server
+[08/10/2021 03:19:36] [Info] john [I’m_sorry] was mauled by a zombie!
+[08/10/2021 03:19:55] [Info] itspatao [ItsPatao | trade.tf] was mauled by a zombie!
+[08/10/2021 03:20:07] [Info] Player finished session: 76561198093433617
+[08/10/2021 03:20:10] [Info] Disconnecting: PlayerID: 76561198093433617 Name: ItsPatao | trade.tf Character: itspatao
+[08/10/2021 03:20:10] [Info] Player finished session: 76561199121588365
+[08/10/2021 03:25:37] [Info] Disconnecting: PlayerID: 76561199121588365 Name: I’m_sorry Character: john
+[08/10/2021 03:25:37] [Info] [World] Konbo [Konbo]: "/kit inicial"
+[08/10/2021 03:25:40] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "/home"
+[08/10/2021 03:25:45] [Info] Blooddrago2202 moved x:1425.328 y:119.0391(+85.82462) z:-1888.688 in the last second (0.7330399)
+[08/10/2021 03:25:45] [Info] Connecting: PlayerID: 76561199011787865 Name: Heavens_shadow Character: Heavens_shadow
+[08/10/2021 03:26:14] [Info] [World] Heavens_shadow [Heavens_shadow]: "/kits"
+[08/10/2021 03:26:20] [Info] [World] Heavens_shadow [Heavens_shadow]: "/kit inicial"
+[08/10/2021 03:27:38] [Info] [World] Heavens_shadow [Heavens_shadow]: "/kits"
+[08/10/2021 03:31:33] [Info] [World] Heavens_shadow [Heavens_shadow]: "/wild"
+[08/10/2021 03:31:35] [Info] [World] Heavens_shadow [Heavens_shadow]: "/warps"
+[08/10/2021 03:31:37] [Info] [World] Heavens_shadow [Heavens_shadow]: "/warp"
+[08/10/2021 03:31:38] [Info] [World] Heavens_shadow [Heavens_shadow]: "/warp town"
+[08/10/2021 03:31:42] [Info] [World] Heavens_shadow [Heavens_shadow]: "/home"
+[08/10/2021 03:33:15] [Info] [World] Heavens_shadow [Heavens_shadow]: "/balance"
+[08/10/2021 03:33:20] [Info] Heavens_shadow [Heavens_shadow] killed themself.
+[08/10/2021 03:33:32] [Info] Heavens_shadow [Heavens_shadow] killed themself.
+[08/10/2021 03:33:43] [Info] Heavens_shadow [Heavens_shadow] killed themself.
+[08/10/2021 03:34:21] [Info] Connecting: PlayerID: 76561198322628337 Name: Corporal Potato Character: hundredmedal700
+[08/10/2021 03:34:58] [Info] [World] elprofetabr [elprofetabr]: "paz"
+[08/10/2021 03:35:24] [Info] [World] athosnery08 [athosnery08]: "era tu?"
+[08/10/2021 03:35:36] [Info] [World] elprofetabr [elprofetabr]: "sou eu"
+[08/10/2021 03:35:43] [Info] Connecting: PlayerID: 76561198314293196 Name: Leinleon Character: Leinleon
+[08/10/2021 03:35:47] [Info] [World] elprofetabr [elprofetabr]: "to fazendo uma casinha"
+[08/10/2021 03:36:02] [Info] [World] athosnery08 [athosnery08]: "foi mal,pensei que era o cara que me matou"
+[08/10/2021 03:36:13] [Info] [World] elprofetabr [elprofetabr]: "serto"
+[08/10/2021 03:36:24] [Info] [World] elprofetabr [elprofetabr]: "certo"
+[08/10/2021 03:36:25] [Info] [World] athosnery08 [athosnery08]: "quer vida?"
+[08/10/2021 03:36:37] [Info] [World] elprofetabr [elprofetabr]: "eu tenho uma bandagem aqui"
+[08/10/2021 03:36:40] [Info] [World] elprofetabr [elprofetabr]: "vlw"
+[08/10/2021 03:36:54] [Info] Player finished session: 76561198258255783
+[08/10/2021 03:36:56] [Info] Disconnecting: PlayerID: 76561198258255783 Name: Blooddrago2202 Character: Blooddrago2202
+[08/10/2021 03:36:56] [Info] [World] athosnery08 [athosnery08]: "tabo,cuidado"
+[08/10/2021 03:37:03] [Info] [World] elprofetabr [elprofetabr]: "blz"
+[08/10/2021 03:37:27] [Info] Connecting: PlayerID: 76561198853422268 Name: Hayo Character: Hayo
+[08/10/2021 03:38:09] [Info] Player finished session: 76561198164576516
+[08/10/2021 03:38:16] [Info] Disconnecting: PlayerID: 76561198164576516 Name: athosnery08 Character: athosnery08
+[08/10/2021 03:38:16] [Info] [Area] Leinleon [Leinleon]: "No hablo portuñol"
+[08/10/2021 03:39:33] [Info] [World] Heavens_shadow [Heavens_shadow]: "/checkowner"
+[08/10/2021 03:42:30] [Info] Connecting: PlayerID: 76561198288260214 Name: PYRO Character: PYRO [pain]
+[08/10/2021 03:44:13] [Info] Player finished session: 76561198288260214
+[08/10/2021 03:45:16] [Info] Disconnecting: PlayerID: 76561198288260214 Name: PYRO Character: PYRO [pain]
+[08/10/2021 03:45:16] [Info] [Area] hundredmedal700 [Corporal Potato]: "a mimir"
+[08/10/2021 03:45:21] [Info] [World] elprofetabr [elprofetabr]: "como faço pra tancar a porta da casa"
+[08/10/2021 03:45:26] [Info] [World] elprofetabr [elprofetabr]: "alguem sabe"
+[08/10/2021 03:45:29] [Info] [World] Konbo [Konbo]: "faz porta de ferro"
+[08/10/2021 03:45:34] [Info] Saving server
+[08/10/2021 03:45:42] [Info] [World] elprofetabr [elprofetabr]: "a blz"
+[08/10/2021 03:45:44] [Info] [World] elprofetabr [elprofetabr]: "vlw"
+[08/10/2021 03:48:37] [Info] [World] Heavens_shadow [Heavens_shadow]: "/kits"
+[08/10/2021 03:48:42] [Info] [World] Heavens_shadow [Heavens_shadow]: "/kit inicial"
+[08/10/2021 03:52:00] [Info] Connecting: PlayerID: 76561198077886357 Name: naaachhoo Character: nachou
+[08/10/2021 03:53:14] [Info] Connecting: PlayerID: 76561198080125987 Name: Allan DeuZ Character: Allan DeuZ
+[08/10/2021 03:53:22] [Info] Player finished session: 76561198080125987
+[08/10/2021 03:54:20] [Info] Disconnecting: PlayerID: 76561198080125987 Name: Allan DeuZ Character: Allan DeuZ
+[08/10/2021 03:54:20] [Info] nachou [naaachhoo] was mauled by a zombie!
+[08/10/2021 03:54:32] [Info] Connecting: PlayerID: 76561198080125987 Name: Allan DeuZ Character: Allan DeuZ
+[08/10/2021 03:54:36] [Info] Player finished session: 76561198080125987
+[08/10/2021 03:55:12] [Info] Disconnecting: PlayerID: 76561198080125987 Name: Allan DeuZ Character: Allan DeuZ
+[08/10/2021 03:55:12] [Info] [World] Konbo [Konbo]: "/home"
+[08/10/2021 03:55:17] [Info] Konbo moved x:1268.664 y:170.1241(+49.55746) z:1342.273 in the last second (0.5471191)
+[08/10/2021 03:55:23] [Info] Konbo [Konbo] killed themself.
+[08/10/2021 03:55:27] [Info] [World] Konbo [Konbo]: "/home"
+[08/10/2021 03:56:43] [Info] [World] Konbo [Konbo]: "/home"
+[08/10/2021 03:57:08] [Info] Konbo [Konbo] killed themself.
+[08/10/2021 03:57:38] [Info] Konbo moved x:1268.664 y:169.9358(+107.0496) z:1342.273 in the last second (0.3587646)
+[08/10/2021 03:58:34] [Info] Connecting: PlayerID: 76561198080125987 Name: Allan DeuZ Character: Allan DeuZ
+[08/10/2021 03:59:31] [Info] hundredmedal700 [Corporal Potato] was blown up by a vehicle!
+[08/10/2021 04:00:44] [Info] Leinleon [Leinleon] was blown up by a vehicle!
+[08/10/2021 04:00:44] [Info] Player finished session: 76561198796517696
+[08/10/2021 04:01:37] [Info] Disconnecting: PlayerID: 76561198796517696 Name: Konbo Character: Konbo
+[08/10/2021 04:01:37] [Info] Heavens_shadow [Heavens_shadow] was mauled by a zombie!
+[08/10/2021 04:02:45] [Info] Connecting: PlayerID: 76561199180330995 Name: jaydentimpa Character: jaydentimpa
+[08/10/2021 04:02:46] [Info] Connecting: PlayerID: 76561198796517696 Name: Konbo Character: Konbo
+[08/10/2021 04:02:54] [Info] [World] Konbo [Konbo]: "/kit discord"
+[08/10/2021 04:03:03] [Info] Heavens_shadow [Heavens_shadow] was mauled by a zombie!
+[08/10/2021 04:03:15] [Info] [World] Konbo [Konbo]: "/kit inicial"
+[08/10/2021 04:03:29] [Info] [Area] jaydentimpa [jaydentimpa]: "/kits"
+[08/10/2021 04:03:31] [Info] Player finished session: 76561199011787865
+[08/10/2021 04:03:38] [Info] Disconnecting: PlayerID: 76561199011787865 Name: Heavens_shadow Character: Heavens_shadow
+[08/10/2021 04:03:38] [Info] [Area] jaydentimpa [jaydentimpa]: "/kit inicial"
+[08/10/2021 04:05:06] [Info] Connecting: PlayerID: 76561199013959130 Name: GUTÃO Character: GUTÃO
+[08/10/2021 04:05:32] [Info] [World] GUTÃO [GUTÃO]: "/kit"
+[08/10/2021 04:05:44] [Info] [World] GUTÃO [GUTÃO]: "/kits"
+[08/10/2021 04:05:57] [Info] [World] GUTÃO [GUTÃO]: "/kit inicial"
+[08/10/2021 04:06:15] [Info] Connecting: PlayerID: 76561198164576516 Name: athosnery08 Character: athosnery08
+[08/10/2021 04:12:08] [Info] [World] athosnery08 [athosnery08]: "voces de dupla tao pvp?"
+[08/10/2021 04:12:42] [Info] [World] athosnery08 [athosnery08]: "no predio cinza"
+[08/10/2021 04:13:18] [Info] [World] elprofetabr [elprofetabr]: "vcs dois ai no na delegacia tao pvp"
+[08/10/2021 04:13:48] [Info] jaydentimpa [jaydentimpa] was chopped in the head by Konbo [Konbo]!
+[08/10/2021 04:13:55] [Info] [Area] jaydentimpa [jaydentimpa]: "/kit inicail"
+[08/10/2021 04:14:01] [Info] [Area] jaydentimpa [jaydentimpa]: "/kit inicial"
+[08/10/2021 04:14:30] [Info] [Area] jaydentimpa [jaydentimpa]: "/skills"
+[08/10/2021 04:15:24] [Info] [World] elprofetabr [elprofetabr]: "paz"
+[08/10/2021 04:15:29] [Info] jaydentimpa [jaydentimpa] was shot in the head by Konbo [Konbo]!
+[08/10/2021 04:15:34] [Info] Saving server
+[08/10/2021 04:15:36] [Info] [World] athosnery08 [athosnery08]: "tem 2 la na frente"
+[08/10/2021 04:15:41] [Info] [World] athosnery08 [athosnery08]: "cuidado"
+[08/10/2021 04:15:43] [Info] [Area] jaydentimpa [jaydentimpa]: "/kit inicial"
+[08/10/2021 04:15:48] [Info] [World] elprofetabr [elprofetabr]: "eu vi"
+[08/10/2021 04:15:55] [Info] [World] elprofetabr [elprofetabr]: "e sai correndo"
+[08/10/2021 04:16:11] [Info] [World] elprofetabr [elprofetabr]: "toma"
+[08/10/2021 04:16:18] [Info] [World] athosnery08 [athosnery08]: "pode pega"
+[08/10/2021 04:16:46] [Info] [World] athosnery08 [athosnery08]: "valeu"
+[08/10/2021 04:16:54] [Info] [Area] jaydentimpa [jaydentimpa]: "/kit inicial"
+[08/10/2021 04:17:37] [Info] [Area] jaydentimpa [jaydentimpa]: "/kit inicial"
+[08/10/2021 04:17:40] [Info] [World] elprofetabr [elprofetabr]: "to quase terminando mina casa"
+[08/10/2021 04:18:02] [Info] [World] athosnery08 [athosnery08]: "boa aqui perto é bom"
+[08/10/2021 04:18:06] [Info] [Area] jaydentimpa [jaydentimpa]: "/kit inicial"
+[08/10/2021 04:18:29] [Info] [World] elprofetabr [elprofetabr]: "ela fica um pouco camuflada"
+[08/10/2021 04:18:35] [Info] [Area] jaydentimpa [jaydentimpa]: "/kit inicial"
+[08/10/2021 04:18:47] [Info] [World] elprofetabr [elprofetabr]: "vou la"
+[08/10/2021 04:18:59] [Info] [World] athosnery08 [athosnery08]: "saquei boa sorte"
+[08/10/2021 04:19:01] [Info] [Area] jaydentimpa [jaydentimpa]: "/kit inicial"
+[08/10/2021 04:19:13] [Info] [World] elprofetabr [elprofetabr]: "vlw"
+[08/10/2021 04:22:26] [Info] Connecting: PlayerID: 76561198258255783 Name: Blooddrago2202 Character: Blooddrago2202
+[08/10/2021 04:22:44] [Info] jaydentimpa [jaydentimpa] was shot in the head by Konbo [Konbo]!
+[08/10/2021 04:22:59] [Info] [Area] jaydentimpa [jaydentimpa]: "/kit inicial"
+[08/10/2021 04:23:56] [Info] Players:
+[08/10/2021 04:23:56] [Info] PlayerID: 76561198259959647 Name: elprofetabr Character: elprofetabr Ping: 63
+[08/10/2021 04:23:56] [Info] PlayerID: 76561198322628337 Name: Corporal Potato Character: hundredmedal700 Ping: 113
+[08/10/2021 04:23:56] [Info] PlayerID: 76561198314293196 Name: Leinleon Character: Leinleon Ping: 92
+[08/10/2021 04:23:56] [Info] PlayerID: 76561198853422268 Name: Hayo Character: Hayo Ping: 147
+[08/10/2021 04:23:56] [Info] PlayerID: 76561198077886357 Name: naaachhoo Character: nachou Ping: 63
+[08/10/2021 04:23:56] [Info] PlayerID: 76561198080125987 Name: Allan DeuZ Character: Allan DeuZ Ping: 75
+[08/10/2021 04:23:56] [Info] PlayerID: 76561199180330995 Name: jaydentimpa Character: jaydentimpa Ping: 246
+[08/10/2021 04:23:56] [Info] PlayerID: 76561198796517696 Name: Konbo Character: Konbo Ping: 42
+[08/10/2021 04:23:56] [Info] PlayerID: 76561199013959130 Name: GUTÃO Character: GUTÃO Ping: 18
+[08/10/2021 04:23:56] [Info] PlayerID: 76561198164576516 Name: athosnery08 Character: athosnery08 Ping: 78
+[08/10/2021 04:23:56] [Info] PlayerID: 76561198258255783 Name: Blooddrago2202 Character: Blooddrago2202 Ping: 30
+[08/10/2021 04:29:04] [Info] jaydentimpa [jaydentimpa] was dissolved by a zombie!
+[08/10/2021 04:29:23] [Info] Player finished session: 76561199180330995
+[08/10/2021 04:32:20] [Info] Disconnecting: PlayerID: 76561199180330995 Name: jaydentimpa Character: jaydentimpa
+[08/10/2021 04:32:20] [Info] nachou [naaachhoo] was burned by a zombie!
+[08/10/2021 04:34:31] [Info] Player finished session: 76561198077886357
+[08/10/2021 04:34:51] [Info] Disconnecting: PlayerID: 76561198077886357 Name: naaachhoo Character: nachou
+[08/10/2021 04:34:51] [Info] Allan DeuZ [Allan DeuZ] was mauled by a zombie!
+[08/10/2021 04:34:56] [Info] Player finished session: 76561198080125987
+[08/10/2021 04:36:12] [Info] Disconnecting: PlayerID: 76561198080125987 Name: Allan DeuZ Character: Allan DeuZ
+[08/10/2021 04:36:12] [Info] Hayo [Hayo] dehydrated to death!
+[08/10/2021 04:37:23] [Info] hundredmedal700 [Corporal Potato] was shot in the torso by Konbo [Konbo]!
+[08/10/2021 04:38:17] [Info] Leinleon [Leinleon] was shot in the head by Konbo [Konbo]!
+[08/10/2021 04:39:16] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "/kit inicial"
+[08/10/2021 04:45:34] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/home"
+[08/10/2021 04:45:34] [Info] Saving server
+[08/10/2021 04:46:03] [Info] Player finished session: 76561198258255783
+[08/10/2021 04:46:38] [Info] Disconnecting: PlayerID: 76561198258255783 Name: Blooddrago2202 Character: Blooddrago2202
+[08/10/2021 04:46:38] [Info] Player finished session: 76561198164576516
+[08/10/2021 04:47:35] [Info] Disconnecting: PlayerID: 76561198164576516 Name: athosnery08 Character: athosnery08
+[08/10/2021 04:47:35] [Info] Player finished session: 76561198796517696
+[08/10/2021 04:47:55] [Info] Disconnecting: PlayerID: 76561198796517696 Name: Konbo Character: Konbo
+[08/10/2021 04:47:55] [Info] Player finished session: 76561199013959130
+[08/10/2021 04:51:13] [Info] Disconnecting: PlayerID: 76561199013959130 Name: GUTÃO Character: GUTÃO
+[08/10/2021 04:51:13] [Info] Leinleon [Leinleon] killed themself.
+[08/10/2021 04:59:34] [Info] hundredmedal700 [Corporal Potato] was mauled by a zombie!
+[08/10/2021 05:03:03] [Info] Hayo [Hayo] was mauled by a zombie!
+[08/10/2021 05:03:55] [Info] Hayo [Hayo] was mauled by a zombie!
+[08/10/2021 05:04:30] [Info] Connecting: PlayerID: 76561198146616869 Name: murdermittens Character: murdermittens
+[08/10/2021 05:04:44] [Info] Player finished session: 76561198322628337
+[08/10/2021 05:04:45] [Info] Disconnecting: PlayerID: 76561198322628337 Name: Corporal Potato Character: hundredmedal700
+[08/10/2021 05:04:45] [Info] [World] murdermittens [murdermittens]: "/kits"
+[08/10/2021 05:04:52] [Info] [World] murdermittens [murdermittens]: "/kit inicial"
+[08/10/2021 05:05:03] [Info] Player finished session: 76561198853422268
+[08/10/2021 05:09:12] [Info] Disconnecting: PlayerID: 76561198853422268 Name: Hayo Character: Hayo
+[08/10/2021 05:09:12] [Info] Player finished session: 76561198146616869
+[08/10/2021 05:15:34] [Info] Disconnecting: PlayerID: 76561198146616869 Name: murdermittens Character: murdermittens
+[08/10/2021 05:15:34] [Info] Saving server
+[08/10/2021 05:25:45] [Info] Player finished session: 76561198314293196
+[08/10/2021 05:45:34] [Info] Disconnecting: PlayerID: 76561198314293196 Name: Leinleon Character: Leinleon
+[08/10/2021 05:45:34] [Info] Saving server
+[08/10/2021 05:58:43] [Info] elprofetabr moved x:-59.54688 y:76.98352(+28.00559) z:61.0625 in the last second (0.5565414)
+[08/10/2021 06:15:34] [Info] Saving server
+[08/10/2021 06:45:34] [Info] Saving server
+[08/10/2021 06:50:29] [Info] elprofetabr moved x:-1288.382 y:117.0521(+58.883) z:1400.725 in the last second (0.1013947)
+[08/10/2021 06:54:32] [Info] Connecting: PlayerID: 76561198258255783 Name: Blooddrago2202 Character: Blooddrago2202
+[08/10/2021 07:00:40] [Info] [World] Blooddrago2202 [Blooddrago2202]: "ai maninho"
+[08/10/2021 07:01:06] [Info] [World] Blooddrago2202 [Blooddrago2202]: "eu literalmente n tenho nada mas so qria avisar q eu n to com vontade de tomar uma bala"
+[08/10/2021 07:01:11] [Info] [World] Blooddrago2202 [Blooddrago2202]: "a gente pd ficar safe?"
+[08/10/2021 07:01:20] [Info] [World] elprofetabr [elprofetabr]: "pode"
+[08/10/2021 07:01:23] [Info] [World] Blooddrago2202 [Blooddrago2202]: "nice"
+[08/10/2021 07:01:30] [Info] [World] elprofetabr [elprofetabr]: "tais a onde"
+[08/10/2021 07:01:34] [Info] [World] elprofetabr [elprofetabr]: "te ajudo"
+[08/10/2021 07:01:39] [Info] [World] Blooddrago2202 [Blooddrago2202]: "to indo pra military"
+[08/10/2021 07:01:48] [Info] [World] elprofetabr [elprofetabr]: "ja to nela"
+[08/10/2021 07:01:55] [Info] [World] Blooddrago2202 [Blooddrago2202]: "pss dar tpa ent?"
+[08/10/2021 07:02:03] [Info] [World] Blooddrago2202 [Blooddrago2202]: "so qria farmar msm"
+[08/10/2021 07:02:08] [Info] [World] elprofetabr [elprofetabr]: "vem po"
+[08/10/2021 07:02:14] [Info] [World] elprofetabr [elprofetabr]: "nao vou fazer nada"
+[08/10/2021 07:02:14] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/tpa elpro"
+[08/10/2021 07:02:52] [Info] [World] elprofetabr [elprofetabr]: "/tpa accept/deny"
+[08/10/2021 07:03:00] [Info] [World] elprofetabr [elprofetabr]: "nao sei usar isso"
+[08/10/2021 07:03:06] [Info] [World] elprofetabr [elprofetabr]: "como faz"
+[08/10/2021 07:03:14] [Info] [World] Blooddrago2202 [Blooddrago2202]: "so tu dar /tpa a"
+[08/10/2021 07:03:21] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/tpa elpro"
+[08/10/2021 07:03:34] [Info] [World] elprofetabr [elprofetabr]: "/tpa a"
+[08/10/2021 07:03:43] [Info] [World] elprofetabr [elprofetabr]: "/tpa"
+[08/10/2021 07:04:10] [Info] [World] Blooddrago2202 [Blooddrago2202]: "nd?"
+[08/10/2021 07:04:28] [Info] [World] elprofetabr [elprofetabr]: "tenho que por so /TPA"
+[08/10/2021 07:04:39] [Info] [World] elprofetabr [elprofetabr]: "ou boto mais alguma coisa"
+[08/10/2021 07:04:42] [Info] [World] Blooddrago2202 [Blooddrago2202]: "tu temq dar /tpa accept"
+[08/10/2021 07:04:50] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/tpa elpro"
+[08/10/2021 07:05:06] [Info] [World] elprofetabr [elprofetabr]: "/tpa accept"
+[08/10/2021 07:05:35] [Info] [World] elprofetabr [elprofetabr]: "mostra you don't any tpa request"
+[08/10/2021 07:05:53] [Info] [World] Blooddrago2202 [Blooddrago2202]: "é pq temq ser logo dps de eu mandar"
+[08/10/2021 07:06:00] [Info] [World] Blooddrago2202 [Blooddrago2202]: "qnd aparecer a msg amarela c escreve"
+[08/10/2021 07:06:10] [Info] [World] elprofetabr [elprofetabr]: "vai manda"
+[08/10/2021 07:06:13] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/tpa elpro"
+[08/10/2021 07:06:22] [Info] [World] elprofetabr [elprofetabr]: "/tpa accept"
+[08/10/2021 07:06:26] [Info] [World] Blooddrago2202 [Blooddrago2202]: "boa"
+[08/10/2021 07:06:29] [Info] [World] elprofetabr [elprofetabr]: "foi"
+[08/10/2021 07:06:38] [Info] [World] elprofetabr [elprofetabr]: "cade tu"
+[08/10/2021 07:06:46] [Info] [World] Blooddrago2202 [Blooddrago2202]: "tu andou? sajdnjasndjosanda"
+[08/10/2021 07:06:53] [Info] [World] Blooddrago2202 [Blooddrago2202]: "temq ficar paradass"
+[08/10/2021 07:06:57] [Info] [World] elprofetabr [elprofetabr]: "aaaaaa"
+[08/10/2021 07:06:59] [Info] [World] elprofetabr [elprofetabr]: "ksksksk"
+[08/10/2021 07:07:04] [Info] [World] Blooddrago2202 [Blooddrago2202]: "mb o role todo"
+[08/10/2021 07:07:14] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "/tpa elpro"
+[08/10/2021 07:07:22] [Info] [World] elprofetabr [elprofetabr]: "/tpa accept"
+[08/10/2021 07:07:27] [Info] Blooddrago2202 moved x:-1518.094 y:119.0391(+36.76572) z:1436.164 in the last second (0.2717743)
+[08/10/2021 07:07:32] [Info] [World] elprofetabr [elprofetabr]: "ae"
+[08/10/2021 07:07:34] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "sallllve"
+[08/10/2021 07:07:38] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "vlw mano"
+[08/10/2021 07:07:55] [Info] [World] elprofetabr [elprofetabr]: "toma"
+[08/10/2021 07:08:06] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "thx man"
+[08/10/2021 07:08:12] [Info] [World] elprofetabr [elprofetabr]: "pega"
+[08/10/2021 07:08:15] [Info] [World] elprofetabr [elprofetabr]: "o pente"
+[08/10/2021 07:09:25] [Info] [World] elprofetabr [elprofetabr]: "eu puz gasosa"
+[08/10/2021 07:09:36] [Info] [World] Blooddrago2202 [Blooddrago2202]: "asjdnjsanda mb dei lock ja ja tiro"
+[08/10/2021 07:09:50] [Info] [World] elprofetabr [elprofetabr]: "esqueci de travar"
+[08/10/2021 07:09:53] [Info] [World] elprofetabr [elprofetabr]: "tava solo"
+[08/10/2021 07:09:55] [Info] [World] elprofetabr [elprofetabr]: "kskks"
+[08/10/2021 07:15:34] [Info] Saving server
+[08/10/2021 07:21:06] [Info] [World] Blooddrago2202 [Blooddrago2202]: "oh ja volto ai"
+[08/10/2021 07:23:53] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/home"
+[08/10/2021 07:27:01] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/kit inicial"
+[08/10/2021 07:31:33] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/tpa elpro"
+[08/10/2021 07:31:51] [Info] [World] elprofetabr [elprofetabr]: "manda"
+[08/10/2021 07:32:02] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/tpa elpro"
+[08/10/2021 07:32:07] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/tpa elpro"
+[08/10/2021 07:32:13] [Info] [World] elprofetabr [elprofetabr]: "/tpa accept"
+[08/10/2021 07:32:45] [Info] [World] elprofetabr [elprofetabr]: "me da essa pistola ai pra eu ver se da pra upar ela"
+[08/10/2021 07:33:01] [Info] [World] elprofetabr [elprofetabr]: "pera"
+[08/10/2021 07:33:04] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "pistolinha velha so pra n gastar outras armas kkk"
+[08/10/2021 07:33:55] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "daora"
+[08/10/2021 07:33:58] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "usou os kits?"
+[08/10/2021 07:34:05] [Info] [World] elprofetabr [elprofetabr]: "nao"
+[08/10/2021 07:34:11] [Info] [World] elprofetabr [elprofetabr]: "usei isso"
+[08/10/2021 07:34:17] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "isso"
+[08/10/2021 07:34:20] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "os kits asndjasndnada"
+[08/10/2021 07:34:24] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "os kits asndjsndjanda"
+[08/10/2021 07:34:29] [Info] [World] elprofetabr [elprofetabr]: "ele modifica algumas armas"
+[08/10/2021 07:34:34] [Info] [World] elprofetabr [elprofetabr]: "ksksks"
+[08/10/2021 07:34:36] [Info] [World] Blooddrago2202 [Blooddrago2202]: "vai vazar?"
+[08/10/2021 07:34:39] [Info] [World] elprofetabr [elprofetabr]: "nao"
+[08/10/2021 07:34:51] [Info] [World] elprofetabr [elprofetabr]: "eu queria por uma caixa no carro"
+[08/10/2021 07:34:56] [Info] [World] elprofetabr [elprofetabr]: "mas acho que nao da"
+[08/10/2021 07:34:56] [Info] [World] Blooddrago2202 [Blooddrago2202]: "pss pegar esse carro aq?kasmdadada"
+[08/10/2021 07:35:04] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "acho eu q n da nesse"
+[08/10/2021 07:35:15] [Info] [World] elprofetabr [elprofetabr]: "pega"
+[08/10/2021 07:35:15] [Info] [World] Blooddrago2202 [Blooddrago2202]: "noice"
+[08/10/2021 07:40:16] [Info] [World] elprofetabr [elprofetabr]: "se tem alguma comida ai"
+[08/10/2021 07:40:20] [Info] [World] Blooddrago2202 [Blooddrago2202]: "nd"
+[08/10/2021 07:40:27] [Info] [World] Blooddrago2202 [Blooddrago2202]: "pede o kit inicial"
+[08/10/2021 07:40:41] [Info] [World] elprofetabr [elprofetabr]: "como faz"
+[08/10/2021 07:41:03] [Info] [World] elprofetabr [elprofetabr]: "so mo noob em kit"
+[08/10/2021 07:41:04] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "vc digita /kit inicial"
+[08/10/2021 07:41:13] [Info] [World] elprofetabr [elprofetabr]: "blz"
+[08/10/2021 07:41:24] [Info] [World] elprofetabr [elprofetabr]: "/kit inicial"
+[08/10/2021 07:41:35] [Info] [World] elprofetabr [elprofetabr]: "boa"
+[08/10/2021 07:45:34] [Info] Saving server
+[08/10/2021 07:48:59] [Info] elprofetabr [elprofetabr] bled to death!
+[08/10/2021 07:49:21] [Info] [World] elprofetabr [elprofetabr]: "como dou tp ai"
+[08/10/2021 07:50:09] [Info] [World] Blooddrago2202 [Blooddrago2202]: "so me dar tp"
+[08/10/2021 07:50:21] [Info] [World] Blooddrago2202 [Blooddrago2202]: "vc digita /tpa e meu nome"
+[08/10/2021 07:50:28] [Info] [World] elprofetabr [elprofetabr]: "blz"
+[08/10/2021 07:50:52] [Info] [World] elprofetabr [elprofetabr]: "/tpa Blooddrago2202"
+[08/10/2021 07:50:54] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/tpa a"
+[08/10/2021 07:51:00] [Info] elprofetabr moved x:-1222.516 y:113.7711(+84.36037) z:1353.016 in the last second (0.1000977)
+[08/10/2021 07:51:02] [Info] [World] elprofetabr [elprofetabr]: "vlw"
+[08/10/2021 07:51:06] [Info] [World] Blooddrago2202 [Blooddrago2202]: "ta ai td"
+[08/10/2021 07:51:11] [Info] [World] elprofetabr [elprofetabr]: "blw"
+[08/10/2021 07:51:15] [Info] [World] elprofetabr [elprofetabr]: "blz"
+[08/10/2021 07:51:21] [Info] [World] Blooddrago2202 [Blooddrago2202]: "ouw esse rangefinder ai n qr me dar ele n ?sadnjasdnjasndsanda"
+[08/10/2021 07:52:51] [Info] [World] elprofetabr [elprofetabr]: "toma"
+[08/10/2021 07:53:12] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "seriao????????"
+[08/10/2021 07:53:14] [Info] [World] elprofetabr [elprofetabr]: "pega ai"
+[08/10/2021 07:53:18] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "c e foda ksdjasnsda"
+[08/10/2021 07:53:43] [Info] [World] elprofetabr [elprofetabr]: "eu puz essas coisa ai"
+[08/10/2021 07:53:49] [Info] [World] elprofetabr [elprofetabr]: "se quiser eu tiro"
+[08/10/2021 07:53:52] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "eu vi kkk"
+[08/10/2021 07:53:55] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "n rlx"
+[08/10/2021 07:53:57] [Info] [World] elprofetabr [elprofetabr]: "ksksks"
+[08/10/2021 07:53:58] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "eu ia colocar dps"
+[08/10/2021 07:54:11] [Info] [World] elprofetabr [elprofetabr]: "eu tiro e te dou"
+[08/10/2021 07:54:34] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "ai...tlgd q e complicado mas c precisar de um aliado pd chamar"
+[08/10/2021 07:54:41] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "chamar no disc inclusive"
+[08/10/2021 07:54:55] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "tmj"
+[08/10/2021 07:54:55] [Info] [World] elprofetabr [elprofetabr]: "eu to sem discord"
+[08/10/2021 07:55:07] [Info] [World] elprofetabr [elprofetabr]: "nao baixei porque to sem redset"
+[08/10/2021 07:55:24] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "n rlx...mas qnd precisar aq no sv pd chamar"
+[08/10/2021 07:55:33] [Info] [World] elprofetabr [elprofetabr]: "blz"
+[08/10/2021 07:55:52] [Info] [World] elprofetabr [elprofetabr]: "nao da pra por no meu"
+[08/10/2021 07:55:56] [Info] [World] elprofetabr [elprofetabr]: "que estranho"
+[08/10/2021 07:56:47] [Info] [World] elprofetabr [elprofetabr]: "se matou o grandao"
+[08/10/2021 07:56:55] [Info] [World] elprofetabr [elprofetabr]: "aquele filha da mae"
+[08/10/2021 07:57:01] [Info] [World] elprofetabr [elprofetabr]: "me deu uma pedrada"
+[08/10/2021 07:57:03] [Info] [World] Blooddrago2202 [Blooddrago2202]: "acho q n acho q ele so voltou la pra dentro"
+[08/10/2021 07:57:06] [Info] [World] Blooddrago2202 [Blooddrago2202]: "vmov e"
+[08/10/2021 07:57:09] [Info] [World] Blooddrago2202 [Blooddrago2202]: "vmo ve"
+[08/10/2021 07:57:31] [Info] [World] elprofetabr [elprofetabr]: "ele ta ai"
+[08/10/2021 07:57:36] [Info] [World] Blooddrago2202 [Blooddrago2202]: "ss"
+[08/10/2021 07:59:07] [Info] [World] Blooddrago2202 [Blooddrago2202]: "nice"
+[08/10/2021 08:01:05] [Info] [World] Blooddrago2202 [Blooddrago2202]: "ja volto ai"
+[08/10/2021 08:01:24] [Info] [World] elprofetabr [elprofetabr]: "to indo guardar  umas coisas"
+[08/10/2021 08:01:30] [Info] [World] Blooddrago2202 [Blooddrago2202]: "blz"
+[08/10/2021 08:06:28] [Info] Blooddrago2202 moved x:1613.297 y:95.13281(+44.38706) z:-223.1172 in the last second (0.7490234)
+[08/10/2021 08:06:37] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "/home"
+[08/10/2021 08:06:43] [Info] Blooddrago2202 moved x:1425.328 y:118.406(+23.89297) z:-1888.688 in the last second (0.09999847)
+[08/10/2021 08:07:25] [Info] Blooddrago2202 [Blooddrago2202] was infected to death!
+[08/10/2021 08:08:13] [Info] elprofetabr [elprofetabr] was shredded to bits!
+[08/10/2021 08:15:34] [Info] Saving server
+[08/10/2021 08:32:37] [Info] [World] elprofetabr [elprofetabr]: "vou sair mam"
+[08/10/2021 08:32:45] [Info] [World] Blooddrago2202 [Blooddrago2202]: "ainda ta na base?"
+[08/10/2021 08:32:49] [Info] [World] elprofetabr [elprofetabr]: "ss"
+[08/10/2021 08:32:55] [Info] [World] elprofetabr [elprofetabr]: "nao"
+[08/10/2021 08:32:59] [Info] [World] Blooddrago2202 [Blooddrago2202]: "vou te dar tp antes de tu sair ent"
+[08/10/2021 08:33:01] [Info] [World] Blooddrago2202 [Blooddrago2202]: "ah"
+[08/10/2021 08:33:05] [Info] [World] elprofetabr [elprofetabr]: "to na casa que eu fiz"
+[08/10/2021 08:33:05] [Info] [World] Blooddrago2202 [Blooddrago2202]: "pdp ent dxa quieto asdnsdnjada"
+[08/10/2021 08:33:14] [Info] [World] Blooddrago2202 [Blooddrago2202]: "bom...boa noite ent mano"
+[08/10/2021 08:33:19] [Info] [World] Blooddrago2202 [Blooddrago2202]: "vlw ai"
+[08/10/2021 08:33:21] [Info] [World] Blooddrago2202 [Blooddrago2202]: "<3"
+[08/10/2021 08:33:24] [Info] [World] Blooddrago2202 [Blooddrago2202]: "<3"
+[08/10/2021 08:33:25] [Info] [World] elprofetabr [elprofetabr]: "é nos"
+[08/10/2021 08:34:11] [Info] Player finished session: 76561198259959647
+[08/10/2021 08:36:10] [Info] Disconnecting: PlayerID: 76561198259959647 Name: elprofetabr Character: elprofetabr
+[08/10/2021 08:36:10] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/home"
+[08/10/2021 08:39:33] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "/kit inicial"
+[08/10/2021 08:42:05] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "/kit inicial"
+[08/10/2021 08:42:56] [Info] Blooddrago2202 moved x:1277.039 y:60.53906(+18.3115) z:-1763.398 in the last second (0.7423096)
+[08/10/2021 08:43:54] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "/home"
+[08/10/2021 08:44:00] [Info] Blooddrago2202 moved x:1425.328 y:118.406(+68.48869) z:-1888.688 in the last second (0.1000061)
+[08/10/2021 08:45:34] [Info] Saving server
+[08/10/2021 08:50:42] [Info] Player finished session: 76561198258255783
+[08/10/2021 09:02:25] [Info] Disconnecting: PlayerID: 76561198258255783 Name: Blooddrago2202 Character: Blooddrago2202
+[08/10/2021 09:02:25] [Info] Connecting: PlayerID: 76561198258255783 Name: Blooddrago2202 Character: Blooddrago2202
+[08/10/2021 09:15:13] [Info] [World] Blooddrago2202 [Blooddrago2202]: "/home"
+[08/10/2021 09:15:18] [Info] Blooddrago2202 moved x:1425.328 y:119.0391(+45.18655) z:-1888.688 in the last second (0.7330399)
+[08/10/2021 09:15:34] [Info] Saving server
+[08/10/2021 09:23:10] [Info] Blooddrago2202 moved x:1435.938 y:118.4219(+68.61415) z:-1890.859 in the last second (0.7449951)
+[08/10/2021 09:26:29] [Info] Player finished session: 76561198258255783
+[08/10/2021 09:45:34] [Info] Disconnecting: PlayerID: 76561198258255783 Name: Blooddrago2202 Character: Blooddrago2202
+[08/10/2021 09:45:34] [Info] Saving server
+[08/10/2021 10:15:34] [Info] Saving server
+[08/10/2021 10:29:28] [Info] Connecting: PlayerID: 76561198258255783 Name: Blooddrago2202 Character: Blooddrago2202
+[08/10/2021 10:36:31] [Info] Blooddrago2202 moved x:1604.273 y:73.10938(+19.42818) z:-324.6172 in the last second (0.7432861)
+[08/10/2021 10:36:40] [Info] Blooddrago2202 [Blooddrago2202] was shredded to bits!
+[08/10/2021 10:36:49] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "/home"
+[08/10/2021 10:36:54] [Info] Blooddrago2202 moved x:1425.328 y:118.406(+91.41838) z:-1888.688 in the last second (0.1000061)
+[08/10/2021 10:41:57] [Info] Blooddrago2202 moved x:1666.602 y:131.855(+59.40749) z:-126.1641 in the last second (0.1079254)
+[08/10/2021 10:45:34] [Info] Saving server
+[08/10/2021 11:03:42] [Info] Blooddrago2202 moved x:294.7422 y:70.54688(+22.4193) z:722.7344 in the last second (0.7455368)
+[08/10/2021 11:07:50] [Info] Blooddrago2202 moved x:-1310.156 y:113.5781(+43.66674) z:1371.984 in the last second (0.7440414)
+[08/10/2021 11:15:34] [Info] Saving server
+[08/10/2021 11:20:09] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "/home"
+[08/10/2021 11:23:10] [Info] Blooddrago2202 [Blooddrago2202] killed themself.
+[08/10/2021 11:23:16] [Info] [Area] Blooddrago2202 [Blooddrago2202]: "/home"
+[08/10/2021 11:23:23] [Info] Blooddrago2202 [Blooddrago2202] killed themself.
+[08/10/2021 11:23:54] [Info] Blooddrago2202 moved x:1425.328 y:118.6624(+90.96697) z:-1888.688 in the last second (0.3563385)
+[08/10/2021 11:39:25] [Info] Player finished session: 76561198258255783
+[08/10/2021 11:44:09] [Info] Disconnecting: PlayerID: 76561198258255783 Name: Blooddrago2202 Character: Blooddrago2202
+[08/10/2021 11:44:09] [Info] Connecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/10/2021 11:45:34] [Info] Saving server
+[08/10/2021 11:46:10] [Info] Connecting: PlayerID: 76561199084677479 Name: LOUCOPRO123012 Character: LOUCOPRO123012
+[08/10/2021 11:54:34] [Info] Zed [Frost] was shredded to bits!
+[08/10/2021 11:54:41] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 11:54:47] [Info] Zed moved x:-1957.305 y:155.4519(+129.0642) z:650.2188 in the last second (0.1000061)
+[08/10/2021 12:01:11] [Info] LOUCOPRO123012 [LOUCOPRO123012] was mauled by a zombie!
+[08/10/2021 12:04:13] [Info] [World] Zed [Frost]: "louco"
+[08/10/2021 12:04:21] [Info] [World] Zed [Frost]: "e o frot"
+[08/10/2021 12:04:23] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "wwwwwwwwwwwwwwwwwwwwwwwwww"
+[08/10/2021 12:04:26] [Info] [World] Zed [Frost]: "kkkkkkkkkkkk"
+[08/10/2021 12:04:32] [Info] [World] Zed [Frost]: "da tpa"
+[08/10/2021 12:04:40] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 12:04:45] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 12:04:51] [Info] LOUCOPRO123012 moved x:-1923.148 y:136.1482(+94.96646) z:689.9453 in the last second (0.1290436)
+[08/10/2021 12:08:59] [Info] Zed [Frost] bled to death!
+[08/10/2021 12:09:06] [Info] [World] Zed [Frost]: "/tpa louco"
+[08/10/2021 12:09:07] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:09:12] [Info] Zed moved x:-1795.109 y:100.3281(+73.74239) z:877.1094 in the last second (0.2667999)
+[08/10/2021 12:12:12] [Info] Zed [Frost] was mauled by a zombie!
+[08/10/2021 12:12:19] [Info] [World] Zed [Frost]: "/tpa lou"
+[08/10/2021 12:12:24] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:12:29] [Info] Zed moved x:-1793.969 y:98.95586(+72.64361) z:904.3984 in the last second (0.09999847)
+[08/10/2021 12:14:59] [Info] LOUCOPRO123012 [LOUCOPRO123012] bled to death!
+[08/10/2021 12:15:06] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 12:15:10] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 12:15:15] [Info] LOUCOPRO123012 moved x:-1820.547 y:103.8828(+76.40763) z:820.9453 in the last second (0.2761688)
+[08/10/2021 12:15:34] [Info] Saving server
+[08/10/2021 12:18:23] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/kit"
+[08/10/2021 12:18:32] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/kit inisial"
+[08/10/2021 12:18:51] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/kit inicial"
+[08/10/2021 12:20:14] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 12:20:19] [Info] Zed moved x:-1957.305 y:156.0859(+58.98008) z:650.2188 in the last second (0.7340088)
+[08/10/2021 12:20:20] [Info] Connecting: PlayerID: 76561198927580263 Name: JxssIxss Character: JxssIxss
+[08/10/2021 12:20:50] [Info] Kicking for inactivity: PlayerID: 76561198927580263 Name: JxssIxss Character: JxssIxss
+[08/10/2021 12:20:54] [Info] Disconnecting: PlayerID: 76561198927580263 Name: JxssIxss Character: JxssIxss
+[08/10/2021 12:20:54] [Info] [World] Zed [Frost]: "/TPA LOU"
+[08/10/2021 12:21:05] [Info] [World] Zed [Frost]: "TPA"
+[08/10/2021 12:21:05] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:21:14] [Info] [World] Zed [Frost]: "/TPA LOU"
+[08/10/2021 12:21:18] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:21:27] [Info] [World] Zed [Frost]: "EU MORRI"
+[08/10/2021 12:22:00] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "foi ou nao foi"
+[08/10/2021 12:22:52] [Info] LOUCOPRO123012 [LOUCOPRO123012] was shot in the torso by Zed [Frost]!
+[08/10/2021 12:23:01] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 12:23:06] [Info] [World] Zed [Frost]: "/TPA A"
+[08/10/2021 12:23:13] [Info] LOUCOPRO123012 moved x:-1710.953 y:97.98907(+70.55373) z:883.7734 in the last second (0.1082153)
+[08/10/2021 12:24:37] [Info] Zed [Frost] was mauled by a zombie!
+[08/10/2021 12:24:45] [Info] [World] Zed [Frost]: "/TPA LOU"
+[08/10/2021 12:24:52] [Info] [World] Zed [Frost]: "TPA"
+[08/10/2021 12:25:05] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:25:07] [Info] [World] Zed [Frost]: "/TPA LOU"
+[08/10/2021 12:25:13] [Info] [World] Zed [Frost]: "DA TPA"
+[08/10/2021 12:25:19] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:25:20] [Info] [World] Zed [Frost]: "/TPA LOU"
+[08/10/2021 12:25:28] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "pra quem"
+[08/10/2021 12:25:38] [Info] [World] Zed [Frost]: "ACEITA"
+[08/10/2021 12:25:43] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:25:57] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 12:26:01] [Info] [World] Zed [Frost]: "/HOME["
+[08/10/2021 12:26:05] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 12:26:10] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "nao ta indo nao sei porque"
+[08/10/2021 12:26:10] [Info] Zed moved x:-1957.305 y:156.0859(+125.5085) z:650.2188 in the last second (0.7340088)
+[08/10/2021 12:27:07] [Info] Zed [Frost] bled to death!
+[08/10/2021 12:27:13] [Info] [World] Zed [Frost]: "/TPA LOU"
+[08/10/2021 12:27:18] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:27:23] [Info] Zed moved x:-1751.578 y:97.66846(+71.31931) z:900.6719 in the last second (0.3425522)
+[08/10/2021 12:32:17] [Info] LOUCOPRO123012 moved x:-1967.688 y:154.5(+53.53868) z:656.7891 in the last second (0.7460938)
+[08/10/2021 12:45:34] [Info] Saving server
+[08/10/2021 12:47:44] [Info] LOUCOPRO123012 moved x:-1336.206 y:115.8893(+55.6161) z:1380.16 in the last second (0.156601)
+[08/10/2021 12:50:11] [Info] Zed [Frost] was dissolved by a zombie!
+[08/10/2021 12:50:20] [Info] [World] Zed [Frost]: "/tpa lou"
+[08/10/2021 12:50:29] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/TPA A"
+[08/10/2021 12:50:34] [Info] Zed moved x:-1356.805 y:119.3516(+90.78838) z:1421.164 in the last second (0.2732773)
+[08/10/2021 12:51:12] [Info] Zed [Frost] was mauled by a zombie!
+[08/10/2021 12:51:18] [Info] [World] Zed [Frost]: "/tpa lou"
+[08/10/2021 12:51:31] [Info] [World] Zed [Frost]: "tpa"
+[08/10/2021 12:51:32] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/TPA A"
+[08/10/2021 12:51:39] [Info] [World] Zed [Frost]: "mori"
+[08/10/2021 12:51:42] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:51:48] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "20 mim"
+[08/10/2021 12:51:53] [Info] [World] Zed [Frost]: "/tpa lou"
+[08/10/2021 12:51:57] [Info] [World] Zed [Frost]: "vai"
+[08/10/2021 12:52:05] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:52:06] [Info] [World] Zed [Frost]: "aceita"
+[08/10/2021 12:52:11] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 12:52:17] [Info] Zed moved x:-1957.305 y:155.7092(+128.2784) z:650.2188 in the last second (0.3572998)
+[08/10/2021 12:52:23] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "manda de novo"
+[08/10/2021 12:52:35] [Info] [World] Zed [Frost]: "/tpa lou"
+[08/10/2021 12:52:36] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:55:36] [Info] Zed [Frost] bled to death!
+[08/10/2021 12:55:46] [Info] [World] Zed [Frost]: "/TPA LOUCO"
+[08/10/2021 12:55:49] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 12:55:51] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 12:55:57] [Info] Zed moved x:-1519.773 y:118.0447(+89.63098) z:1376.094 in the last second (0.09999847)
+[08/10/2021 12:58:46] [Info] LOUCOPRO123012 [LOUCOPRO123012] was shot in the head by Zed [Frost]!
+[08/10/2021 12:58:53] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 12:58:54] [Info] [World] Zed [Frost]: "/TPA A"
+[08/10/2021 12:59:00] [Info] LOUCOPRO123012 moved x:-1499.367 y:118.2448(+92.0128) z:1450.711 in the last second (0.1000061)
+[08/10/2021 13:01:21] [Info] LOUCOPRO123012 [LOUCOPRO123012] was shot in the head by Zed [Frost]!
+[08/10/2021 13:01:30] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 13:01:34] [Info] [World] Zed [Frost]: "/TPA A"
+[08/10/2021 13:01:40] [Info] LOUCOPRO123012 moved x:-1470.484 y:118.2429(+91.93066) z:1450.531 in the last second (0.1000137)
+[08/10/2021 13:01:59] [Info] [World] Zed [Frost]: "/KIT INICIAL"
+[08/10/2021 13:05:44] [Info] Connecting: PlayerID: 76561199107766810 Name: Brunóx Character: Brunóx
+[08/10/2021 13:06:08] [Info] [World] Brunóx [Brunóx]: "bom dia manos"
+[08/10/2021 13:07:58] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 13:08:03] [Info] Zed moved x:-1957.305 y:156.0859(+38.10374) z:650.2188 in the last second (0.7340088)
+[08/10/2021 13:08:07] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 13:08:09] [Info] [World] Zed [Frost]: "/TPA A"
+[08/10/2021 13:08:15] [Info] LOUCOPRO123012 moved x:-1957.305 y:155.4519(+37.46972) z:650.2188 in the last second (0.09999084)
+[08/10/2021 13:14:21] [Info] Brunóx moved x:1470.461 y:252.046(+87.34029) z:1965.516 in the last second (0.5615234)
+[08/10/2021 13:15:34] [Info] Saving server
+[08/10/2021 13:18:51] [Info] Brunóx moved x:1467.93 y:251.3438(+93.43562) z:1963.484 in the last second (0.7462158)
+[08/10/2021 13:19:08] [Info] Player finished session: 76561199107766810
+[08/10/2021 13:21:10] [Info] Disconnecting: PlayerID: 76561199107766810 Name: Brunóx Character: Brunóx
+[08/10/2021 13:21:10] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 13:21:11] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 13:23:09] [Info] Connecting: PlayerID: 76561199107766810 Name: Brunóx Character: Brunóx
+[08/10/2021 13:25:38] [Info] [World] Brunóx [Brunóx]: "oq eu faço cm a baioneta odl ??"
+[08/10/2021 13:33:04] [Info] LOUCOPRO123012 [LOUCOPRO123012] bled to death!
+[08/10/2021 13:33:11] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 13:33:15] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 13:33:20] [Info] LOUCOPRO123012 moved x:-1361.766 y:118.2857(+91.69992) z:1516.805 in the last second (0.34095)
+[08/10/2021 13:34:34] [Info] Brunóx moved x:1482.602 y:245.057(+79.70305) z:1950.484 in the last second (0.1822205)
+[08/10/2021 13:40:46] [Info] LOUCOPRO123012 [LOUCOPRO123012] bled to death!
+[08/10/2021 13:40:53] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 13:40:59] [Info] [World] Zed [Frost]: "/tpa a]"
+[08/10/2021 13:41:04] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 13:41:09] [Info] [World] Zed [Frost]: "26 s"
+[08/10/2021 13:41:21] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 13:41:28] [Info] [World] Zed [Frost]: "de novo"
+[08/10/2021 13:41:31] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 13:41:33] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 13:41:39] [Info] LOUCOPRO123012 moved x:-1330.898 y:117.946(+91.43064) z:1389.68 in the last second (0.1000443)
+[08/10/2021 13:43:20] [Info] Zed moved x:-1980.539 y:144.6953(+32.84074) z:1018.258 in the last second (0.7451172)
+[08/10/2021 13:44:03] [Info] Connecting: PlayerID: 76561198840962036 Name: ronaldcouto33 Character: ronaldcouto33
+[08/10/2021 13:44:13] [Info] LOUCOPRO123012 moved x:-1974.595 y:153.7935(+41.63718) z:652.6376 in the last second (0.1011658)
+[08/10/2021 13:45:34] [Info] Saving server
+[08/10/2021 13:49:43] [Info] Zed [Frost] bled to death!
+[08/10/2021 13:49:48] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 13:49:52] [Info] [World] Zed [Frost]: "TPA"
+[08/10/2021 13:49:53] [Info] Zed moved x:-1957.305 y:155.4519(+127.0382) z:650.2188 in the last second (0.1000061)
+[08/10/2021 13:51:52] [Info] Kicking for inactivity: PlayerID: 76561199084677479 Name: LOUCOPRO123012 Character: LOUCOPRO123012
+[08/10/2021 13:52:26] [Info] Disconnecting: PlayerID: 76561199084677479 Name: LOUCOPRO123012 Character: LOUCOPRO123012
+[08/10/2021 13:52:26] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 13:52:59] [Info] Brunóx [Brunóx] killed themself.
+[08/10/2021 13:53:00] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 13:53:52] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 13:54:13] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 13:54:45] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 13:54:49] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 13:57:59] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa brunóx"
+[08/10/2021 13:58:22] [Info] [World] ronaldcouto33 [ronaldcouto33]: "eae pessoal"
+[08/10/2021 13:58:32] [Info] [World] Zed [Frost]: "EAE"
+[08/10/2021 13:58:33] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa zed"
+[08/10/2021 13:58:33] [Info] [World] Brunóx [Brunóx]: "eae"
+[08/10/2021 13:58:53] [Info] [World] ronaldcouto33 [ronaldcouto33]: "bora se reunir??"
+[08/10/2021 13:59:01] [Info] [World] ronaldcouto33 [ronaldcouto33]: "bater um papo sem pvp"
+[08/10/2021 13:59:12] [Info] [World] Zed [Frost]: "NAO"
+[08/10/2021 13:59:16] [Info] [World] Zed [Frost]: "PVP"
+[08/10/2021 13:59:23] [Info] [World] Zed [Frost]: ";D"
+[08/10/2021 13:59:25] [Info] [World] Brunóx [Brunóx]: "nn paz pfv"
+[08/10/2021 13:59:33] [Info] [World] ronaldcouto33 [ronaldcouto33]: "to na paz"
+[08/10/2021 13:59:43] [Info] [World] Brunóx [Brunóx]: "tbm to na pa"
+[08/10/2021 13:59:51] [Info] [World] Brunóx [Brunóx]: "paz*"
+[08/10/2021 14:00:37] [Info] [World] Zed [Frost]: "/KIT INICIAL"
+[08/10/2021 14:04:50] [Info] Connecting: PlayerID: 76561199196869563 Name: djikerichard11 Character: jack
+[08/10/2021 14:05:02] [Info] Connecting: PlayerID: 76561198066514317 Name: Zikinha Character: Zikinha
+[08/10/2021 14:06:39] [Info] Kicking for inactivity: PlayerID: 76561199196869563 Name: djikerichard11 Character: jack
+[08/10/2021 14:06:56] [Info] Disconnecting: PlayerID: 76561199196869563 Name: djikerichard11 Character: jack
+[08/10/2021 14:06:56] [Info] [World] ronaldcouto33 [ronaldcouto33]: "bruno aceita tpa"
+[08/10/2021 14:07:13] [Info] [World] Brunóx [Brunóx]: "mano tu vai me matar nn mano"
+[08/10/2021 14:07:17] [Info] [World] ronaldcouto33 [ronaldcouto33]: "nao"
+[08/10/2021 14:07:28] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa brunóx"
+[08/10/2021 14:07:29] [Info] [World] Zikinha [Zikinha]: "ele que tentou te matar ontem na mecanica"
+[08/10/2021 14:07:30] [Info] [World] Brunóx [Brunóx]: "nn mano"
+[08/10/2021 14:13:38] [Info] Connecting: PlayerID: 76561199084677479 Name: LOUCOPRO123012 Character: LOUCOPRO123012
+[08/10/2021 14:13:59] [Info] Brunóx moved x:1492.836 y:250.5384(+90.69118) z:1963.234 in the last second (0.1266937)
+[08/10/2021 14:14:34] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "oi"
+[08/10/2021 14:14:39] [Info] [World] Brunóx [Brunóx]: "eae"
+[08/10/2021 14:14:52] [Info] [World] Zed [Frost]: "DA TPA LOUCO"
+[08/10/2021 14:14:52] [Info] [World] Zikinha [Zikinha]: "salve"
+[08/10/2021 14:15:00] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 14:15:05] [Info] [World] Zed [Frost]: "/TPA A"
+[08/10/2021 14:15:08] [Info] [World] Zikinha [Zikinha]: "/kit inicialCop"
+[08/10/2021 14:15:16] [Info] [World] Zed [Frost]: "DA NOVO"
+[08/10/2021 14:15:24] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa fost"
+[08/10/2021 14:15:26] [Info] [World] Zed [Frost]: "/TPA A"
+[08/10/2021 14:15:30] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 14:15:34] [Info] Saving server
+[08/10/2021 14:15:36] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 14:15:37] [Info] [World] Zed [Frost]: "/TPA  A"
+[08/10/2021 14:16:49] [Info] [World] Zikinha [Zikinha]: "/tpa ronaldcouto33"
+[08/10/2021 14:16:54] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/10/2021 14:17:13] [Info] Zed [Frost] was shot in the torso by Zikinha [Zikinha]!
+[08/10/2021 14:17:20] [Info] [World] Zed [Frost]: "/tpa louco"
+[08/10/2021 14:17:35] [Info] [World] Zed [Frost]: "/tpa louco"
+[08/10/2021 14:17:39] [Info] [World] Zed [Frost]: "tpa"
+[08/10/2021 14:18:08] [Info] [World] Zed [Frost]: "/tpa lou"
+[08/10/2021 14:18:27] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 14:18:36] [Info] [World] Zed [Frost]: "/tpa"
+[08/10/2021 14:18:41] [Info] [World] Zed [Frost]: "aceita"
+[08/10/2021 14:18:44] [Info] [World] Zed [Frost]: "loco"
+[08/10/2021 14:18:47] [Info] [World] Zed [Frost]: "/tpa lou"
+[08/10/2021 14:18:48] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 14:18:55] [Info] [World] Zed [Frost]: "vai"
+[08/10/2021 14:18:56] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 14:18:59] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 14:19:13] [Info] [World] Zed [Frost]: "louco"
+[08/10/2021 14:19:16] [Info] [World] Zed [Frost]: "vaiiiiiiiiiiiiiiiiiiiiiiii"
+[08/10/2021 14:19:20] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 14:19:23] [Info] [World] Zed [Frost]: "/tpa lou"
+[08/10/2021 14:19:30] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 14:20:27] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/kit inicial"
+[08/10/2021 14:20:38] [Info] Player finished session: 76561199084677479
+[08/10/2021 14:21:54] [Info] Disconnecting: PlayerID: 76561199084677479 Name: LOUCOPRO123012 Character: LOUCOPRO123012
+[08/10/2021 14:21:54] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/10/2021 14:21:59] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 14:22:10] [Info] [World] Zikinha [Zikinha]: "/kit inicial"
+[08/10/2021 14:22:43] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/kit inicial"
+[08/10/2021 14:24:24] [Info] Connecting: PlayerID: 76561198324859559 Name: Сладенький Character: Михаил Петров
+[08/10/2021 14:25:12] [Info] Connecting: PlayerID: 76561198451194153 Name: Corvo Character: Corvo
+[08/10/2021 14:25:58] [Info] [World] Михаил Петров [Сладенький]: "/KITS"
+[08/10/2021 14:26:07] [Info] Zed [Frost] was shot in the head by ronaldcouto33 [ronaldcouto33]!
+[08/10/2021 14:26:13] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 14:27:31] [Info] Player finished session: 76561199107766810
+[08/10/2021 14:27:50] [Info] Disconnecting: PlayerID: 76561199107766810 Name: Brunóx Character: Brunóx
+[08/10/2021 14:27:50] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 14:28:13] [Info] Zed [Frost] was mauled by a zombie!
+[08/10/2021 14:28:24] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 14:29:01] [Info] [World] ronaldcouto33 [ronaldcouto33]: "ai zed lutia mais ai pra nois depois eu pego"
+[08/10/2021 14:29:04] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/home"
+[08/10/2021 14:29:09] [Info] ronaldcouto33 moved x:1972.813 y:134.1331(+68.6199) z:-971.0625 in the last second (0.1000061)
+[08/10/2021 14:29:13] [Info] [World] Zed [Frost]: "ata"
+[08/10/2021 14:29:15] [Info] [World] Zikinha [Zikinha]: "/home"
+[08/10/2021 14:29:19] [Info] [World] Zikinha [Zikinha]: "kkkkkk"
+[08/10/2021 14:29:21] [Info] Zikinha moved x:1974.633 y:134.882(+69.79536) z:-967.4609 in the last second (0.3606567)
+[08/10/2021 14:29:30] [Info] [World] Zed [Frost]: "vai na min base"
+[08/10/2021 14:29:36] [Info] [World] ronaldcouto33 [ronaldcouto33]: "onde??"
+[08/10/2021 14:29:38] [Info] [World] Zed [Frost]: "la"
+[08/10/2021 14:29:38] [Info] [World] Zed [Frost]: "ue"
+[08/10/2021 14:29:48] [Info] [World] Zed [Frost]: "no tu cu"
+[08/10/2021 14:29:51] [Info] Connecting: PlayerID: 76561199086104094 Name: Kuklovod Character: Kuklovod
+[08/10/2021 14:29:59] [Info] [World] Zed [Frost]: "kkkkkkkkkkkkkkkk"
+[08/10/2021 14:30:00] [Info] [World] ronaldcouto33 [ronaldcouto33]: "valeu pelos loot"
+[08/10/2021 14:30:12] [Info] [World] Corvo [Corvo]: "ala kkkkk"
+[08/10/2021 14:30:28] [Info] [World] Zed [Frost]: "kkkkkkk  nao e en 1 terso"
+[08/10/2021 14:30:39] [Info] [World] Zed [Frost]: "do meu lote"
+[08/10/2021 14:30:55] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 14:31:08] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 14:31:20] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 14:31:26] [Info] Zed moved x:-1957.305 y:156.0859(+118.196) z:650.2188 in the last second (0.7340088)
+[08/10/2021 14:31:39] [Info] [World] ronaldcouto33 [ronaldcouto33]: "teve a chance de ir embora de carro mais voltou e morreu aiai"
+[08/10/2021 14:32:00] [Info] [World] Corvo [Corvo]: "onde é essa treta ai"
+[08/10/2021 14:33:29] [Info] [World] Zed [Frost]: "/kit inicial"
+[08/10/2021 14:36:16] [Info] Михаил Петров [Сладенький] bled to death!
+[08/10/2021 14:36:40] [Info] [World] Михаил Петров [Сладенький]: "/kits"
+[08/10/2021 14:36:45] [Info] [World] Михаил Петров [Сладенький]: "/kit inical"
+[08/10/2021 14:36:56] [Info] [World] Михаил Петров [Сладенький]: "/kit lnicial"
+[08/10/2021 14:37:04] [Info] [World] Михаил Петров [Сладенький]: "/kit iniciak"
+[08/10/2021 14:37:14] [Info] [World] Михаил Петров [Сладенький]: "/kit inicial"
+[08/10/2021 14:39:20] [Info] [World] Kuklovod [Kuklovod]: "/kits"
+[08/10/2021 14:39:50] [Info] [World] Kuklovod [Kuklovod]: "/kit inicial"
+[08/10/2021 14:41:16] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/10/2021 14:41:20] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 14:41:51] [Info] Kuklovod [Kuklovod] bled to death!
+[08/10/2021 14:42:39] [Info] [World] Kuklovod [Kuklovod]: "/kit inicial"
+[08/10/2021 14:42:52] [Info] [World] Corvo [Corvo]: "curtiram o boing q taquei no meio de moscow?"
+[08/10/2021 14:42:54] [Info] Михаил Петров [Сладенький] was mauled by a zombie!
+[08/10/2021 14:43:10] [Info] [World] Михаил Петров [Сладенький]: "/kit inicial"
+[08/10/2021 14:45:01] [Info] [World] Kuklovod [Kuklovod]: "/kit inicial"
+[08/10/2021 14:45:34] [Info] Saving server
+[08/10/2021 14:53:53] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/home"
+[08/10/2021 14:53:59] [Info] ronaldcouto33 moved x:1972.813 y:134.1331(+87.8773) z:-971.0625 in the last second (0.1000061)
+[08/10/2021 14:54:45] [Info] [World] Zed [Frost]: "/kit inicial"
+[08/10/2021 14:57:18] [Info] Connecting: PlayerID: 76561198388550907 Name: victorx0 Character: victorx0
+[08/10/2021 14:58:07] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 14:58:12] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 14:58:17] [Info] victorx0 moved x:1250.266 y:46.02906(+19.84271) z:-1032.586 in the last second (0.09999847)
+[08/10/2021 14:58:34] [Info] [Area] victorx0 [victorx0]: "/kit inicial"
+[08/10/2021 14:58:42] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/10/2021 14:58:44] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 14:58:59] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa victor"
+[08/10/2021 14:59:31] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/10/2021 14:59:32] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 14:59:52] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/home"
+[08/10/2021 14:59:57] [Info] ronaldcouto33 moved x:1972.813 y:134.3889(+87.49403) z:-971.0625 in the last second (0.355835)
+[08/10/2021 15:00:01] [Info] victorx0 [victorx0] was mauled by a zombie!
+[08/10/2021 15:00:56] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 15:00:59] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 15:01:04] [Info] victorx0 moved x:1272.414 y:46.96094(+20.51018) z:-1012.945 in the last second (0.2699699)
+[08/10/2021 15:01:40] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/10/2021 15:01:43] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 15:02:10] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/home"
+[08/10/2021 15:02:14] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/home"
+[08/10/2021 15:03:20] [Info] Михаил Петров [Сладенький] was chopped in the torso by Kuklovod [Kuklovod]!
+[08/10/2021 15:03:23] [Info] [World] Zikinha [Zikinha]: "/home"
+[08/10/2021 15:03:28] [Info] Zikinha moved x:1974.633 y:134.6213(+85.52362) z:-967.4609 in the last second (0.1000061)
+[08/10/2021 15:04:08] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 15:04:13] [Info] Zed moved x:-1957.305 y:155.8976(+102.3165) z:650.2188 in the last second (0.5456543)
+[08/10/2021 15:04:14] [Info] [World] Михаил Петров [Сладенький]: "/kit inicial"
+[08/10/2021 15:04:21] [Info] [World] Zikinha [Zikinha]: "/tpa victorx0"
+[08/10/2021 15:04:27] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/home"
+[08/10/2021 15:04:35] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/10/2021 15:04:44] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/home"
+[08/10/2021 15:04:58] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/home"
+[08/10/2021 15:05:03] [Info] ronaldcouto33 moved x:1972.813 y:134.1331(+80.29266) z:-971.0625 in the last second (0.09999084)
+[08/10/2021 15:05:07] [Info] Player finished session: 76561199086104094
+[08/10/2021 15:06:00] [Info] Disconnecting: PlayerID: 76561199086104094 Name: Kuklovod Character: Kuklovod
+[08/10/2021 15:06:00] [Info] [World] Corvo [Corvo]: "/kit inicial"
+[08/10/2021 15:06:12] [Info] [World] Zikinha [Zikinha]: "/tpa victorx0"
+[08/10/2021 15:06:13] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/10/2021 15:07:15] [Info] Player finished session: 76561198324859559
+[08/10/2021 15:10:43] [Info] Disconnecting: PlayerID: 76561198324859559 Name: Сладенький Character: Михаил Петров
+[08/10/2021 15:10:43] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/kit inicial"
+[08/10/2021 15:11:08] [Info] Zed [Frost] bled to death!
+[08/10/2021 15:11:14] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 15:11:19] [Info] Zed moved x:-1957.305 y:156.0859(+129.7368) z:650.2188 in the last second (0.7340088)
+[08/10/2021 15:15:01] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/home"
+[08/10/2021 15:15:07] [Info] ronaldcouto33 moved x:1972.813 y:134.1331(+80.11673) z:-971.0625 in the last second (0.1000061)
+[08/10/2021 15:15:13] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 15:15:34] [Info] Saving server
+[08/10/2021 15:19:35] [Info] Connecting: PlayerID: 76561198451655671 Name: swt_c4t Character: Finn
+[08/10/2021 15:20:52] [Info] Connecting: PlayerID: 76561198406148231 Name: Tincho Triste Character: Forro Loco 2
+[08/10/2021 15:21:01] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 15:21:11] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 15:21:15] [Info] [World] Forro Loco 2 [Tincho Triste]: "/kits"
+[08/10/2021 15:21:17] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 15:21:21] [Info] [World] Forro Loco 2 [Tincho Triste]: "/kit inciial"
+[08/10/2021 15:21:29] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 15:21:31] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 15:21:32] [Info] [World] Forro Loco 2 [Tincho Triste]: "/kit inicial"
+[08/10/2021 15:21:33] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 15:22:29] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 15:22:36] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 15:22:42] [Info] Finn moved x:-1825.513 y:193.35(+75.30529) z:1870.154 in the last second (0.09999084)
+[08/10/2021 15:23:40] [Info] ronaldcouto33 [ronaldcouto33] was infected to death!
+[08/10/2021 15:24:03] [Info] Player finished session: 76561198406148231
+[08/10/2021 15:24:05] [Info] Disconnecting: PlayerID: 76561198406148231 Name: Tincho Triste Character: Forro Loco 2
+[08/10/2021 15:24:05] [Info] [World] Zikinha [Zikinha]: "/home"
+[08/10/2021 15:24:11] [Info] Zikinha moved x:1974.633 y:134.6213(+88.41398) z:-967.4609 in the last second (0.1000061)
+[08/10/2021 15:27:12] [Info] [World] Zikinha [Zikinha]: "/tpa victorx0"
+[08/10/2021 15:27:15] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/10/2021 15:27:30] [Info] Connecting: PlayerID: 76561199084677479 Name: LOUCOPRO123012 Character: LOUCOPRO123012
+[08/10/2021 15:27:45] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 15:27:49] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 15:28:04] [Info] [World] Zed [Frost]: "de novo"
+[08/10/2021 15:28:16] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 15:28:17] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 15:28:20] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 15:28:25] [Info] LOUCOPRO123012 moved x:-1955.594 y:155.9844(+107.0064) z:648.6875 in the last second (0.2714844)
+[08/10/2021 15:30:47] [Info] [World] Zikinha [Zikinha]: "alguem com chemicals pra negociar ?"
+[08/10/2021 15:31:07] [Info] [World] Corvo [Corvo]: "/kits"
+[08/10/2021 15:31:15] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "que isso"
+[08/10/2021 15:31:33] [Info] [World] Zikinha [Zikinha]: "um litro verde parece refri"
+[08/10/2021 15:31:55] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "augem sabe como manda grupo po amigo que eu nao sei"
+[08/10/2021 15:34:30] [Info] victorx0 [victorx0] was mauled by a zombie!
+[08/10/2021 15:34:41] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 15:34:48] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 15:34:54] [Info] victorx0 moved x:1249.656 y:46.02906(+18.5982) z:-1033.07 in the last second (0.09999847)
+[08/10/2021 15:35:46] [Info] Connecting: PlayerID: 76561199176603642 Name: gabrielbatistasouza05 Character: gabrielbr
+[08/10/2021 15:36:07] [Info] [World] Zikinha [Zikinha]: "/kit inicial"
+[08/10/2021 15:36:08] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/kit inicial"
+[08/10/2021 15:36:09] [Info] [Group] gabrielbr [gabrielbatistasouza05]: "/kits"
+[08/10/2021 15:36:20] [Info] [Group] gabrielbr [gabrielbatistasouza05]: "/kit inicial"
+[08/10/2021 15:41:44] [Info] Player finished session: 76561199084677479
+[08/10/2021 15:41:59] [Info] Disconnecting: PlayerID: 76561199084677479 Name: LOUCOPRO123012 Character: LOUCOPRO123012
+[08/10/2021 15:41:59] [Info] [World] Zed [Frost]: "/HOME"
+[08/10/2021 15:42:04] [Info] Zed moved x:-1957.305 y:156.0859(+61.47591) z:650.2188 in the last second (0.7340088)
+[08/10/2021 15:42:24] [Info] Connecting: PlayerID: 76561199084677479 Name: LOUCOPRO123012 Character: LOUCOPRO123012
+[08/10/2021 15:44:32] [Info] Player finished session: 76561198451655671
+[08/10/2021 15:45:34] [Info] Disconnecting: PlayerID: 76561198451655671 Name: swt_c4t Character: Finn
+[08/10/2021 15:45:34] [Info] Saving server
+[08/10/2021 15:48:34] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 15:48:35] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 15:52:41] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 15:52:47] [Info] Zed moved x:-1957.305 y:156.0859(+58.17949) z:650.2188 in the last second (0.7340088)
+[08/10/2021 15:53:00] [Info] [World] Zed [Frost]: "/tpa lou"
+[08/10/2021 15:53:09] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa a"
+[08/10/2021 15:55:47] [Info] victorx0 [victorx0] was chopped in the head by Zikinha [Zikinha]!
+[08/10/2021 15:56:01] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 15:56:04] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 15:56:10] [Info] victorx0 moved x:1264.211 y:46.36405(+19.61061) z:-1017.742 in the last second (0.1004448)
+[08/10/2021 15:57:33] [Error] Exception invoking SDG.Unturned.PlayerCrafting.ReceiveCraft from client steamid:76561198451194153:
+[08/10/2021 16:00:12] [Error] Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[08/10/2021 16:00:12] [Error]   at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SDG.Unturned.PlayerCrafting.ReceiveCraft (System.UInt16 id, System.Byte index, System.Boolean force) [0x00a9f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.PlayerCrafting_NetMethods.ReceiveCraft_Read (SDG.Unturned.ServerInvocationContext& context) [0x00069] in <46c02ba799bc45339b988c80e129c3b1>:0 
+  at SDG.Unturned.ServerMessageHandler_InvokeMethod.ReadMessage (SDG.NetTransport.ITransportConnection transportConnection, SDG.NetPak.NetPakReader reader) [0x0008f] in <46c02ba799bc45339b988c80e129c3b1>:0 
+[08/10/2021 16:00:12] [Info] [World] Zikinha [Zikinha]: "/kit inicial"
+[08/10/2021 16:02:27] [Info] gabrielbr [gabrielbatistasouza05] was mauled by a zombie!
+[08/10/2021 16:02:31] [Info] Player finished session: 76561199176603642
+[08/10/2021 16:05:10] [Info] Disconnecting: PlayerID: 76561199176603642 Name: gabrielbatistasouza05 Character: gabrielbr
+[08/10/2021 16:05:10] [Info] Zikinha [Zikinha] was infected to death!
+[08/10/2021 16:05:19] [Info] [World] Zikinha [Zikinha]: "/tpa victorx0"
+[08/10/2021 16:05:21] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/10/2021 16:05:26] [Info] Zikinha moved x:1274.898 y:45.73362(+17.3199) z:-1023.82 in the last second (0.100193)
+[08/10/2021 16:05:36] [Info] ronaldcouto33 [ronaldcouto33] bled to death!
+[08/10/2021 16:05:52] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/10/2021 16:05:58] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 16:07:15] [Info] [Area] victorx0 [victorx0]: "/kit inicial"
+[08/10/2021 16:09:44] [Info] victorx0 [victorx0] bled to death!
+[08/10/2021 16:09:50] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 16:09:53] [Info] [World] Zikinha [Zikinha]: "/kit inicial"
+[08/10/2021 16:10:09] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 16:10:25] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 16:10:29] [Info] [World] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 16:10:35] [Info] victorx0 moved x:1249.563 y:46.71704(+19.28083) z:-999.5547 in the last second (0.7207069)
+[08/10/2021 16:11:02] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/kit inicial"
+[08/10/2021 16:15:34] [Info] Saving server
+[08/10/2021 16:21:46] [Info] Connecting: PlayerID: 76561198451655671 Name: swt_c4t Character: Finn
+[08/10/2021 16:22:11] [Info] [World] Finn [swt_c4t]: "/home"
+[08/10/2021 16:22:17] [Info] Finn moved x:-1838.492 y:189.5618(+71.25616) z:1870.828 in the last second (0.1000061)
+[08/10/2021 16:22:53] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 16:23:01] [Info] Corvo moved x:-1832.289 y:189.75(+15.04507) z:1872.016 in the last second (0.75)
+[08/10/2021 16:23:32] [Info] [Area] victorx0 [victorx0]: "/tpa ronald"
+[08/10/2021 16:23:33] [Info] Player finished session: 76561199029785900
+[08/10/2021 16:23:46] [Info] Disconnecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/10/2021 16:23:46] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/10/2021 16:23:52] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/10/2021 16:24:36] [Info] [Area] victorx0 [victorx0]: "/tpa ronald"
+[08/10/2021 16:24:44] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/10/2021 16:24:49] [Info] victorx0 moved x:-1858.195 y:97.40586(+51.2218) z:912.6875 in the last second (0.1000061)
+[08/10/2021 16:25:21] [Info] Connecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/10/2021 16:27:45] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 16:29:00] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 16:31:47] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 16:33:25] [Info] victorx0 [victorx0] was shot in the torso by Finn [swt_c4t]!
+[08/10/2021 16:33:31] [Info] [World] Zed [Frost]: "/home"
+[08/10/2021 16:33:35] [Info] [World] Zikinha [Zikinha]: "/tpa ronaldcouto33"
+[08/10/2021 16:33:37] [Info] Zed moved x:-1957.305 y:155.4519(+106.2384) z:650.2188 in the last second (0.1000061)
+[08/10/2021 16:33:44] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 16:33:51] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/10/2021 16:33:59] [Info] [World] Zed [Frost]: "tem cara aqui"
+[08/10/2021 16:34:04] [Info] [World] Zed [Frost]: "fero"
+[08/10/2021 16:34:07] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 16:34:08] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 16:34:09] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "vixi"
+[08/10/2021 16:34:13] [Info] Finn moved x:-1824.856 y:189.5287(+90.96893) z:1858.331 in the last second (0.5286865)
+[08/10/2021 16:34:18] [Info] [World] Zed [Frost]: "da tpa"
+[08/10/2021 16:34:24] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 16:34:27] [Info] [World] Zikinha [Zikinha]: "/tpa ronaldcouto33"
+[08/10/2021 16:34:28] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/10/2021 16:34:33] [Info] Zikinha moved x:-1983.563 y:158.671(+113.0682) z:855.8281 in the last second (0.07884216)
+[08/10/2021 16:34:37] [Info] [World] Zed [Frost]: "so qeu nao fais barolho"
+[08/10/2021 16:34:41] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 16:34:42] [Info] [Area] victorx0 [victorx0]: "/tpa ronald"
+[08/10/2021 16:34:47] [Info] [World] Zed [Frost]: "de novo"
+[08/10/2021 16:34:47] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/10/2021 16:34:53] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 16:35:00] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 16:35:05] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 16:35:12] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 16:35:12] [Info] [Area] victorx0 [victorx0]: "/tpa ronald"
+[08/10/2021 16:35:16] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/tpa accept"
+[08/10/2021 16:35:20] [Info] [World] Zed [Frost]: "de novo kkkkkkkkk"
+[08/10/2021 16:35:21] [Info] victorx0 moved x:-1933.586 y:146.0148(+118.5794) z:952.6328 in the last second (0.9334717)
+[08/10/2021 16:35:28] [Info] [Area] victorx0 [victorx0]: "/kit inicial"
+[08/10/2021 16:35:31] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 16:35:32] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 16:35:36] [Info] [World] Zed [Frost]: "10 s"
+[08/10/2021 16:35:51] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 16:35:52] [Info] [World] Zed [Frost]: "vai"
+[08/10/2021 16:36:01] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "10"
+[08/10/2021 16:36:07] [Info] [World] LOUCOPRO123012 [LOUCOPRO123012]: "/tpa frost"
+[08/10/2021 16:36:08] [Info] [World] Zed [Frost]: "/tpa a"
+[08/10/2021 16:36:14] [Info] LOUCOPRO123012 moved x:-1957.305 y:155.4519(+104.8884) z:650.2188 in the last second (0.1000061)
+[08/10/2021 16:36:46] [Info] [World] Zed [Frost]: "vai no 3"
+[08/10/2021 16:36:56] [Info] [World] Zed [Frost]: "11"
+[08/10/2021 16:36:58] [Info] [World] Zed [Frost]: "22"
+[08/10/2021 16:37:21] [Info] [World] Zikinha [Zikinha]: "/home"
+[08/10/2021 16:37:49] [Info] [World] Zikinha [Zikinha]: "/tpa victorx0"
+[08/10/2021 16:37:56] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/10/2021 16:38:36] [Info] Player finished session: 76561199084677479
+[08/10/2021 16:38:38] [Info] Disconnecting: PlayerID: 76561199084677479 Name: LOUCOPRO123012 Character: LOUCOPRO123012
+[08/10/2021 16:38:38] [Info] Player finished session: 76561199029785900
+[08/10/2021 16:39:33] [Info] Disconnecting: PlayerID: 76561199029785900 Name: Frost Character: Zed
+[08/10/2021 16:39:33] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 16:39:34] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 16:39:40] [Info] Finn moved x:-1827.883 y:193.35(+95.38268) z:1869.228 in the last second (0.1000061)
+[08/10/2021 16:40:05] [Info] [Area] victorx0 [victorx0]: "/kit inicial"
+[08/10/2021 16:42:09] [Info] [Area] victorx0 [victorx0]: "/home"
+[08/10/2021 16:42:23] [Info] [World] Zikinha [Zikinha]: "/home"
+[08/10/2021 16:42:36] [Info] [World] ronaldcouto33 [ronaldcouto33]: "/home"
+[08/10/2021 16:43:16] [Info] Connecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/10/2021 16:43:46] [Info] Kicking for inactivity: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/10/2021 16:45:26] [Info] Disconnecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/10/2021 16:45:26] [Info] [Area] victorx0 [victorx0]: "/kit inicial"
+[08/10/2021 16:45:34] [Info] Saving server
+[08/10/2021 16:46:09] [Info] Finn moved x:-1756.313 y:140.9922(+50.20291) z:1056.57 in the last second (0.7492676)
+[08/10/2021 16:47:27] [Info] Connecting: PlayerID: 76561198244365552 Name: r1pp Character: LUCKY
+[08/10/2021 16:48:24] [Info] [World] Zikinha [Zikinha]: "/home"
+[08/10/2021 16:48:29] [Info] Zikinha moved x:1974.633 y:134.882(+89.05537) z:-967.4609 in the last second (0.3606567)
+[08/10/2021 16:48:53] [Info] [World] Corvo [Corvo]: "/tpa finn"
+[08/10/2021 16:48:56] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 16:57:59] [Info] [World] LUCKY [r1pp]: "/tpa corvo"
+[08/10/2021 16:58:01] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 17:02:25] [Info] [Area] Zikinha [Zikinha]: "/kit inicial"
+[08/10/2021 17:04:44] [Info] Connecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/10/2021 17:05:14] [Info] Kicking for inactivity: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/10/2021 17:08:07] [Info] Disconnecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/10/2021 17:08:07] [Info] [Area] Zikinha [Zikinha]: "/tpa victorx0"
+[08/10/2021 17:08:12] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/10/2021 17:08:17] [Info] Zikinha moved x:-257.6406 y:60.82727(+17.14344) z:-612.3984 in the last second (0.0799408)
+[08/10/2021 17:08:32] [Info] Connecting: PlayerID: 76561198241700294 Name: kac785 Key-Drop.com Character: [Рядовой/Пехота]STormH
+[08/10/2021 17:09:16] [Info] Connecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/10/2021 17:09:39] [Info] [World] [Рядовой/Пехота]STormH [kac785 Key-Drop.com]: "/kits"
+[08/10/2021 17:09:48] [Info] [World] BrunoNRG [BrunoNRG]: "salve"
+[08/10/2021 17:09:53] [Info] [World] [Рядовой/Пехота]STormH [kac785 Key-Drop.com]: "/kit inicial"
+[08/10/2021 17:10:02] [Info] [World] BrunoNRG [BrunoNRG]: "/kits"
+[08/10/2021 17:10:13] [Info] [World] BrunoNRG [BrunoNRG]: "/kit inicial"
+[08/10/2021 17:10:16] [Info] [World] Corvo [Corvo]: "salve"
+[08/10/2021 17:10:29] [Info] [World] Corvo [Corvo]: "de quem é a base perto de zavod no canto do mapa?"
+[08/10/2021 17:13:27] [Info] [Рядовой/Пехота]STormH [kac785 Key-Drop.com] was mauled by a zombie!
+[08/10/2021 17:13:42] [Info] Player finished session: 76561198241700294
+[08/10/2021 17:15:34] [Info] Disconnecting: PlayerID: 76561198241700294 Name: kac785 Key-Drop.com Character: [Рядовой/Пехота]STormH
+[08/10/2021 17:15:34] [Info] Saving server
+[08/10/2021 17:17:10] [Info] [World] Corvo [Corvo]: "/home"
+[08/10/2021 17:17:16] [Info] Corvo moved x:-1829.398 y:193.8118(+75.47787) z:1872.773 in the last second (0.1000061)
+[08/10/2021 17:18:03] [Info] [World] Corvo [Corvo]: "/tpa finn"
+[08/10/2021 17:18:04] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 17:22:35] [Info] Players:
+[08/10/2021 17:22:35] [Info] PlayerID: 76561198840962036 Name: ronaldcouto33 Character: ronaldcouto33 Ping: 33
+[08/10/2021 17:22:35] [Info] PlayerID: 76561198066514317 Name: Zikinha Character: Zikinha Ping: 19
+[08/10/2021 17:22:35] [Info] PlayerID: 76561198451194153 Name: Corvo Character: Corvo Ping: 26
+[08/10/2021 17:22:35] [Info] PlayerID: 76561198388550907 Name: victorx0 Character: victorx0 Ping: 24
+[08/10/2021 17:22:35] [Info] PlayerID: 76561198451655671 Name: swt_c4t Character: Finn Ping: 18
+[08/10/2021 17:22:35] [Info] PlayerID: 76561198244365552 Name: r1pp Character: LUCKY Ping: 15
+[08/10/2021 17:22:35] [Info] PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG Ping: 40
+[08/10/2021 17:22:54] [Info] LUCKY was added to the group discord
+[08/10/2021 17:23:21] [Info] [World] Corvo [Corvo]: "/tell finn clica com o botao esquerdo"
+[08/10/2021 17:23:57] [Info] Corvo was added to the group discord
+[08/10/2021 17:24:37] [Info] [World] Finn [swt_c4t]: "sim"
+[08/10/2021 17:24:44] [Info] Corvo moved x:-1775.844 y:97.56165(+36.12658) z:900.8672 in the last second (0.5557861)
+[08/10/2021 17:24:44] [Info] Finn moved x:-1775.266 y:97.56165(+37.45304) z:906.8438 in the last second (0.5557861)
+[08/10/2021 17:24:47] [Info] Finn was added to the group discord
+[08/10/2021 17:24:59] [Info] [World] LUCKY [r1pp]: "deus, e vc???"
+[08/10/2021 17:25:29] [Error] Failed to find parameters in format [Text]/[R]/[G]/[B].
+[08/10/2021 17:25:35] [Info] [World] LUCKY [r1pp]: "/tpa corvo"
+[08/10/2021 17:25:39] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 17:25:40] [Info] Finn [swt_c4t] was shot in the head by Zikinha [Zikinha]!
+[08/10/2021 17:25:44] [Info] LUCKY moved x:-1745.594 y:97.64683(+48.39228) z:926.1953 in the last second (0.100441)
+[08/10/2021 17:25:45] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 17:25:54] [Info] victorx0 [victorx0] was shot in the arm by LUCKY [r1pp]!
+[08/10/2021 17:26:13] [Info] ronaldcouto33 [ronaldcouto33] was shot in the head by Corvo [Corvo]!
+[08/10/2021 17:26:19] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 17:26:22] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 17:26:24] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 17:26:28] [Info] Corvo [Corvo] was shot in the head by Zikinha [Zikinha]!
+[08/10/2021 17:26:32] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "it inicial"
+[08/10/2021 17:26:37] [Info] [World] Corvo [Corvo]: "/tpa luck"
+[08/10/2021 17:26:37] [Info] Players:
+[08/10/2021 17:26:38] [Info] PlayerID: 76561198840962036 Name: ronaldcouto33 Character: ronaldcouto33 Ping: 33
+[08/10/2021 17:26:38] [Info] PlayerID: 76561198066514317 Name: Zikinha Character: Zikinha Ping: 21
+[08/10/2021 17:26:38] [Info] PlayerID: 76561198451194153 Name: Corvo Character: Corvo Ping: 25
+[08/10/2021 17:26:38] [Info] PlayerID: 76561198388550907 Name: victorx0 Character: victorx0 Ping: 25
+[08/10/2021 17:26:38] [Info] PlayerID: 76561198451655671 Name: swt_c4t Character: Finn Ping: 16
+[08/10/2021 17:26:38] [Info] PlayerID: 76561198244365552 Name: r1pp Character: LUCKY Ping: 16
+[08/10/2021 17:26:38] [Info] PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG Ping: 32
+[08/10/2021 17:26:38] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/kit inicial"
+[08/10/2021 17:26:41] [Info] [World] Finn [swt_c4t]: "/tpa r1pp"
+[08/10/2021 17:26:42] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/10/2021 17:26:42] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 17:26:45] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 17:26:51] [Info] ronaldcouto33 moved x:-1814.219 y:101.28(+70.90701) z:840.6143 in the last second (0.1474228)
+[08/10/2021 17:26:57] [Info] ronaldcouto33 [ronaldcouto33] was shot in the head by LUCKY [r1pp]!
+[08/10/2021 17:27:03] [Info] [World] Finn [swt_c4t]: "/tpa r1pp"
+[08/10/2021 17:27:08] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/kit inicial"
+[08/10/2021 17:27:09] [Info] [World] LUCKY [r1pp]: "/tpa a"
+[08/10/2021 17:27:14] [Info] Finn moved x:-1767.02 y:133.7648(+101.6487) z:919.9274 in the last second (0.3933105)
+[08/10/2021 17:27:17] [Info] [Area] victorx0 [victorx0]: "/kit inicial"
+[08/10/2021 17:27:21] [Info] [World] Corvo [Corvo]: "/tpa finn"
+[08/10/2021 17:27:24] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 17:27:28] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 17:27:29] [Info] [World] Corvo [Corvo]: "/tpa finn"
+[08/10/2021 17:27:41] [Info] LUCKY [r1pp] bled to death!
+[08/10/2021 17:27:45] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 17:27:47] [Info] [World] LUCKY [r1pp]: "/tpa finn"
+[08/10/2021 17:27:51] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 17:27:52] [Info] [World] LUCKY [r1pp]: "/kit inicial"
+[08/10/2021 17:27:57] [Info] LUCKY moved x:-1779.781 y:128.9054(+102.6059) z:964.1016 in the last second (0.09086609)
+[08/10/2021 17:28:01] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 17:28:02] [Info] [World] Finn [swt_c4t]: "/kit inicial"
+[08/10/2021 17:28:03] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/10/2021 17:28:06] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 17:28:07] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 17:28:16] [Info] [World] Corvo [Corvo]: "/home"
+[08/10/2021 17:28:21] [Info] Corvo moved x:-1829.398 y:194.4453(+111.8357) z:1872.773 in the last second (0.7335205)
+[08/10/2021 17:28:25] [Info] [Area] victorx0 [victorx0]: "/tpa zikinha"
+[08/10/2021 17:28:27] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 17:28:29] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 17:28:31] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 17:28:32] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/10/2021 17:28:32] [Info] [Area] Zikinha [Zikinha]: "/tpa accept"
+[08/10/2021 17:28:38] [Info] victorx0 moved x:-1665.891 y:117.6484(+91.29923) z:811.4453 in the last second (0.1834183)
+[08/10/2021 17:28:43] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa victorx0"
+[08/10/2021 17:28:50] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/10/2021 17:28:58] [Info] LUCKY [r1pp] was shot in the head by Zikinha [Zikinha]!
+[08/10/2021 17:29:04] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/10/2021 17:29:07] [Info] [World] LUCKY [r1pp]: "/tpa finn"
+[08/10/2021 17:29:08] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa victorx0"
+[08/10/2021 17:29:08] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 17:29:14] [Info] LUCKY moved x:-1807.093 y:105.9874(+78.74329) z:971.019 in the last second (0.1202316)
+[08/10/2021 17:29:17] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa victorx0"
+[08/10/2021 17:29:18] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/10/2021 17:29:28] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/10/2021 17:29:43] [Info] LUCKY [r1pp] was shot in the head by Zikinha [Zikinha]!
+[08/10/2021 17:29:49] [Info] [World] LUCKY [r1pp]: "/tpa finn"
+[08/10/2021 17:29:51] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 17:29:55] [Info] [World] LUCKY [r1pp]: "/kit discord"
+[08/10/2021 17:29:56] [Info] LUCKY moved x:-1748.383 y:135.1241(+107.1051) z:937.2734 in the last second (0.08572388)
+[08/10/2021 17:29:58] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa victorx0"
+[08/10/2021 17:29:58] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/10/2021 17:30:04] [Info] ronaldcouto33 moved x:-1668.406 y:128.5616(+68.30674) z:868.1172 in the last second (0.08514404)
+[08/10/2021 17:30:20] [Info] LUCKY [r1pp] was shot in the head by Zikinha [Zikinha]!
+[08/10/2021 17:30:27] [Info] [World] LUCKY [r1pp]: "/tpa finn"
+[08/10/2021 17:30:31] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 17:30:31] [Info] [World] LUCKY [r1pp]: "/kit discord"
+[08/10/2021 17:30:35] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 17:30:38] [Info] [World] LUCKY [r1pp]: "/kit inicial"
+[08/10/2021 17:30:42] [Info] [World] LUCKY [r1pp]: "/home"
+[08/10/2021 17:30:45] [Info] [Area] Zikinha [Zikinha]: "cuzao eem"
+[08/10/2021 17:30:47] [Info] LUCKY moved x:-1815.641 y:193.8118(+167.8588) z:1863.773 in the last second (0.1000061)
+[08/10/2021 17:31:07] [Info] Finn [swt_c4t] was shot in the torso by victorx0 [victorx0]!
+[08/10/2021 17:31:22] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 17:31:23] [Info] [Area] Zikinha [Zikinha]: "vem ate de brindado"
+[08/10/2021 17:31:27] [Info] [Area] Zikinha [Zikinha]: "aff"
+[08/10/2021 17:31:36] [Info] [World] Finn [swt_c4t]: "/home"
+[08/10/2021 17:31:36] [Info] [World] LUCKY [r1pp]: "/tpa corvo"
+[08/10/2021 17:31:37] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 17:32:23] [Info] Finn [swt_c4t] killed themself.
+[08/10/2021 17:32:42] [Info] LUCKY [r1pp] was shot in the head by Zikinha [Zikinha]!
+[08/10/2021 17:32:52] [Info] [World] LUCKY [r1pp]: "/home"
+[08/10/2021 17:32:53] [Info] Finn moved x:-1830.703 y:194.4453(+127.9679) z:1870.297 in the last second (0.7335205)
+[08/10/2021 17:32:59] [Info] [World] LUCKY [r1pp]: "/kit inicial"
+[08/10/2021 17:33:04] [Info] [World] LUCKY [r1pp]: "/tpa finn"
+[08/10/2021 17:33:07] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 17:33:12] [Info] LUCKY moved x:-1829.844 y:194.1554(+167.6323) z:1871.273 in the last second (0.07920837)
+[08/10/2021 17:33:40] [Info] [World] LUCKY [r1pp]: "/tpa corvo"
+[08/10/2021 17:33:46] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 17:33:59] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 17:34:07] [Info] Connecting: PlayerID: 76561198874850589 Name: Ricky Character: [CDS] Ricky
+[08/10/2021 17:34:28] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 17:34:31] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 17:35:17] [Info] [World] [CDS] Ricky [Ricky]: "/kits"
+[08/10/2021 17:35:21] [Info] [World] [CDS] Ricky [Ricky]: "/kit inicial"
+[08/10/2021 17:35:30] [Info] LUCKY [r1pp] was shot in the head by victorx0 [victorx0]!
+[08/10/2021 17:35:35] [Info] [World] LUCKY [r1pp]: "/tpa finn"
+[08/10/2021 17:35:37] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 17:35:43] [Info] LUCKY moved x:-1687.445 y:127.9601(+101.1397) z:855.9063 in the last second (0.07865906)
+[08/10/2021 17:35:51] [Info] Connecting: PlayerID: 76561198202561929 Name: Araujo_- Character: Araujo_-
+[08/10/2021 17:36:25] [Info] Connecting: PlayerID: 76561198876530444 Name: henrique Character: henrique
+[08/10/2021 17:37:33] [Info] ronaldcouto33 [ronaldcouto33] was shot in the head by Finn [swt_c4t]!
+[08/10/2021 17:37:42] [Info] [World] LUCKY [r1pp]: "/tpa finn"
+[08/10/2021 17:37:43] [Info] [World] Finn [swt_c4t]: "/tpa accept"
+[08/10/2021 17:37:48] [Info] LUCKY moved x:-1909.539 y:140.6632(+16.0435) z:934.1875 in the last second (0.09020996)
+[08/10/2021 17:37:49] [Info] [Area] victorx0 [victorx0]: "/home"
+[08/10/2021 17:37:56] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/kit inicial"
+[08/10/2021 17:38:03] [Info] [Area] Zikinha [Zikinha]: "/home"
+[08/10/2021 17:38:05] [Info] [Area] ronaldcouto33 [ronaldcouto33]: "/tpa zikinha"
+[08/10/2021 17:38:51] [Info] [CDS] Ricky [Ricky] bled to death!
+[08/10/2021 17:38:57] [Info] [World] [CDS] Ricky [Ricky]: "/kit inicial"
+[08/10/2021 17:39:04] [Info] Player finished session: 76561198840962036
+[08/10/2021 17:39:13] [Info] Disconnecting: PlayerID: 76561198840962036 Name: ronaldcouto33 Character: ronaldcouto33
+[08/10/2021 17:39:13] [Info] [Area] Zikinha [Zikinha]: "/home"
+[08/10/2021 17:39:20] [Info] [World] BrunoNRG [BrunoNRG]: "/home"
+[08/10/2021 17:39:28] [Info] [World] [CDS] Ricky [Ricky]: "/kit inicial"
+[08/10/2021 17:39:34] [Info] [World] LUCKY [r1pp]: "ta de boa"
+[08/10/2021 17:39:35] [Info] [World] Finn [swt_c4t]: "deu não"
+[08/10/2021 17:39:39] [Info] [World] Finn [swt_c4t]: "/home"
+[08/10/2021 17:39:41] [Info] [World] LUCKY [r1pp]: "so as balas q n tao vindo full"
+[08/10/2021 17:39:42] [Info] Player finished session: 76561198874850589
+[08/10/2021 17:39:43] [Info] Disconnecting: PlayerID: 76561198874850589 Name: Ricky Character: [CDS] Ricky
+[08/10/2021 17:39:43] [Info] [Area] Zikinha [Zikinha]: "/tpa victorx0"
+[08/10/2021 17:39:45] [Info] Finn moved x:-1830.703 y:193.8118(+55.62137) z:1870.297 in the last second (0.1000061)
+[08/10/2021 17:39:45] [Info] [Area] victorx0 [victorx0]: "/tpa accept"
+[08/10/2021 17:39:50] [Info] Zikinha moved x:1968.953 y:134.4757(+68.73273) z:-964.8125 in the last second (0.9044189)
+[08/10/2021 17:40:03] [Info] [Area] Zikinha [Zikinha]: "LUCKY E O GRUPINHO MT CUZAO"
+[08/10/2021 17:40:15] [Info] [Area] Zikinha [Zikinha]: "VEM DE BRINDADO PRA NAO PERDER A TROCAÇAO"
+[08/10/2021 17:40:17] [Info] [Area] Zikinha [Zikinha]: "AFFFF"
+[08/10/2021 17:40:20] [Info] [World] LUCKY [r1pp]: "tarde"
+[08/10/2021 17:40:22] [Info] BrunoNRG [BrunoNRG] was infected to death!
+[08/10/2021 17:40:28] [Info] [World] BrunoNRG [BrunoNRG]: "/home"
+[08/10/2021 17:40:28] [Info] [World] LUCKY [r1pp]: "blz"
+[08/10/2021 17:40:28] [Info] [World] Finn [swt_c4t]: "/tpa corvo"
+[08/10/2021 17:40:31] [Info] [World] Corvo [Corvo]: "/tpa a"
+[08/10/2021 17:40:40] [Info] [World] BrunoNRG [BrunoNRG]: "/home"
+[08/10/2021 17:40:47] [Info] BrunoNRG [BrunoNRG] killed themself.
+[08/10/2021 17:40:49] [Info] Connecting: PlayerID: 76561198840962036 Name: ronaldcouto33 Character: ronaldcouto33
+[08/10/2021 17:41:07] [Info] [World] LUCKY [r1pp]: "o tpa ta a msm coisa"
+[08/10/2021 17:41:11] [Info] [Area] Zikinha [Zikinha]: "TIRA ESSES CARRO BRINDADO TBM"
+[08/10/2021 17:41:15] [Info] [World] LUCKY [r1pp]: "home q ta rapido msm"
+[08/10/2021 17:41:24] [Info] [Area] Zikinha [Zikinha]: "O CARA VEM E FICA NO CARRO E OS OUTRO FICA RESPAWNANDO"
+[08/10/2021 17:41:27] [Info] BrunoNRG moved x:1298.984 y:54.49001(+33.03161) z:-955.1016 in the last second (0.09999847)
+[08/10/2021 17:41:37] [Info] [Area] Zikinha [Zikinha]: "OS BRINDADO"
+[08/10/2021 17:41:38] [Info] [World] LUCKY [r1pp]: "como assim"
+[08/10/2021 17:41:42] [Info] [Area] Zikinha [Zikinha]: "SLA UM FECHADAO"
+[08/10/2021 17:41:54] [Info] [Area] Zikinha [Zikinha]: "CHAMA CALL NO DC PRA MIM EXPLICAR"
+[08/10/2021 17:42:06] [Info] [World] LUCKY [r1pp]: "qual que é?"
+[08/10/2021 17:42:18] [Info] [Area] Zikinha [Zikinha]: "QUAL QUE É OQ FREE KILL"
+[08/10/2021 17:42:26] [Info] [Area] Zikinha [Zikinha]: "SE SABE MT BEM OQ EU TO FALANDO"
+[08/10/2021 17:42:33] [Info] [Area] Zikinha [Zikinha]: "BLZ"
+[08/10/2021 17:42:54] [Info] Player finished session: 76561198371542208
+[08/10/2021 17:42:55] [Info] Disconnecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/10/2021 17:42:55] [Info] [Area] victorx0 [victorx0]: "/discord"
+[08/10/2021 17:43:13] [Info] [Area] Zikinha [Zikinha]: "SS mais vo te explicar oq eles tao fando"
+[08/10/2021 17:43:15] [Info] Finn moved x:-1862.039 y:186.4288(+81.92063) z:1869.258 in the last second (0.5570068)
+[08/10/2021 17:43:16] [Info] [Area] victorx0 [victorx0]: "/discord"
+[08/10/2021 17:43:39] [Info] Player finished session: 76561198388550907
+[08/10/2021 17:43:43] [Info] Disconnecting: PlayerID: 76561198388550907 Name: victorx0 Character: victorx0
+[08/10/2021 17:43:43] [Info] Corvo moved x:-1836.805 y:189.75(+84.5686) z:1865.109 in the last second (0.75)
+[08/10/2021 17:43:58] [Info] Araujo_- [Araujo_-] bled to death!
+[08/10/2021 17:44:13] [Info] Connecting: PlayerID: 76561198388550907 Name: victorx0 Character: victorx0
+[08/10/2021 17:44:25] [Info] [World] Corvo [Corvo]: "valeu ai pela mk 2"
+[08/10/2021 17:44:26] [Info] [World] Finn [swt_c4t]: "mk 2 linda"
+[08/10/2021 17:44:53] [Info] [World] LUCKY [r1pp]: "/home"
+[08/10/2021 17:44:58] [Info] LUCKY moved x:-1815.641 y:194.257(+50.38229) z:1863.773 in the last second (0.545166)
+[08/10/2021 17:45:34] [Info] Saving server
+[08/10/2021 17:46:52] [Info] Connecting: PlayerID: 76561199196433942 Name: palio fodase da estem Character: palio fodase da estem
+[08/10/2021 17:47:06] [Info] Player finished session: 76561198451655671
+[08/10/2021 17:47:22] [Info] Disconnecting: PlayerID: 76561198451655671 Name: swt_c4t Character: Finn
+[08/10/2021 17:47:22] [Info] Kicking for inactivity: PlayerID: 76561199196433942 Name: palio fodase da estem Character: palio fodase da estem
+[08/10/2021 17:47:43] [Info] Disconnecting: PlayerID: 76561199196433942 Name: palio fodase da estem Character: palio fodase da estem
+[08/10/2021 17:47:43] [Info] ronaldcouto33 was added to the group discord
+[08/10/2021 17:47:52] [Info] victorx0 was added to the group discord
+[08/10/2021 17:48:11] [Info] Connecting: PlayerID: 76561198371542208 Name: BrunoNRG Character: BrunoNRG
+[08/10/2021 17:48:18] [Info] Player finished session: 76561198244365552
+[08/10/2021 17:49:50] [Info] Disconnecting: PlayerID: 76561198244365552 Name: r1pp Character: LUCKY
+[08/10/2021 17:49:50] [Info] 
+[unloading] WebsiteCommand

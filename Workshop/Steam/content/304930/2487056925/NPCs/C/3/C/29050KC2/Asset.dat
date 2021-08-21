@@ -1,0 +1,21 @@
+GUID 261ab3e1c80e4d499a8207cfbeff0da7
+Type NPC
+ID 29050
+
+Shirt 176
+Pants 548
+
+Face 24
+Hair 7
+Color_Skin #9d886b
+Color_Hair #191919
+
+Pose Rest
+
+Dialogue 29051
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 27031
+Condition_0_Value True
+Condition_0_Logic Equal

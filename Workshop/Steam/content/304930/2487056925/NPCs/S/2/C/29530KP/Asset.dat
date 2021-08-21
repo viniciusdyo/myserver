@@ -1,0 +1,21 @@
+GUID 94b7f3258c374f6a8868955ad39798ba
+Type NPC
+ID 29530
+
+Shirt 181
+Pants 214
+Glasses 502
+
+Face 10
+Hair 14
+Beard 0
+Color_Skin #BEA582
+Color_Hair #57452F
+
+Dialogue 29531
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 29320
+Condition_0_Value True
+Condition_0_Logic Equal

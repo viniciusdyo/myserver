@@ -1,0 +1,38 @@
+GUID 0cfe884ecd4d4612ae6caf30075ed349
+Type Vehicle
+Rarity Epic
+ID 46570
+Speed_Min -9
+Speed_Max 23
+
+Steer_Min 64
+Steer_Max 32
+
+Fuel_Min 250
+Fuel_Max 1500
+Fuel 3000
+
+Health_Min 500
+Health_Max 600
+Health 1250
+
+Cam_Follow_Distance 16
+
+Exit 3
+
+Tires_Invulnerable
+
+Engine Boat
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 7
+
+Explosion 20
+
+Turrets 1
+Turret_0_Seat_Index 10
+Turret_0_Item_ID 46566
+Turret_0_Yaw_Min -35
+Turret_0_Yaw_Max 35
+Turret_0_Pitch_Min 75
+Turret_0_Pitch_Max 135

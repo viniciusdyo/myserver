@@ -1,0 +1,36 @@
+GUID 4701819f3cc449b0a4e94c666c878165
+Type Dialogue
+ID 27460
+
+Messages 1
+
+Message_0_Pages 1
+
+Responses 7
+
+Response_0_Dialogue 27455
+
+Response_1_Dialogue 27456
+
+Response_2_Dialogue 27457
+
+Response_3_Dialogue 27458
+
+Response_4_Dialogue 27459
+
+Response_5_Dialogue 27451
+Response_5_Conditions 1
+Response_5_Condition_0_Type Flag_Bool
+Response_5_Condition_0_ID 26629
+Response_5_Condition_0_Value False
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_Allow_Unset
+
+Response_6_Dialogue 26881
+Response_6_Conditions 1
+Response_6_Condition_0_Type Flag_Bool
+Response_6_Condition_0_ID 26629
+Response_6_Condition_0_Value True
+Response_6_Condition_0_Logic Equal
+
+// If you're copying things, at least credit NSTM.

@@ -1,0 +1,5 @@
+Name <color=#b8b188>Concord: </color><color=epic>Armory Restock</color>
+Description <color=legendary>Brigadier General Snow</color><br>Get some more weapons to restock the armory.
+
+Condition_1 Find Full Viper Magazine {0}/1
+Condition_3 Find Full Low Caliber Military Ammunition Box {0}/1

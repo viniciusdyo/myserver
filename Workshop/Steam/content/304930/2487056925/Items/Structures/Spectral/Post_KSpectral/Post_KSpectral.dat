@@ -1,0 +1,27 @@
+GUID 4b8c00bbbf4948ad93de9cd0ad5fc5e9
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Post
+ID 5447
+
+Size_X 1
+Size_Y 2
+Size_Z 0.475
+
+Health 2000
+Range 8
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5551
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 5432
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Products 2
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

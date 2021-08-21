@@ -1,0 +1,15 @@
+GUID 0bc6d5d2791f4b0fb3fc0abce329e0fc
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 5529
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Aid
+Health 25
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Painkillers

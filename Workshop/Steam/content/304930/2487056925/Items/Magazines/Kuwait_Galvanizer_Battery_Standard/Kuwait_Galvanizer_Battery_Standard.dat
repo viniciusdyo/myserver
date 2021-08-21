@@ -1,0 +1,30 @@
+GUID add4c74a5e464947807a24d9ff983476
+Type Magazine
+Rarity Legendary
+ID 5036
+
+Size_X 2
+Size_Y 2
+Size_Z 0.275
+
+Amount 100
+Count_Min 1
+Count_Max 5
+
+Calibers 1
+Caliber_0 5003
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5508
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5036
+Blueprint_1_Build 27
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 5556
+Blueprint_2_Build 30
+

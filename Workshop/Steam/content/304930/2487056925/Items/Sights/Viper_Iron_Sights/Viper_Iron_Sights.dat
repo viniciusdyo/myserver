@@ -1,0 +1,17 @@
+GUID 49e61060562f44018a2df81f830c384e
+Type Sight
+ID 5023
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Paintable
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5023
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27

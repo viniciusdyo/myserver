@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=mythical>Overheating</color>
+Description Maryam, while driving to search for supplies in the Burgan Oil Fields, ran into a giant, fire breathing zombie. As long as that zombie is still there, they can't get the supplies they need.
+
+Condition_0 Defeat {0}/{1} <color=mythical>Fire Boss</color>

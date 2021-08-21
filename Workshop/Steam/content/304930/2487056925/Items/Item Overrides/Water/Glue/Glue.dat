@@ -1,0 +1,17 @@
+GUID 8d1845e85f2a4abfb279d9fb7d05ca98
+Type Water
+Useable Consumeable
+ID 5259
+
+Size_X 1
+Size_Y 1
+Size_Z 0.375
+
+Food 5
+Water 5
+Vision 10
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Water/Glue
+
+ConsumeAudioClip Sounds/DrinkSwallow.mp3

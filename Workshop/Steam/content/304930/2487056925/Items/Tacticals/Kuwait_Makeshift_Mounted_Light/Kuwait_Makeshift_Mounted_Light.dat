@@ -1,0 +1,20 @@
+GUID 0b8b40fd2dce4f94ad4ebf46d5247f8b
+Type Tactical
+Rarity Uncommon
+ID 5053
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Light
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5103
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5536
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

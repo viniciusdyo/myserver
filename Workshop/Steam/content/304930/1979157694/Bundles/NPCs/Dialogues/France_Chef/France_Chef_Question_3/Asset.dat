@@ -1,0 +1,35 @@
+GUID 5de951e765494b9ab4949b255165a9ae
+Type Dialogue
+ID 4142
+
+Messages 2
+Message_0_Pages 3
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 4014
+Message_0_Condition_0_Value 2
+Message_0_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Message_1_Pages 1
+Message_1_Prev 4139
+
+Responses 2
+
+// I'm ready
+Response_0_Dialogue 4146
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Quest 4144
+Response_0_Rewards 2
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 4144
+Response_0_Reward_0_Status Active
+Response_0_Reward_1_Type Flag_Short
+Response_0_Reward_1_ID 4145
+Response_0_Reward_1_Value 0
+Response_0_Reward_1_Modification Assign
+
+// Later
+Response_1_Dialogue 4136
+Response_1_Messages 1
+Response_1_Message_0 0

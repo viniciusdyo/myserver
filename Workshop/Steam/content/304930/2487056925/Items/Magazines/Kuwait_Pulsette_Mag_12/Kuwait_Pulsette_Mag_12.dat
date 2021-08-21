@@ -1,0 +1,51 @@
+GUID f4416cafa3af41d1af9a964ee417f5ce
+Type Magazine
+Rarity Epic
+ID 5118
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 12
+Count_Min 2
+Count_Max 12
+
+Calibers 6
+Caliber_0 5000
+Caliber_1 23
+Caliber_2 3
+Caliber_3 19
+Caliber_4 31
+Caliber_5 25
+
+Tracer 5276
+
+Recoil_X 1.2
+Recoil_Y 1.2
+
+Range 2
+Player_Damage 6
+Zombie_Damage 35
+Animal_Damage 27
+Barricade_Damage 14
+Structure_Damage 14
+Vehicle_Damage 5
+Resource_Damage 14
+Object_Damage 14
+Explosion 5277
+Explosive
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5508
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5118
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 5556
+Blueprint_2_Build 30

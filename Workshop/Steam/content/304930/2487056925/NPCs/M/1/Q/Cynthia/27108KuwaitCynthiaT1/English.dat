@@ -1,0 +1,5 @@
+Name <color=#b8b188>Concord: </color><color=rare>Armory Refill</color>
+Description <color=epic>Colonel Cynthia</color><br><color=epic>Cynthia</color> needs you to grab a few items for her for the armory.
+
+Condition_0 Find Full Civilian Ammunition Box {0}/1
+Condition_2 Find Full 1911 Magazine {0}/2

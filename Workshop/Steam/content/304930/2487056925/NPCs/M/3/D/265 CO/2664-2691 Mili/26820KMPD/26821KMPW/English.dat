@@ -1,0 +1,21 @@
+Message_0_Page_0 You shouldn't get this message unless you're testing. The flag you need is 27001.
+Message_1_Page_0 You look horrible! Take these, and fast!
+Message_2_Page_0 You look awful! Here, take these.
+Message_3_Page_0 You look awful! Here, take these.
+Message_4_Page_0 You look pretty bad. Here, take these.
+Message_5_Page_0 You look injured! Here, take this dressing.
+Message_6_Page_0 You look sick! Here, take these antibiotics.
+Message_7_Page_0 You look a bit hurt, take this bandage.
+Message_8_Page_0 You look a bit ill, take this syrup.
+Message_9_Page_0 I'm sorry, but I can't treat you, I don't have enough funds to do so.
+Message_10_Page_0 I'm sorry, but I can't treat you, I don't have enough funds to do so.
+Message_11_Page_0 Hello <name_char>, how are you?
+
+Response_0 What do you do?
+Response_1 I have some money for you.
+Response_2 Do you have any surplus supplies?
+Response_3 Thanks.
+Response_4 Guess I'll walk it off...
+Response_5 What's with the cats?
+Response_6 Do you have any good leadership tips?
+Response_7 I'm good, thanks.

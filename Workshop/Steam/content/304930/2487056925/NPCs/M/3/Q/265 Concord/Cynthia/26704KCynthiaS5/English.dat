@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=legendary>Weapon Acquisition</color>
+Description <color=epic>Colonel Cynthia</color><br>Acquire some weaponry for <color=epic>Colonel Cynthia</color> to restock the armory.
+
+Condition_1 Find Full Monarchist Magazine {0}/1

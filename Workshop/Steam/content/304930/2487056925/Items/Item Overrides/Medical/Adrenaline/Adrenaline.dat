@@ -1,0 +1,16 @@
+GUID d27bb007161a46f2b556d6231a77246a
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 5532
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Aid
+Virus 5
+Energy 100
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Adrenaline

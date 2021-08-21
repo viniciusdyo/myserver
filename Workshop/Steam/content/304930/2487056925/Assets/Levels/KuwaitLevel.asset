@@ -1,0 +1,30 @@
+"Metadata"
+{
+	"GUID" "1ddc3c555caa43da8f1f05863be5279b"
+	"Type" "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Dropship"
+	{
+		"MasterBundle" "kuwait.masterbundle"
+		"AssetPath" "Level/Dropship.prefab"
+	}
+	"Airdrop"
+	{
+		"GUID" "814a9b0b9cb34f88887d2f63e04580b3"
+	}
+	"Crafting_Blacklists"
+	[
+		{"GUID" "5e88b05982764e6e805d7c94defe3e95"}
+	]
+	"Weather_Types"
+	[
+		{"Asset" "655f1ef7a7924d18a30c0e4c4b3ebeb0"
+		"Min_Frequency" "1"
+		"Max_Frequency" "2.5" 
+		"Min_Duration" ".15"
+		"Max_Duration" ".3"}
+	]
+}

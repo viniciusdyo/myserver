@@ -1,0 +1,18 @@
+"Metadata"
+{
+	"GUID" "e85e6589d4b9490dbab71b6449d3b68c"
+	"Type" "SDG.Unturned.ZombieDifficultyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Crawler_Chance" "0.0"
+	"Sprinter_Chance" "0.0"
+	"Flanker_Chance" "0.0"
+	"Burner_Chance" "0"
+	"Acid_Chance" "0"
+	"Boss_Electric_Chance" "0"
+	"Boss_Wind_Chance" "0"
+	"Boss_Fire_Chance" "0"
+	"Allow_Horde_Beacon" "false"
+}

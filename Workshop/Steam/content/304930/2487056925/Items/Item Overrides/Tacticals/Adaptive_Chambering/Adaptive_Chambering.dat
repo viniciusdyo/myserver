@@ -1,0 +1,22 @@
+GUID 02f7ca93fee14f99913612042c86670e
+Type Tactical
+Rarity Epic
+ID 5059
+
+Size_X 1
+Size_Y 1
+Size_Z 0.125
+
+Firerate 1
+Spread 1.25
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5059
+Blueprint_0_Product 67
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Tacticals/Adaptive_Chambering

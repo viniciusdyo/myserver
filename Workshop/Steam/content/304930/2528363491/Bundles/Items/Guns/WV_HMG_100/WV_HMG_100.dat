@@ -1,0 +1,39 @@
+GUID 11e81c5adc8245ba8d709489fa9ca26c
+Type Magazine
+Rarity Epic
+ID 46567
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 100
+Count_Min 100
+Count_Max 100
+
+Calibers 1
+Caliber_0 37
+
+Tracer 55
+
+Range 5
+Player_Damage 20
+Zombie_Damage 40
+Animal_Damage 40
+Barricade_Damage 20
+Structure_Damage 20
+Vehicle_Damage 20
+Resource_Damage 50
+Object_Damage 20
+Explosion 53
+Explosive
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 46567
+Blueprint_1_Build 30

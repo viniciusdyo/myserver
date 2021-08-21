@@ -1,0 +1,54 @@
+GUID 36172be71d364123b4d92b35e81b4737
+
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 25935
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Beard
+
+Armor 0.75
+
+Blueprints 3
+
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 25935
+Blueprint_0_Product 67
+Blueprint_0_Products 5
+Blueprint_0_Build 32
+Blueprint_0_Map France
+
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 25899
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Tool 76
+Blueprint_1_Level 3
+Blueprint_1_Skill Repair
+Blueprint_1_Build 32
+Blueprint_1_Map France
+
+
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 5
+Blueprint_2_Supply_0_ID 3022
+Blueprint_2_Supply_0_Amount 2
+Blueprint_2_Supply_1_ID 25897
+Blueprint_2_Supply_1_Amount 4
+Blueprint_2_Supply_2_ID 285
+Blueprint_2_Supply_2_Amount 2
+Blueprint_2_Supply_3_ID 25891
+Blueprint_2_Supply_3_Amount 3
+Blueprint_2_Supply_4_ID 25890
+Blueprint_2_Supply_4_Amount 2
+Blueprint_2_Product 25935
+Blueprint_2_Products 1
+Blueprint_2_Tool 76
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+Blueprint_2_Map France

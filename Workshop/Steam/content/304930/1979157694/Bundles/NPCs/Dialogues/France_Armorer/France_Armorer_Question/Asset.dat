@@ -1,0 +1,43 @@
+GUID b9d66d10a92a4e648077b3b845305264
+Type Dialogue
+ID 4151
+
+Messages 1
+Message_0_Pages 1
+
+Responses 5
+
+// Who are you?
+Response_0_Dialogue 4152
+
+// Can I buy some weapons?
+Response_1_Dialogue 4153
+
+// Need any help? (Possible)
+Response_2_Dialogue 4154
+Response_2_Conditions 2
+Response_2_Condition_0_Type Flag_Bool
+Response_2_Condition_0_ID 4155
+Response_2_Condition_0_Value False
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Allow_Unset
+Response_2_Condition_1_Type Flag_Short
+Response_2_Condition_1_ID 4014
+Response_2_Condition_1_Value 6
+Response_2_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_2_Rewards 1
+Response_2_Reward_0_Type Flag_Bool
+Response_2_Reward_0_ID 4155
+Response_2_Reward_0_Value True
+
+// Need any help? (Not Possible)
+Response_3_Dialogue 4154
+Response_3_Conditions 1
+Response_3_Condition_0_Type Flag_Short
+Response_3_Condition_0_ID 4014
+Response_3_Condition_0_Value 6
+Response_3_Condition_0_Logic Less_Than
+Response_3_Condition_0_Allow_Unset
+
+// Nvm
+Response_4_Dialogue 4150

@@ -1,0 +1,27 @@
+GUID f1b4795ee1e845fd8daac34a268544bc
+Type Quest
+ID 4144
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 4145
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+Rewards 4
+Reward_0_Type Experience
+Reward_0_Value 15
+Reward_1_Type Reputation
+Reward_1_Value 25
+
+// Fort quests completed
+Reward_2_Type Flag_Short
+Reward_2_ID 4014
+Reward_2_Value 1
+Reward_2_Modification Increment
+
+// Display the Pan
+Reward_3_Type Flag_Short
+Reward_3_ID 4145
+Reward_3_Value 1
+Reward_3_Modification Increment

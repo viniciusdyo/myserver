@@ -1,0 +1,42 @@
+GUID e9bcff65eaa1407499f790d790153cc1
+Type Vehicle
+Rarity Epic
+ID 46530
+
+BatteryMode_Sirens None
+
+Speed_Min -15
+Speed_Max 38
+
+Steer_Min 32
+Steer_Max 48
+
+Air_Turn_Responsiveness 3
+
+Air_Steer_Min 16
+Air_Steer_Max 48
+
+Cam_Follow_Distance 32
+
+Asset_Bundle_Version 3
+
+Brake 64
+Lift 5
+Sleds
+
+Fuel 3500
+
+Health_Min 600
+Health_Max 700
+Health 1100
+
+LockMouse
+Engine Plane
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 12
+
+Explosion 20
+Tires_Invulnerable
+
+Exit 8

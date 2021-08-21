@@ -1,0 +1,15 @@
+GUID 9ac5d97a73aa4036b623d39f4e92fa85
+Type Medical
+Useable Consumeable
+ID 5528
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Aid
+Health 5
+Disinfectant 25
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Tablets

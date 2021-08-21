@@ -1,0 +1,16 @@
+GUID 5e56d32fb79147d0846bb71999e895c5
+Type NPC
+ID 4000
+
+Shirt 3015
+Pants 3016
+Hat 3092
+
+Face 5
+Beard 4
+Color_Skin #ffe0bd
+Color_Hair #C0C0C0
+
+Secondary 488
+
+Dialogue 4030

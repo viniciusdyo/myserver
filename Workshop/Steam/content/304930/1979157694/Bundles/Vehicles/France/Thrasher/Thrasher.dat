@@ -1,0 +1,28 @@
+GUID 9cf70b509cba404b8d34c5f6a0797856
+Type Vehicle
+Rarity Rare
+ID 700
+
+Speed_Min -6
+Speed_Max 14
+
+Steer_Min 24
+Steer_Max 48
+
+Brake 40
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2000
+
+Health_Min 350
+Health_Max 450
+Health 550
+
+Traction
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Explosion 20
+Invulnerable

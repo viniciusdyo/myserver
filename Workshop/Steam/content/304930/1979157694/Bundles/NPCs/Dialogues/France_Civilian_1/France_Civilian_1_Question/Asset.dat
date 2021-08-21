@@ -1,0 +1,48 @@
+GUID dfac83c211de4ec88527239ec5ca514d
+Type Dialogue
+ID 4168
+
+Messages 1
+Message_0_Pages 1
+
+Responses 5
+
+// Who are you?
+Response_0_Dialogue 4169
+
+// What crossbow is that?
+Response_1_Dialogue 4170
+
+// Need any help? (Engineer Ready)
+Response_2_Dialogue 4171
+Response_2_Conditions 2
+Response_2_Condition_0_Type Flag_Bool
+Response_2_Condition_0_ID 4172
+Response_2_Condition_0_Value False
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Allow_Unset
+Response_2_Condition_1_Type Flag_Short
+Response_2_Condition_1_ID 4018
+Response_2_Condition_1_Value 1
+Response_2_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_2_Rewards 1
+Response_2_Reward_0_Type Flag_Bool
+Response_2_Reward_0_ID 4172
+Response_2_Reward_0_Value True
+
+// Need any help? (Engineer Not Ready)
+Response_3_Dialogue 4171
+Response_3_Conditions 2
+Response_3_Condition_0_Type Flag_Bool
+Response_3_Condition_0_ID 4172
+Response_3_Condition_0_Value False
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Allow_Unset
+Response_3_Condition_1_Type Flag_Short
+Response_3_Condition_1_ID 4018
+Response_3_Condition_1_Value 1
+Response_3_Condition_1_Logic Less_Than
+Response_3_Condition_1_Allow_Unset
+
+// Nvm
+Response_4_Dialogue 4167

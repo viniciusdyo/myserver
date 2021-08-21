@@ -1,0 +1,25 @@
+GUID 401dac92e1a845cca9dcbe6d1e48fe69
+Type Supply
+ID 5538
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 5538
+Blueprint_1_Product 67
+Blueprint_1_Products 4
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Supplies/Can

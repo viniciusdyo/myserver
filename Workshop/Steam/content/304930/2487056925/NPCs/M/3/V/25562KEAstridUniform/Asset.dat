@@ -1,0 +1,31 @@
+GUID 89e6b01dafa9427c83e1df98ea5e4ba4
+Type Vendor
+ID 25562
+
+Selling 8
+// Coalition_Bottom
+Selling_0_ID 5322
+Selling_0_Cost 25
+// Coalition_Top_Ensign
+Selling_1_ID 5316
+Selling_1_Cost 25
+// Coalition_Top_Lieutenant
+Selling_2_ID 5317
+Selling_2_Cost 25
+// Coalition_Top_Major
+Selling_3_ID 5318
+Selling_3_Cost 40
+// Coalition_Vest
+Selling_4_ID 5323
+Selling_4_Cost 50
+// Cap_Coalition
+Selling_5_ID 5325
+Selling_5_Cost 25
+// Coalition_Helmet
+Selling_6_ID 5324
+Selling_6_Cost 50
+// Coalition_Beret
+Selling_7_ID 5326
+Selling_7_Cost 40
+
+Currency b76b37b2d40c4054b850458e135408c6

@@ -1,0 +1,43 @@
+GUID 5e805933182f4cc9bdeae72d68655827
+Type Quest
+ID 27109
+
+Conditions 4
+Condition_0_Type Item
+Condition_0_ID 5003
+Condition_0_Amount 1
+Condition_0_Reset
+Condition_1_Type Item
+Condition_1_ID 6
+Condition_1_Amount 30
+Condition_1_Reset
+Condition_1_Value True
+Condition_1_Logic Equal
+Condition_2_Type Item
+Condition_2_ID 5009
+Condition_2_Amount 1
+Condition_2_Reset
+Condition_3_Type Item
+Condition_3_ID 5010
+Condition_3_Amount 18
+Condition_3_Value True
+Condition_3_Logic Equal
+Condition_3_Reset
+
+Rewards 4
+Reward_0_Type Currency
+Reward_0_Value 50
+Reward_0_GUID b76b37b2d40c4054b850458e135408c6
+Reward_1_Type Reputation
+Reward_1_Value 5
+Reward_2_Type Flag_Short_Random
+Reward_2_ID 27000
+Reward_2_Min_Value 4
+Reward_2_Max_Value 6
+Reward_2_Modification Increment
+Reward_3_Type Flag_Short
+Reward_3_ID 27350
+Reward_3_Value 5
+Reward_3_Modification Increment
+
+// If you're copying things, at least credit NSTM.

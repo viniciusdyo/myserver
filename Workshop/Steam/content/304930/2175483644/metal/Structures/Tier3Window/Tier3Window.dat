@@ -1,0 +1,28 @@
+GUID 2f78cd0c78e4419cb69923f97f6e9328
+Type Structure
+Rarity Legendary
+Useable Structure
+Construct Wall
+ID 29984
+
+Exclude_From_Master_Bundle
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 4400
+Range 8
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 29985
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Armor_Tier High

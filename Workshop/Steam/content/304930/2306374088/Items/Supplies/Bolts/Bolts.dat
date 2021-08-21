@@ -1,0 +1,19 @@
+GUID 0b7977a1617f40beb4c4151f482065e1
+
+Type Supply
+Rarity Rare
+ID 25890
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 25894
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

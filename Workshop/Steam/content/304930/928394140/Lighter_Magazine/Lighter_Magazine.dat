@@ -1,0 +1,23 @@
+GUID 0cadbe7720a643b8b3043e55196fcde2
+Type Magazine
+Rarity Uncommon
+ID 51421
+
+Size_X 1
+Size_Y 1
+Size_Z 0.23
+
+Amount 100
+Count_Min 20
+Count_Max 60
+
+Calibers 1
+Caliber_0 51420
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 51421
+Blueprint_0_Build 30
+
+Delete_Empty

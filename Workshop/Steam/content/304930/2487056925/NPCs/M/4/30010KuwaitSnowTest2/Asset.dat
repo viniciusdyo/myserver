@@ -1,0 +1,20 @@
+GUID c526e6fff4a7483e8593c19f7346b763
+Type NPC
+ID 30010
+
+Shirt 181
+Pants 548
+Mask 570
+Glasses 727
+
+Face 24
+Hair 8
+Color_Skin #d9cab4
+Color_Hair #191919
+
+Primary 18
+Secondary 99
+
+Dialogue 30011
+
+// Something is wrong with the currency...

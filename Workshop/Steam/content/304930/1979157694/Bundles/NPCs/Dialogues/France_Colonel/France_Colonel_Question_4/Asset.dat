@@ -1,0 +1,19 @@
+GUID 09707d22b9644c7ca8d84b8ee6f92ded
+Type Dialogue
+ID 4036
+
+Messages 1
+Message_0_Pages 4
+
+Responses 2
+
+// I'm ready
+Response_0_Dialogue 4049
+Response_0_Quest 4039
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 4039
+Response_0_Reward_0_Status Active
+
+// Later
+Response_1_Dialogue 4030

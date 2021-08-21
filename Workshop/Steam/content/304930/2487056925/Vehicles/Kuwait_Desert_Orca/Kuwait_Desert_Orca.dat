@@ -1,0 +1,35 @@
+GUID e6ec4008b0ff4ea58b9c6a09dc62d0e9
+Type Vehicle
+Rarity Epic
+ID 5038
+
+Speed_Min -4
+Speed_Max 18
+
+Steer_Min 14
+Steer_Max 6
+
+Fuel 2000
+
+Health_Min 800
+Health_Max 900
+Health 1000
+
+Exit 3
+
+Cam_Follow_Distance 12.5
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+ShouldExplosionCauseDamage True
+ShouldExplosionBurnMaterials True
+
+Asset_Bundle_Version 3

@@ -1,0 +1,55 @@
+"Metadata"
+{
+	"GUID" "b76b37b2d40c4054b850458e135408c6"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} KWD"
+	"Entries"
+	[
+		{
+			"Item"
+			{
+				"GUID" "7c400836e11c4f6f85be981258c3c695"
+			}
+			"Value" "1"
+		}
+		{
+			"Item"
+			{
+				"GUID" "2a9d448b55df46aca80384832b1b3c42"
+			}
+			"Value" "5"
+		}
+		{
+			"Item"
+			{
+				"GUID" "3b8e6f8a8fc24e2aaaab06c9c267d8ab"
+			}
+			"Value" "10"
+		}
+		{
+			"Item"
+			{
+				"GUID" "5ec77d49da6f43dab3449bb0706bbb8b"
+			}
+			"Value" "20"
+		}
+				{
+			"Item"
+			{
+				"GUID" "cea90153d766466fae7749fc4b3004c6"
+			}
+			"Value" "100"
+		}
+		{
+			"Item"
+			{
+				"GUID" "c9b55f96885c4b36a022070421ffde43"
+			}
+			"Value" "200"
+		}
+
+	]
+}

@@ -1,0 +1,88 @@
+GUID f5789c79c22e4fc588d40ead29e66efc
+Type Gun
+Rarity Rare
+Useable Gun
+Slot Secondary
+ID 51208
+
+Size_X 3
+Size_Y 2
+Size_Z 0.39
+
+Magazine 113
+
+Hook_Tactical
+
+Ammo_Min 6
+Ammo_Max 8
+
+Safety
+Semi
+
+Caliber 8
+
+Range 20
+Firerate 40
+Action Pump
+
+Player_Damage 38
+Player_Leg_Multiplier 0.7
+Player_Arm_Multiplier 0.7
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 40
+Zombie_Leg_Multiplier 0.7
+Zombie_Arm_Multiplier 0.7
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.2
+
+Animal_Damage 40
+Animal_Leg_Multiplier 0.7
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.2
+
+Barricade_Damage 10
+Structure_Damage 7
+Vehicle_Damage 10
+Resource_Damage 10
+Object_Damage 12
+
+Durability 0.1
+
+Spread_Aim 0.8
+Spread_Hip 0.13
+
+Ballistic_Steps 1
+Ballistic_Travel 20
+
+Recoil_Min_X -10
+Recoil_Min_Y 40
+Recoil_Max_X 10
+Recoil_Max_Y 50
+
+Recover_X 0.8
+Recover_Y 0.8
+
+Shake_Min_X -0.005
+Shake_Min_Y -0.009
+Shake_Min_Z -0.05
+Shake_Max_X 0.005
+Shake_Max_Y -0.01
+Shake_Max_Z -0.1
+
+Muzzle 4
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51208
+Blueprint_1_Product 67
+Blueprint_1_Products 2
+Blueprint_1_Build 27

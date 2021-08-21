@@ -1,0 +1,25 @@
+GUID 07cb290f67464a9b91c2b6ba970582ee
+Type NPC
+ID 29585
+
+Hat 682
+Shirt 683 
+Pants 684
+
+Face 13
+Hair 0
+Beard 0
+Color_Skin #F4E6D2
+Color_Hair #191919
+
+Tertiary 109
+
+Equipped Tertiary
+
+Dialogue 29586
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 29320
+Condition_0_Value True
+Condition_0_Logic Equal

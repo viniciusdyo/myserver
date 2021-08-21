@@ -1,0 +1,19 @@
+GUID d128bbef04284380834fd96a19ea9f12
+Type Resource
+ID 3051
+
+Health 750
+Radius 3
+Scale 1
+
+Explosion 5258
+Reward_ID 7143
+Reward_XP 4
+Reward_Min 7
+Reward_Max 10
+
+Reset 450
+
+Auto_Skybox
+
+Asset_Bundle_Version 2

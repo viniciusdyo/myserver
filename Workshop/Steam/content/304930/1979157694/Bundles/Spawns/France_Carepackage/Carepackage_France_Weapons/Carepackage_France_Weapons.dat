@@ -1,0 +1,56 @@
+GUID 96aeff21da7944a0a16d493def71e9e6
+Type Spawn
+ID 2164
+
+Tables 23
+//Non-map Weapons
+Table_0_Asset_ID 1449
+Table_0_Weight 100
+Table_1_Asset_ID 1447
+Table_1_Weight 100
+Table_2_Asset_ID 1381
+Table_2_Weight 100
+Table_3_Asset_ID 123
+Table_3_Weight 100
+Table_4_Asset_ID 1379
+Table_4_Weight 100
+Table_5_Asset_ID 363
+Table_5_Weight 100
+Table_6_Asset_ID 4
+Table_6_Weight 100
+Table_7_Asset_ID 6
+Table_7_Weight 100
+Table_8_Asset_ID 1362
+Table_8_Weight 100
+Table_9_Asset_ID 1490
+Table_9_Weight 100
+Table_10_Asset_ID 1488
+Table_10_Weight 100
+Table_11_Asset_ID 1018
+Table_11_Weight 100
+Table_12_Asset_ID 1020
+Table_12_Weight 100
+
+
+
+//Super Weapons
+Table_13_Asset_ID 297
+Table_13_Weight 10
+Table_14_Asset_ID 298
+Table_14_Weight 10
+Table_15_Asset_ID 1382
+Table_15_Weight 10
+Table_16_Asset_ID 1384
+Table_16_Weight 10
+Table_17_Asset_ID 126
+Table_17_Weight 10
+Table_18_Asset_ID 127
+Table_18_Weight 10
+Table_19_Asset_ID 18
+Table_19_Weight 10
+Table_20_Asset_ID 20
+Table_20_Weight 10
+Table_21_Asset_ID 1364
+Table_21_Weight 5
+Table_22_Asset_ID 1365
+Table_22_Weight 5

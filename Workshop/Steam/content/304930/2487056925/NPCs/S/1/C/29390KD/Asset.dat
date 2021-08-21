@@ -1,0 +1,16 @@
+GUID e2622af51e7d44f1ba4033f78919cb94
+Type NPC
+ID 29390
+
+Shirt 421 
+Pants 422
+
+Face 13
+Hair 2
+Beard 0
+Color_Skin #BEA582
+Color_Hair #191919
+
+Dialogue 29391
+
+Pose Asleep

@@ -1,0 +1,20 @@
+GUID ab195d3180b5442c969d095167b732a7
+Type Spawn
+ID 51306
+Roots 5
+Root_0_Spawn_ID 228
+Root_0_Weight 39
+Root_1_Spawn_ID 570
+Root_1_Weight 39
+Root_2_Spawn_ID 710
+Root_2_Weight 5
+Root_3_Spawn_ID 370
+Root_3_Weight 15
+Root_4_Spawn_ID 2123
+Root_4_Weight 2
+
+Tables 2
+Table_0_Asset_ID 51306
+Table_0_Weight 15
+Table_1_Asset_ID 51307
+Table_1_Weight 25

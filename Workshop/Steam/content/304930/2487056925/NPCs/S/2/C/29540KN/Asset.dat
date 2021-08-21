@@ -1,0 +1,27 @@
+GUID f4da3e3ec30441e599769568ea5c2a40
+Type NPC
+ID 29540
+
+Shirt 421 
+Pants 422
+
+Face 11
+Hair 2
+Beard 1
+Color_Skin #9D886B
+Color_Hair #191919
+
+Dialogue 29541
+
+Conditions 2
+Condition_0_Type Flag_Bool
+Condition_0_ID 29320
+Condition_0_Value True
+Condition_0_Logic Equal
+Condition_1_Type Flag_Bool
+Condition_1_ID 29546
+Condition_1_Value False
+Condition_1_Logic Equal
+Condition_1_Allow_Unset
+
+Pose Asleep

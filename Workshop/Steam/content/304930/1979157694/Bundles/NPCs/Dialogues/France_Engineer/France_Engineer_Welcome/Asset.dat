@@ -1,0 +1,760 @@
+GUID 6ce8628f3c4b41a0b8594422e02860f6
+Type Dialogue
+ID 4056
+
+Messages 9
+
+// Not met Colonel
+Message_0_Pages 1
+Message_0_Responses 1
+Message_0_Response_0 0
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 4013
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+
+// Bayonet BP Ready
+Message_1_Pages 3
+Message_1_Responses 2
+Message_1_Response_0 1
+Message_1_Response_1 38
+Message_1_Conditions 2
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 4016
+Message_1_Condition_0_Value 4
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Flag_Bool
+Message_1_Condition_1_ID 4098
+Message_1_Condition_1_Value False
+Message_1_Condition_1_Logic Equal
+Message_1_Condition_1_Allow_Unset
+
+// Singleshot 12 Ready
+Message_2_Pages 4
+Message_2_Responses 2
+Message_2_Response_0 2
+Message_2_Response_1 38
+Message_2_Conditions 2
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 4016
+Message_2_Condition_0_Value 8
+Message_2_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_2_Condition_1_Type Flag_Bool
+Message_2_Condition_1_ID 4099
+Message_2_Condition_1_Value False
+Message_2_Condition_1_Logic Equal
+Message_2_Condition_1_Allow_Unset
+
+// Quad Barrel Ready
+Message_3_Pages 4
+Message_3_Responses 2
+Message_3_Response_0 3
+Message_3_Response_1 38
+Message_3_Conditions 2
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 4016
+Message_3_Condition_0_Value 10
+Message_3_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_3_Condition_1_Type Flag_Bool
+Message_3_Condition_1_ID 4100
+Message_3_Condition_1_Value False
+Message_3_Condition_1_Logic Equal
+Message_3_Condition_1_Allow_Unset
+
+// Ace Ready
+Message_4_Pages 6
+Message_4_Responses 2
+Message_4_Response_0 4
+Message_4_Response_1 38
+Message_4_Conditions 2
+Message_4_Condition_0_Type Flag_Short
+Message_4_Condition_0_ID 4016
+Message_4_Condition_0_Value 14
+Message_4_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_4_Condition_1_Type Flag_Bool
+Message_4_Condition_1_ID 4101
+Message_4_Condition_1_Value False
+Message_4_Condition_1_Logic Equal
+Message_4_Condition_1_Allow_Unset
+
+// Musket Ready
+Message_5_Pages 6
+Message_5_Responses 2
+Message_5_Response_0 5
+Message_5_Response_1 38
+Message_5_Conditions 2
+Message_5_Condition_0_Type Flag_Short
+Message_5_Condition_0_ID 4016
+Message_5_Condition_0_Value 20
+Message_5_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_5_Condition_1_Type Flag_Bool
+Message_5_Condition_1_ID 4102
+Message_5_Condition_1_Value False
+Message_5_Condition_1_Logic Equal
+Message_5_Condition_1_Allow_Unset
+
+// Napalm Ready
+Message_6_Pages 4
+Message_6_Responses 2
+Message_6_Response_0 6
+Message_6_Response_1 38
+Message_6_Conditions 4
+Message_6_Condition_0_Type Flag_Short
+Message_6_Condition_0_ID 4016
+Message_6_Condition_0_Value 30
+Message_6_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_6_Condition_1_Type Flag_Bool
+Message_6_Condition_1_ID 4103
+Message_6_Condition_1_Value False
+Message_6_Condition_1_Logic Equal
+Message_6_Condition_1_Allow_Unset
+Message_6_Condition_2_Type Flag_Short
+Message_6_Condition_2_ID 4014
+Message_6_Condition_2_Value 14
+Message_6_Condition_2_Logic Greater_Than_Or_Equal_To
+Message_6_Condition_3_Type Quest
+Message_6_Condition_3_Logic Equal
+Message_6_Condition_3_ID 4068
+Message_6_Condition_3_Status Completed
+
+// Colonel Aid Reward Ready
+Message_7_Pages 2
+Message_7_Conditions 6
+Message_7_Condition_0_Type Flag_Short
+Message_7_Condition_0_ID 4014
+Message_7_Condition_0_Value 4
+Message_7_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_7_Condition_1_Type Quest
+Message_7_Condition_1_Logic Equal
+Message_7_Condition_1_ID 4042
+Message_7_Condition_1_Status Completed
+Message_7_Condition_2_Type Quest
+Message_7_Condition_2_Logic Equal
+Message_7_Condition_2_ID 4131
+Message_7_Condition_2_Status Completed
+Message_7_Condition_3_Type Quest
+Message_7_Condition_3_Logic Equal
+Message_7_Condition_3_ID 4144
+Message_7_Condition_3_Status Completed
+Message_7_Condition_4_Type Quest
+Message_7_Condition_4_Logic Equal
+Message_7_Condition_4_ID 4156
+Message_7_Condition_4_Status Completed
+Message_7_Condition_5_Type Flag_Bool
+Message_7_Condition_5_ID 4093
+Message_7_Condition_5_Value False
+Message_7_Condition_5_Logic Equal
+Message_7_Condition_5_Allow_Unset
+
+//Nothing Special
+Message_8_Pages 1
+
+
+
+Responses 40
+
+// Not met Colonel
+Response_0_Messages 1
+Response_0_Message_0 0
+
+// Bayonet Accept
+// Engineer_Bayonet
+Response_1_Dialogue 4056
+Response_1_Messages 1
+Response_1_Message_0 1
+Response_1_Rewards 2
+// Engineer_Inventions
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 4098
+Response_1_Reward_0_Value True
+// Bayonet Blueprint
+Response_1_Reward_1_Type Item
+Response_1_Reward_1_ID 1439
+Response_1_Reward_1_Amount 1
+
+// Singleshot Accept
+// Engineer_Singleshot
+Response_2_Dialogue 4056
+Response_2_Messages 1
+Response_2_Message_0 2
+Response_2_Rewards 3
+// Engineer_Inventions
+Response_2_Reward_0_Type Flag_Bool
+Response_2_Reward_0_ID 4099
+Response_2_Reward_0_Value True
+// Upgraded Singleshot
+Response_2_Reward_1_Type Item
+Response_2_Reward_1_ID 3014
+Response_2_Reward_1_Amount 1
+Response_2_Reward_1_Barrel 149
+Response_2_Reward_1_Sight 146
+// Machine Level
+Response_2_Reward_2_Type Flag_Short
+Response_2_Reward_2_ID 4018
+Response_2_Reward_2_Value 1
+Response_2_Reward_2_Modification Increment
+
+// Quad Barrel Accept
+// Engineer_Bayonet
+Response_3_Dialogue 4056
+Response_3_Messages 1
+Response_3_Message_0 3
+Response_3_Rewards 2
+// Engineer_Inventions
+Response_3_Reward_0_Type Flag_Bool
+Response_3_Reward_0_ID 4100
+Response_3_Reward_0_Value True
+// Quad Barrel Blueprint
+Response_3_Reward_1_Type Item
+Response_3_Reward_1_ID 1437
+Response_3_Reward_1_Amount 1
+
+// Ace Accept
+// Engineer_Ace
+Response_4_Dialogue 4056
+Response_4_Messages 1
+Response_4_Message_0 4
+Response_4_Rewards 3
+// Engineer_Inventions
+Response_4_Reward_0_Type Flag_Bool
+Response_4_Reward_0_ID 4101
+Response_4_Reward_0_Value True
+// Upgraded Ace
+Response_4_Reward_1_Type Item
+Response_4_Reward_1_ID 107
+Response_4_Reward_1_Amount 1
+Response_4_Reward_1_Tactical 1007
+Response_4_Reward_1_Sight 3074
+Response_4_Reward_1_Grip 3103
+// Machine Level
+Response_4_Reward_2_Type Flag_Short
+Response_4_Reward_2_ID 4018
+Response_4_Reward_2_Value 1
+Response_4_Reward_2_Modification Increment
+
+// Musket Accept
+// Engineer_Musket
+Response_5_Dialogue 4056
+Response_5_Messages 1
+Response_5_Message_0 5
+Response_5_Rewards 3
+// Engineer_Inventions
+Response_5_Reward_0_Type Flag_Bool
+Response_5_Reward_0_ID 4102
+Response_5_Reward_0_Value True
+// Upgraded Musket
+Response_5_Reward_1_Type Item
+Response_5_Reward_1_ID 3007
+Response_5_Reward_1_Amount 1
+// Machine Level
+Response_5_Reward_2_Type Flag_Short
+Response_5_Reward_2_ID 4018
+Response_5_Reward_2_Value 1
+Response_5_Reward_2_Modification Increment
+
+// Napalm Accept
+// Engineer_Napalm
+Response_6_Dialogue 4056
+Response_6_Messages 1
+Response_6_Message_0 6
+Response_6_Rewards 2
+// Engineer_Inventions
+Response_6_Reward_0_Type Flag_Bool
+Response_6_Reward_0_ID 4103
+Response_6_Reward_0_Value True
+// Napalm Recpie
+Response_6_Reward_1_Type Item
+Response_6_Reward_1_ID 3090
+Response_6_Reward_1_Amount 1
+
+// Gunsmith Accept
+Response_7_Dialogue 4105
+Response_7_Quest 4068
+Response_7_Conditions 2
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_ID 4068
+Response_7_Condition_0_Status None
+Response_7_Condition_1_Type Flag_Bool
+Response_7_Condition_1_Logic Equal
+Response_7_Condition_1_ID 4102
+Response_7_Condition_1_Value True
+Response_7_Rewards 17
+Response_7_Reward_0_Type Quest
+Response_7_Reward_0_ID 4068
+Response_7_Reward_0_Status Active
+// Set everthing
+Response_7_Reward_1_Type Flag_Bool
+Response_7_Reward_1_ID 4069
+Response_7_Reward_1_Value False
+Response_7_Reward_2_Type Flag_Bool
+Response_7_Reward_2_ID 4070
+Response_7_Reward_2_Value False
+Response_7_Reward_3_Type Flag_Bool
+Response_7_Reward_3_ID 4071
+Response_7_Reward_3_Value False
+Response_7_Reward_4_Type Flag_Bool
+Response_7_Reward_4_ID 4072
+Response_7_Reward_4_Value False
+Response_7_Reward_5_Type Flag_Bool
+Response_7_Reward_5_ID 4073
+Response_7_Reward_5_Value False
+Response_7_Reward_6_Type Flag_Bool
+Response_7_Reward_6_ID 4074
+Response_7_Reward_6_Value False
+Response_7_Reward_7_Type Flag_Bool
+Response_7_Reward_7_ID 4075
+Response_7_Reward_7_Value False
+Response_7_Reward_8_Type Flag_Bool
+Response_7_Reward_8_ID 4076
+Response_7_Reward_8_Value False
+Response_7_Reward_9_Type Flag_Bool
+Response_7_Reward_9_ID 4077
+Response_7_Reward_9_Value False
+Response_7_Reward_10_Type Flag_Bool
+Response_7_Reward_10_ID 4078
+Response_7_Reward_10_Value False
+Response_7_Reward_11_Type Flag_Bool
+Response_7_Reward_11_ID 4079
+Response_7_Reward_11_Value False
+Response_7_Reward_12_Type Flag_Bool
+Response_7_Reward_12_ID 4080
+Response_7_Reward_12_Value False
+Response_7_Reward_13_Type Flag_Bool
+Response_7_Reward_13_ID 4081
+Response_7_Reward_13_Value False
+Response_7_Reward_14_Type Flag_Bool
+Response_7_Reward_14_ID 4082
+Response_7_Reward_14_Value False
+Response_7_Reward_15_Type Flag_Bool
+Response_7_Reward_15_ID 4083
+Response_7_Reward_15_Value False
+Response_7_Reward_16_Type Flag_Short
+Response_7_Reward_16_ID 4084
+Response_7_Reward_16_Value 0
+Response_7_Reward_16_Modification Assign
+
+// Gunsmith Turn In
+Response_8_Dialogue 4106
+Response_8_Quest 4068
+Response_8_Conditions 1
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_ID 4068
+Response_8_Condition_0_Status Ready
+Response_8_Condition_0_Reset
+
+// Gun Collection Accept
+Response_9_Dialogue 4064
+Response_9_Quest 4017
+Response_9_Conditions 2
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_ID 4017
+Response_9_Condition_0_Status None
+Response_9_Condition_1_Type Flag_Bool
+Response_9_Condition_1_Logic Equal
+Response_9_Condition_1_ID 4104
+Response_9_Condition_1_Value True
+Response_9_Rewards 1
+Response_9_Reward_0_Type Quest
+Response_9_Reward_0_ID 4017
+Response_9_Reward_0_Status Active
+
+// Gun Collection In
+Response_10_Dialogue 4065
+Response_10_Quest 4017
+Response_10_Conditions 1
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_0_ID 4017
+Response_10_Condition_0_Status Ready
+Response_10_Condition_0_Reset
+
+// Scrap Quests
+// Chemicals Accept
+Response_11_Dialogue 4066
+Response_11_Quest 4020
+Response_11_Conditions 3
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_Logic Not_Equal
+Response_11_Condition_0_ID 4020
+Response_11_Condition_0_Status Active
+Response_11_Condition_1_Type Quest
+Response_11_Condition_1_Logic Not_Equal
+Response_11_Condition_1_ID 4020
+Response_11_Condition_1_Status Ready
+Response_11_Condition_2_Type Flag_Short
+Response_11_Condition_2_ID 4019
+Response_11_Condition_2_Value 1
+Response_11_Condition_2_Logic Equal
+Response_11_Rewards 1
+Response_11_Reward_0_Type Quest
+Response_11_Reward_0_ID 4020
+
+// Chemicals Turn In
+Response_12_Dialogue 4067
+Response_12_Quest 4020
+Response_12_Conditions 1
+Response_12_Condition_0_Type Quest
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_0_ID 4020
+Response_12_Condition_0_Status Ready
+Response_12_Condition_0_Reset
+
+// Sheet Accept
+Response_13_Dialogue 4066
+Response_13_Quest 4021
+Response_13_Conditions 3
+Response_13_Condition_0_Type Quest
+Response_13_Condition_0_Logic Not_Equal
+Response_13_Condition_0_ID 4021
+Response_13_Condition_0_Status Active
+Response_13_Condition_1_Type Quest
+Response_13_Condition_1_Logic Not_Equal
+Response_13_Condition_1_ID 4021
+Response_13_Condition_1_Status Ready
+Response_13_Condition_2_Type Flag_Short
+Response_13_Condition_2_ID 4019
+Response_13_Condition_2_Value 2
+Response_13_Condition_2_Logic Equal
+Response_13_Rewards 1
+Response_13_Reward_0_Type Quest
+Response_13_Reward_0_ID 4021
+
+// Sheet Turn In
+Response_14_Dialogue 4067
+Response_14_Quest 4021
+Response_14_Conditions 1
+Response_14_Condition_0_Type Quest
+Response_14_Condition_0_Logic Equal
+Response_14_Condition_0_ID 4021
+Response_14_Condition_0_Status Ready
+Response_14_Condition_0_Reset
+
+// Wire Accept
+Response_15_Dialogue 4066
+Response_15_Quest 4022
+Response_15_Conditions 3
+Response_15_Condition_0_Type Quest
+Response_15_Condition_0_Logic Not_Equal
+Response_15_Condition_0_ID 4022
+Response_15_Condition_0_Status Active
+Response_15_Condition_1_Type Quest
+Response_15_Condition_1_Logic Not_Equal
+Response_15_Condition_1_ID 4022
+Response_15_Condition_1_Status Ready
+Response_15_Condition_2_Type Flag_Short
+Response_15_Condition_2_ID 4019
+Response_15_Condition_2_Value 3
+Response_15_Condition_2_Logic Equal
+Response_15_Rewards 1
+Response_15_Reward_0_Type Quest
+Response_15_Reward_0_ID 4022
+
+// Wire Turn In
+Response_16_Dialogue 4067
+Response_16_Quest 4022
+Response_16_Conditions 1
+Response_16_Condition_0_Type Quest
+Response_16_Condition_0_Logic Equal
+Response_16_Condition_0_ID 4022
+Response_16_Condition_0_Status Ready
+Response_16_Condition_0_Reset
+
+// Glue Accept
+Response_17_Dialogue 4066
+Response_17_Quest 4023
+Response_17_Conditions 3
+Response_17_Condition_0_Type Quest
+Response_17_Condition_0_Logic Not_Equal
+Response_17_Condition_0_ID 4023
+Response_17_Condition_0_Status Active
+Response_17_Condition_1_Type Quest
+Response_17_Condition_1_Logic Not_Equal
+Response_17_Condition_1_ID 4023
+Response_17_Condition_1_Status Ready
+Response_17_Condition_2_Type Flag_Short
+Response_17_Condition_2_ID 4019
+Response_17_Condition_2_Value 4
+Response_17_Condition_2_Logic Equal
+Response_17_Rewards 1
+Response_17_Reward_0_Type Quest
+Response_17_Reward_0_ID 4023
+
+// Glue Turn In
+Response_18_Dialogue 4067
+Response_18_Quest 4023
+Response_18_Conditions 1
+Response_18_Condition_0_Type Quest
+Response_18_Condition_0_Logic Equal
+Response_18_Condition_0_ID 4023
+Response_18_Condition_0_Status Ready
+Response_18_Condition_0_Reset
+
+// Rope Accept
+Response_19_Dialogue 4066
+Response_19_Quest 4024
+Response_19_Conditions 3
+Response_19_Condition_0_Type Quest
+Response_19_Condition_0_Logic Not_Equal
+Response_19_Condition_0_ID 4024
+Response_19_Condition_0_Status Active
+Response_19_Condition_1_Type Quest
+Response_19_Condition_1_Logic Not_Equal
+Response_19_Condition_1_ID 4024
+Response_19_Condition_1_Status Ready
+Response_19_Condition_2_Type Flag_Short
+Response_19_Condition_2_ID 4019
+Response_19_Condition_2_Value 5
+Response_19_Condition_2_Logic Equal
+Response_19_Rewards 1
+Response_19_Reward_0_Type Quest
+Response_19_Reward_0_ID 4024
+
+// Rope Turn In
+Response_20_Dialogue 4067
+Response_20_Quest 4024
+Response_20_Conditions 1
+Response_20_Condition_0_Type Quest
+Response_20_Condition_0_Logic Equal
+Response_20_Condition_0_ID 4024
+Response_20_Condition_0_Status Ready
+Response_20_Condition_0_Reset
+
+// Scrap Accept
+Response_21_Dialogue 4066
+Response_21_Quest 4025
+Response_21_Conditions 3
+Response_21_Condition_0_Type Quest
+Response_21_Condition_0_Logic Not_Equal
+Response_21_Condition_0_ID 4025
+Response_21_Condition_0_Status Active
+Response_21_Condition_1_Type Quest
+Response_21_Condition_1_Logic Not_Equal
+Response_21_Condition_1_ID 4025
+Response_21_Condition_1_Status Ready
+Response_21_Condition_2_Type Flag_Short
+Response_21_Condition_2_ID 4019
+Response_21_Condition_2_Value 6
+Response_21_Condition_2_Logic Equal
+Response_21_Rewards 1
+Response_21_Reward_0_Type Quest
+Response_21_Reward_0_ID 4025
+
+// Scrap Turn In
+Response_22_Dialogue 4067
+Response_22_Quest 4025
+Response_22_Conditions 1
+Response_22_Condition_0_Type Quest
+Response_22_Condition_0_Logic Equal
+Response_22_Condition_0_ID 4025
+Response_22_Condition_0_Status Ready
+Response_22_Condition_0_Reset
+
+// Cloth Accept
+Response_23_Dialogue 4066
+Response_23_Quest 4026
+Response_23_Conditions 3
+Response_23_Condition_0_Type Quest
+Response_23_Condition_0_Logic Not_Equal
+Response_23_Condition_0_ID 4026
+Response_23_Condition_0_Status Active
+Response_23_Condition_1_Type Quest
+Response_23_Condition_1_Logic Not_Equal
+Response_23_Condition_1_ID 4026
+Response_23_Condition_1_Status Ready
+Response_23_Condition_2_Type Flag_Short
+Response_23_Condition_2_ID 4019
+Response_23_Condition_2_Value 7
+Response_23_Condition_2_Logic Equal
+Response_23_Rewards 1
+Response_23_Reward_0_Type Quest
+Response_23_Reward_0_ID 4026
+
+// Cloth Turn In
+Response_24_Dialogue 4067
+Response_24_Quest 4026
+Response_24_Conditions 1
+Response_24_Condition_0_Type Quest
+Response_24_Condition_0_Logic Equal
+Response_24_Condition_0_ID 4026
+Response_24_Condition_0_Status Ready
+Response_24_Condition_0_Reset
+
+// Tape Accept
+Response_25_Dialogue 4066
+Response_25_Quest 4027
+Response_25_Conditions 3
+Response_25_Condition_0_Type Quest
+Response_25_Condition_0_Logic Not_Equal
+Response_25_Condition_0_ID 4027
+Response_25_Condition_0_Status Active
+Response_25_Condition_1_Type Quest
+Response_25_Condition_1_Logic Not_Equal
+Response_25_Condition_1_ID 4027
+Response_25_Condition_1_Status Ready
+Response_25_Condition_2_Type Flag_Short
+Response_25_Condition_2_ID 4019
+Response_25_Condition_2_Value 8
+Response_25_Condition_2_Logic Equal
+Response_25_Rewards 1
+Response_25_Reward_0_Type Quest
+Response_25_Reward_0_ID 4027
+
+// Tape Turn In
+Response_26_Dialogue 4067
+Response_26_Quest 4027
+Response_26_Conditions 1
+Response_26_Condition_0_Type Quest
+Response_26_Condition_0_Logic Equal
+Response_26_Condition_0_ID 4027
+Response_26_Condition_0_Status Ready
+Response_26_Condition_0_Reset
+
+// Can Accept
+Response_27_Dialogue 4066
+Response_27_Quest 4028
+Response_27_Conditions 3
+Response_27_Condition_0_Type Quest
+Response_27_Condition_0_Logic Not_Equal
+Response_27_Condition_0_ID 4028
+Response_27_Condition_0_Status Active
+Response_27_Condition_1_Type Quest
+Response_27_Condition_1_Logic Not_Equal
+Response_27_Condition_1_ID 4028
+Response_27_Condition_1_Status Ready
+Response_27_Condition_2_Type Flag_Short
+Response_27_Condition_2_ID 4019
+Response_27_Condition_2_Value 9
+Response_27_Condition_2_Logic Equal
+Response_27_Rewards 1
+Response_27_Reward_0_Type Quest
+Response_27_Reward_0_ID 4028
+
+// Can Turn In
+Response_28_Dialogue 4067
+Response_28_Quest 4028
+Response_28_Conditions 1
+Response_28_Condition_0_Type Quest
+Response_28_Condition_0_Logic Equal
+Response_28_Condition_0_ID 4028
+Response_28_Condition_0_Status Ready
+Response_28_Condition_0_Reset
+
+// Bar Accept
+Response_29_Dialogue 4066
+Response_29_Quest 4029
+Response_29_Conditions 3
+Response_29_Condition_0_Type Quest
+Response_29_Condition_0_Logic Not_Equal
+Response_29_Condition_0_ID 4029
+Response_29_Condition_0_Status Active
+Response_29_Condition_1_Type Quest
+Response_29_Condition_1_Logic Not_Equal
+Response_29_Condition_1_ID 4029
+Response_29_Condition_1_Status Ready
+Response_29_Condition_2_Type Flag_Short
+Response_29_Condition_2_ID 4019
+Response_29_Condition_2_Value 10
+Response_29_Condition_2_Logic Equal
+Response_29_Rewards 1
+Response_29_Reward_0_Type Quest
+Response_29_Reward_0_ID 4029
+
+// Bar Turn In
+Response_30_Dialogue 4067
+Response_30_Quest 4029
+Response_30_Conditions 1
+Response_30_Condition_0_Type Quest
+Response_30_Condition_0_Logic Equal
+Response_30_Condition_0_ID 4029
+Response_30_Condition_0_Status Ready
+Response_30_Condition_0_Reset
+
+// Hecate Upgrade
+// Hecate Accept
+Response_31_Dialogue 4111
+Response_31_Quest 4110
+Response_31_Conditions 2
+Response_31_Condition_0_Type Quest
+Response_31_Condition_0_Logic Equal
+Response_31_Condition_0_ID 4110
+Response_31_Condition_0_Status None
+Response_31_Condition_1_Type Flag_Bool
+Response_31_Condition_1_Logic Equal
+Response_31_Condition_1_ID 4113
+Response_31_Condition_1_Value True
+Response_31_Rewards 1
+Response_31_Reward_0_Type Quest
+Response_31_Reward_0_ID 4110
+Response_31_Reward_0_Status Active
+
+// Hecate Turn In
+Response_32_Dialogue 4112
+Response_32_Quest 4110
+Response_32_Conditions 1
+Response_32_Condition_0_Type Quest
+Response_32_Condition_0_Logic Equal
+Response_32_Condition_0_ID 4110
+Response_32_Condition_0_Status Ready
+Response_32_Condition_0_Reset
+
+// Vendor
+Response_33_Dialogue 4062
+Response_33_Vendor 4063
+
+// Manufacture
+Response_34_Dialogue 4107
+Response_34_Conditions 1
+Response_34_Condition_0_Type Flag_Bool
+Response_34_Condition_0_ID 4099
+Response_34_Condition_0_Value True
+Response_34_Condition_0_Logic Equal
+
+// Questions
+Response_35_Dialogue 4057
+
+// Rula Charger
+Response_36_Dialogue 4211
+Response_36_Conditions 1
+Response_36_Condition_0_Type Quest
+Response_36_Condition_0_Logic Equal
+Response_36_Condition_0_ID 4206
+Response_36_Condition_0_Status Active
+Response_36_Rewards 1
+Response_36_Reward_0_Type Flag_Bool
+Response_36_Reward_0_ID 4212
+Response_36_Reward_0_Value True
+
+// Rula Inform
+Response_37_Dialogue 4213
+Response_37_Conditions 3
+Response_37_Condition_0_Type Quest
+Response_37_Condition_0_Logic Equal
+Response_37_Condition_0_ID 4206
+Response_37_Condition_0_Status Completed
+Response_37_Condition_1_Type Flag_Bool
+Response_37_Condition_1_Logic Equal
+Response_37_Condition_1_ID 4212
+Response_37_Condition_1_Value True
+Response_37_Condition_2_Type Flag_Bool
+Response_37_Condition_2_Logic Equal
+Response_37_Condition_2_ID 4214
+Response_37_Condition_2_Value False
+Response_37_Condition_2_Allow_Unset
+Response_37_Rewards 1
+Response_37_Reward_0_Type Flag_Bool
+Response_37_Reward_0_ID 4214
+Response_37_Reward_0_Value True
+
+// Reward Decline
+Response_38_Messages 6
+Response_38_Message_0 1
+Response_38_Message_1 2
+Response_38_Message_2 3
+Response_38_Message_3 4
+Response_38_Message_4 5
+Response_38_Message_5 6

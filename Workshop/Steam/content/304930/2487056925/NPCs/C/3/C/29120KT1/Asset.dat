@@ -1,0 +1,20 @@
+GUID fc8b8eaaf2394df3986b3dda9e9fe3fd
+Type NPC
+ID 29120
+
+Shirt 835
+Pants 757
+
+Face 20
+Hair 18
+Beard 2
+Color_Skin #BEA582
+Color_Hair #473928
+
+Dialogue 29121
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 27031
+Condition_0_Value True
+Condition_0_Logic Equal

@@ -1,0 +1,26 @@
+GUID 87ba46540a34400d9e5459d102411ecf
+Type Spawn
+ID 7278
+
+Tables 7
+// Thief
+Table_0_Spawn_ID 7031
+Table_0_Weight 6
+// Melee
+Table_1_Spawn_ID 7043
+Table_1_Weight 5
+// Mags
+Table_2_Spawn_ID 7028
+Table_2_Weight 4
+// Ammo
+Table_3_Spawn_ID 230
+Table_3_Weight 3
+// Barrels
+Table_4_Spawn_ID 7022
+Table_4_Weight 3
+// Sights
+Table_5_Spawn_ID 7023
+Table_5_Weight 3
+// Guns
+Table_6_Spawn_ID 7026
+Table_6_Weight 2

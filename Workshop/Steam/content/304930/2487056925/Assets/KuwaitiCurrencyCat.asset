@@ -1,0 +1,19 @@
+"Metadata"
+{
+	"GUID" "ebde989a5c0945fcbdfb04b7fff549da"
+	"Type" "SDG.Unturned.ItemCurrencyAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ValueFormat" "{0:N0} Kitty Kredits"
+	"Entries"
+	[
+		{
+			"Item"
+			{
+				"GUID" "2067343411eb4bdb9abe733e4ef6a96d"
+			}
+			"Value" "1"
+		}
+	]
+}

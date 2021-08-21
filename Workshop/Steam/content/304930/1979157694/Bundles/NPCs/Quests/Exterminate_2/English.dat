@@ -1,0 +1,4 @@
+Name <color=Mythical>Lightningstrike in Toulouse</color>
+Description A huge mutant has been spotted in Toulouse. Take it out.
+
+Condition_0 Defeat {0}/{1} <color=mythical>Lightningstrike Boss</color>

@@ -1,0 +1,25 @@
+GUID 9f39ad779c634d6098bd897a73be484c
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 3071
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 50
+Range 4
+Offset 0.05
+
+Explosion 58
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 3071
+Blueprint_0_Product 464
+Blueprint_0_Products 4
+Blueprint_0_Build 32

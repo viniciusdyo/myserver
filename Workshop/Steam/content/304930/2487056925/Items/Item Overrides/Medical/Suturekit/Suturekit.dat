@@ -1,0 +1,16 @@
+GUID 55fa6ff7ae664326b76355f8a60ea781
+Type Medical
+Rarity Epic
+Useable Consumeable
+ID 5524
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Aid
+Bleeding
+Health 50
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Suturekit

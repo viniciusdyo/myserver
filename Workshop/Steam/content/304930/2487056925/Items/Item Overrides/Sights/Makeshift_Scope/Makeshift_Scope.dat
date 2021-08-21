@@ -1,0 +1,22 @@
+GUID 4a71417e94884f3db88d63064930986b
+Type Sight
+ID 5055
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Spread 0.8
+Zoom 6
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 5519
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 5537
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Sights/Makeshift_Scope

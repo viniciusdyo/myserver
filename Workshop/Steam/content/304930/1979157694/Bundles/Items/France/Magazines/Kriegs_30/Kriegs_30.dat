@@ -1,0 +1,33 @@
+GUID 69c202d9fd0c41ec884c36c22e456c09
+Type Magazine
+Rarity Legendary
+ID 3121
+
+Size_X 1	
+Size_Y 2
+Size_Z 0.3
+
+Amount 30
+Count_Min 9
+Count_Max 30
+
+Calibers 1
+Caliber_0 77
+
+Tracer 51
+
+Speed 0.9
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 119
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 3110
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 3121
+Blueprint_2_Build 30

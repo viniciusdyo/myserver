@@ -1,0 +1,79 @@
+GUID 5ebbaa333964432aad18b54af9033d2d
+Type Dialogue
+ID 25610
+
+Messages 1
+Message_0_Pages 1
+
+Responses 7
+
+Response_0_Dialogue 25611
+Response_0_Quest 25620
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 25620
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 25620
+
+Response_1_Dialogue 25612
+Response_1_Quest 25620
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 25620
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Reset
+
+// Sydney Pearl, Len Oakbear, Haider Flowers
+
+Response_2_Dialogue 25613
+Response_2_Quest 25621
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 25621
+Response_2_Condition_0_Status None
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_1_Type Quest
+Response_2_Condition_1_ID 25620
+Response_2_Condition_1_Status Completed
+Response_2_Condition_1_Logic Equal
+Response_2_Rewards 1
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 25621
+
+Response_3_Dialogue 25613
+Response_3_Quest 25621
+Response_3_Conditions 2
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 25621
+Response_3_Condition_0_Status Completed
+Response_3_Condition_0_Reset
+Response_3_Condition_1_Type Quest
+Response_3_Condition_1_ID 25620
+Response_3_Condition_1_Status Completed
+Response_3_Condition_1_Logic Equal
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 25621
+
+Response_4_Dialogue 25614
+Response_4_Quest 25621
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 25621
+Response_4_Condition_0_Status Ready
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_Reset
+
+// Response 1 when the questioning begins.
+Response_5_Dialogue 25615
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 25040
+Response_5_Condition_0_Status None
+Response_5_Condition_0_Logic Not_Equal
+

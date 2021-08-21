@@ -1,0 +1,48 @@
+GUID 466b7c7ea89e4a61afc1128360008c60
+Type Vendor
+ID 27303
+
+Buying 0
+
+Selling 8
+// Canned Beans
+Selling_0_ID 5227
+Selling_0_Cost 50
+// Granola Bar
+Selling_1_ID 5222
+Selling_1_Cost 25
+// Candy Bar
+Selling_2_ID 5219
+Selling_2_Cost 10
+// FN FNC
+Selling_3_ID 5220
+Selling_3_Cost 10
+// bepis
+// edit, cans too useful so apple juice
+Selling_4_ID 5223
+Selling_4_Cost 20
+// conke
+// grape juice time :)
+Selling_5_ID 5224
+Selling_5_Cost 20
+// OP 1 Done?
+// Grilled Cheese
+Selling_6_ID 5249
+Selling_6_Cost 50
+Selling_6_Conditions 1
+Selling_6_Condition_0_Type Quest
+Selling_6_Condition_0_ID 27020
+Selling_6_Condition_0_Status Completed
+Selling_6_Condition_0_Logic Equal
+// hydrohomies
+Selling_7_ID 5236
+Selling_7_Cost 40
+Selling_7_Conditions 1
+Selling_7_Condition_0_Type Quest
+Selling_7_Condition_0_ID 27020
+Selling_7_Condition_0_Status Completed
+Selling_7_Condition_0_Logic Equal
+
+Disable_Sorting
+
+Currency b76b37b2d40c4054b850458e135408c6

@@ -1,0 +1,12 @@
+GUID 3de207081d264fb28cb7773beb73c9b9
+Type Dialogue
+ID 25111
+
+Messages 1
+Message_0_Pages 3
+// Message_0_Rewards 1
+// Message_0_Reward_0_Type Flag_Bool
+// Message_0_Reward_0_ID 25112
+// Message_0_Reward_0_Value True
+
+// If you're copying things, at least credit NSTM.

@@ -1,0 +1,66 @@
+GUID 1cfb610301964bb5b3fa0640d85cdcd5
+Type Vendor
+ID 4165
+Disable_Sorting
+
+Buying 5
+
+// Vertical Grip
+Buying_0_ID 8
+Buying_0_Cost 100
+// Horizontal Grip
+Buying_1_ID 145
+Buying_1_Cost 100
+// Bipod
+Buying_2_ID 143
+Buying_2_Cost 120
+// Tac laser
+Buying_3_ID 151
+Buying_3_Cost 50
+// Adaptive
+Buying_4_ID 1007
+Buying_4_Cost 150
+
+
+
+Selling 5
+
+// Civilian Ammo
+Selling_0_ID 44
+Selling_0_Cost 150
+Selling_0_Conditions 1
+Selling_0_Condition_0_Type Flag_Bool
+Selling_0_Condition_0_ID 4093
+Selling_0_Condition_0_Value True
+Selling_0_Condition_0_Logic Equal
+
+// Military Ammo
+Selling_1_ID 43
+Selling_1_Cost 300
+Selling_1_Conditions 1
+Selling_1_Condition_0_Type Flag_Bool
+Selling_1_Condition_0_ID 4093
+Selling_1_Condition_0_Value True
+Selling_1_Condition_0_Logic Equal
+
+// Ranger Ammo
+Selling_2_ID 119
+Selling_2_Cost 300
+Selling_2_Conditions 1
+Selling_2_Condition_0_Type Flag_Bool
+Selling_2_Condition_0_ID 4093
+Selling_2_Condition_0_Value True
+Selling_2_Condition_0_Logic Equal
+
+// Taclight
+Selling_3_ID 152
+Selling_3_Cost 80
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Flag_Bool
+Selling_3_Condition_0_ID 4093
+Selling_3_Condition_0_Value True
+Selling_3_Condition_0_Logic Equal
+
+// Binocs
+Selling_4_ID 333
+Selling_4_Cost 40

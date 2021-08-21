@@ -1,0 +1,17 @@
+GUID 1b2193dd2bf94e6aa3599b5e2de1155b
+Type NPC
+ID 28150
+
+Shirt 24
+Pants 23
+Vest 531
+
+Face 24
+Hair 4
+Beard 0
+Color_Skin #D9CAB4
+Color_Hair #665037
+
+Dialogue 28151
+
+// If you're copying things, at least credit NSTM.

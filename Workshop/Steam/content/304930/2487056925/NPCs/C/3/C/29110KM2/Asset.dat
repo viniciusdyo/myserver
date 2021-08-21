@@ -1,0 +1,23 @@
+GUID 3c57cf19964e4af1a521e0c971c76820
+Type NPC
+ID 29110
+
+Shirt 5301
+Pants 5302
+Vest 5303
+
+Hair 10
+Face 5
+Beard 10
+Color_Skin #4b3d31
+Color_Hair #191919
+
+Primary 363
+
+Dialogue 29111
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 27031
+Condition_0_Value True
+Condition_0_Logic Equal

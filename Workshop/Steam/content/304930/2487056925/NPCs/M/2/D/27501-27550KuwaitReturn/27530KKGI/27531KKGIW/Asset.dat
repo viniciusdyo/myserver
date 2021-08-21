@@ -1,0 +1,420 @@
+GUID 549449b8a4984ba19acbaf9f39cb8d3f
+Type Dialogue
+ID 27531
+
+// Kyra is the leader of the survivors.
+// Well technically, you're not leading them anymore are you?
+// Snow! I'm here now! And yes, I suppose not.
+// Well, who's leading them?
+// Ah... uhm. Good question. Maybe Lawrence could lead them, he knows how to lead. After all, he did lead that revolt.
+// That's fair.
+// Give me a hug now, would you?
+
+Messages 4
+// Randomized 1
+Message_0_Pages 1
+Message_0_Conditions 2
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 27529
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_0_Condition_0_Allow_Unset
+Message_0_Condition_1_Type Flag_Short
+Message_0_Condition_1_ID 27529
+Message_0_Condition_1_Value 33
+Message_0_Condition_1_Logic Less_Than
+Message_0_Condition_1_Allow_Unset
+// Randomize Again.
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 27529
+Message_0_Reward_0_Min_Value 0
+Message_0_Reward_0_Max_Value 99
+Message_0_Reward_0_Modification Assign
+
+// Randomized 2
+Message_1_Pages 1
+Message_1_Conditions 2
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 27529
+Message_1_Condition_0_Value 33
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Flag_Short
+Message_1_Condition_1_ID 27529
+Message_1_Condition_1_Value 66
+Message_1_Condition_1_Logic Less_Than
+// Randomize Again.
+Message_1_Rewards 1
+Message_1_Reward_0_Type Flag_Short_Random
+Message_1_Reward_0_ID 27529
+Message_1_Reward_0_Min_Value 0
+Message_1_Reward_0_Max_Value 99
+Message_1_Reward_0_Modification Assign
+
+// Randomized 3
+Message_2_Pages 1
+Message_2_Conditions 2
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 27529
+Message_2_Condition_0_Value 66
+Message_2_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_2_Condition_1_Type Flag_Short
+Message_2_Condition_1_ID 27529
+Message_2_Condition_1_Value 99
+Message_2_Condition_1_Logic Less_Than
+// Randomize Again.
+Message_2_Rewards 1
+Message_2_Reward_0_Type Flag_Short_Random
+Message_2_Reward_0_ID 27529
+Message_2_Reward_0_Min_Value 0
+Message_2_Reward_0_Max_Value 99
+Message_2_Reward_0_Modification Assign
+
+// Randomized 4
+Message_3_Pages 1
+Message_3_Conditions 1
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 27529
+Message_3_Condition_0_Value 99
+Message_3_Condition_0_Logic Equal
+// Randomize Again.
+Message_3_Rewards 1
+Message_3_Reward_0_Type Flag_Short_Random
+Message_3_Reward_0_ID 27529
+Message_3_Reward_0_Min_Value 0
+Message_3_Reward_0_Max_Value 99
+Message_3_Reward_0_Modification Assign
+
+Responses 26
+
+Response_0_Dialogue 27532
+Response_0_Quest 27550
+Response_0_Conditions 2
+Response_0_Condition_0_Type Flag_Short
+Response_0_Condition_0_ID 27535
+Response_0_Condition_0_Value 0
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Allow_Unset
+// base case. not going to add a new stuff to set that flag.
+Response_0_Condition_1_Type Quest
+Response_0_Condition_1_ID 27550
+Response_0_Condition_1_Status None
+Response_0_Condition_1_Logic Equal
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 27550
+
+Response_1_Dialogue 27532
+Response_1_Quest 27550
+Response_1_Conditions 2
+Response_1_Condition_0_Type Flag_Short
+Response_1_Condition_0_ID 27535
+Response_1_Condition_0_Value 0
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_1_Type Quest
+Response_1_Condition_1_ID 27550
+Response_1_Condition_1_Status Completed
+Response_1_Condition_1_Logic Equal
+Response_1_Condition_1_Reset
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 27550
+
+Response_2_Dialogue 27533
+Response_2_Quest 27550
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 27550
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Reset
+
+Response_3_Dialogue 27532
+Response_3_Quest 27551
+Response_3_Conditions 2
+Response_3_Condition_0_Type Flag_Short
+Response_3_Condition_0_ID 27535
+Response_3_Condition_0_Value 1
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_1_Type Quest
+Response_3_Condition_1_ID 27551
+Response_3_Condition_1_Status None
+Response_3_Condition_1_Logic Equal
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 27551
+
+Response_4_Dialogue 27532
+Response_4_Quest 27551
+Response_4_Conditions 2
+Response_4_Condition_0_Type Flag_Short
+Response_4_Condition_0_ID 27535
+Response_4_Condition_0_Value 1
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_1_Type Quest
+Response_4_Condition_1_ID 27551
+Response_4_Condition_1_Status Completed
+Response_4_Condition_1_Logic Equal
+Response_4_Condition_1_Reset
+Response_4_Rewards 1
+Response_4_Reward_0_Type Quest
+Response_4_Reward_0_ID 27551
+
+Response_5_Dialogue 27533
+Response_5_Quest 27551
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 27551
+Response_5_Condition_0_Status Ready
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_Reset
+
+Response_6_Dialogue 27532
+Response_6_Quest 27552
+Response_6_Conditions 2
+Response_6_Condition_0_Type Flag_Short
+Response_6_Condition_0_ID 27535
+Response_6_Condition_0_Value 2
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_1_Type Quest
+Response_6_Condition_1_ID 27552
+Response_6_Condition_1_Status None
+Response_6_Condition_1_Logic Equal
+Response_6_Rewards 1
+Response_6_Reward_0_Type Quest
+Response_6_Reward_0_ID 27552
+
+Response_7_Dialogue 27532
+Response_7_Quest 27552
+Response_7_Conditions 2
+Response_7_Condition_0_Type Flag_Short
+Response_7_Condition_0_ID 27535
+Response_7_Condition_0_Value 2
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_1_Type Quest
+Response_7_Condition_1_ID 27552
+Response_7_Condition_1_Status Completed
+Response_7_Condition_1_Logic Equal
+Response_7_Condition_1_Reset
+Response_7_Rewards 1
+Response_7_Reward_0_Type Quest
+Response_7_Reward_0_ID 27552
+
+Response_8_Dialogue 27533
+Response_8_Quest 27552
+Response_8_Conditions 1
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_ID 27552
+Response_8_Condition_0_Status Ready
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_Reset
+
+Response_9_Dialogue 27532
+Response_9_Quest 27553
+Response_9_Conditions 2
+Response_9_Condition_0_Type Flag_Short
+Response_9_Condition_0_ID 27535
+Response_9_Condition_0_Value 3
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_1_Type Quest
+Response_9_Condition_1_ID 27553
+Response_9_Condition_1_Status None
+Response_9_Condition_1_Logic Equal
+Response_9_Rewards 1
+Response_9_Reward_0_Type Quest
+Response_9_Reward_0_ID 27553
+
+Response_10_Dialogue 27532
+Response_10_Quest 27553
+Response_10_Conditions 2
+Response_10_Condition_0_Type Flag_Short
+Response_10_Condition_0_ID 27535
+Response_10_Condition_0_Value 3
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_1_Type Quest
+Response_10_Condition_1_ID 27553
+Response_10_Condition_1_Status Completed
+Response_10_Condition_1_Logic Equal
+Response_10_Condition_1_Reset
+Response_10_Rewards 1
+Response_10_Reward_0_Type Quest
+Response_10_Reward_0_ID 27553
+
+Response_11_Dialogue 27533
+Response_11_Quest 27553
+Response_11_Conditions 1
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_ID 27553
+Response_11_Condition_0_Status Ready
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_0_Reset
+
+Response_12_Dialogue 27532
+Response_12_Quest 27554
+Response_12_Conditions 2
+Response_12_Condition_0_Type Flag_Short
+Response_12_Condition_0_ID 27535
+Response_12_Condition_0_Value 4
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_1_Type Quest
+Response_12_Condition_1_ID 27554
+Response_12_Condition_1_Status None
+Response_12_Condition_1_Logic Equal
+Response_12_Rewards 1
+Response_12_Reward_0_Type Quest
+Response_12_Reward_0_ID 27554
+
+Response_13_Dialogue 27532
+Response_13_Quest 27554
+Response_13_Conditions 2
+Response_13_Condition_0_Type Flag_Short
+Response_13_Condition_0_ID 27535
+Response_13_Condition_0_Value 4
+Response_13_Condition_0_Logic Equal
+Response_13_Condition_1_Type Quest
+Response_13_Condition_1_ID 27554
+Response_13_Condition_1_Status Completed
+Response_13_Condition_1_Logic Equal
+Response_13_Condition_1_Reset
+Response_13_Rewards 1
+Response_13_Reward_0_Type Quest
+Response_13_Reward_0_ID 27554
+
+Response_14_Dialogue 27533
+Response_14_Quest 27554
+Response_14_Conditions 1
+Response_14_Condition_0_Type Quest
+Response_14_Condition_0_ID 27554
+Response_14_Condition_0_Status Ready
+Response_14_Condition_0_Logic Equal
+Response_14_Condition_0_Reset
+
+Response_15_Dialogue 27532
+Response_15_Quest 27555
+Response_15_Conditions 2
+Response_15_Condition_0_Type Flag_Short
+Response_15_Condition_0_ID 27535
+Response_15_Condition_0_Value 5
+Response_15_Condition_0_Logic Equal
+Response_15_Condition_1_Type Quest
+Response_15_Condition_1_ID 27555
+Response_15_Condition_1_Status None
+Response_15_Condition_1_Logic Equal
+Response_15_Rewards 1
+Response_15_Reward_0_Type Quest
+Response_15_Reward_0_ID 27555
+
+Response_16_Dialogue 27532
+Response_16_Quest 27555
+Response_16_Conditions 2
+Response_16_Condition_0_Type Flag_Short
+Response_16_Condition_0_ID 27535
+Response_16_Condition_0_Value 5
+Response_16_Condition_0_Logic Equal
+Response_16_Condition_1_Type Quest
+Response_16_Condition_1_ID 27555
+Response_16_Condition_1_Status Completed
+Response_16_Condition_1_Logic Equal
+Response_16_Condition_1_Reset
+Response_16_Rewards 1
+Response_16_Reward_0_Type Quest
+Response_16_Reward_0_ID 27555
+
+Response_17_Dialogue 27533
+Response_17_Quest 27555
+Response_17_Conditions 1
+Response_17_Condition_0_Type Quest
+Response_17_Condition_0_ID 27555
+Response_17_Condition_0_Status Ready
+Response_17_Condition_0_Logic Equal
+Response_17_Condition_0_Reset
+
+Response_18_Dialogue 27532
+Response_18_Quest 27556
+Response_18_Conditions 2
+Response_18_Condition_0_Type Flag_Short
+Response_18_Condition_0_ID 27535
+Response_18_Condition_0_Value 6
+Response_18_Condition_0_Logic Equal
+Response_18_Condition_1_Type Quest
+Response_18_Condition_1_ID 27556
+Response_18_Condition_1_Status None
+Response_18_Condition_1_Logic Equal
+Response_18_Rewards 1
+Response_18_Reward_0_Type Quest
+Response_18_Reward_0_ID 27556
+
+Response_19_Dialogue 27532
+Response_19_Quest 27556
+Response_19_Conditions 2
+Response_19_Condition_0_Type Flag_Short
+Response_19_Condition_0_ID 27535
+Response_19_Condition_0_Value 6
+Response_19_Condition_0_Logic Equal
+Response_19_Condition_1_Type Quest
+Response_19_Condition_1_ID 27556
+Response_19_Condition_1_Status Completed
+Response_19_Condition_1_Logic Equal
+Response_19_Condition_1_Reset
+Response_19_Rewards 1
+Response_19_Reward_0_Type Quest
+Response_19_Reward_0_ID 27556
+
+Response_20_Dialogue 27533
+Response_20_Quest 27556
+Response_20_Conditions 1
+Response_20_Condition_0_Type Quest
+Response_20_Condition_0_ID 27556
+Response_20_Condition_0_Status Ready
+Response_20_Condition_0_Logic Equal
+Response_20_Condition_0_Reset
+
+Response_21_Dialogue 27532
+Response_21_Quest 27557
+Response_21_Conditions 2
+Response_21_Condition_0_Type Flag_Short
+Response_21_Condition_0_ID 27535
+Response_21_Condition_0_Value 7
+Response_21_Condition_0_Logic Equal
+Response_21_Condition_1_Type Quest
+Response_21_Condition_1_ID 27557
+Response_21_Condition_1_Status None
+Response_21_Condition_1_Logic Equal
+Response_21_Rewards 1
+Response_21_Reward_0_Type Quest
+Response_21_Reward_0_ID 27557
+
+Response_22_Dialogue 27532
+Response_22_Quest 27557
+Response_22_Conditions 2
+Response_22_Condition_0_Type Flag_Short
+Response_22_Condition_0_ID 27535
+Response_22_Condition_0_Value 7
+Response_22_Condition_0_Logic Equal
+Response_22_Condition_1_Type Quest
+Response_22_Condition_1_ID 27557
+Response_22_Condition_1_Status Completed
+Response_22_Condition_1_Logic Equal
+Response_22_Condition_1_Reset
+Response_22_Rewards 1
+Response_22_Reward_0_Type Quest
+Response_22_Reward_0_ID 27557
+
+Response_23_Dialogue 27533
+Response_23_Quest 27557
+Response_23_Conditions 1
+Response_23_Condition_0_Type Quest
+Response_23_Condition_0_ID 27557
+Response_23_Condition_0_Status Ready
+Response_23_Condition_0_Logic Equal
+Response_23_Condition_0_Reset
+
+Response_24_Messages 3
+Response_24_Message_0 0
+Response_24_Message_1 1
+Response_24_Message_2 2
+
+Response_25_Messages 1
+Response_25_Message_0 3
+
+// If you're copying things, at least credit NSTM.

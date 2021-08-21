@@ -1,0 +1,33 @@
+GUID b06c46b8036f4eba8a01d4f700a66344
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Glass
+ID 29959
+
+Exclude_From_Master_Bundle
+Armor_Tier High
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1100
+Range 4
+Radius 0.5
+
+Explosion 97
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 285
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Use_Water_Height_Transparent_Sort

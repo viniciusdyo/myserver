@@ -1,0 +1,39 @@
+GUID 26aa142c5c294c95bcba42bb9d4634a6
+Type Quest
+ID 27072
+
+// Weapons (T1-3)
+Conditions 2
+Condition_0_Type Item
+Condition_0_ID 5032
+Condition_0_Amount 1
+Condition_0_Reset
+Condition_1_Type Item
+Condition_1_ID 5033
+Condition_1_Amount 10
+Condition_1_Value True
+Condition_1_Logic Equal
+Condition_1_Reset
+
+Rewards 5
+Reward_0_Type Currency
+Reward_0_Value 25
+Reward_0_GUID b76b37b2d40c4054b850458e135408c6
+Reward_1_Type Reputation
+Reward_1_Value 3
+Reward_2_Type Flag_Short_Random
+Reward_2_ID 27000
+Reward_2_Min_Value 2
+Reward_2_Max_Value 4
+Reward_2_Modification Increment
+Reward_3_Type Flag_Short_Random
+Reward_3_ID 27051
+Reward_3_Min_Value 0
+Reward_3_Max_Value 2
+Reward_3_Modification Assign
+Reward_4_Type Flag_Short
+Reward_4_ID 27350
+Reward_4_Value 3
+Reward_4_Modification Increment
+
+// If you're copying things, at least credit NSTM.

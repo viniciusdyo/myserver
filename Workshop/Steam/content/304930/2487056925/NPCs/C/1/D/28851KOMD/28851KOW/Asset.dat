@@ -1,0 +1,31 @@
+GUID e59f839fd6de4d65ac4c989017f4b9d2
+Type Dialogue
+ID 28851
+
+Messages 1
+ 
+Message_0_Pages 1
+
+Responses 4
+
+Response_0_Dialogue 28854
+
+Response_1_Dialogue 28852
+Response_1_Quest 28855
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 28855
+Response_1_Condition_0_Status None
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 28855
+
+Response_2_Dialogue 28853
+Response_2_Quest 28855
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 28855
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Reset

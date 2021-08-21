@@ -1,0 +1,15 @@
+GUID 41a63cba383c4651989f084bb46599e7
+Type Dialogue
+ID 4058
+
+Messages 2
+Message_0_Pages 4
+Message_0_Prev 4057
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_ID 4068
+Message_0_Condition_0_Status Completed
+
+Message_1_Pages 4
+Message_1_Prev 4057

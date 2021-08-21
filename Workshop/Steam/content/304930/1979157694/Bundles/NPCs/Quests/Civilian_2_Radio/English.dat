@@ -1,0 +1,4 @@
+Name Lost Signal
+Description <color=uncommon>Claire</color> left her small pocket radio behind in the Lighthouse East of Toulouse. She would like you to bring it back.
+
+Condition_0 <color=uncommon>Pocket Radio</color> {0}/1

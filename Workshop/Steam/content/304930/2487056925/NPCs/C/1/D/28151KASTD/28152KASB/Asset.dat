@@ -1,0 +1,51 @@
+GUID e8ace0f783784c8d88301558a56851c5
+Type Dialogue
+ID 28152
+
+Messages 1
+// Conditional messages if you've already completed a quest once.
+// Scrapped.
+
+Message_0_Pages 1
+
+Responses 3
+
+// I already stopped using random quest code! Go away! >.>
+// Okay, now that the Ampere - err, the Accelerator is in, I have to use this again.
+// The quest to get the Accelerator looks identical to the others, and occurs at a 1/15 chance.
+
+Response_0_Dialogue 28153
+Response_0_Quest 28161
+Response_0_Conditions 1
+// Response_0_Condition_0_Type Quest
+// Response_0_Condition_0_Logic Equal
+// Response_0_Condition_0_ID 28161
+// Response_0_Condition_0_Status None
+Response_0_Condition_0_Type Flag_Short
+Response_0_Condition_0_ID 28163
+Response_0_Condition_0_Value 0
+Response_0_Condition_0_Logic Greater_Than
+Response_0_Condition_0_Allow_Unset
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 28161
+
+Response_1_Dialogue 28153
+Response_1_Quest 28162
+Response_1_Conditions 1
+// Response_1_Condition_0_Type Quest
+// Response_1_Condition_0_Logic Equal
+// Response_1_Condition_0_ID 28162
+// Response_1_Condition_0_Status None
+Response_1_Condition_0_Type Flag_Short
+Response_1_Condition_0_ID 28163
+Response_1_Condition_0_Value 0
+Response_1_Condition_0_Logic Equal
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 28162
+
+// Welcome Dialogue
+Response_2_Dialogue 28151
+
+// If you're copying things, at least credit NSTM.

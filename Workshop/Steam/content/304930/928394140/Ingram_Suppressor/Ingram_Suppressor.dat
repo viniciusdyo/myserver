@@ -1,0 +1,35 @@
+GUID de203705e0c1405c8e1570554974d519
+Type Barrel
+Rarity Epic
+ID 51314
+
+Size_X 2
+Size_Y 1
+Size_Z 0.13
+
+Calibers 1
+Caliber_0 51311
+
+Silenced
+Volume 0.9
+
+Quality_Min 100
+Quality_Max 100
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 51910
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Tool 51311
+Blueprint_1_Tool_Critical
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 51314
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27

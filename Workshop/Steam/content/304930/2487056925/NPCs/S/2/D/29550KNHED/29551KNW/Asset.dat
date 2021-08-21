@@ -1,0 +1,73 @@
+GUID 29fdebd7cbc3420ea988acce9a29e0e1
+Type Dialogue
+ID 29551
+
+Messages 3
+ 
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 29555
+Message_0_Condition_0_Status Completed
+Message_0_Condition_0_Logic Not_Equal
+Message_0_Responses 3
+Message_0_Response_0 0
+Message_0_Response_1 1
+Message_0_Response_2 4
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 29558
+Message_1_Condition_0_Status Completed
+Message_1_Condition_0_Logic Not_Equal
+Message_1_Responses 3
+Message_1_Response_0 2
+Message_1_Response_1 3
+Message_1_Response_2 4
+
+Message_2_Pages 1
+Message_2_Responses 1
+Message_2_Response_0 5
+
+Responses 6
+
+Response_0_Dialogue 29552
+Response_0_Quest 29555
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_ID 29555
+Response_0_Condition_0_Status None
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 29555
+
+Response_1_Dialogue 29553
+Response_1_Quest 29555
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 29555
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Reset
+
+Response_2_Dialogue 29556
+Response_2_Quest 29558
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 29558
+Response_2_Condition_0_Status None
+Response_2_Rewards 1
+Response_2_Reward_0_Type Quest
+Response_2_Reward_0_ID 29558
+
+Response_3_Dialogue 29557
+Response_3_Quest 29558
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 29558
+Response_3_Condition_0_Status Ready
+Response_3_Condition_0_Reset

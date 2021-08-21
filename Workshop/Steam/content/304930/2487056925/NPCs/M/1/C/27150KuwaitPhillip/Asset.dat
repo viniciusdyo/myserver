@@ -1,0 +1,29 @@
+GUID 060328316a444f918bd522525694c8b6
+Type NPC
+ID 27150
+
+Shirt 5301
+Pants 5302
+Glasses 409
+Hat 602
+Mask 1446
+
+Face 19
+Color_Skin #332c25
+
+Primary 1375
+Tertiary 5126
+Equipped Tertiary
+
+Pose Passive
+
+Dialogue 27151
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 26515
+Condition_0_Value False
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+// If you're copying things, at least credit NSTM.

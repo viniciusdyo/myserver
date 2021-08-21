@@ -1,0 +1,23 @@
+GUID 617e74992ec24ebbb8d88739d78f3593
+Type NPC
+ID 27963
+
+Shirt 5301
+Pants 5302
+Glasses 1674
+
+Face 24
+Hair 8
+Color_Skin #d9cab4
+Color_Hair #191919
+
+Pose Crouch
+Pose_Head_Offset 0.1
+
+Primary 1382
+Secondary 99
+Tertiary 5000
+
+Equipped Tertiary
+
+// If you're copying things, at least credit NSTM.

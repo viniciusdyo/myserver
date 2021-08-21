@@ -1,0 +1,82 @@
+GUID cf7855a5e6da4937bccfca018a373bfe
+Type Vendor
+ID 25680
+
+Disable_Sorting
+
+Buying 11
+// 1911
+Buying_0_ID 5021
+Buying_0_Cost 25
+// Ace
+Buying_1_ID 5025 
+Buying_1_Cost 40
+// Catalyst
+Buying_2_ID 5009 
+Buying_2_Cost 40
+// Avenger
+Buying_3_ID 5008 
+Buying_3_Cost 40
+// Desert Falcon
+Buying_4_ID 5024 
+Buying_4_Cost 100
+// Colonizer
+Buying_5_ID 5032 
+Buying_5_Cost 50
+// Viper
+Buying_6_ID 5022 
+Buying_6_Cost 60
+// Suncrack
+Buying_7_ID 5003 
+Buying_7_Cost 100
+// Monarchist
+Buying_8_ID 5000 
+Buying_8_Cost 200
+// Mirage
+Buying_9_ID 5005 
+Buying_9_Cost 200
+// Hanlon-Reach
+Buying_10_ID 5126 
+Buying_10_Cost 200
+
+Selling 10
+// Military Knife
+Selling_0_ID 5096
+Selling_0_Cost 20
+// 1911
+Selling_1_ID 5021
+Selling_1_Cost 50
+// 1911 Magazine
+Selling_2_ID 98
+Selling_2_Cost 20
+// Viper
+Selling_3_ID 5022
+Selling_3_Cost 125
+// Viper Magazine
+Selling_4_ID 1029
+Selling_4_Cost 50
+// Civilian Ammo Box
+Selling_5_ID 44
+Selling_5_Cost 80
+// Suncrack
+Selling_6_ID 5003
+Selling_6_Cost 200
+// Coalition Suncrack
+Selling_7_ID 5042
+Selling_7_Cost 250
+Selling_7_Conditions 1
+Selling_7_Condition_0_Type Quest
+Selling_7_Condition_0_ID 25620
+Selling_7_Condition_0_Status Completed
+Selling_7_Condition_0_Logic Equal
+// Military Mag
+Selling_8_ID 6
+Selling_8_Cost 80
+// Military Ammo
+Selling_9_ID 43
+Selling_9_Cost 100
+
+Currency b76b37b2d40c4054b850458e135408c6
+
+// CAD for testing.
+//Currency 5150ca8f765d4a68bfe54912146da410

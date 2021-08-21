@@ -1,0 +1,19 @@
+GUID 8dbac81cd15f429ca122b468e262e274
+
+Type Supply
+Rarity Epic
+ID 25898
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 25894
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

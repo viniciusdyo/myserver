@@ -1,0 +1,39 @@
+GUID 916b231a3e9f472aaa1ef78d4218b29e
+Type Mask
+Rarity Epic
+Useable Clothing
+ID 5334
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Quality_Min 100
+Quality_Max 100
+
+Proof_Radiation
+
+Hair
+Beard
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 5334
+Blueprint_0_Product 5507
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 67
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 5507
+Blueprint_1_Supply_2_Amount 5
+Blueprint_1_Supply_3_ID 5515
+Blueprint_1_Supply_3_Amount 2
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait

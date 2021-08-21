@@ -1,0 +1,31 @@
+GUID a3681264445f4325bf7eea76013a06c9
+Type Dialogue
+ID 4184
+
+Messages 1
+Message_0_Pages 1
+
+Responses 4
+
+// Who are you?
+Response_0_Dialogue 4185
+
+// Anything interesting?
+Response_1_Dialogue 4186
+
+// Need any help?
+Response_2_Dialogue 4187
+Response_2_Conditions 1
+Response_2_Condition_0_Type Flag_Bool
+Response_2_Condition_0_ID 4188
+Response_2_Condition_0_Value False
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Allow_Unset
+Response_2_Rewards 1
+Response_2_Reward_0_Type Flag_Bool
+Response_2_Reward_0_ID 4188
+Response_2_Reward_0_Value True
+
+
+// Nvm
+Response_3_Dialogue 4183

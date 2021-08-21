@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=mythical>Grounded</color>
+Description Hassan's vehicle completely flipped over after being hit by a zombie causing "small earthquakes" slammed into the ground nearby him in Hawally. Get rid of this zombie for him.
+
+Condition_0 Defeat {0}/{1} <color=mythical>Earthquake Boss</color>

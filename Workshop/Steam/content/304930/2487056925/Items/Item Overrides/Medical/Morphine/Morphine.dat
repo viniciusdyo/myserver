@@ -1,0 +1,17 @@
+GUID 48b50395f5e94cb896ab277ec696f1ad
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 5533
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Aid
+Broken
+Virus 5
+Health 5
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Morphine

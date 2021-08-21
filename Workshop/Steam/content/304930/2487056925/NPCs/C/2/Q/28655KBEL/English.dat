@@ -1,0 +1,4 @@
+Name <color=#b8b188>Concord: </color><color=mythical>Jump Start</color>
+Description While Yousef was escaping through Jahra Industrial, a zombie sent powerful electrical shocks into his car, killing the battery. He wants you to get rid of this zombie.
+
+Condition_0 Defeat {0}/{1} <color=mythical>Electric Boss</color>

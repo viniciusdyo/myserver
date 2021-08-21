@@ -1,0 +1,12 @@
+Message_0_Page_0 Hello there <name_char>! I could use some help, if you have time.
+Message_1_Page_0 Morale has been quite low recently - do you think you can do anything about that?
+Message_2_Page_0 Anything you need <name_char>?
+
+Response_0 Sure thing!
+Response_1 Got your supplies!
+Response_2 Maybe later.
+Response_3 I'll see if I can.
+Response_4 Improved morale!
+Response_5 Maybe later.
+Response_6 Do you know why the <color=legendary>Coalition</color> is here?
+Response_7 Nothing.

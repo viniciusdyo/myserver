@@ -1,0 +1,23 @@
+GUID 0f81fbe3d355450288109572c7056a25
+Type Structure
+Useable Structure
+Construct Floor
+ID 5412
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 400
+Range 8
+
+Explosion 28
+
+Foliage_Cut_Radius 4
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5501
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27

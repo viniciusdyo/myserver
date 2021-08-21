@@ -1,0 +1,14 @@
+GUID f1138b6061414f2fa8e08b374811a0ac
+Type Medical
+Useable Consumeable
+ID 5591
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Aid
+Bleeding_Modifier Cut
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Medical/Rag

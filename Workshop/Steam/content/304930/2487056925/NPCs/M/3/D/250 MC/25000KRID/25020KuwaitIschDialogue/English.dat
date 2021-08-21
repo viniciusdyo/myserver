@@ -1,0 +1,28 @@
+Message_0_Page_0 Hello <name_char>, please take these uniforms and distribute them to the members of the <color=legendary>Concord.</color>
+Message_1_Page_0 All distributed?
+Message_2_Page_0 I need you to collect some plants from throught Kuwait.
+Message_3_Page_0 Do you have the plants?
+Message_4_Page_0 <name_char>, next I need you to bring oil samples back here.
+Message_5_Page_0 Do you have the samples yet, <name_char>?
+Message_6_Page_0 Lastly, I need you to acquire some special technology that I've heard about here.
+Message_7_Page_0 Do you have the technology?
+Message_8_Page_0 ...
+Message_9_Page_0 Are you looking for something, <name_char>?
+Message_10_Page_0 Is something wrong, <name_char>?
+Message_11_Page_0 Did you miss something, <name_char>?
+
+// Intro
+Response_0 Will do.
+Response_1 All distributed.
+Response_2 I'll look for them.
+Response_3 Got them.
+Response_4 I will get the samples.
+Response_5 Got the samples.
+Response_6 I will find the technology.
+Response_7 Found the tech.
+Response_8 Later.
+Response_9 Not yet.
+Response_10 Why are you here?
+Response_11 Why ARE you here?
+Response_12 Nothing.
+Response_13 ...

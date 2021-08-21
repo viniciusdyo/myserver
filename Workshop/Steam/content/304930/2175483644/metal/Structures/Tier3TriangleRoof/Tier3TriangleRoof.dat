@@ -1,0 +1,28 @@
+GUID 86cdd417b47042f59bd5eda4997b25fb
+Type Structure
+Rarity Legendary
+Useable Structure
+Construct Roof_Poly
+ID 29905
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 5200
+Range 8
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 29904
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Armor_Tier High
+Exclude_From_Master_Bundle
+

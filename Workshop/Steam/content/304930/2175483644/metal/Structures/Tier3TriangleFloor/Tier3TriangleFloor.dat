@@ -1,0 +1,28 @@
+GUID 385c6c5774a243248126317eda385a87
+Type Structure
+Rarity Legendary
+Useable Structure
+Construct Floor_Poly
+ID 29901
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 5200
+Range 8
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 25500
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Armor_Tier High
+Exclude_From_Master_Bundle
+

@@ -1,0 +1,31 @@
+GUID f005d43b1e9f4190b3437aba2a5adf8e
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 5479
+
+Size_X 2
+Size_Y 1
+Size_Z 0.35
+
+Health 250
+Range 8
+Radius 0.4
+Offset 0.5
+
+Explosion 19
+
+Vulnerable 
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5478
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Supply_1_ID 5559
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 5537
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

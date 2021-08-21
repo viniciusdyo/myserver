@@ -1,0 +1,22 @@
+GUID 37605d2765704c5fb42b0aa188708a46
+Type Dialogue
+ID 29414
+
+Messages 2
+Message_0_Pages 1
+Message_0_Prev 29411
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 29417
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Rewards 1
+Message_0_Reward_0_Type Flag_Bool
+Message_0_Reward_0_ID 29417
+Message_0_Reward_0_Value True
+
+Message_1_Pages 1
+Message_1_Prev 29411
+
+// If you're copying things, at least credit NSTM.

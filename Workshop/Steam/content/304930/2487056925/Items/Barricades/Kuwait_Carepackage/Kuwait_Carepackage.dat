@@ -1,0 +1,22 @@
+GUID a75c30e73ddb47f59ce5e86d4b303963
+Type Storage
+Rarity Epic
+Build Storage
+ID 5411
+
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Health 600
+
+Storage_X 8
+Storage_Y 8
+
+Explosion 19
+Vulnerable
+Unrepairable
+Unpickupable
+Unsaveable
+
+Should_Close_When_Outside_Range true

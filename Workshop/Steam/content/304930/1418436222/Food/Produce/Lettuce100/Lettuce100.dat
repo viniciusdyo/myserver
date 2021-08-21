@@ -1,0 +1,20 @@
+GUID 3b043b5f908640c682073a76d4b38879
+Type Supply
+ID 10315
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 10314
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10315
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 10314
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27

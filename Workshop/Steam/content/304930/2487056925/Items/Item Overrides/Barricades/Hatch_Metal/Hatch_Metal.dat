@@ -1,0 +1,30 @@
+GUID 1f2413794f2046f7ab56a91afbd75c77
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Hatch
+ID 5450
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Health 800
+Range 4
+Radius 0.5
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Hatch_Metal
+PlacementAudioClip Sounds/MetalPlacement.mp3

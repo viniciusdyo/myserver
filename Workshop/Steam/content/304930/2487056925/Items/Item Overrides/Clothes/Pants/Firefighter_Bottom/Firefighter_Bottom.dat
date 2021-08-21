@@ -1,0 +1,31 @@
+GUID d0445fc0493d4897904bbd69e55ffa01
+Type Pants
+Rarity Uncommon
+Useable Clothing
+ID 5675
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 5
+Height 2
+
+Armor 0.9
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 5675
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 27
+
+Proof_Fire
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Pants/Firefighter_Bottom

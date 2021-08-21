@@ -1,0 +1,28 @@
+GUID 1d8756fa284245b9838d56d0f8083962
+Type Hat
+Rarity Uncommon
+Useable Clothing
+ID 5648
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Beard
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 5648
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Hats/Farmer_Hat

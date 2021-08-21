@@ -1,0 +1,26 @@
+GUID fba01683b8e74c09868e1f6ff4192399
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 5467
+
+Size_X 3
+Size_Y 2
+Size_Z 0.85
+
+Health 50
+Range 6
+Offset 0.01
+
+Explosion 28
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 5467
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Products 1
+Blueprint_0_Product 66
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

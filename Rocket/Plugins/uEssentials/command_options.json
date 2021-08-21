@@ -1,0 +1,33 @@
+{
+  "example_1": {
+    "CustomAliases": [
+      "these aliases",
+      "will be",
+      "concatenated",
+      "with the default",
+      "aliases"
+    ],
+    "OverridedAliases": [
+      "these alises",
+      "will override",
+      "default aliases"
+    ],
+    "Usage": "Usage",
+    "Description": "Description",
+    "Cost": 0.0,
+    "Cooldown": 0
+  },
+  "example_2": {
+    "Usage": "Usage",
+    "Description": "Description",
+    "Cost": 1110.0,
+    "Cooldown": 0
+  },
+  "home": {
+    "Cost": 0.0,
+    "Cooldown": 30,
+    "PerGroupCooldown": {
+      "vip": 10
+    }
+  }
+}

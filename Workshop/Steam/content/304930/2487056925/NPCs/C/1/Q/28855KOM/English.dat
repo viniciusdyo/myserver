@@ -1,0 +1,9 @@
+Name <color=#b8b188>Concord: </color>Excavation Site
+Description Omar is helping to dig out the ruins, and needs some spare tools and supplies. Get him some.
+
+Condition_0 Find {0}/{1} {2}
+Condition_1 Find {0}/{1} {2}
+Condition_2 Find {0}/{1} {2}
+
+Reward_0 50 Experience
+Reward_1 5 Reputation

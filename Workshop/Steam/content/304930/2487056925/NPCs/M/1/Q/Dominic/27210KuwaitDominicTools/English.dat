@@ -1,0 +1,7 @@
+Name <color=#b8b188>Concord: </color>Toolbox
+Description <color=epic>Lieutenant Colonel Dominic</color><br><color=epic>Dominic</color> needs you to ask around to get all the tools that he's lended out to everyone. He said that only <color=legendary>Concord</color> members should have them.
+
+Condition_0 Get Needle-nose Pliers {0}/1
+Condition_1 Get Multimeter {0}/1
+Condition_2 Get Fish Tape {0}/1
+Condition_3 Get Hexagonal Wrench {0}/1

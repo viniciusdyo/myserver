@@ -1,0 +1,574 @@
+"Metadata"
+{
+	"GUID" "5e88b05982764e6e805d7c94defe3e95"
+	"Type" "SDG.Unturned.CraftingBlacklistAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Input_Items"
+	[
+		{
+		"NoteToSelf" "BirchLog"
+		"GUID" "ccfd125a44cf487fbd3d471f15a854af"
+		}
+		{
+		"NoteToSelf" "MapleLog"
+		"GUID" "94f9c6aa09c249dfbce4f195c0271b9c"
+		}
+		{
+		"NoteToSelf" "PineLog"
+		"GUID" "86bf08032a5147f9871e362e40812771"
+		}
+		{
+		"NoteToSelf" "VanillaBricks"
+		"GUID" "cc444c3f2f354ff5a81f18cf9b980fff"
+		}
+		{
+		"NoteToSelf" "PlankBirch"
+		"GUID" "5a3c4302400e400b9b9486fbb5178eca"
+		}
+		{
+		"NoteToSelf" "PlankMaple"
+		"GUID" "e73a23b102f24520a32ec0b2afaa6157"
+		}
+		{
+		"NoteToSelf" "PlankPine"
+		"GUID" "719bfdf2c2dc4be6ad5be44d044583e4"
+		}
+		{
+		"NoteToSelf" "StickBirch"
+		"GUID" "9c563bf14d4641a18873f338beaed128"
+		}
+		{
+		"NoteToSelf" "StickMaple"
+		"GUID" "46218740c256475b87dbc6a2e9a1fb19"
+		}
+		{
+		"NoteToSelf" "StickPine"
+		"GUID" "55d9700ea53c477685458171932251f1"
+		}
+		{
+		"NoteToSelf" "Tape"
+		"GUID" "8c25cf28c76a4634855f404c8972c0ae"
+		}
+		{
+		"NoteToSelf" "Chemicals"
+		"GUID" "7aee55ea2abf4f3fb70c4b2677da0e14"
+		}
+		{
+		"NoteToSelf" "Glue"
+		"GUID" "ae1fc8674d0b4443b3ad9a68776dcf0f"
+		}
+		{
+		"NoteToSelf" "Metal_Can"
+		"GUID" "c0b0f4a9f46c49a59f4558210bf36da5"
+		}
+	]
+	"Output_Items"
+	[
+		{
+		"NoteToSelf" "Metal_Doorframe"
+		"GUID" "db560a92c67c44f488acb3ce2db10f8f"
+		}
+		{
+        "NoteToSelf" "Metal_Garageframe"
+        "GUID" "239f32267ca444eea4833b0345274509"
+        }
+		{
+        "NoteToSelf" "Metal_Pipe"
+        "GUID" "4aaec8684ea24c54ad7e6d371f06b897"
+        }
+		{
+        "NoteToSelf" "Metal_Slippery_Plate"
+        "GUID" "4eb2f8a5af6a44b1940bf56ce5b97b26"
+        }
+		{
+        "NoteToSelf" "Freeform_Weak_Glass"
+        "GUID" "676b8bdaaab74fd4aa3d3c36265c6ea2"
+        }
+		{
+        "NoteToSelf" "Freeform_Bulletproof_Glass"
+        "GUID" "cf5f376948bb46cc9ee2eb8b91c4642e"
+        }
+		{
+        "NoteToSelf" "Freeform_Oneway_Glass"
+        "GUID" "f61fe21902ed45149eafbc3b0f51232b"
+        }
+		{
+        "NoteToSelf" "Metal_Plate_Small"
+        "GUID" "35e5ad20a45443e99553593a4b166c7b"
+        }
+		{
+        "NoteToSelf" "Metal_Siding"
+        "GUID" "a9049ac8d18e42f7b4db0ddcd580516e"
+        }
+		{
+        "NoteToSelf" "Tanktrap"
+        "GUID" "ba3d3b4781144a93a7cf061ccda3d7c7"
+        }
+		{
+        "NoteToSelf" "Industrial_GasCan"
+        "GUID" "6c0962c45f874fec9373765cf8c29976"
+        }
+		{
+        "NoteToSelf" "Makeshift_Grenade"
+        "GUID" "e028fce70a3343c8be7837421318b847"
+        }
+		{
+        "NoteToSelf" "Impact_Grenade"
+        "GUID" "19c80cec53c74296a366589e5400eadd"
+        }
+		{
+        "NoteToSelf" "Sticky_Grenade"
+        "GUID" "57d8bb26e4d8424bb5679651c9582cca"
+        }
+		{
+        "NoteToSelf" "Rag"
+        "GUID" "3e78a9db8cf74f4e830df4c06f2e9273"
+        }
+		{
+        "NoteToSelf" "Bandage"
+        "GUID" "e0503457d87b4230bfa78350c79d16ec"
+        }
+		{
+        "NoteToSelf" "Dressing"
+        "GUID" "ae46254cfa3b437e9d74a5963e161da4"
+        }
+		{
+        "NoteToSelf" "Splint"
+        "GUID" "b2ad25fcad7a4f109e6dcc76a4d285de"
+        }
+		{
+        "NoteToSelf" "Doughnut"
+        "GUID" "d757bbefc172421b9ab88b95ab3051f1"
+        }
+		{
+        "NoteToSelf" "Waffle"
+        "GUID" "a23a981142154a3cb8f194755d5888a9"
+        }
+		{
+        "NoteToSelf" "Rope"
+        "GUID" "5ff4bcf752554990bf06e103b996cef2"
+        }
+		{
+        "NoteToSelf" "Charge"
+        "GUID" "2e15a98da9e34774b961d636c0e88cc9"
+        }
+		{
+        "NoteToSelf" "Grenade"
+        "GUID" "4ca85c0123bb466fa2a059b6227544c1"
+        }
+		{
+        "NoteToSelf" "Claymore"
+        "GUID" "251cb1cc223c4f5ea3ff0deeb192a9bb"
+        }
+		{
+        "NoteToSelf" "Landmine"
+        "GUID" "bce3892b5a9f4bab96257fd991ffcb28"
+        }
+		{
+        "NoteToSelf" "Rocket"
+        "GUID" "ca1eebc926724edaac61dc6067e2b7d4"
+        }
+		{
+        "NoteToSelf" "Saw"
+        "GUID" "fd6bee4579884ee9ad0b729baf423ab1"
+        }
+		{
+		"NoteToSelf" "Metal_Can"
+		"GUID" "c0b0f4a9f46c49a59f4558210bf36da5"
+		}
+		{
+		"NoteToSelf" "Clock"
+		"GUID" "d3c40816534e48c3af0e26fb4d5f1b1a"
+		}
+		{
+		"NoteToSelf" "Freeform_Metal_Large"
+		"GUID" "d9299b3aead64101aab30c7665ad1b6a"
+		}
+		{
+		"NoteToSelf" "Blindfold"
+		"GUID" "6740b586ceef4d419c15633698503443"
+		}
+		{
+		"NoteToSelf" "Metal_Doorway"
+		"GUID" "c1db19365f03442088c67a20226b272d"
+		}
+		{
+		"NoteToSelf" "Metal_Triangle_Floor"
+		"GUID" "e19ae9c345a241a08c9ff545c8c4cecd"
+		}
+		{
+		"NoteToSelf" "Metal_Floor"
+		"GUID" "82c4f915fc384563848d30673c78ebd4"
+		}
+		{
+		"NoteToSelf" "Metal_Garage"
+		"GUID" "6d4baaba98de40708ae0df09ad7f1653"
+		}
+		{
+		"NoteToSelf" "Metal_Hole"
+		"GUID" "7637ad4789f642329d24647ab0312733"
+		}
+		{
+		"NoteToSelf" "Metal_Post"
+		"GUID" "620c99d34efb491caa7435bcf154b7f5"
+		}
+		{
+		"NoteToSelf" "Metal_Pillar"
+		"GUID" "ed7e8310ad754a8d9ebe152a0ef6f437"
+		}
+		{
+		"NoteToSelf" "Metal_Ramp"
+		"GUID" "f02100ce42c4445a94bd60468d92a9ba"
+		}
+		{
+		"NoteToSelf" "Metal_Rampart"
+		"GUID" "f2896720ad924d26a35c7883a67dffbf"
+		}
+		{
+		"NoteToSelf" "Metal_Triangle_Roof"
+		"GUID" "8d684713a6da469eb23815d68afacf10"
+		}
+		{
+		"NoteToSelf" "Metal_Roof"
+		"GUID" "5c68fd35ed1c4d19b651211a648f938c"
+		}
+		{
+		"NoteToSelf" "Metal_Stairs"
+		"GUID" "7384ac31f76941798bb2eae6c78e71b5"
+		}
+		{
+		"NoteToSelf" "Metal_Wall"
+		"GUID" "d2e352cf157440e6821b4d11fc627af7"
+		}
+		{
+		"NoteToSelf" "Metal_Window"
+		"GUID" "9862d7ada9fa4988b5612b061207e1ef"
+		}
+		{
+		"NoteToSelf" "Metal_Wall_Ramp"
+		"GUID" "e3b7d35c1b8346fb9c51d33460e05b6e"
+		}
+		{
+		"NoteToSelf" "Glass_Weak"
+		"GUID" "6314c13082c24bdcbc9872d492df4926"
+		}
+		{
+		"NoteToSelf" "Glass_Bulletproof"
+		"GUID" "306adf871cff47b48d09a3a5414def59"
+		}
+		{
+		"NoteToSelf" "Glass_OneWay"
+		"GUID" "412697181591400983dafa441bd45b7b"
+		}
+		{
+		"NoteToSelf" "Leather_Top"
+		"GUID" "381013b43ecd4ab58f34c312b70209fa"
+		}
+		{
+		"NoteToSelf" "Leather_Bottom"
+		"GUID" "9c99cb4e7efd4ae084fba0f82e6f481e"
+		}
+		{
+		"NoteToSelf" "Leather_Pack"
+		"GUID" "3fd609dda32d4325b92c3050af762e7c"
+		}
+		{
+		"NoteToSelf" "Leather_Vest"
+		"GUID" "fa0ce6a84d5147518f6ee2c44e43b1b0"
+		}
+		{
+		"NoteToSelf" "Barbed_Wire"
+		"GUID" "e2432d5d18e74a6cbc207746468b19bf"
+		}
+		{
+		"NoteToSelf" "Bedroll_Black"
+		"GUID" "343b36df35c94338a2f1e4a4a1b75440"
+		}
+		{
+		"NoteToSelf" "Bedroll_Blue"
+		"GUID" "51ff6bb8b63743c9be5fd4042d55060b"
+		}
+		{
+		"NoteToSelf" "Bedroll_Green"
+		"GUID" "266602d956ad423d85183715f6bcc594"
+		}
+		{
+		"NoteToSelf" "Bedroll_Orange"
+		"GUID" "db6eb5d15adf43b1a576898a99b77e54"
+		}
+		{
+		"NoteToSelf" "Bedroll_Purple"
+		"GUID" "0d5f91c9f5d340fc86931e7679494ec4"
+		}
+		{
+		"NoteToSelf" "Bedroll_Red"
+		"GUID" "a98e46523c704a24bea832801d059ca3"
+		}
+		{
+		"NoteToSelf" "Bedroll_White"
+		"GUID" "cbc5d88aa8524d37b4bde233fa21f030"
+		}
+		{
+		"NoteToSelf" "Bedroll_Yellow"
+		"GUID" "11cb9fadebdc4303a3646c49bde5af2b"
+		}
+		{
+		"NoteToSelf" "Book"
+		"GUID" "0b20822f17774ad3a0827ad5313ce7b3"
+		}
+		{
+		"NoteToSelf" "Cagelight"
+		"GUID" "9908a43237364f22a62242cd1fb14fc9"
+		}
+		{
+		"NoteToSelf" "Caltrop"
+		"GUID" "cd5e4300f6994424848392cecf72936d"
+		}
+		{
+		"NoteToSelf" "Claim_Flag"
+		"GUID" "cba173169b314a16be5a1ab44f25fcf2"
+		}
+		{
+		"NoteToSelf" "Clock"
+		"GUID" "d3c40816534e48c3af0e26fb4d5f1b1a"
+		}
+		{
+		"NoteToSelf" "Cooler"
+		"GUID" "30c7b04f458e4cbb8958bc487ed46cc4"
+		}
+		{
+		"NoteToSelf" "Couch_White"
+		"GUID" "37dcda8892bc43f29c2538f8e26c3a90"
+		}
+		{
+		"NoteToSelf" "Couch_Blue"
+		"GUID" "f8d149f415724a4ba9831b4032bd0c2a"
+		}
+		{
+		"NoteToSelf" "Couch_Green"
+		"GUID" "3be39729eb394a93b667181a5e376951"
+		}
+		{
+		"NoteToSelf" "Couch_Orange"
+		"GUID" "41372633ce26412e8c9890d75f3de416"
+		}
+		{
+		"NoteToSelf" "Couch_Purple"
+		"GUID" "736eac590eeb4f51bbe604c81cb6cf22"
+		}
+		{
+		"NoteToSelf" "Couch_Red"
+		"GUID" "cece4643646b4244a34f594bbaf60834"
+		}
+		{
+		"NoteToSelf" "Couch_Yellow"
+		"GUID" "c7428365b26348d08c96938ff5640406"
+		}
+		{
+		"NoteToSelf" "Doubledoor_Metal"
+		"GUID" "d472ed1ca67943a8abdde8cd176099b8"
+		}
+		{
+		"NoteToSelf" "Barbed_Wire_Fence"
+		"GUID" "97b6fb7f9cfa4837a0a49c4efc7d8e8f"
+		}
+		{
+		"NoteToSelf" "Flag_Metal"
+		"GUID" "f5cffee6e8434b3f8ece5c80b64ab8d2"
+		}
+		{
+		"NoteToSelf" "Flare_Blue"
+		"GUID" "c1884c06179c4179be536b5adf0cf157"
+		}
+		{
+		"NoteToSelf" "Flare_Green"
+		"GUID" "22557b51899e486f8282588e610c28b5"
+		}
+		{
+		"NoteToSelf" "Flare_Orange"
+		"GUID" "5efaebec913842929abbd573e69c9695"
+		}
+		{
+		"NoteToSelf" "Flare_Purple"
+		"GUID" "0c3320145c974b6bb2e50586cd65f36e"
+		}
+		{
+		"NoteToSelf" "Flare_Red"
+		"GUID" "23447124471345789403075483b59169"
+		}
+		{
+		"NoteToSelf" "Flare_Yellow"
+		"GUID" "48303a446214402fa8db745f568151e3"
+		}
+		{
+		"NoteToSelf" "Fridge"
+		"GUID" "35457ca38d03426091815950e067262b"
+		}
+		{
+		"NoteToSelf" "Metal_Gate"
+		"GUID" "642a4ad41af845b298e49885ec79c84e"
+		}
+		{
+		"NoteToSelf" "Generator_Industrial"
+		"GUID" "dc56734a150849e785975751364d41de"
+		}
+		{
+		"NoteToSelf" "Generator_Portable"
+		"GUID" "72fae83175f34bde94bd52d40c7a9ebc"
+		}
+		{
+		"NoteToSelf" "Ladder_Metal"
+		"GUID" "8593a19ecb7d40c1a6718fabafb83d0e"
+		}
+		{
+		"NoteToSelf" "Library_Metal"
+		"GUID" "115e0813c6734779864b6d9c129e8c87"
+		}
+		{
+		"NoteToSelf" "Locker"
+		"GUID" "362ab81b73a7431eb3f1477645605891"
+		}
+		{
+		"NoteToSelf" "Note"
+		"GUID" "62a748bf40be48719fe79b8c3e065a79"
+		}
+		{
+		"NoteToSelf" "Oil_Pump"
+		"GUID" "eeffac0063804866b38c8eb6436ace10"
+		}
+		{
+		"NoteToSelf" "Oxygenator"
+		"GUID" "ea56c734f3614983a5381bbce91ba79a"
+		}
+		{
+		"NoteToSelf" "Placard_Metal"
+		"GUID" "dcbc219ece95406faf63d820ea8e76e1"
+		}
+		{
+		"NoteToSelf" "Plaque_Metal"
+		"GUID" "ba28cf47b37544c4a38f130d15d3d9aa"
+		}
+		{
+		"NoteToSelf" "Rifle_Rack_Metal"
+		"GUID" "4eb615311edb4ef98ee95d8c70ba3c25"
+		}
+		{
+		"NoteToSelf" "Container_Fuel"
+		"GUID" "f767d92f00cc4938981431eeb9286312"
+		}
+		{
+		"NoteToSelf" "Container_Water"
+		"GUID" "8bd5f403d2b14f3ab77f7ccfce0ee9a2"
+		}
+		{
+		"NoteToSelf" "Sandbags"
+		"GUID" "2038421b52cc4beea8984e58b4c810a1"
+		}
+		{
+		"NoteToSelf" "Sentry_Neutral"
+		"GUID" "0c005ae5e4c74575af53ffe2144fad0b"
+		}
+		{
+		"NoteToSelf" "Sentry_Friendly"
+		"GUID" "5a7281e9af4c435b8cb7f9f5acf05aa9"
+		}
+		{
+		"NoteToSelf" "Sentry_Hostile"
+		"GUID" "8f7670d2dabc449d8f38c8cb656c6acf"
+		}
+		{
+		"NoteToSelf" "Shutter_Metal"
+		"GUID" "89a2f3ba54e44a75949223e16c393e6d"
+		}
+		{
+		"NoteToSelf" "Sign_Metal"
+		"GUID" "644b617a197a4381be21230935b5d279"
+		}
+		{
+		"NoteToSelf" "Snare"
+		"GUID" "fa9b283859034fdbbd71078bb5a0d375"
+		}
+		{
+		"NoteToSelf" "Spotlight"
+		"GUID" "3407a91dde0c4454b91d5af072f11a4c"
+		}
+		{
+		"NoteToSelf" "Stereo"
+		"GUID" "db4346abc6a040d2ae51987dac2a4dc5"
+		}
+		{
+		"NoteToSelf" "Circular_Table_Metal"
+		"GUID" "bbedd51cd987407d9e0907758e987f5a"
+		}
+		{
+		"NoteToSelf" "Rectangular_Table_Metal"
+		"GUID" "2b9fb144fd2240b8827ebbfe132ce930"
+		}
+		{
+		"NoteToSelf" "Square_Table_Metal"
+		"GUID" "6c8c0a3f316645d9a54edd7871bb212b"
+		}
+		{
+		"NoteToSelf" "Tanktrap"
+		"GUID" "ba3d3b4781144a93a7cf061ccda3d7c7"
+		}
+		{
+		"NoteToSelf" "Metal_Trophy_Case"
+		"GUID" "d8d471399d36471794257a686fed7400"
+		}
+		{
+		"NoteToSelf" "Wardrobe_Metal"
+		"GUID" "6ecbbde5002648789f1e5138d23271e8"
+		}
+		{
+		"NoteToSelf" "Mannequin_Cloth"
+		"GUID" "68d9141f7b40442ca91a87655442a920"
+		}
+		{
+		"NoteToSelf" "Mannequin_Metal"
+		"GUID" "b98e6dcc04284219a279a95a09b98c6a"
+		}
+		{
+		"NoteToSelf" "Planter"
+		"GUID" "0dede0087967430c9ff5606a101eeb6e"
+		}
+		{
+		"NoteToSelf" "Plot"
+		"GUID" "5a4f31f088e24e6f967eeb45a698699e"
+		}
+		{
+		"NoteToSelf" "Door_Metal"
+		"GUID" "8d0b21995b084db3a91bb7a75d777f75"
+		}
+		{
+		"NoteToSelf" "Door_Vault"
+		"GUID" "efb0180de9b948fb8805e6ee8036faec"
+		}
+		{
+		"NoteToSelf" "Fortifications_Bars"
+		"GUID" "8c81bfb33b7c46e7affdf4bafbd41e68"
+		}
+		{
+		"NoteToSelf" "Hatch_Metal"
+		"GUID" "23f0953c6dc04b399fa6b8a6882a48f0"
+		}
+		{
+		"NoteToSelf" "Jail_Door"
+		"GUID" "11bdf58b48b64aa090f69eeafb28bd8d"
+		}
+		{
+		"NoteToSelf" "Oven"
+		"GUID" "d673b381629a45d9b0c5889f505374be"
+		}
+		{
+		"NoteToSelf" "Lamp"
+		"GUID" "2f48d614b5424e90adcbbde333abc7d6"
+		}
+		{
+		"NoteToSelf" "Safezone_Radiator"
+		"GUID" "1f8856edf5964774aa2457b37e45603b"
+		}
+	]
+}

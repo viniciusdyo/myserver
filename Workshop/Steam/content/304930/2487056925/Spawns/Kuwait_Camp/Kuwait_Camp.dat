@@ -1,0 +1,19 @@
+GUID 392a89a0c946400f8444e126eb33da79
+Type Spawn
+ID 7250
+
+Tables 7
+Table_0_Spawn_ID 7251
+Table_0_Weight 4
+Table_1_Spawn_ID 7249
+Table_1_Weight 4
+Table_2_Spawn_ID 7246
+Table_2_Weight 2
+Table_3_Spawn_ID 7017
+Table_3_Weight 2
+Table_4_Spawn_ID 7244
+Table_4_Weight 2
+Table_5_Spawn_ID 7247
+Table_5_Weight 1
+Table_6_Spawn_ID 7248
+Table_6_Weight 2

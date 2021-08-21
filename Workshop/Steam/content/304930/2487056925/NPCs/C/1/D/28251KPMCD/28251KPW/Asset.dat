@@ -1,0 +1,86 @@
+GUID ede59f006dae44e5916548ffc7ee4c77
+Type Dialogue
+ID 28251
+
+Messages 3
+ 
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_ID 28260
+Message_0_Condition_0_Status None
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 2
+Message_0_Response_0 0
+Message_0_Response_1 2
+
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_ID 28260
+Message_1_Condition_0_Status Completed
+Message_1_Condition_0_Logic Not_Equal
+Message_1_Responses 2
+Message_1_Response_0 1
+Message_1_Response_1 3
+
+Message_2_Pages 1
+Message_2_Conditions 1
+Message_2_Condition_0_Type Quest
+Message_2_Condition_0_ID 28260
+Message_2_Condition_0_Status Completed
+Message_2_Condition_0_Logic Equal
+Message_2_Responses 1
+Message_2_Response_0 4
+
+Responses 5
+
+Response_0_Dialogue 28252
+Response_0_Quest 28260
+Response_0_Conditions 1
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_ID 28260
+Response_0_Condition_0_Status None
+Response_0_Rewards 4
+Response_0_Reward_0_Type Flag_Bool
+Response_0_Reward_0_ID 28261
+Response_0_Reward_0_Value True
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 28262
+Response_0_Reward_1_Value True
+Response_0_Reward_2_Type Quest
+Response_0_Reward_2_ID 28260
+Response_0_Reward_3_Type Flag_Bool
+Response_0_Reward_3_ID 28263
+Response_0_Reward_3_Value True
+
+Response_1_Dialogue 28253
+Response_1_Quest 28260
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 28260
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Reset
+
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 28260
+Response_2_Condition_0_Status None
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Allow_Unset
+
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 28260
+Response_3_Condition_0_Status Completed
+Response_3_Condition_0_Logic Not_Equal
+
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 28260
+Response_4_Condition_0_Status Completed
+Response_4_Condition_0_Logic Equal
+

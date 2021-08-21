@@ -1,0 +1,24 @@
+GUID cf2368bc990a4ea29f3fd480a2fab500
+Type Barricade
+Useable Barricade
+Build Gate
+ID 5475
+
+Size_X 2
+Size_Y 1
+Size_Z 0.35
+
+Health 250
+Range 4
+Radius 1.5
+Offset 1.25
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 5501
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait

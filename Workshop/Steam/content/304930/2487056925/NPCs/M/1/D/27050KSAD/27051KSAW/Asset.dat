@@ -1,0 +1,528 @@
+GUID 09b8d14baa82401aa6c00516c0acc910
+Type Dialogue
+ID 27051
+
+// Snowy will give you quests. There will be a (T2I), (T2IOP1), (T2IOP2), (T2IOP3), (RNG2X + 3 time based, Gives Quests)
+// If you're looking for documentation - As Snow would say - Gomen'nasai.
+Messages 10
+// Talk to Issac - Intro
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Bool
+Message_0_Condition_0_ID 27001
+Message_0_Condition_0_Value False
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_Allow_Unset
+Message_0_Responses 1
+Message_0_Response_0 0
+
+// Operation 1
+Message_1_Pages 1
+Message_1_Conditions 2
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_ID 27000
+Message_1_Condition_0_Value 15
+Message_1_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_1_Condition_1_Type Quest
+Message_1_Condition_1_ID 27020
+Message_1_Condition_1_Status None
+Message_1_Condition_1_Logic Equal
+Message_1_Responses 1
+Message_1_Response_0 0
+
+// Operation 2
+Message_2_Pages 1
+Message_2_Conditions 2
+Message_2_Condition_0_Type Flag_Short
+Message_2_Condition_0_ID 27000
+Message_2_Condition_0_Value 40
+Message_2_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_2_Condition_1_Type Quest
+Message_2_Condition_1_ID 27021
+Message_2_Condition_1_Status None
+Message_2_Condition_1_Logic Equal
+Message_2_Responses 1
+Message_2_Response_0 0
+
+// Operation 3
+Message_3_Pages 1
+Message_3_Conditions 2
+Message_3_Condition_0_Type Flag_Short
+Message_3_Condition_0_ID 27000
+Message_3_Condition_0_Value 75
+Message_3_Condition_0_Logic Greater_Than_Or_Equal_To
+Message_3_Condition_1_Type Quest
+Message_3_Condition_1_ID 27022
+Message_3_Condition_1_Status None
+Message_3_Condition_1_Logic Equal
+Message_3_Responses 1
+Message_3_Response_0 0
+
+// Randomized 1
+Message_4_Pages 1
+Message_4_Conditions 1
+Message_4_Condition_0_Type Flag_Short
+Message_4_Condition_0_ID 27050
+Message_4_Condition_0_Value 0
+Message_4_Condition_0_Logic Equal
+Message_4_Condition_0_Allow_Unset
+// Randomize Again.
+Message_4_Rewards 1
+Message_4_Reward_0_Type Flag_Short_Random
+Message_4_Reward_0_ID 27050
+Message_4_Reward_0_Min_Value 0
+Message_4_Reward_0_Max_Value 2
+Message_4_Reward_0_Modification Assign
+
+// Randomized 2
+Message_5_Pages 1
+Message_5_Conditions 1
+Message_5_Condition_0_Type Flag_Short
+Message_5_Condition_0_ID 27050
+Message_5_Condition_0_Value 1
+Message_5_Condition_0_Logic Equal
+// Randomize Again.
+Message_5_Rewards 1
+Message_5_Reward_0_Type Flag_Short_Random
+Message_5_Reward_0_ID 27050
+Message_5_Reward_0_Min_Value 0
+Message_5_Reward_0_Max_Value 2
+Message_5_Reward_0_Modification Assign
+
+// Randomized 3 (Morning, 0000 to 0600)
+Message_6_Pages 1
+Message_6_Conditions 2
+Message_6_Condition_0_Type Flag_Short
+Message_6_Condition_0_ID 27050
+Message_6_Condition_0_Value 2
+Message_6_Condition_0_Logic Equal
+Message_6_Condition_1_Type Time_Of_Day
+Message_6_Condition_1_Second 21600
+Message_6_Condition_1_Logic Less_Than_Or_Equal_To
+// Randomize Again.
+Message_6_Rewards 1
+Message_6_Reward_0_Type Flag_Short_Random
+Message_6_Reward_0_ID 27050
+Message_6_Reward_0_Min_Value 0
+Message_6_Reward_0_Max_Value 2
+Message_6_Reward_0_Modification Assign
+
+// Randomized 3 (Morning, 6 to 12)
+Message_7_Pages 1
+Message_7_Conditions 3
+Message_7_Condition_0_Type Flag_Short
+Message_7_Condition_0_ID 27050
+Message_7_Condition_0_Value 2
+Message_7_Condition_0_Logic Equal
+Message_7_Condition_1_Type Time_Of_Day
+Message_7_Condition_1_Second 21600
+Message_7_Condition_1_Logic Greater_Than
+Message_7_Condition_2_Type Time_Of_Day
+Message_7_Condition_2_Second 43200
+Message_7_Condition_2_Logic Less_Than_Or_Equal_To
+// Randomize Again.
+Message_7_Rewards 1
+Message_7_Reward_0_Type Flag_Short_Random
+Message_7_Reward_0_ID 27050
+Message_7_Reward_0_Min_Value 0
+Message_7_Reward_0_Max_Value 2
+Message_7_Reward_0_Modification Assign
+
+// Randomized 3 (Afternoon, 12am to 6pm)
+Message_8_Pages 1
+Message_8_Conditions 3
+Message_8_Condition_0_Type Flag_Short
+Message_8_Condition_0_ID 27050
+Message_8_Condition_0_Value 2
+Message_8_Condition_0_Logic Equal
+Message_8_Condition_1_Type Time_Of_Day
+Message_8_Condition_1_Second 43200
+Message_8_Condition_1_Logic Greater_Than
+Message_8_Condition_2_Type Time_Of_Day
+Message_8_Condition_2_Second 64800
+Message_8_Condition_2_Logic Less_Than_Or_Equal_To
+// Randomize Again.
+Message_8_Rewards 1
+Message_8_Reward_0_Type Flag_Short_Random
+Message_8_Reward_0_ID 27050
+Message_8_Reward_0_Min_Value 0
+Message_8_Reward_0_Max_Value 2
+Message_8_Reward_0_Modification Assign
+
+// Randomized 3 (Evening, 6pm to 12am)
+Message_9_Pages 1
+Message_9_Conditions 1
+Message_9_Condition_0_Type Flag_Short
+Message_9_Condition_0_ID 27050
+Message_9_Condition_0_Value 2
+Message_9_Condition_0_Logic Equal
+// Randomize Again.
+Message_9_Rewards 1
+Message_9_Reward_0_Type Flag_Short_Random
+Message_9_Reward_0_ID 27050
+Message_9_Reward_0_Min_Value 0
+Message_9_Reward_0_Max_Value 2
+Message_9_Reward_0_Modification Assign
+
+// ...eh? Ah, Ohayou! What are you doing here? Do you need random quest code? Well, Ashley's code looks better, and it's newer... Why don't you look at hers?
+
+Responses 27
+
+// Talk to Issac/Operations
+Response_0_Messages 1
+Response_0_Message_0 1
+
+// No Quests T1
+Response_1_Dialogue 27052
+Response_1_Conditions 4
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 27090
+Response_1_Condition_0_Status None
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_1_Type Quest
+Response_1_Condition_1_ID 27071
+Response_1_Condition_1_Status None
+Response_1_Condition_1_Logic Equal
+Response_1_Condition_2_Type Quest
+Response_1_Condition_2_ID 27072
+Response_1_Condition_2_Status None
+Response_1_Condition_2_Logic Equal
+Response_1_Condition_3_Type Quest
+Response_1_Condition_3_ID 27020
+Response_1_Condition_3_Status None
+Response_1_Condition_3_Logic Equal
+
+// Take Quest - Reset Quest Condition
+Response_2_Dialogue 27052
+Response_2_Conditions 2
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 27090
+Response_2_Condition_0_Status Completed
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Reset
+Response_2_Condition_1_Type Quest
+Response_2_Condition_1_ID 27020
+Response_2_Condition_1_Status None
+Response_2_Condition_1_Logic Equal
+
+// TQuest 1-2
+Response_3_Dialogue 27052
+Response_3_Conditions 2
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 27071
+Response_3_Condition_0_Status Completed
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Reset
+Response_3_Condition_1_Type Quest
+Response_3_Condition_1_ID 27020
+Response_3_Condition_1_Status None
+Response_3_Condition_1_Logic Equal
+
+// TQuest 1-3
+Response_4_Dialogue 27052
+Response_4_Conditions 2
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 27072
+Response_4_Condition_0_Status Completed
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_Reset
+Response_4_Condition_1_Type Quest
+Response_4_Condition_1_ID 27020
+Response_4_Condition_1_Status None
+Response_4_Condition_1_Logic Equal
+
+// No Quests T2
+Response_5_Dialogue 27053
+Response_5_Conditions 5
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 27075
+Response_5_Condition_0_Status None
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_1_Type Quest
+Response_5_Condition_1_ID 27076
+Response_5_Condition_1_Status None
+Response_5_Condition_1_Logic Equal
+Response_5_Condition_2_Type Quest
+Response_5_Condition_2_ID 27077
+Response_5_Condition_2_Status None
+Response_5_Condition_2_Logic Equal
+Response_5_Condition_3_Type Quest
+Response_5_Condition_3_ID 27020
+Response_5_Condition_3_Status Completed
+Response_5_Condition_3_Logic Equal
+Response_5_Condition_4_Type Quest
+Response_5_Condition_4_ID 27021
+Response_5_Condition_4_Status None
+Response_5_Condition_4_Logic Equal
+
+// Take Quest - Reset Quest Condition
+Response_6_Dialogue 27053
+Response_6_Conditions 3
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_ID 27075
+Response_6_Condition_0_Status Completed
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_Reset
+Response_6_Condition_1_Type Quest
+Response_6_Condition_1_ID 27020
+Response_6_Condition_1_Status Completed
+Response_6_Condition_1_Logic Equal
+Response_6_Condition_2_Type Quest
+Response_6_Condition_2_ID 27021
+Response_6_Condition_2_Status None
+Response_6_Condition_2_Logic Equal
+
+// TQuest 2-2
+Response_7_Dialogue 27053
+Response_7_Conditions 3
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_ID 27076
+Response_7_Condition_0_Status Completed
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_Reset
+Response_7_Condition_1_Type Quest
+Response_7_Condition_1_ID 27020
+Response_7_Condition_1_Status Completed
+Response_7_Condition_1_Logic Equal
+Response_7_Condition_2_Type Quest
+Response_7_Condition_2_ID 27021
+Response_7_Condition_2_Status None
+Response_7_Condition_2_Logic Equal
+
+// TQuest 2-3
+Response_8_Dialogue 27053
+Response_8_Conditions 3
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_ID 27077
+Response_8_Condition_0_Status Completed
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_Reset
+Response_8_Condition_1_Type Quest
+Response_8_Condition_1_ID 27020
+Response_8_Condition_1_Status Completed
+Response_8_Condition_1_Logic Equal
+Response_8_Condition_2_Type Quest
+Response_8_Condition_2_ID 27021
+Response_8_Condition_2_Status None
+Response_8_Condition_2_Logic Equal
+
+// No Quests T3
+Response_9_Dialogue 27054
+Response_9_Conditions 5
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_ID 27080
+Response_9_Condition_0_Status None
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_1_Type Quest
+Response_9_Condition_1_ID 27081
+Response_9_Condition_1_Status None
+Response_9_Condition_1_Logic Equal
+Response_9_Condition_2_Type Quest
+Response_9_Condition_2_ID 27082
+Response_9_Condition_2_Status None
+Response_9_Condition_2_Logic Equal
+Response_9_Condition_3_Type Quest
+Response_9_Condition_3_ID 27021
+Response_9_Condition_3_Status Completed
+Response_9_Condition_3_Logic Equal
+Response_9_Condition_4_Type Quest
+Response_9_Condition_4_ID 27022
+Response_9_Condition_4_Status None
+Response_9_Condition_4_Logic Equal
+
+// Take Quest - Reset Quest Condition
+Response_10_Dialogue 27054
+Response_10_Conditions 3
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_ID 27080
+Response_10_Condition_0_Status Completed
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_0_Reset
+Response_10_Condition_1_Type Quest
+Response_10_Condition_1_ID 27021
+Response_10_Condition_1_Status Completed
+Response_10_Condition_1_Logic Equal
+Response_10_Condition_2_Type Quest
+Response_10_Condition_2_ID 27022
+Response_10_Condition_2_Status None
+Response_10_Condition_2_Logic Equal
+
+// TQuest 3-2
+Response_11_Dialogue 27054
+Response_11_Conditions 3
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_ID 27081
+Response_11_Condition_0_Status Completed
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_0_Reset
+Response_11_Condition_1_Type Quest
+Response_11_Condition_1_ID 27021
+Response_11_Condition_1_Status Completed
+Response_11_Condition_1_Logic Equal
+Response_11_Condition_2_Type Quest
+Response_11_Condition_2_ID 27022
+Response_11_Condition_2_Status None
+Response_11_Condition_2_Logic Equal
+
+// TQuest 3-3
+Response_12_Dialogue 27054
+Response_12_Conditions 1
+Response_12_Condition_0_Type Quest
+Response_12_Condition_0_ID 27082
+Response_12_Condition_0_Status Completed
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_0_Reset
+Response_12_Condition_1_Type Quest
+Response_12_Condition_1_ID 27021
+Response_12_Condition_1_Status Completed
+Response_12_Condition_1_Logic Equal
+Response_12_Condition_2_Type Quest
+Response_12_Condition_2_ID 27022
+Response_12_Condition_2_Status None
+Response_12_Condition_2_Logic Equal
+
+// Quest T1-1 Done
+Response_13_Dialogue 27056
+Response_13_Quest 27090
+Response_13_Conditions 1
+Response_13_Condition_0_Type Quest
+Response_13_Condition_0_Logic Equal
+Response_13_Condition_0_ID 27090
+Response_13_Condition_0_Status Ready	
+Response_13_Condition_0_Reset
+
+// Quest T1-2 Done
+Response_14_Dialogue 27056
+Response_14_Quest 27071
+Response_14_Conditions 1
+Response_14_Condition_0_Type Quest
+Response_14_Condition_0_Logic Equal
+Response_14_Condition_0_ID 27071
+Response_14_Condition_0_Status Ready	
+Response_14_Condition_0_Reset
+
+// Quest T1-3 Done
+Response_15_Dialogue 27056
+Response_15_Quest 27072
+Response_15_Conditions 1
+Response_15_Condition_0_Type Quest
+Response_15_Condition_0_Logic Equal
+Response_15_Condition_0_ID 27072
+Response_15_Condition_0_Status Ready	
+Response_15_Condition_0_Reset
+
+// Quest T2-1 Done
+Response_16_Dialogue 27056
+Response_16_Quest 27075
+Response_16_Conditions 1
+Response_16_Condition_0_Type Quest
+Response_16_Condition_0_Logic Equal
+Response_16_Condition_0_ID 27075
+Response_16_Condition_0_Status Ready	
+Response_16_Condition_0_Reset
+
+// Quest T2-2 Done
+Response_17_Dialogue 27056
+Response_17_Quest 27076
+Response_17_Conditions 1
+Response_17_Condition_0_Type Quest
+Response_17_Condition_0_Logic Equal
+Response_17_Condition_0_ID 27076
+Response_17_Condition_0_Status Ready	
+Response_17_Condition_0_Reset
+
+// Quest T2-3 Done
+Response_18_Dialogue 27056
+Response_18_Quest 27077
+Response_18_Conditions 1
+Response_18_Condition_0_Type Quest
+Response_18_Condition_0_Logic Equal
+Response_18_Condition_0_ID 27077
+Response_18_Condition_0_Status Ready	
+Response_18_Condition_0_Reset
+
+// Quest T3-1 Done
+Response_19_Dialogue 27056
+Response_19_Quest 27080
+Response_19_Conditions 1
+Response_19_Condition_0_Type Quest
+Response_19_Condition_0_Logic Equal
+Response_19_Condition_0_ID 27080
+Response_19_Condition_0_Status Ready	
+Response_19_Condition_0_Reset
+
+// Quest T3-2 Done
+Response_20_Dialogue 27056
+Response_20_Quest 27081
+Response_20_Conditions 1
+Response_20_Condition_0_Type Quest
+Response_20_Condition_0_Logic Equal
+Response_20_Condition_0_ID 27081
+Response_20_Condition_0_Status Ready	
+Response_20_Condition_0_Reset
+
+// Quest T3-3 Done
+Response_21_Dialogue 27056
+Response_21_Quest 27082
+Response_21_Conditions 1
+Response_21_Condition_0_Type Quest
+Response_21_Condition_0_Logic Equal
+Response_21_Condition_0_ID 27082
+Response_21_Condition_0_Status Ready	
+Response_21_Condition_0_Reset
+
+// Can I?
+Response_22_Dialogue 27057
+Response_22_Conditions 1
+Response_22_Condition_0_Type Quest
+Response_22_Condition_0_ID 27020
+Response_22_Condition_0_Status Completed
+Response_22_Condition_0_Logic Not_Equal
+
+// May I?
+Response_23_Dialogue 27058
+Response_23_Vendor 27059
+Response_23_Conditions 1
+Response_23_Condition_0_Type Quest
+Response_23_Condition_0_ID 27020
+Response_23_Condition_0_Status Completed
+Response_23_Condition_0_Logic Equal
+
+// No help left.
+Response_24_Dialogue 27089
+Response_24_Conditions 1
+Response_24_Condition_0_Type Quest
+Response_24_Condition_0_ID 27022
+Response_24_Condition_0_Status Completed
+Response_24_Condition_0_Logic Equal
+
+// Borrowed tools?
+Response_25_Dialogue 27086
+Response_25_Conditions 2
+Response_25_Condition_0_Type Quest
+Response_25_Condition_0_ID 27210
+Response_25_Condition_0_Status Active
+Response_25_Condition_0_Logic Equal
+Response_25_Condition_1_Type Flag_Bool
+Response_25_Condition_1_ID 27087
+Response_25_Condition_1_Value False
+Response_25_Condition_1_Logic Equal
+Response_25_Condition_1_Allow_Unset
+Response_25_Rewards 2
+Response_25_Reward_0_Type Flag_Bool
+Response_25_Reward_0_ID 27087
+Response_25_Reward_0_Value True
+Response_25_Reward_1_Type Flag_Bool
+Response_25_Reward_1_ID 27222
+Response_25_Reward_1_Value True
+
+// Nothing.
+Response_26_Messages 6
+Response_26_Message_0 4
+Response_26_Message_1 5
+Response_26_Message_2 6
+Response_26_Message_3 7
+Response_26_Message_4 8
+Response_26_Message_5 9
+
+// If you're copying things, at least credit NSTM.

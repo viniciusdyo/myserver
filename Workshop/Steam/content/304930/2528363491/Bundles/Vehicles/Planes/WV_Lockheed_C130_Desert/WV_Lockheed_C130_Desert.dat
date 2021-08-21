@@ -1,0 +1,42 @@
+GUID f82aef0966d447a3ac31dae6eae86316
+Type Vehicle
+Rarity Epic
+ID 46520
+
+BatteryMode_Sirens None
+
+Speed_Min -15
+Speed_Max 32
+
+Steer_Min 32
+Steer_Max 64
+
+Air_Turn_Responsiveness 3
+
+Air_Steer_Min 16
+
+Air_Steer_Max 48
+
+Cam_Follow_Distance 30
+
+Asset_Bundle_Version 3
+
+Brake 64
+Lift 5
+Sleds
+
+Fuel 5000
+
+Health_Min 600
+Health_Max 700
+Health 1500
+
+LockMouse
+Engine Plane
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 8
+
+Explosion 20
+Tires_Invulnerable
+Invulnerable

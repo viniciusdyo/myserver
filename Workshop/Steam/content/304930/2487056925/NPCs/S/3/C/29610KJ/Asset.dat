@@ -1,0 +1,22 @@
+GUID f8d405e4c5f04c9c8786c99b1a9c9b1e
+Type NPC
+ID 29610
+
+Shirt 175
+Pants 213
+
+Face 5
+Hair 4
+Beard 2
+Color_Skin #9D886B
+Color_Hair #191919
+
+Dialogue 29611
+
+Secondary 5025
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 29321
+Condition_0_Value True
+Condition_0_Logic Equal

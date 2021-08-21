@@ -1,0 +1,29 @@
+GUID e436467de60a4188861c227e7869348f
+Type Glasses
+Rarity Uncommon
+Useable Clothing
+ID 5631
+
+Size_X 2
+Size_Y 1
+Size_Z 0.175
+
+Hair
+Beard
+
+Vision Headlamp
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 5631
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Glasses/Headlamp

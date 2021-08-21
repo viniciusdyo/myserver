@@ -1,0 +1,4 @@
+Name <color=epic>Cull Verdun Airbase</color>
+Description Verdun Airbase is a location of significant importance, and culling the horde will make the eventual reclamation easier.
+
+Condition_0 Kill zombies {0}/100

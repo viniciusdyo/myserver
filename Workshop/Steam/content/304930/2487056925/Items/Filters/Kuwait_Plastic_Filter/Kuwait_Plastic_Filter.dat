@@ -1,0 +1,28 @@
+GUID c80e7edca62441a383ea933c482b8366
+Type Filter
+Rarity Rare
+Useable Filter
+ID 5515
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 5515
+Blueprint_0_Product 5507
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 3 
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Supply_1_ID 67
+Blueprint_1_Supply_1_Amount 3
+Blueprint_1_Supply_2_ID 5507
+Blueprint_1_Supply_2_Amount 6
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+Blueprint_1_Map Kuwait

@@ -1,0 +1,911 @@
+[08/09/2021 00:05:16] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[08/09/2021 00:05:16] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[08/09/2021 00:05:16] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[08/09/2021 00:05:16] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[08/09/2021 00:05:16] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[08/09/2021 00:05:16] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[08/09/2021 00:05:16] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[08/09/2021 00:05:16] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[08/09/2021 00:05:16] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[08/09/2021 00:05:16] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[08/09/2021 00:05:16] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[08/09/2021 00:05:16] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[08/09/2021 00:05:16] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[08/09/2021 00:05:16] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[08/09/2021 00:05:16] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[08/09/2021 00:05:16] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[08/09/2021 00:05:16] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[08/09/2021 00:05:16] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[08/09/2021 00:05:16] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[08/09/2021 00:05:16] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[08/09/2021 00:05:16] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[08/09/2021 00:05:16] [Info] Loading MaxPlayer from /home/steam/unturned/Servers/myserver/Rocket/Plugins/MaxPlayer.dll
+[08/09/2021 00:05:16] [Info] Loading WebsiteCommand from /home/steam/unturned/Servers/myserver/Rocket/Plugins/WebsiteCommand.dll
+[08/09/2021 00:05:17] [Info] Loading uEssentials from /home/steam/unturned/Servers/myserver/Rocket/Plugins/uEssentials.dll
+[08/09/2021 00:05:17] [Info] 
+[loading] MaxPlayer
+[08/09/2021 00:05:17] [Info] [registered] /checkmaxplayers (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/checkmaxplayers)
+[08/09/2021 00:05:17] [Info] [registered] /checkmp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/checkmp)
+[08/09/2021 00:05:17] [Info] [registered] /mps (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayers/mps)
+[08/09/2021 00:05:17] [Info] [registered] /setmaxplayers (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/setmaxplayers)
+[08/09/2021 00:05:17] [Info] [registered] /setmp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/setmp)
+[08/09/2021 00:05:17] [Info] [registered] /mp (Tortellio.MaxplayerModifier.Commands.CommandMaxPlayer/mp)
+[08/09/2021 00:05:17] [Info] MaxPlayer >> MaxplayerModifier has been loaded!
+[08/09/2021 00:05:17] [Info] MaxPlayer >> MaxplayerModifier 1.0.7
+[08/09/2021 00:05:17] [Info] MaxPlayer >> Made by Tortellio
+[08/09/2021 00:05:17] [Info] 
+[loading] WebsiteCommand
+[08/09/2021 00:05:17] [Info] WebsiteCommand >> WebsiteCommand has loaded!
+[08/09/2021 00:05:17] [Info] [registered] /discord (WebsiteCommand.RocketWebsiteCommand/Discord)
+[08/09/2021 00:05:17] [Info] 
+[loading] uEssentials
+[08/09/2021 00:05:17] [Info] This server will automatically save every 1800 seconds
+[08/09/2021 00:05:17] [Info] Steam servers ready!
+[08/09/2021 00:05:18] [Info] Workshop install folder: /home/steam/unturned/Servers/myserver/Workshop/Steam
+[08/09/2021 00:05:18] [Info] 11 workshop item(s) requested
+[08/09/2021 00:05:18] [Info] Submitting workshop query for 11 item(s)...
+[08/09/2021 00:05:18] [Info] Workshop query yielded 11 result(s)
+[08/09/2021 00:05:18] [Info] This server's allowed IP for Workshop downloads: 152.67.60.193
+[08/09/2021 00:05:18] [Info] 928394140 'Oldie Firearm Pack' queued for download
+[08/09/2021 00:05:18] [Info] 2306374088 'MilitaryMkll' queued for download
+[08/09/2021 00:05:18] [Info] 2528363491 'Wind Vehicles' queued for download
+[08/09/2021 00:05:18] [Info] 2435496165 'Vanilla Vehicles 2: Military Transport' queued for download
+[08/09/2021 00:05:18] [Info] 2451595662 'Vanilla Vehicles 2: Air Transport' queued for download
+[08/09/2021 00:05:18] [Info] 1979157694 'France Bundles' queued for download
+[08/09/2021 00:05:18] [Info] 2487056925 'Kuwait Assets (Always Updated)' queued for download
+[08/09/2021 00:05:18] [Info] 2175483644 'Metal Upgrades v5 Edited' queued for download
+[08/09/2021 00:05:18] [Info] 1441131424 '[METAL] Building Assets by roll4charm' queued for download
+[08/09/2021 00:05:18] [Info] 1418436222 'More Stacking Mod(Unofficial More Farming Mod Addon)' queued for download
+[08/09/2021 00:05:18] [Info] 1418436222 'More Stacking Mod(Unofficial More Farming Mod Addon)' has 1 children
+[08/09/2021 00:05:18] [Info] 	1232252658
+[08/09/2021 00:05:18] [Info] 939083944 'GoldGaming's Locker Pack' queued for download
+[08/09/2021 00:05:18] [Info] Submitting workshop query for 1 item(s)...
+[08/09/2021 00:05:18] [Info] Workshop query yielded 1 result(s)
+[08/09/2021 00:05:18] [Info] This server's allowed IP for Workshop downloads: 152.67.60.193
+[08/09/2021 00:05:18] [Info] 1232252658 'More Farming Mod' queued for download
+[08/09/2021 00:05:18] [Info] 12 workshop item(s) to download...
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 928394140
+[08/09/2021 00:05:46] [Info] Installing workshop item: 928394140
+[08/09/2021 00:05:46] [Info] Installed workshop item: 928394140
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 2306374088
+[08/09/2021 00:05:46] [Info] Installing workshop item: 2306374088
+[08/09/2021 00:05:46] [Info] Installed workshop item: 2306374088
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 2528363491
+[08/09/2021 00:05:46] [Info] Installing workshop item: 2528363491
+[08/09/2021 00:05:46] [Info] Installed workshop item: 2528363491
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 2435496165
+[08/09/2021 00:05:46] [Info] Installing workshop item: 2435496165
+[08/09/2021 00:05:46] [Info] Installed workshop item: 2435496165
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 2451595662
+[08/09/2021 00:05:46] [Info] Installing workshop item: 2451595662
+[08/09/2021 00:05:46] [Info] Installed workshop item: 2451595662
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 1979157694
+[08/09/2021 00:05:46] [Info] Installing workshop item: 1979157694
+[08/09/2021 00:05:46] [Info] Installed workshop item: 1979157694
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 2487056925
+[08/09/2021 00:05:46] [Info] Installing workshop item: 2487056925
+[08/09/2021 00:05:46] [Info] Installed workshop item: 2487056925
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 2175483644
+[08/09/2021 00:05:46] [Info] Installing workshop item: 2175483644
+[08/09/2021 00:05:46] [Info] Installed workshop item: 2175483644
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 1441131424
+[08/09/2021 00:05:46] [Info] Installing workshop item: 1441131424
+[08/09/2021 00:05:46] [Info] Installed workshop item: 1441131424
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 1418436222
+[08/09/2021 00:05:46] [Info] Installing workshop item: 1418436222
+[08/09/2021 00:05:46] [Warning] Workshop version of 'More Stacking Mod(Unofficial More Farming Mod Addon)' has not yet been updated from Unity 5.5 to 2017.4 or 2018.4.
+[08/09/2021 00:05:46] [Info] Installed workshop item: 1418436222
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 939083944
+[08/09/2021 00:05:46] [Info] Installing workshop item: 939083944
+[08/09/2021 00:05:46] [Info] Installed workshop item: 939083944
+[08/09/2021 00:05:46] [Info] Workshop item found in cache: 1232252658
+[08/09/2021 00:05:46] [Info] Installing workshop item: 1232252658
+[08/09/2021 00:05:46] [Info] Installed workshop item: 1232252658
+[08/09/2021 00:05:46] [Info] Loading level: 8%
+[08/09/2021 00:05:49] [Info] Loading level: 16%
+[08/09/2021 00:05:50] [Info] Loading level: 25%
+[08/09/2021 00:05:50] [Info] Loading level: 33%
+[08/09/2021 00:05:50] [Info] Loading level: 41%
+[08/09/2021 00:05:50] [Info] Loading level: 50%
+[08/09/2021 00:05:50] [Info] Loading level: 58%
+[08/09/2021 00:05:50] [Info] Loading level: 66%
+[08/09/2021 00:05:50] [Info] Loading level: 75%
+[08/09/2021 00:05:50] [Info] Loading level: 83%
+[08/09/2021 00:05:50] [Info] Loading level: 91%
+[08/09/2021 00:05:50] [Info] Loading level: 100%
+[08/09/2021 00:06:51] [Info] Connecting: PlayerID: 76561198942031373 Name: Eu kimetsu no teu rayba Character: Eu kimetsu no teu rayba
+[08/09/2021 00:09:18] [Info] Connecting: PlayerID: 76561198451194153 Name: Corvo Character: Corvo
+[08/09/2021 00:09:36] [Info] [World] Corvo [Corvo]: "salveee"
+[08/09/2021 00:10:14] [Info] [World] Corvo [Corvo]: "o mapa vai ser esse ou o russia+ ?"
+[08/09/2021 00:10:54] [Info] [World] Corvo [Corvo]: "/kits"
+[08/09/2021 00:14:17] [Info] [World] Corvo [Corvo]: "o loot ta quanto?"
+[08/09/2021 00:17:52] [Info] [World] Corvo [Corvo]: "/tpa"
+[08/09/2021 00:24:51] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "eae"
+[08/09/2021 00:25:23] [Info] Successfully admined Eu kimetsu no teu rayba
+[08/09/2021 00:25:29] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp Corvo"
+[08/09/2021 00:25:42] [Info] [World] Corvo [Corvo]: "salve"
+[08/09/2021 00:25:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "aslve"
+[08/09/2021 00:25:55] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou fazer os kits agora"
+[08/09/2021 00:26:01] [Info] [World] Corvo [Corvo]: "blz"
+[08/09/2021 00:26:07] [Info] [World] Corvo [Corvo]: "o loot ta quanto"
+[08/09/2021 00:26:13] [Info] [World] Corvo [Corvo]: "o spawn"
+[08/09/2021 00:26:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "nem vi"
+[08/09/2021 00:26:30] [Info] [World] Corvo [Corvo]: "dps bota um 3x ou 2x rsrs"
+[08/09/2021 00:26:34] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "mas eu coloquei modo normal"
+[08/09/2021 00:26:49] [Info] [World] Corvo [Corvo]: "é q o vanilla é meio sem graça"
+[08/09/2021 00:26:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou aumentar"
+[08/09/2021 00:26:52] [Info] [World] Corvo [Corvo]: "demora mto"
+[08/09/2021 00:26:54] [Info] [World] Corvo [Corvo]: "blz"
+[08/09/2021 00:27:01] [Info] [World] Corvo [Corvo]: "olha oq tem aqui"
+[08/09/2021 00:27:10] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkk"
+[08/09/2021 00:27:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkkkkkkkk"
+[08/09/2021 00:27:15] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "que susto"
+[08/09/2021 00:27:18] [Info] [World] Corvo [Corvo]: "kkkkkkkkkkkk"
+[08/09/2021 00:27:23] [Info] [World] Corvo [Corvo]: "ta sem gax"
+[08/09/2021 00:27:24] [Info] [World] Corvo [Corvo]: "gas"
+[08/09/2021 00:27:26] [Info] [World] Corvo [Corvo]: "gas"
+[08/09/2021 00:27:28] [Info] [World] Corvo [Corvo]: "gas"
+[08/09/2021 00:27:28] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i gas"
+[08/09/2021 00:27:33] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i gastank"
+[08/09/2021 00:27:53] [Info] Corvo [Corvo] was dissolved by a zombie!
+[08/09/2021 00:27:58] [Info] [World] Corvo [Corvo]: "pqp"
+[08/09/2021 00:28:10] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 28 2"
+[08/09/2021 00:28:11] [Info] [World] Corvo [Corvo]: "da um mapa ai to perdidao kkkkkk"
+[08/09/2021 00:28:21] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp corvo"
+[08/09/2021 00:28:27] [Info] [World] Corvo [Corvo]: "morri kkkkk"
+[08/09/2021 00:28:33] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chart corvo"
+[08/09/2021 00:28:38] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i corvo chart"
+[08/09/2021 00:28:42] [Info] [World] Corvo [Corvo]: "vlw"
+[08/09/2021 00:28:47] [Info] [World] Corvo [Corvo]: "vou voltar la"
+[08/09/2021 00:28:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "esqueci disso"
+[08/09/2021 00:29:02] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou colcoar um plugin"
+[08/09/2021 00:29:08] [Info] [World] Corvo [Corvo]: "ok"
+[08/09/2021 00:30:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "esqueci de mudar o cooldown desses avisos ;-;"
+[08/09/2021 00:30:54] [Info] [World] Corvo [Corvo]: "ss eu ia falar pra tu agorinha kkkk"
+[08/09/2021 00:31:08] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25912"
+[08/09/2021 00:31:15] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25913"
+[08/09/2021 00:31:19] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25914"
+[08/09/2021 00:31:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25915"
+[08/09/2021 00:31:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25916"
+[08/09/2021 00:31:29] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25911"
+[08/09/2021 00:32:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 334"
+[08/09/2021 00:33:21] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5019"
+[08/09/2021 00:33:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5121"
+[08/09/2021 00:33:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5121 5"
+[08/09/2021 00:33:59] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chamber"
+[08/09/2021 00:35:07] [Info] [World] Corvo [Corvo]: "taporra esse trem é mto rapido"
+[08/09/2021 00:35:17] [Info] Saving server
+[08/09/2021 00:35:21] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 116"
+[08/09/2021 00:35:24] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "sim"
+[08/09/2021 00:35:28] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ta a cada 10s"
+[08/09/2021 00:35:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "que é o padrão"
+[08/09/2021 00:35:39] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i dot"
+[08/09/2021 00:35:40] [Info] [World] Corvo [Corvo]: "nn o trem msm kkkk"
+[08/09/2021 00:35:44] [Info] [World] Corvo [Corvo]: "o trem q anda"
+[08/09/2021 00:35:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bipod"
+[08/09/2021 00:35:55] [Info] [World] Corvo [Corvo]: "no trilho"
+[08/09/2021 00:36:02] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 149"
+[08/09/2021 00:36:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chamber"
+[08/09/2021 00:36:28] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 6 8"
+[08/09/2021 00:36:45] [Info] Connecting: PlayerID: 76561198356836575 Name: TommY Character: TommY
+[08/09/2021 00:36:49] [Info] Corvo moved x:-1728.439 y:97.15662(+37.72717) z:903.246 in the last second (0.1001053)
+[08/09/2021 00:36:52] [Info] Player finished session: 76561198356836575
+[08/09/2021 00:37:08] [Info] Disconnecting: PlayerID: 76561198356836575 Name: TommY Character: TommY
+[08/09/2021 00:37:08] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i mre 8"
+[08/09/2021 00:37:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bottle 8"
+[08/09/2021 00:37:18] [Info] Connecting: PlayerID: 76561199075013617 Name: alFredo Character: qhasbdhgfv asfasd
+[08/09/2021 00:37:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i dressing 6"
+[08/09/2021 00:37:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i dressing 6"
+[08/09/2021 00:37:50] [Info] [World] qhasbdhgfv asfasd [alFredo]: "maxstells"
+[08/09/2021 00:37:59] [Info] [World] qhasbdhgfv asfasd [alFredo]: "/maxstells"
+[08/09/2021 00:38:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25254"
+[08/09/2021 00:38:03] [Info] [World] qhasbdhgfv asfasd [alFredo]: "/kit"
+[08/09/2021 00:38:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "iai guys"
+[08/09/2021 00:38:13] [Info] [World] qhasbdhgfv asfasd [alFredo]: "/kits"
+[08/09/2021 00:38:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkk"
+[08/09/2021 00:38:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "assim que eu gosto"
+[08/09/2021 00:38:22] [Info] [World] qhasbdhgfv asfasd [alFredo]: "/gun"
+[08/09/2021 00:38:27] [Info] [World] qhasbdhgfv asfasd [alFredo]: "hola??"
+[08/09/2021 00:38:28] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "mal abriu ja ta entrando gente"
+[08/09/2021 00:39:12] [Info] [World] qhasbdhgfv asfasd [alFredo]: "discord"
+[08/09/2021 00:39:17] [Info] [World] qhasbdhgfv asfasd [alFredo]: "/discord"
+[08/09/2021 00:39:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "acho que vou colocar uns ferros nos kits"
+[08/09/2021 00:40:48] [Info] [World] qhasbdhgfv asfasd [alFredo]: "kits??"
+[08/09/2021 00:41:30] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp moscow"
+[08/09/2021 00:41:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chart"
+[08/09/2021 00:41:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp oleksandr"
+[08/09/2021 00:42:12] [Info] Player finished session: 76561199075013617
+[08/09/2021 00:42:42] [Info] Disconnecting: PlayerID: 76561199075013617 Name: alFredo Character: qhasbdhgfv asfasd
+[08/09/2021 00:42:42] [Info] Connecting: PlayerID: 76561198356836575 Name: TommY Character: TommY
+[08/09/2021 00:42:51] [Info] Player finished session: 76561198356836575
+[08/09/2021 00:42:53] [Info] Disconnecting: PlayerID: 76561198356836575 Name: TommY Character: TommY
+[08/09/2021 00:42:53] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 10189"
+[08/09/2021 00:44:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/god"
+[08/09/2021 00:45:09] [Info] Eu kimetsu no teu rayba enabled Godmode
+[08/09/2021 00:45:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 17327"
+[08/09/2021 00:46:45] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ckit VipMkSpec 345600"
+[08/09/2021 00:46:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/09/2021 00:47:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/maxskills"
+[08/09/2021 00:47:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/heal"
+[08/09/2021 00:48:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25922"
+[08/09/2021 00:48:37] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 00:48:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25948"
+[08/09/2021 00:48:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25949"
+[08/09/2021 00:49:02] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25950"
+[08/09/2021 00:49:07] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25947"
+[08/09/2021 00:49:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25910"
+[08/09/2021 00:49:39] [Info] Corvo [Corvo] was blown up by a vehicle!
+[08/09/2021 00:49:45] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25914"
+[08/09/2021 00:49:49] [Info] [World] Corvo [Corvo]: "pqp"
+[08/09/2021 00:49:57] [Info] [World] Corvo [Corvo]: "já era o ac 130"
+[08/09/2021 00:50:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25906"
+[08/09/2021 00:50:07] [Info] [World] Corvo [Corvo]: "bagulho n sobe kkkk"
+[08/09/2021 00:50:21] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25938"
+[08/09/2021 00:50:30] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25946"
+[08/09/2021 00:50:41] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25902"
+[08/09/2021 00:51:01] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25926"
+[08/09/2021 00:51:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25922"
+[08/09/2021 00:52:14] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 139"
+[08/09/2021 00:52:23] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 334"
+[08/09/2021 00:52:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bala"
+[08/09/2021 00:52:56] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "que arma tu acha legal de colocar pra vip ?"
+[08/09/2021 00:53:05] [Info] [World] Corvo [Corvo]: "depende do vip"
+[08/09/2021 00:53:11] [Info] [World] Corvo [Corvo]: "tu fala o vip mais basico?"
+[08/09/2021 00:53:23] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ultimo mais forte"
+[08/09/2021 00:53:29] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "indo pro basico"
+[08/09/2021 00:54:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ja usei ekho pro mais forte"
+[08/09/2021 00:54:09] [Info] [World] Corvo [Corvo]: "o mais forte acho q daria pra colocar uma hells furry"
+[08/09/2021 00:54:50] [Info] [World] Corvo [Corvo]: "já o mais basico acho q uma zubekanov tunada e uns metais seria bom"
+[08/09/2021 00:55:06] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1377"
+[08/09/2021 00:55:40] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 123 6"
+[08/09/2021 00:55:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i cross"
+[08/09/2021 00:55:53] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i cross"
+[08/09/2021 00:55:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i cross"
+[08/09/2021 00:56:02] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i hori"
+[08/09/2021 00:56:08] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chamebr"
+[08/09/2021 00:56:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chamber"
+[08/09/2021 00:56:19] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 149"
+[08/09/2021 00:56:30] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chart"
+[08/09/2021 00:57:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5024"
+[08/09/2021 00:57:37] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5119 8"
+[08/09/2021 00:57:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i mre 8"
+[08/09/2021 00:57:55] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bottle 8"
+[08/09/2021 00:58:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i dressing 8"
+[08/09/2021 00:58:18] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 17325"
+[08/09/2021 00:58:35] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 10188 3"
+[08/09/2021 00:59:18] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ckit VipMk 172800"
+[08/09/2021 00:59:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/09/2021 00:59:46] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 00:59:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25925"
+[08/09/2021 00:59:55] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25926"
+[08/09/2021 00:59:59] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25927"
+[08/09/2021 01:00:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25924"
+[08/09/2021 01:00:07] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25923"
+[08/09/2021 01:00:26] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25922"
+[08/09/2021 01:00:30] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25914"
+[08/09/2021 01:00:41] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25903"
+[08/09/2021 01:00:45] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25907"
+[08/09/2021 01:00:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25911"
+[08/09/2021 01:00:55] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25915"
+[08/09/2021 01:00:59] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25931"
+[08/09/2021 01:01:02] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25935"
+[08/09/2021 01:01:06] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25939"
+[08/09/2021 01:01:10] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25943"
+[08/09/2021 01:01:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25947"
+[08/09/2021 01:01:46] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25256"
+[08/09/2021 01:02:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bala"
+[08/09/2021 01:02:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 334"
+[08/09/2021 01:02:14] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chart"
+[08/09/2021 01:03:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1364"
+[08/09/2021 01:03:48] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1365 8"
+[08/09/2021 01:04:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i pdw"
+[08/09/2021 01:04:11] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chamber"
+[08/09/2021 01:04:15] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i hori"
+[08/09/2021 01:04:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i dot"
+[08/09/2021 01:04:56] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1117"
+[08/09/2021 01:05:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1177"
+[08/09/2021 01:05:10] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1177 8"
+[08/09/2021 01:05:17] [Info] Saving server
+[08/09/2021 01:05:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1177 2"
+[08/09/2021 01:05:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 10189"
+[08/09/2021 01:05:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 10188 3"
+[08/09/2021 01:06:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 17326"
+[08/09/2021 01:06:06] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 17327"
+[08/09/2021 01:06:19] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i mre 8"
+[08/09/2021 01:06:24] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bottle 8"
+[08/09/2021 01:06:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i dressing 8"
+[08/09/2021 01:07:33] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ckit VipMkTc 360000"
+[08/09/2021 01:07:37] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/09/2021 01:07:51] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tpa corvo"
+[08/09/2021 01:07:57] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp corvo"
+[08/09/2021 01:07:58] [Info] Eu kimetsu no teu rayba moved x:-1424.281 y:118.6979(+41.7919) z:1505.602 in the last second (0.4922104)
+[08/09/2021 01:08:01] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tpa cancel"
+[08/09/2021 01:08:06] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "olha"
+[08/09/2021 01:08:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "esse kit"
+[08/09/2021 01:08:13] [Info] [World] Corvo [Corvo]: "eita brabo"
+[08/09/2021 01:08:23] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/09/2021 01:08:33] [Info] [World] Corvo [Corvo]: "esse é o mais top?"
+[08/09/2021 01:08:33] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit Corvo VipMkTc"
+[08/09/2021 01:08:42] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit VipMkTc Corvo"
+[08/09/2021 01:08:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ele mesmo"
+[08/09/2021 01:08:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkkk"
+[08/09/2021 01:08:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "pega ai"
+[08/09/2021 01:08:55] [Info] [World] Corvo [Corvo]: "taporra kkkkk"
+[08/09/2021 01:09:06] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tu me ajudou pacas"
+[08/09/2021 01:09:14] [Info] [World] Corvo [Corvo]: "valeu vou usar com moderaçao kjkkk"
+[08/09/2021 01:09:15] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "depois te dou outro"
+[08/09/2021 01:09:27] [Info] [World] Corvo [Corvo]: "nn só um ta bom"
+[08/09/2021 01:09:28] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp oleksandr"
+[08/09/2021 01:09:30] [Info] [World] Corvo [Corvo]: "vlw ai"
+[08/09/2021 01:09:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "só toma cuidado quando tiver player"
+[08/09/2021 01:10:04] [Info] [World] Corvo [Corvo]: "n dboa"
+[08/09/2021 01:10:06] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "nego vai crescer o olho"
+[08/09/2021 01:10:20] [Info] [World] Corvo [Corvo]: "com essa pdw aqui nem da pra morrer kkkkk"
+[08/09/2021 01:10:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "sim"
+[08/09/2021 01:10:33] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkk"
+[08/09/2021 01:10:39] [Info] [World] Corvo [Corvo]: "ai eu morro pro 1 q aparecer fica veno kkkkkk"
+[08/09/2021 01:10:39] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "mas coloquei 100hrs de cooldown"
+[08/09/2021 01:10:55] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ja vai construir uma goma po"
+[08/09/2021 01:10:56] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkk"
+[08/09/2021 01:11:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "nao vou dar wipe"
+[08/09/2021 01:11:05] [Info] [World] Corvo [Corvo]: "to sem machado kkkkkk"
+[08/09/2021 01:11:11] [Info] [World] Corvo [Corvo]: "vou ter q derrubar no tiro"
+[08/09/2021 01:11:17] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "faz de ferro"
+[08/09/2021 01:11:20] [Info] [World] Corvo [Corvo]: "eu pego um aqui perto"
+[08/09/2021 01:11:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tem um monte ai nesse kit"
+[08/09/2021 01:11:30] [Info] [World] Corvo [Corvo]: "fazer piso de ferro é memes"
+[08/09/2021 01:11:46] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkkkk"
+[08/09/2021 01:11:53] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "plvr"
+[08/09/2021 01:12:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "nunca pensei nisso"
+[08/09/2021 01:12:15] [Info] [World] Corvo [Corvo]: "pillar tbm só fasso de madeira"
+[08/09/2021 01:12:24] [Info] [World] Corvo [Corvo]: "acho mo desperdicio de metal"
+[08/09/2021 01:13:00] [Info] [World] Corvo [Corvo]: "/home"
+[08/09/2021 01:14:12] [Info] [World] Corvo [Corvo]: "dps só arruma o loot pq a bm n dropou nada foi trite kkkkk"
+[08/09/2021 01:14:25] [Info] [World] Corvo [Corvo]: "triste*"
+[08/09/2021 01:14:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "sim"
+[08/09/2021 01:14:46] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou terminar os kits e quando monstar as permissoes eu arrumo"
+[08/09/2021 01:14:56] [Info] [World] Corvo [Corvo]: "ok"
+[08/09/2021 01:14:58] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "aproveito rpa rrunmar essa merda de span de aviso"
+[08/09/2021 01:14:59] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkk"
+[08/09/2021 01:15:04] [Info] [World] Corvo [Corvo]: "kkk"
+[08/09/2021 01:15:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 01:15:59] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5743"
+[08/09/2021 01:16:06] [Info] [World] Corvo [Corvo]: "eita"
+[08/09/2021 01:16:10] [Info] [World] Corvo [Corvo]: "achei um bug"
+[08/09/2021 01:16:14] [Info] [World] Corvo [Corvo]: "a mochila ta bugada"
+[08/09/2021 01:16:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5652"
+[08/09/2021 01:16:24] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "como ?"
+[08/09/2021 01:16:35] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bala"
+[08/09/2021 01:16:39] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 334"
+[08/09/2021 01:16:43] [Info] [World] Corvo [Corvo]: "eu tenho um espaço branco como se fosse uma calça"
+[08/09/2021 01:16:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chart"
+[08/09/2021 01:16:46] [Info] [World] Corvo [Corvo]: "ai eu dropei ela"
+[08/09/2021 01:16:49] [Info] [World] Corvo [Corvo]: "e n veio a calça"
+[08/09/2021 01:16:52] [Info] [World] Corvo [Corvo]: "ai caiu no chao"
+[08/09/2021 01:16:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "oxi"
+[08/09/2021 01:16:57] [Info] [World] Corvo [Corvo]: "da tp"
+[08/09/2021 01:16:58] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "nao é o locker nao ?"
+[08/09/2021 01:17:01] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp corvo"
+[08/09/2021 01:17:01] [Info] Eu kimetsu no teu rayba moved x:-1673.844 y:101.7136(+19.10467) z:936.6875 in the last second (0.1487885)
+[08/09/2021 01:17:06] [Info] [World] Corvo [Corvo]: "vou tirar a mochila"
+[08/09/2021 01:17:08] [Info] [World] Corvo [Corvo]: "olha"
+[08/09/2021 01:17:17] [Info] [World] Corvo [Corvo]: "ela sumiu"
+[08/09/2021 01:17:31] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ue"
+[08/09/2021 01:17:34] [Info] [World] Corvo [Corvo]: "olha o seu"
+[08/09/2021 01:17:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ta faltando um locker"
+[08/09/2021 01:17:37] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkkk"
+[08/09/2021 01:17:38] [Info] [World] Corvo [Corvo]: "acho q tbm ta asssim"
+[08/09/2021 01:17:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 01:17:53] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/09/2021 01:18:01] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipMkTc"
+[08/09/2021 01:18:09] [Info] [World] Corvo [Corvo]: "ta bugado"
+[08/09/2021 01:18:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ue"
+[08/09/2021 01:18:20] [Info] [World] Corvo [Corvo]: "aperta tab vai nas suas roupas"
+[08/09/2021 01:18:24] [Info] [World] Corvo [Corvo]: "ta branco n ta?"
+[08/09/2021 01:18:24] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tem nada"
+[08/09/2021 01:18:41] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "nao"
+[08/09/2021 01:18:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkk"
+[08/09/2021 01:18:45] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "pega ai"
+[08/09/2021 01:18:46] [Info] [World] Corvo [Corvo]: "tu consegue dropar a mochila?"
+[08/09/2021 01:18:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ou ta te bugando ?"
+[08/09/2021 01:18:53] [Info] [World] Corvo [Corvo]: "eu n consigo ver a mochila"
+[08/09/2021 01:19:13] [Info] [World] Corvo [Corvo]: "é so eu?"
+[08/09/2021 01:19:30] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ela aqui o"
+[08/09/2021 01:19:35] [Info] [World] Corvo [Corvo]: "n tem nada"
+[08/09/2021 01:19:38] [Info] [World] Corvo [Corvo]: "calma vou relogar"
+[08/09/2021 01:19:40] [Info] [World] Corvo [Corvo]: "to bugado"
+[08/09/2021 01:19:53] [Info] Player finished session: 76561198451194153
+[08/09/2021 01:20:52] [Info] Disconnecting: PlayerID: 76561198451194153 Name: Corvo Character: Corvo
+[08/09/2021 01:20:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 01:21:01] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5652"
+[08/09/2021 01:21:03] [Info] Connecting: PlayerID: 76561198451194153 Name: Corvo Character: Corvo
+[08/09/2021 01:21:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5651"
+[08/09/2021 01:21:23] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "aqui o"
+[08/09/2021 01:21:35] [Info] [World] Corvo [Corvo]: "ta invisivel"
+[08/09/2021 01:21:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "nao da pra pegar com o tab ?"
+[08/09/2021 01:21:55] [Info] [World] Corvo [Corvo]: "ela n aparce"
+[08/09/2021 01:21:57] [Info] [World] Corvo [Corvo]: "aparece"
+[08/09/2021 01:22:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vishi"
+[08/09/2021 01:22:06] [Info] [World] Corvo [Corvo]: "nem no tab"
+[08/09/2021 01:22:21] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25254"
+[08/09/2021 01:22:28] [Info] [World] Corvo [Corvo]: "calma vou dropar tudo ai vc me da dnv"
+[08/09/2021 01:22:33] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "essa aparece ?"
+[08/09/2021 01:22:34] [Info] [World] Corvo [Corvo]: "ai eu n tiro ela"
+[08/09/2021 01:22:38] [Info] [World] Corvo [Corvo]: "tbm n"
+[08/09/2021 01:22:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "wtf"
+[08/09/2021 01:22:44] [Info] [World] Corvo [Corvo]: "mas acho q é so eu"
+[08/09/2021 01:23:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25256 corvo"
+[08/09/2021 01:23:09] [Info] [World] Corvo [Corvo]: "aqui vou dropar tudo ai vc da dnv"
+[08/09/2021 01:23:12] [Info] [World] Corvo [Corvo]: "ai eu n tiro ela"
+[08/09/2021 01:23:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i corvo 25256"
+[08/09/2021 01:23:16] [Info] [World] Corvo [Corvo]: "ai eu n tiro ela"
+[08/09/2021 01:23:26] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25256 corvo"
+[08/09/2021 01:23:31] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i"
+[08/09/2021 01:23:57] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i corvo 1 25256"
+[08/09/2021 01:24:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i corvo 25256"
+[08/09/2021 01:24:05] [Info] [World] Corvo [Corvo]: "pronto tava so pegando oq era meu"
+[08/09/2021 01:24:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i  25256"
+[08/09/2021 01:24:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/give"
+[08/09/2021 01:24:20] [Error] Failed to give item with cheats disabled.
+[08/09/2021 01:24:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "@give"
+[08/09/2021 01:24:38] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i Corvo 25254"
+[08/09/2021 01:24:45] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i Corvo 1 25254"
+[08/09/2021 01:24:49] [Info] [World] Corvo [Corvo]: "me da outro kit desse ai eu n tiro a mochila"
+[08/09/2021 01:24:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i player corvo  25254"
+[08/09/2021 01:25:01] [Info] [World] Corvo [Corvo]: "ai vc apaga oq n é meu ai no chao"
+[08/09/2021 01:25:06] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmktc corvo"
+[08/09/2021 01:25:14] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/clearitem"
+[08/09/2021 01:25:15] [Info] [World] Corvo [Corvo]: "kkkkk pra mim eu to pelado"
+[08/09/2021 01:25:17] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/clear item"
+[08/09/2021 01:25:25] [Info] [World] Corvo [Corvo]: "mas o espaço ta funcionando"
+[08/09/2021 01:25:26] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "oxi"
+[08/09/2021 01:25:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "eu também nao consigo dar os itens direto"
+[08/09/2021 01:26:08] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "nao ta dando nada na log"
+[08/09/2021 01:26:19] [Info] [World] Corvo [Corvo]: "vou te mandar uma print"
+[08/09/2021 01:27:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/clear"
+[08/09/2021 01:27:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/clear i"
+[08/09/2021 01:27:16] [Info] [World] Corvo [Corvo]: "mandei"
+[08/09/2021 01:27:19] [Info] [World] Corvo [Corvo]: "olha discord"
+[08/09/2021 01:27:23] [Info] [World] Corvo [Corvo]: "olha discord"
+[08/09/2021 01:27:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "carai"
+[08/09/2021 01:27:55] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "que locura"
+[08/09/2021 01:28:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "sera que eu reinicio ?"
+[08/09/2021 01:28:07] [Info] Connecting: PlayerID: 76561198193431903 Name: Slob Character: On1PoundAmonth
+[08/09/2021 01:28:13] [Info] [World] Corvo [Corvo]: "n sei se vc quiser"
+[08/09/2021 01:28:18] [Info] [World] Corvo [Corvo]: "mas talvez seja eu"
+[08/09/2021 01:28:19] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 25254"
+[08/09/2021 01:28:21] [Info] [World] Corvo [Corvo]: "n tenho certeza"
+[08/09/2021 01:28:28] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "olha ai"
+[08/09/2021 01:28:28] [Info] [World] On1PoundAmonth [Slob]: "/kit"
+[08/09/2021 01:28:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tu ve essa mochila ?"
+[08/09/2021 01:28:32] [Info] [World] Corvo [Corvo]: "nada"
+[08/09/2021 01:28:37] [Info] [World] Corvo [Corvo]: "nope"
+[08/09/2021 01:28:40] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "oush"
+[08/09/2021 01:28:48] [Info] [World] Corvo [Corvo]: "entrou um cara quer testar com ele?"
+[08/09/2021 01:28:48] [Info] Successfully admined Corvo
+[08/09/2021 01:28:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "a vendo agora?"
+[08/09/2021 01:29:01] [Info] [World] Corvo [Corvo]: "n ta invisivel"
+[08/09/2021 01:29:10] [Info] Successfully unadmined Corvo
+[08/09/2021 01:29:15] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "que locura"
+[08/09/2021 01:29:21] [Info] [World] Corvo [Corvo]: "puxa o cara e vê se ele consegue enxergar"
+[08/09/2021 01:29:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp on1 kime"
+[08/09/2021 01:29:33] [Info] On1PoundAmonth moved x:-1674.555 y:97.83765(+28.63657) z:920.2109 in the last second (0.1018066)
+[08/09/2021 01:29:37] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ae"
+[08/09/2021 01:29:45] [Info] On1PoundAmonth [Slob] killed themself.
+[08/09/2021 01:29:48] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "a vendo a mochila ?"
+[08/09/2021 01:29:49] [Info] [World] Corvo [Corvo]: "consegue ver a mochila?"
+[08/09/2021 01:29:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "???????"
+[08/09/2021 01:29:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "que loco"
+[08/09/2021 01:29:57] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp on1 kime"
+[08/09/2021 01:29:58] [Info] On1PoundAmonth moved x:-1676.598 y:98.14758(+60.42965) z:921.1304 in the last second (0.3574219)
+[08/09/2021 01:30:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ta vendo a mochila ?"
+[08/09/2021 01:30:10] [Info] Player finished session: 76561198193431903
+[08/09/2021 01:30:13] [Info] Disconnecting: PlayerID: 76561198193431903 Name: Slob Character: On1PoundAmonth
+[08/09/2021 01:30:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: ";-;"
+[08/09/2021 01:30:14] [Info] [World] Corvo [Corvo]: "porra kkk"
+[08/09/2021 01:30:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "baixou os mods ai no teu unturned ?"
+[08/09/2021 01:30:47] [Info] [World] Corvo [Corvo]: "ss"
+[08/09/2021 01:30:53] [Info] [World] Corvo [Corvo]: "quando eu entrei baixou tudo"
+[08/09/2021 01:30:58] [Info] [World] Corvo [Corvo]: "n sei se deu algum erro"
+[08/09/2021 01:31:17] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i"
+[08/09/2021 01:31:34] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i corvo 334"
+[08/09/2021 01:31:40] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i  334 corvo"
+[08/09/2021 01:31:51] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i player corvo"
+[08/09/2021 01:31:55] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i player corvo 139"
+[08/09/2021 01:32:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i  corvo 139"
+[08/09/2021 01:32:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i  corvo 1 139"
+[08/09/2021 01:32:08] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i  corvo 2 139"
+[08/09/2021 01:32:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/oxi"
+[08/09/2021 01:32:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "oxi"
+[08/09/2021 01:32:21] [Info] [World] Corvo [Corvo]: "eita porra"
+[08/09/2021 01:32:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkkk"
+[08/09/2021 01:32:24] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "mb"
+[08/09/2021 01:32:26] [Info] [World] Corvo [Corvo]: "300 calça kkkkkkkkk"
+[08/09/2021 01:32:37] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "era pra ser 1 item do id 139"
+[08/09/2021 01:32:48] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "e foi 139 itens do id 1"
+[08/09/2021 01:33:00] [Info] [World] Corvo [Corvo]: "kkkkkkkkk"
+[08/09/2021 01:33:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i  corvo 25256 1"
+[08/09/2021 01:33:29] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "chegou ai ?"
+[08/09/2021 01:33:53] [Info] [World] Corvo [Corvo]: "apareceu o nome mas ela n ta no meu inv"
+[08/09/2021 01:34:04] [Info] [World] Corvo [Corvo]: "na vdd de ve tar"
+[08/09/2021 01:34:09] [Info] [World] Corvo [Corvo]: "mas n to vendo"
+[08/09/2021 01:34:59] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "calmae ja volto"
+[08/09/2021 01:35:04] [Info] [World] Corvo [Corvo]: "blz"
+[08/09/2021 01:35:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ta preuga é mega ?"
+[08/09/2021 01:35:07] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkkk"
+[08/09/2021 01:35:17] [Info] Saving server
+[08/09/2021 01:35:18] [Info] [World] Corvo [Corvo]: "matei kkkk"
+[08/09/2021 01:35:29] [Info] [World] Corvo [Corvo]: "deu nada"
+[08/09/2021 01:37:00] [Info] [World] Corvo [Corvo]: "vou reiniciar o unturned pra ver se arruma"
+[08/09/2021 01:37:12] [Info] Player finished session: 76561198451194153
+[08/09/2021 01:45:12] [Info] Disconnecting: PlayerID: 76561198451194153 Name: Corvo Character: Corvo
+[08/09/2021 01:45:12] [Info] Connecting: PlayerID: 76561198244365552 Name: r1pp Character: LUCKY
+[08/09/2021 01:45:19] [Info] [World] LUCKY [r1pp]: "salve"
+[08/09/2021 01:47:30] [Info] [World] LUCKY [r1pp]: "/kits"
+[08/09/2021 01:47:37] [Info] [World] LUCKY [r1pp]: "/kit inicial"
+[08/09/2021 01:48:41] [Info] Connecting: PlayerID: 76561198451194153 Name: Corvo Character: Corvo
+[08/09/2021 01:49:41] [Info] [World] Corvo [Corvo]: "alo voltei"
+[08/09/2021 01:50:02] [Info] [World] Corvo [Corvo]: "a mochila n arrumou"
+[08/09/2021 01:50:14] [Info] [World] Corvo [Corvo]: "re abri o game e n foi"
+[08/09/2021 01:54:30] [Info] [World] LUCKY [r1pp]: "/tpa corvo"
+[08/09/2021 01:58:35] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "boa rapaziada"
+[08/09/2021 01:58:39] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vortei"
+[08/09/2021 01:58:44] [Info] [World] LUCKY [r1pp]: "blz"
+[08/09/2021 01:58:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5652"
+[08/09/2021 01:58:51] [Info] [World] LUCKY [r1pp]: "consegue me arrumar um kit medico rs"
+[08/09/2021 01:59:01] [Info] [World] Corvo [Corvo]: "opa testa aqui com o luck pra ver se é so eu q to bugado"
+[08/09/2021 01:59:06] [Info] [World] LUCKY [r1pp]: "to testando os graficos"
+[08/09/2021 01:59:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5618"
+[08/09/2021 01:59:34] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp luc"
+[08/09/2021 01:59:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmktc luc"
+[08/09/2021 01:59:56] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ta aparecendo ai ?"
+[08/09/2021 02:00:08] [Info] [World] LUCKY [r1pp]: "mochila ta de boa"
+[08/09/2021 02:00:14] [Info] [World] Corvo [Corvo]: "eita ent é so eu"
+[08/09/2021 02:00:17] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "e a roupa ?"
+[08/09/2021 02:00:34] [Info] [World] LUCKY [r1pp]: "sim"
+[08/09/2021 02:00:37] [Info] [World] LUCKY [r1pp]: "pra mim ta de boa"
+[08/09/2021 02:00:40] [Info] [World] LUCKY [r1pp]: "pra mim ta de boa"
+[08/09/2021 02:00:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5743"
+[08/09/2021 02:00:45] [Info] [World] Corvo [Corvo]: "o problema é eu ent"
+[08/09/2021 02:00:47] [Info] [World] LUCKY [r1pp]: "vou mandar print"
+[08/09/2021 02:01:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5742"
+[08/09/2021 02:01:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5744"
+[08/09/2021 02:01:44] [Info] [World] LUCKY [r1pp]: "deixa eu ver esse locker aq"
+[08/09/2021 02:01:58] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ta njormal"
+[08/09/2021 02:02:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkkk"
+[08/09/2021 02:02:02] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "é tu corvo"
+[08/09/2021 02:02:03] [Info] [World] LUCKY [r1pp]: "sim kkkk"
+[08/09/2021 02:02:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ta bugado ai"
+[08/09/2021 02:02:06] [Info] [World] LUCKY [r1pp]: "ele e bonito"
+[08/09/2021 02:02:10] [Info] [World] Corvo [Corvo]: "puts vei kkkk"
+[08/09/2021 02:02:13] [Info] [World] LUCKY [r1pp]: "ele e bonito e n e tao op"
+[08/09/2021 02:02:26] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1171"
+[08/09/2021 02:02:29] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1172"
+[08/09/2021 02:02:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1173"
+[08/09/2021 02:02:39] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bala"
+[08/09/2021 02:02:47] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "pode ficar com o kit ai"
+[08/09/2021 02:02:53] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 334"
+[08/09/2021 02:03:06] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chart"
+[08/09/2021 02:03:21] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "que arma vocs acham maneiro colcoar pro specops ?"
+[08/09/2021 02:03:39] [Info] [World] LUCKY [r1pp]: "uma arma q tenha silenciador"
+[08/09/2021 02:03:48] [Info] [World] Corvo [Corvo]: "uma maple silenciada"
+[08/09/2021 02:04:08] [Info] [World] LUCKY [r1pp]: "uma pdw tbm"
+[08/09/2021 02:04:21] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 3041"
+[08/09/2021 02:04:26] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i suprre"
+[08/09/2021 02:04:27] [Info] Player finished session: 76561198244365552
+[08/09/2021 02:04:30] [Info] Disconnecting: PlayerID: 76561198244365552 Name: r1pp Character: LUCKY
+[08/09/2021 02:04:30] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i supre"
+[08/09/2021 02:04:41] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i cross"
+[08/09/2021 02:04:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i sile"
+[08/09/2021 02:04:59] [Info] Connecting: PlayerID: 76561198244365552 Name: r1pp Character: LUCKY
+[08/09/2021 02:05:17] [Info] Saving server
+[08/09/2021 02:05:17] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 7"
+[08/09/2021 02:05:25] [Info] [World] LUCKY [r1pp]: "essa e maneira"
+[08/09/2021 02:05:29] [Info] [World] LUCKY [r1pp]: "colocar no kit"
+[08/09/2021 02:05:29] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 6 8"
+[08/09/2021 02:05:40] [Info] [World] Corvo [Corvo]: "uma aug"
+[08/09/2021 02:05:41] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "sim"
+[08/09/2021 02:05:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tinha esquecido dela"
+[08/09/2021 02:05:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i mre 8"
+[08/09/2021 02:06:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i dressing 8"
+[08/09/2021 02:06:07] [Info] [World] Corvo [Corvo]: "ta vou quitar aqui vo tentar arrumar a workshop"
+[08/09/2021 02:06:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bottle 8"
+[08/09/2021 02:06:15] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tranquilo"
+[08/09/2021 02:06:19] [Info] [World] LUCKY [r1pp]: "esse aq e o vip+++?"
+[08/09/2021 02:06:28] [Info] Player finished session: 76561198451194153
+[08/09/2021 02:06:31] [Info] Disconnecting: PlayerID: 76561198451194153 Name: Corvo Character: Corvo
+[08/09/2021 02:06:31] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "sim"
+[08/09/2021 02:06:35] [Info] [World] LUCKY [r1pp]: "tendi"
+[08/09/2021 02:06:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tem o vipmkspec, vipmktm, vipmk e vipspec"
+[08/09/2021 02:07:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "o tm é o mais forte"
+[08/09/2021 02:07:32] [Info] [World] LUCKY [r1pp]: "o que e mk"
+[08/09/2021 02:07:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "é o mais fraco dos mk 2"
+[08/09/2021 02:07:48] [Info] [World] LUCKY [r1pp]: "tendi"
+[08/09/2021 02:07:48] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ja mostro pra ti"
+[08/09/2021 02:08:19] [Info] [World] LUCKY [r1pp]: "coloco mod de veiculo?"
+[08/09/2021 02:08:35] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51158"
+[08/09/2021 02:08:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51910"
+[08/09/2021 02:09:47] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51117"
+[08/09/2021 02:10:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51137"
+[08/09/2021 02:10:25] [Info] [World] LUCKY [r1pp]: "vai aumen tar a porcentagem dos loot?"
+[08/09/2021 02:10:34] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "sim"
+[08/09/2021 02:10:38] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "so to terminando os kits"
+[08/09/2021 02:10:48] [Info] [World] LUCKY [r1pp]: "vc consegue me dar um machado?"
+[08/09/2021 02:10:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51102"
+[08/09/2021 02:11:01] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "como escreve machado mesmo"
+[08/09/2021 02:11:05] [Info] [World] LUCKY [r1pp]: "axe"
+[08/09/2021 02:11:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "em ingles"
+[08/09/2021 02:11:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i axe"
+[08/09/2021 02:11:25] [Info] [World] LUCKY [r1pp]: "as armas e bem bonitas"
+[08/09/2021 02:11:41] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "sim"
+[08/09/2021 02:11:48] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "o mahalia que achou esse mod"
+[08/09/2021 02:11:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "curti pra caramba tambem"
+[08/09/2021 02:12:05] [Info] [World] LUCKY [r1pp]: "vai colocar mais armas eu so essas aq"
+[08/09/2021 02:12:07] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51103 6"
+[08/09/2021 02:12:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "nao sei"
+[08/09/2021 02:12:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tem as do kuwait e franca também"
+[08/09/2021 02:12:35] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "mas nao sei se dropa"
+[08/09/2021 02:12:44] [Info] [World] LUCKY [r1pp]: "eu acho q mais um so seria legal mais do q isso ficaria op"
+[08/09/2021 02:13:27] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tem que achar uns bons e que nao de conflito"
+[08/09/2021 02:13:34] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "eu tinha colocado um de carros miltiares"
+[08/09/2021 02:13:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "muito zika"
+[08/09/2021 02:13:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "mas deu conflito de id repetida"
+[08/09/2021 02:13:44] [Info] [World] LUCKY [r1pp]: "tendi"
+[08/09/2021 02:13:44] [Info] Connecting: PlayerID: 76561198451194153 Name: Corvo Character: Corvo
+[08/09/2021 02:13:56] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51148"
+[08/09/2021 02:14:09] [Info] Connecting: PlayerID: 76561199177330048 Name: mauromarciano2900 Character: mauromarciano2900
+[08/09/2021 02:14:23] [Info] Player finished session: 76561198451194153
+[08/09/2021 02:14:23] [Info] Disconnecting: PlayerID: 76561198451194153 Name: Corvo Character: Corvo
+[08/09/2021 02:14:23] [Info] [World] LUCKY [r1pp]: "q daora"
+[08/09/2021 02:14:36] [Info] [World] mauromarciano2900 [mauromarciano2900]: "/kits"
+[08/09/2021 02:14:40] [Info] [World] mauromarciano2900 [mauromarciano2900]: "/kits"
+[08/09/2021 02:14:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/o 51124"
+[08/09/2021 02:14:51] [Info] Player finished session: 76561199177330048
+[08/09/2021 02:14:52] [Info] Disconnecting: PlayerID: 76561199177330048 Name: mauromarciano2900 Character: mauromarciano2900
+[08/09/2021 02:14:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51124"
+[08/09/2021 02:15:55] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 10188 3"
+[08/09/2021 02:16:07] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/09/2021 02:16:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ckit vipspec"
+[08/09/2021 02:16:24] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/dkit vipspec"
+[08/09/2021 02:16:38] [Info] [World] LUCKY [r1pp]: "os kits basicos vao ser com as msms armas?"
+[08/09/2021 02:16:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/dkit vipspec 86400"
+[08/09/2021 02:17:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ckit VipSpec 86400"
+[08/09/2021 02:17:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "o inicial vai ser igual o do porrada"
+[08/09/2021 02:17:22] [Info] [World] LUCKY [r1pp]: "tendi"
+[08/09/2021 02:17:23] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "e o discord também"
+[08/09/2021 02:17:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/09/2021 02:17:36] [Info] [World] LUCKY [r1pp]: "aquelas snipers sao mt boas"
+[08/09/2021 02:17:40] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 02:17:47] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipspec"
+[08/09/2021 02:17:53] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "demais"
+[08/09/2021 02:18:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ainda tem outra também"
+[08/09/2021 02:18:10] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kar 98"
+[08/09/2021 02:18:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "winchester"
+[08/09/2021 02:18:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 02:18:28] [Info] [World] LUCKY [r1pp]: "tem a propria kar agr??"
+[08/09/2021 02:18:33] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmk"
+[08/09/2021 02:18:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "sim"
+[08/09/2021 02:18:45] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "esse é o vip mk"
+[08/09/2021 02:18:59] [Info] [World] LUCKY [r1pp]: "tendi"
+[08/09/2021 02:19:04] [Info] [World] LUCKY [r1pp]: "e bom"
+[08/09/2021 02:19:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ta sem mochila kkkk"
+[08/09/2021 02:19:28] [Info] [World] LUCKY [r1pp]: "essa calça acho q n conbino mt"
+[08/09/2021 02:19:32] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ekit vipmk additem normal 25253"
+[08/09/2021 02:19:35] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 02:19:37] [Info] [World] LUCKY [r1pp]: "a n e camisa"
+[08/09/2021 02:19:39] [Info] [World] LUCKY [r1pp]: "e igual"
+[08/09/2021 02:19:40] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmk"
+[08/09/2021 02:19:49] [Info] [World] LUCKY [r1pp]: "a camisa e igual a calça"
+[08/09/2021 02:19:59] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "sim"
+[08/09/2021 02:20:08] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "é esse colete que eu coloquei"
+[08/09/2021 02:20:10] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "muito grande"
+[08/09/2021 02:20:30] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 02:20:38] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipmkspec"
+[08/09/2021 02:20:46] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "esse é gostosin"
+[08/09/2021 02:20:47] [Info] [World] LUCKY [r1pp]: "esse dai e mt foda"
+[08/09/2021 02:20:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "conjunto completo"
+[08/09/2021 02:20:54] [Info] [World] LUCKY [r1pp]: "esse dai e o melhot"
+[08/09/2021 02:21:02] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "esse que voce ta nao tem capa"
+[08/09/2021 02:21:21] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "e nao ia ser um dos melhores também"
+[08/09/2021 02:21:41] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ficou chave a print"
+[08/09/2021 02:21:41] [Info] [World] LUCKY [r1pp]: "pra mim esse dai e mt bom"
+[08/09/2021 02:21:45] [Info] [World] LUCKY [r1pp]: "sim"
+[08/09/2021 02:21:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 02:21:58] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i colo"
+[08/09/2021 02:22:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i coloni"
+[08/09/2021 02:22:18] [Info] [World] LUCKY [r1pp]: "esse dai é...?"
+[08/09/2021 02:22:27] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou criar agora"
+[08/09/2021 02:22:30] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kit ninical"
+[08/09/2021 02:22:34] [Info] [World] LUCKY [r1pp]: "ata kk"
+[08/09/2021 02:22:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 5033 6"
+[08/09/2021 02:23:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "esse ai ficou muito estranho cmo esse capa kkkk"
+[08/09/2021 02:23:21] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "mas ta bem forte"
+[08/09/2021 02:23:34] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i duffle"
+[08/09/2021 02:23:34] [Info] [World] LUCKY [r1pp]: "e kkkkk se fosse verde combinaria mais"
+[08/09/2021 02:23:56] [Info] Connecting: PlayerID: 76561199159539635 Name: joaogabivp1988 Character: yAcE
+[08/09/2021 02:24:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "os verdes sao mais fracos"
+[08/09/2021 02:24:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1386"
+[08/09/2021 02:24:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1385"
+[08/09/2021 02:24:30] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1386"
+[08/09/2021 02:24:33] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1387"
+[08/09/2021 02:24:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1389"
+[08/09/2021 02:24:40] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1384"
+[08/09/2021 02:24:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1385"
+[08/09/2021 02:24:50] [Info] [World] LUCKY [r1pp]: "kkkkkk essa roupa ficou legal"
+[08/09/2021 02:24:58] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bandana"
+[08/09/2021 02:25:03] [Info] [World] yAcE [joaogabivp1988]: "/kit 1"
+[08/09/2021 02:25:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "sim"
+[08/09/2021 02:25:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkk"
+[08/09/2021 02:25:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "eu tinha feito no primeiro"
+[08/09/2021 02:25:25] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "mas tive que refazer o server porque eu fiz merda no firewall"
+[08/09/2021 02:25:42] [Info] [World] LUCKY [r1pp]: "tendi kkkk"
+[08/09/2021 02:25:45] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 185"
+[08/09/2021 02:25:58] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i make"
+[08/09/2021 02:26:14] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 477"
+[08/09/2021 02:26:33] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i kni"
+[08/09/2021 02:26:38] [Info] [World] LUCKY [r1pp]: "/kits"
+[08/09/2021 02:26:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bandage 9"
+[08/09/2021 02:26:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i baguette"
+[08/09/2021 02:26:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i baguette 3"
+[08/09/2021 02:27:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bottle 4"
+[08/09/2021 02:27:08] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chart"
+[08/09/2021 02:27:28] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i police"
+[08/09/2021 02:27:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 1168"
+[08/09/2021 02:28:06] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/clear item"
+[08/09/2021 02:28:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/clear i"
+[08/09/2021 02:28:39] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ckit Inicial 300"
+[08/09/2021 02:28:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 02:28:57] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i ghil"
+[08/09/2021 02:29:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 236"
+[08/09/2021 02:29:06] [Info] [World] LUCKY [r1pp]: "esse e o discord ne"
+[08/09/2021 02:29:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 237"
+[08/09/2021 02:29:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 238"
+[08/09/2021 02:29:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 239"
+[08/09/2021 02:29:19] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "qual ?"
+[08/09/2021 02:29:24] [Info] [World] LUCKY [r1pp]: "o q vc ta fazendo agr"
+[08/09/2021 02:29:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 436"
+[08/09/2021 02:29:44] [Info] yAcE [joaogabivp1988] was mauled by a zombie!
+[08/09/2021 02:29:45] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kits"
+[08/09/2021 02:29:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "só falta esse"
+[08/09/2021 02:29:53] [Info] [World] LUCKY [r1pp]: "/kits"
+[08/09/2021 02:30:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i civi"
+[08/09/2021 02:30:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i dressing 6"
+[08/09/2021 02:30:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i mre 4"
+[08/09/2021 02:30:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i bottle 6"
+[08/09/2021 02:30:46] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51124"
+[08/09/2021 02:31:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51123 5"
+[08/09/2021 02:31:15] [Info] yAcE [joaogabivp1988] was mauled by a zombie!
+[08/09/2021 02:31:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i mosin"
+[08/09/2021 02:31:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 7x"
+[08/09/2021 02:31:24] [Info] Connecting: PlayerID: 76561198451194153 Name: Corvo Character: Corvo
+[08/09/2021 02:31:31] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51902"
+[08/09/2021 02:31:44] [Info] [World] Corvo [Corvo]: "aeeeeeeeeeeeeeee"
+[08/09/2021 02:31:46] [Info] [World] Corvo [Corvo]: "arrumei"
+[08/09/2021 02:31:48] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51523 6"
+[08/09/2021 02:31:50] [Info] [World] Corvo [Corvo]: "arrumei"
+[08/09/2021 02:31:51] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "boa"
+[08/09/2021 02:31:53] [Info] [World] yAcE [joaogabivp1988]: "como eu entro no discord"
+[08/09/2021 02:31:54] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "era o que ?"
+[08/09/2021 02:32:02] [Info] [World] LUCKY [r1pp]: "/discord"
+[08/09/2021 02:32:02] [Info] [World] Corvo [Corvo]: "eu só resetei a minha workshop"
+[08/09/2021 02:32:04] [Info] [World] yAcE [joaogabivp1988]: "eu uso discod pelo cll"
+[08/09/2021 02:32:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "usa /discord"
+[08/09/2021 02:32:08] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/discord"
+[08/09/2021 02:32:09] [Info] [World] Corvo [Corvo]: "tinha uns 300 modskkkkkkkkkk"
+[08/09/2021 02:32:21] [Info] [World] yAcE [joaogabivp1988]: "/discord"
+[08/09/2021 02:32:22] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkkkk"
+[08/09/2021 02:32:27] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "no cache ?"
+[08/09/2021 02:32:33] [Info] [World] Corvo [Corvo]: "o loading foi até mais rapido ta loco"
+[08/09/2021 02:32:42] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i chart"
+[08/09/2021 02:32:51] [Info] [World] Corvo [Corvo]: "eu fui na oficina e em minhas inscriçoes e cancelar todas"
+[08/09/2021 02:33:07] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 3118"
+[08/09/2021 02:33:09] [Info] [World] Corvo [Corvo]: "/tpa"
+[08/09/2021 02:33:10] [Info] Connecting: PlayerID: 76561199095881668 Name: Chitero KEYDROP Character: Jhonny Duermo
+[08/09/2021 02:33:18] [Info] [World] LUCKY [r1pp]: "calmo vou ver se deu certo"
+[08/09/2021 02:33:31] [Info] Player finished session: 76561198244365552
+[08/09/2021 02:33:49] [Info] Disconnecting: PlayerID: 76561198244365552 Name: r1pp Character: LUCKY
+[08/09/2021 02:33:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ckit Discord 14400"
+[08/09/2021 02:34:09] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ci"
+[08/09/2021 02:34:14] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kit vipspec"
+[08/09/2021 02:34:43] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51124 8"
+[08/09/2021 02:34:55] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/i 51123 8"
+[08/09/2021 02:35:07] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "nao joga nada no chao agora em"
+[08/09/2021 02:35:17] [Info] Saving server
+[08/09/2021 02:35:18] [Info] Connecting: PlayerID: 76561199187791115 Name: franco2012101 Character: franco2012101
+[08/09/2021 02:35:19] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/clear i"
+[08/09/2021 02:35:39] [Info] Connecting: PlayerID: 76561198141482840 Name: Readyelm5#3886 Character: -A- readyelm5
+[08/09/2021 02:35:42] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/09/2021 02:35:42] [Info] Connecting: PlayerID: 76561198244365552 Name: r1pp Character: LUCKY
+[08/09/2021 02:35:51] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/dkit vipspec"
+[08/09/2021 02:35:59] [Info] [World] -A- readyelm5 [Readyelm5#3886]: "/tp"
+[08/09/2021 02:36:01] [Info] [World] -A- readyelm5 [Readyelm5#3886]: "/tpa"
+[08/09/2021 02:36:04] [Info] [World] -A- readyelm5 [Readyelm5#3886]: "/tpa"
+[08/09/2021 02:36:07] [Info] [World] -A- readyelm5 [Readyelm5#3886]: "/help"
+[08/09/2021 02:36:09] [Info] [World] -A- readyelm5 [Readyelm5#3886]: "/kits"
+[08/09/2021 02:36:13] [Info] [World] -A- readyelm5 [Readyelm5#3886]: "/vault"
+[08/09/2021 02:36:16] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/ckit VipSpec 86400"
+[08/09/2021 02:36:17] [Info] [World] -A- readyelm5 [Readyelm5#3886]: "/sethome"
+[08/09/2021 02:36:24] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ja é"
+[08/09/2021 02:36:25] [Info] [World] -A- readyelm5 [Readyelm5#3886]: "/tpa zmine"
+[08/09/2021 02:36:39] [Info] [World] Jhonny Duermo [Chitero KEYDROP]: "/kit"
+[08/09/2021 02:36:42] [Info] [World] Corvo [Corvo]: "kimetsu da tp aqui com o luck"
+[08/09/2021 02:36:43] [Info] [World] Jhonny Duermo [Chitero KEYDROP]: "/kits"
+[08/09/2021 02:36:46] [Info] [Area] LUCKY [r1pp]: "ja tem bastantante gente entrandio"
+[08/09/2021 02:36:51] [Info] Player finished session: 76561198141482840
+[08/09/2021 02:36:57] [Info] Disconnecting: PlayerID: 76561198141482840 Name: Readyelm5#3886 Character: -A- readyelm5
+[08/09/2021 02:36:57] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp lucky corvo"
+[08/09/2021 02:36:57] [Info] LUCKY moved x:-1723.435 y:97.60852(+58.28304) z:912.0699 in the last second (0.4139404)
+[08/09/2021 02:37:00] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp corvo"
+[08/09/2021 02:37:00] [Info] Eu kimetsu no teu rayba moved x:-1725.766 y:97.56165(+58.45933) z:909.2422 in the last second (0.4112549)
+[08/09/2021 02:37:16] [Info] [Area] LUCKY [r1pp]: "am"
+[08/09/2021 02:37:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "kkkkkk"
+[08/09/2021 02:37:22] [Info] [Area] LUCKY [r1pp]: "kkkkkkkkk"
+[08/09/2021 02:37:24] [Info] yAcE [joaogabivp1988] was blown up by a vehicle!
+[08/09/2021 02:37:29] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "saporra da re"
+[08/09/2021 02:37:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ta preula"
+[08/09/2021 02:37:38] [Info] [World] Corvo [Corvo]: "ssskkkkk"
+[08/09/2021 02:37:42] [Info] [Area] LUCKY [r1pp]: "kkkkkk entao"
+[08/09/2021 02:37:46] [Info] [World] Corvo [Corvo]: "chega a 170 km por hora"
+[08/09/2021 02:37:51] [Info] [World] Corvo [Corvo]: "testa ai"
+[08/09/2021 02:37:52] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "carai"
+[08/09/2021 02:38:24] [Info] [Area] LUCKY [r1pp]: "isso atravessa o mapa inteiroo"
+[08/09/2021 02:38:44] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ele vai na mesma velo de re"
+[08/09/2021 02:38:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ainda bem que ele nao quebra"
+[08/09/2021 02:38:53] [Info] [World] Corvo [Corvo]: "ss"
+[08/09/2021 02:38:56] [Info] [World] Corvo [Corvo]: "tem um q tem arma ainda"
+[08/09/2021 02:39:02] [Info] [World] Corvo [Corvo]: "no mapa da frança"
+[08/09/2021 02:39:12] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou começar a liberar os comandos"
+[08/09/2021 02:39:18] [Info] [World] LUCKY [r1pp]: "blz"
+[08/09/2021 02:39:20] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ja volto"
+[08/09/2021 02:39:24] [Info] Player finished session: 76561199095881668
+[08/09/2021 02:39:35] [Info] Disconnecting: PlayerID: 76561199095881668 Name: Chitero KEYDROP Character: Jhonny Duermo
+[08/09/2021 02:39:35] [Info] Player finished session: 76561199187791115
+[08/09/2021 02:41:37] [Info] Disconnecting: PlayerID: 76561199187791115 Name: franco2012101 Character: franco2012101
+[08/09/2021 02:41:37] [Info] Player finished session: 76561198244365552
+[08/09/2021 02:41:37] [Info] Disconnecting: PlayerID: 76561198244365552 Name: r1pp Character: LUCKY
+[08/09/2021 02:41:37] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/09/2021 02:42:18] [Info] yAcE [joaogabivp1988] was mauled by a zombie!
+[08/09/2021 02:42:43] [Info] [World] yAcE [joaogabivp1988]: "posso entrar na gang de alguem"
+[08/09/2021 02:43:38] [Info] [World] Corvo [Corvo]: "server cabou de ser criado nem tem gang formada ainda"
+[08/09/2021 02:47:20] [Info] yAcE [joaogabivp1988] bled to death!
+[08/09/2021 02:47:27] [Info] Player finished session: 76561199159539635
+[08/09/2021 02:47:49] [Info] Disconnecting: PlayerID: 76561199159539635 Name: joaogabivp1988 Character: yAcE
+[08/09/2021 02:47:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ue ddos ?"
+[08/09/2021 02:47:56] [Info] [World] Corvo [Corvo]: "o meu ta normal"
+[08/09/2021 02:48:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "entao geral saiu mesmo"
+[08/09/2021 02:48:11] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "tomei uns sustinho"
+[08/09/2021 02:48:12] [Info] [World] Corvo [Corvo]: "o luck teve q quitar"
+[08/09/2021 02:48:14] [Info] [World] Corvo [Corvo]: "ta tarde"
+[08/09/2021 02:48:18] [Info] [World] Corvo [Corvo]: "ta tarde"
+[08/09/2021 02:48:24] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "abri a log e só tinha disconnect"
+[08/09/2021 02:51:01] [Info] Connecting: PlayerID: 76561198881612138 Name: SadFace [ TF2EASY.COM ] Character: SadFace
+[08/09/2021 02:52:16] [Info] Permissions reloaded
+[08/09/2021 02:52:28] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ae"
+[08/09/2021 02:52:36] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ve se ta funcionando os comandos"
+[08/09/2021 02:52:39] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/kits"
+[08/09/2021 02:52:42] [Info] [World] Corvo [Corvo]: "/kits"
+[08/09/2021 02:52:46] [Info] [World] Corvo [Corvo]: "/tpa"
+[08/09/2021 02:52:50] [Info] [World] Corvo [Corvo]: "/home"
+[08/09/2021 02:52:57] [Info] [World] Corvo [Corvo]: "/kit inicial"
+[08/09/2021 02:53:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp corvo"
+[08/09/2021 02:53:04] [Info] Eu kimetsu no teu rayba moved x:-1447.648 y:118.2111(+20.93185) z:1495.852 in the last second (0.1000137)
+[08/09/2021 02:53:04] [Info] [World] Corvo [Corvo]: "ss"
+[08/09/2021 02:53:08] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "chave"
+[08/09/2021 02:55:03] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "agora vou arrumar esses anuncios"
+[08/09/2021 02:55:04] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "pqp"
+[08/09/2021 02:55:10] [Info] [World] Corvo [Corvo]: "ok kkkkkkkkk"
+[08/09/2021 02:55:15] [Info] SadFace [SadFace [ TF2EASY.COM ]] was mauled by a zombie!
+[08/09/2021 02:59:49] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "/tp olek"
+[08/09/2021 03:01:37] [Info] SadFace [SadFace [ TF2EASY.COM ]] bled to death!
+[08/09/2021 03:02:09] [Info] Player finished session: 76561198881612138
+[08/09/2021 03:05:17] [Info] Disconnecting: PlayerID: 76561198881612138 Name: SadFace [ TF2EASY.COM ] Character: SadFace
+[08/09/2021 03:05:17] [Info] Saving server
+[08/09/2021 03:09:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "vou reiniciar aqui"
+[08/09/2021 03:09:10] [Info] [World] Corvo [Corvo]: "blz"
+[08/09/2021 03:10:27] [Info] [World] Corvo [Corvo]: "coloca tbm pras skills ficarem mesmo dps de morrer"
+[08/09/2021 03:10:50] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "ok"
+[08/09/2021 03:15:05] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "acho que consegui"
+[08/09/2021 03:15:13] [Info] [World] Eu kimetsu no teu rayba [Eu kimetsu no teu rayba]: "pode reiniciar ?"
+[08/09/2021 03:15:19] [Info] [World] Corvo [Corvo]: "pode"
+[08/09/2021 03:15:41] [Info] 
+[unloading] MaxPlayer

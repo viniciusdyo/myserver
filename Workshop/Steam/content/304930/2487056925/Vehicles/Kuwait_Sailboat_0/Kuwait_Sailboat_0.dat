@@ -1,0 +1,46 @@
+GUID f8f109161a2f40b28458206d31e8f077
+Type Vehicle
+Rarity Rare
+ID 5011
+
+Speed_Min -8
+Speed_Max 24
+
+Steer_Min 64
+Steer_Max 128
+
+Fuel_Min 1500
+Fuel_Max 1500
+Fuel 1500
+
+Health_Min 525
+Health_Max 650
+Health 750
+
+Exit 1.25
+
+Explosion_Min_Force_X 0
+Explosion_Min_Force_Y 0
+Explosion_Min_Force_Z 0
+Explosion_Max_Force_X 0
+Explosion_Max_Force_Y 0
+Explosion_Max_Force_Z 0
+
+Cam_Follow_Distance 16
+
+ShouldExplosionCauseDamage False
+ShouldExplosionBurnMaterials False
+
+Explosion 5256
+
+Stamina_Boost .8
+Stamina_Powered
+
+Engine Boat
+
+Can_Be_Locked False
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 5
+
+Asset_Bundle_Version 3

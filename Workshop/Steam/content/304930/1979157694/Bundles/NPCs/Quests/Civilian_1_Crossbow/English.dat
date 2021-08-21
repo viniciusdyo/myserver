@@ -1,0 +1,8 @@
+Name <color=uncommon>Crossbow Enthusiast</color>
+Description <color=uncommon>Kevin</color> thinks you are ready to wield a unique crossbow. Collect the materials he requires to assemble one.
+
+Condition_0 <color=uncommon>Broken Hawkhound</color> {0}/1
+Condition_1 <color=rare>Dandy Leaf Spring</color> {0}/1
+Condition_2 <color=epic>Exquisite Fishing Rod</color> {0}/1
+Condition_3 <color=rare>Fine Metal Beam</color> {0}/1
+Condition_4 <color=legendary>Perfect Mahogany Plank</color> {0}/1

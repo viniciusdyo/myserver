@@ -1,0 +1,8 @@
+Name <color=legendary>Heavy Weapons</color>
+Description <color=rare>Corporal Matthieu</color> wants some new equipment for his machines allowing him to make advanced guns. He also wants you to find all the weapon blueprints you can. Search construction sites and garages for the machine equipment and search locations where certain guns spawn.
+
+Condition_0 <color=rare>Weapon Blueprints</color> {0}/11
+Condition_1 <color=legendary>Calipers</color> {0}/1
+Condition_2 <color=legendary>Depth Gauge</color> {0}/1
+Condition_3 <color=legendary>Four-Jaw Chuck</color> {0}/1
+Condition_4 <color=legendary>Precision Cutters</color> {0}/1

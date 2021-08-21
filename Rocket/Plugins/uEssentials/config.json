@@ -1,0 +1,112 @@
+{
+  "Locale": "pt-br",
+  "PrivateMessage": {
+    "FormatFrom": "(From {0}): {1}",
+    "FormatTo": "(To {0}): {1}",
+    "FormatSpy": "<gray>Spy: {0} -> {1}: {2}",
+    "ConsoleDisplayName": "*console*"
+  },
+  "OldFormatMessages": false,
+  "UnfreezeOnDeath": true,
+  "UnfreezeOnQuit": true,
+  "EnableTextCommands": true,
+  "EnableDeathMessages": true,
+  "EnableJoinLeaveMessage": true,
+  "ShowPermissionOnErrorMessage": true,
+  "SaveCommandCooldowns": false,
+  "EnablePollRunningMessage": true,
+  "PollRunningMessageCooldown": 20,
+  "ServerFrameRate": -1,
+  "BackDelay": 10,
+  "ItemSpawnLimit": 10,
+  "AntiSpam": {
+    "Enabled": true,
+    "Interval": 3
+  },
+  "Updater": {
+    "CheckUpdates": false,
+    "AlertOnJoin": false
+  },
+  "Home": {
+    "TeleportDelay": 15,
+    "CancelTeleportWhenMove": true
+  },
+  "Warp": {
+    "TeleportDelay": 15,
+    "CancelTeleportWhenMove": false,
+    "PerWarpPermission": true
+  },
+  "VehicleFeatures": {
+    "RefuelPercentage": 20,
+    "RepairPercentage": 70
+  },
+  "ItemFeatures": {
+    "ReloadPercentage": 80,
+    "RepairPercentage": 80
+  },
+  "Kit": {
+    "ShowCost": true,
+    "ShowCostIfZero": false,
+    "CostFormat": "{0}({1}{2})",
+    "GlobalCooldown": 0,
+    "ResetGlobalCooldownWhenDie": false
+  },
+  "Tpa": {
+    "CancelTeleportWhenMove": true,
+    "ExpireDelay": 15,
+    "TeleportDelay": 15
+  },
+  "Economy": {
+    "UseXp": false,
+    "XpCurrency": "Xp",
+    "UconomyCurrency": "$"
+  },
+  "AutoAnnouncer": {
+    "lastindex": 0,
+    "Messages": [
+{
+    "Text":"<color=red><b>[Avisos]</b></color><color=green><b>Entre no nosso Discord para ganhar kit, acessar informações e tirar suas dúvidas.</b></color>",
+    "Icon":"https://cdn.discordapp.com/attachments/873630187370192926/873994726087462912/rinha-de-galo.png"
+},
+{
+    "Text":"<color=red><b>[Avisos]</b></color><color=green><b>É proibido a construção em área de loot, sujeito a punições.</b></color>",
+    "Icon":"https://cdn.discordapp.com/attachments/873630187370192926/873994726087462912/rinha-de-galo.png"
+},
+{
+    "Text":"<color=red><b>[Avisos]</b></color><color=green><b>Divulgue nosso servidor, eventos ocorrem sempre que o servidor está cheio.</b></color>",
+    "Icon":"https://cdn.discordapp.com/attachments/873630187370192926/873994726087462912/rinha-de-galo.png"
+}
+    ],
+    "Interval": 120,
+    "Enabled": true
+  },
+  "AutoCommands": {
+    "Commands": [
+      {
+        "RunOnce": false,
+        "Timer": 120,
+        "Commands": [
+          "say \"Be sure to drink your Ovaltine!\" 0 255 255",
+          "item * glue"
+        ]
+      },
+      {
+        "RunOnce": false,
+        "Timer": 900,
+        "Commands": [
+          "clear v",
+          "respawnvehicles"
+        ]
+      }
+    ],
+    "Enabled": false
+  },
+  "GiveItemBlacklist": [],
+  "VehicleBlacklist": [],
+  "EnabledSystems": [
+    "kits",
+    "warps"
+  ],
+  "CommandsToOverride": [],
+  "DisabledCommands": []
+}

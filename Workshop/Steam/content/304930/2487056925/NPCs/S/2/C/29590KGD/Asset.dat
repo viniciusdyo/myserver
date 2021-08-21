@@ -1,0 +1,30 @@
+GUID 7f44bb43184c43f99cdb54d2f6804b3a
+Type NPC
+ID 29590
+
+Hat 966 
+Shirt 933
+Pants 930
+Vest 932
+
+Face 25
+Hair 18
+Beard 1
+Color_Skin #B8886B
+Color_Hair #191919
+
+Primary 5088
+Tertiary 1377
+
+Equipped Tertiary
+
+Pose Crouch
+Pose_Head_Offset 0.1
+
+Dialogue 29591
+
+Conditions 1
+Condition_0_Type Flag_Bool
+Condition_0_ID 29320
+Condition_0_Value True
+Condition_0_Logic Equal

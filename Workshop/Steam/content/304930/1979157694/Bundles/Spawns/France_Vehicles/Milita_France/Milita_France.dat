@@ -1,0 +1,14 @@
+GUID e1397557e8e5467fbd3eb8c917331c14
+Type Spawn
+ID 2052
+Tables 5
+Table_0_Spawn_ID 2037
+Table_0_Weight 100
+Table_1_Spawn_ID 2034
+Table_1_Weight 50
+Table_2_Spawn_ID 2035
+Table_2_Weight 10
+Table_3_Asset_ID 738
+Table_3_Weight 5
+Table_4_Asset_ID 739
+Table_4_Weight 5

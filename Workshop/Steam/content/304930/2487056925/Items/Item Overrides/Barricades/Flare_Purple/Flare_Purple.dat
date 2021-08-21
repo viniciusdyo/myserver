@@ -1,0 +1,27 @@
+GUID f0f70f85c6944fbc89269eec7f9ede0b
+Type Barricade
+Useable Barricade
+Build Torch
+ID 5775
+
+Size_X 1
+Size_Y 2
+Size_Z 0.6
+
+Health 50
+Range 4
+Offset 0.2
+
+Explosion 36
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 258
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+Blueprint_0_Map Kuwait
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Flare_Purple

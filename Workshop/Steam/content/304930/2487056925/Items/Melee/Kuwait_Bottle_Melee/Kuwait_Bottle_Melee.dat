@@ -1,0 +1,44 @@
+GUID b08c08bffe434be88336dd9f2cca30e6
+Type Melee
+Rarity Uncommon
+Useable Melee
+Slot Secondary
+ID 5132
+
+Size_X 1
+Size_Y 2
+Size_Z 1
+
+Range 1.5
+Strength 1.5
+Stamina 20
+
+Player_Damage 33
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 55
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 15
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 1
+Structure_Damage 1
+Vehicle_Damage 1
+Resource_Damage 5
+Object_Damage 2
+
+Durability 1
+Wear 20
+Quality_Min 100
+Quality_Max 100
+
+Should_Delete_At_Zero_Quality True

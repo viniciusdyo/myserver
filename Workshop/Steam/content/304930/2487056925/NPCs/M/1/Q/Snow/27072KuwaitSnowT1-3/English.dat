@@ -1,0 +1,5 @@
+Name <color=#b8b188>Concord: </color><color=rare>Weapon Run</color>
+Description <color=legendary>Brigadier General Snow</color><br>Get some weapons so the armory is well stocked.
+
+Condition_0 Find <color=uncommon>Colonizer</color> {0}/1
+Condition_1 Find full <color=uncommon>Colonizer Clips</color> {0}/1

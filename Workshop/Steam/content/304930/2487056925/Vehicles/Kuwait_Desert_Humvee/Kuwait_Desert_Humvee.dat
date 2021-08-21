@@ -1,0 +1,38 @@
+GUID 284ab9cd367a40dcb2661741c3115228
+Type Vehicle
+Rarity Rare
+ID 5036
+
+Speed_Min -6
+Speed_Max 10
+
+Steer_Min 12
+Steer_Max 24
+
+Brake 40
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2600
+
+Health_Min 550
+Health_Max 750
+Health 900
+
+Traction
+Invulnerable
+Tires_Invulnerable
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 4
+
+Explosion 20
+
+Physics_Profile 0be1cede92404d57999e4a848fc8f996
+
+Valid_Speed_Horizontal 130
+
+ShouldExplosionCauseDamage True
+ShouldExplosionBurnMaterials True
+
+Asset_Bundle_Version 3

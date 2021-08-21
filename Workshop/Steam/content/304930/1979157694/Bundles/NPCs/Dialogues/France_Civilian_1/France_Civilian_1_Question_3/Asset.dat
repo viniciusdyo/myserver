@@ -1,0 +1,46 @@
+GUID 4d54ac49fc34434397eb54c3bcc45afc
+Type Dialogue
+ID 4171
+
+Messages 2
+Message_0_Pages 3
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 4018
+Message_0_Condition_0_Value 1
+Message_0_Condition_0_Logic Greater_Than_Or_Equal_To
+
+Message_1_Pages 2
+Message_1_Prev 4168
+
+Responses 2
+
+// I'm ready
+Response_0_Dialogue 4179
+Response_0_Quest 4173
+Response_0_Rewards 6
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 4173
+Response_0_Reward_0_Status Active
+Response_0_Reward_1_Type Flag_Bool
+Response_0_Reward_1_ID 4174
+Response_0_Reward_1_Value False
+Response_0_Reward_2_Type Flag_Bool
+Response_0_Reward_2_ID 4175
+Response_0_Reward_2_Value False	
+Response_0_Reward_3_Type Flag_Bool
+Response_0_Reward_3_ID 4176
+Response_0_Reward_3_Value False
+Response_0_Reward_4_Type Flag_Bool
+Response_0_Reward_4_ID 4177
+Response_0_Reward_4_Value False
+Response_0_Reward_5_Type Flag_Bool
+Response_0_Reward_5_ID 4178
+Response_0_Reward_5_Value False
+Response_0_Messages 1
+Response_0_Message_0 0
+
+// Later
+Response_1_Dialogue 4167
+Response_1_Messages 1
+Response_1_Message_0 0

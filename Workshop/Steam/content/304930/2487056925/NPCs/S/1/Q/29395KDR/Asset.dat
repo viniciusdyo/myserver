@@ -1,0 +1,23 @@
+GUID dfd6ba6768b5429d9036686c6865ed17
+Type Quest
+ID 29395
+
+Conditions 2
+Condition_0_Type Item
+Condition_0_ID 5702
+Condition_0_Amount 1
+Condition_0_Reset
+Condition_1_Type Item
+Condition_1_ID 5673
+Condition_1_Amount 1
+Condition_1_Reset
+
+Rewards 3
+Reward_0_Type Experience
+Reward_0_Value 50
+Reward_1_Type Reputation
+Reward_1_Value 5
+Reward_2_Type Flag_Short
+Reward_2_ID 29300
+Reward_2_Value 1
+Reward_2_Modification Increment
